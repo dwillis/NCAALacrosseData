@@ -1,0 +1,18 @@
+date,team,opponent,home_away,result,home_score,visitor_score,overtime,fouls,gs,goals,assists,points,shots,sog,ground_balls,turnovers,ct,f_os_won,f_os_taken,g_min,goals_allowed,saves,w,l,freepos_shots,freepos_goals,rc,yc,draw_controls,clears,clr_att,defensive_fouls,defensive_gs,defensive_goals,defensive_assists,defensive_points,defensive_shots,defensive_sog,defensive_ground_balls,defensive_turnovers,defensive_ct,defensive_f_os_won,defensive_f_os_taken,defensive_g_min,defensive_goals_allowed,defensive_saves,defensive_w,defensive_l,defensive_freepos_shots,defensive_freepos_goals,defensive_rc,defensive_yc,defensive_draw_controls,defensive_clears,defensive_clr_att
+2022-02-13,Akron Zips,St. Bonaventure,Home,NA,6,5,NA,14,0,6,4,10,29,19,17,17,12,0,0,NA,5,8,0,0,6,1,0,0,7,15,16,19,0,5,5,10,19,13,10,20,8,0,0,NA,6,13,0,0,2,0,0,1,8,15,21
+2022-02-18,Akron Zips,Wofford,Away,NA,9,14,NA,21,0,9,1,10,28,20,24,19,8,0,0,NA,14,6,0,0,4,3,0,0,16,14,17,15,0,14,8,22,30,20,30,19,9,0,0,NA,9,11,0,0,8,4,0,0,11,20,25
+2022-02-20,Akron Zips,Gardner-Webb,Away,NA,7,17,NA,23,0,7,3,10,19,15,24,24,9,0,0,NA,17,10,0,0,5,2,0,4,8,13,20,18,0,17,7,24,37,27,36,21,12,0,0,NA,7,8,0,0,10,1,0,3,20,14,17
+2022-02-23,Akron Zips,Kent St.,Home,NA,11,6,NA,13,0,11,1,12,26,25,30,14,15,0,0,NA,6,16,0,0,8,5,0,4,12,17,17,10,0,6,1,7,30,22,29,17,9,0,0,NA,11,14,0,0,6,1,0,1,9,14,15
+2022-02-27,Akron Zips,Saint Francis (PA),Home,NA,6,10,NA,18,0,6,0,6,30,22,25,15,14,0,0,NA,10,8,0,0,6,2,0,1,8,11,11,15,0,10,6,16,21,18,22,22,10,0,0,NA,6,16,0,0,3,1,0,1,11,17,17
+2022-03-03,Akron Zips,Youngstown St.,Away,NA,11,12,1,13,0,11,3,14,22,20,19,26,5,0,0,NA,12,10,0,0,2,1,0,3,15,23,30,10,0,12,8,20,32,22,27,25,14,0,0,NA,11,9,0,0,6,3,0,2,12,21,27
+2022-03-06,Akron Zips,Cincinnati,Home,NA,5,17,NA,27,0,5,0,5,14,13,22,16,8,0,0,NA,17,15,0,0,10,5,0,3,9,6,9,25,0,17,8,25,37,32,32,9,12,0,0,NA,5,8,0,0,11,5,0,2,16,10,10
+2022-03-09,Akron Zips,Robert Morris,Home,NA,6,10,NA,22,0,6,4,10,26,18,32,14,13,0,0,NA,10,9,0,0,4,1,0,6,10,11,12,18,0,10,3,13,25,19,30,21,9,0,0,NA,6,12,0,0,5,1,0,3,10,8,10
+2022-03-16,Akron Zips,Detroit Mercy,Away,NA,12,15,NA,10,0,12,8,20,24,17,18,21,6,0,0,NA,15,9,0,0,3,3,0,4,16,12,18,11,0,15,12,27,31,24,21,15,7,0,0,NA,12,5,0,0,4,1,0,4,14,16,17
+2022-03-20,Akron Zips,Radford,Home,NA,6,8,NA,14,0,6,1,7,31,24,26,20,11,0,0,NA,8,7,0,0,7,1,0,1,15,13,15,18,0,8,3,11,22,15,30,22,15,0,0,NA,6,18,0,0,6,4,0,2,3,16,20
+2022-03-23,Akron Zips,Central Mich.,Away,NA,7,13,NA,14,0,7,1,8,15,11,13,24,6,0,0,NA,13,9,0,0,1,1,0,2,12,13,16,3,0,13,5,18,37,22,30,11,19,0,0,NA,7,4,0,0,6,2,0,0,12,19,19
+2022-03-28,Akron Zips,Pittsburgh,Away,NA,6,18,NA,16,0,6,2,8,17,12,18,28,6,0,0,NA,18,7,0,0,3,2,0,0,17,11,19,27,0,18,11,29,31,25,28,19,17,0,0,NA,6,6,0,0,7,3,0,0,10,24,27
+2022-04-02,Akron Zips,Kent St.,Away,NA,9,10,NA,11,0,9,3,12,31,21,16,22,7,0,0,NA,10,13,0,0,4,0,0,2,13,17,21,8,0,10,7,17,32,23,19,19,8,0,0,NA,9,12,0,0,3,1,0,1,9,17,21
+2022-04-09,Akron Zips,Youngstown St.,Home,NA,14,17,NA,11,0,14,3,17,30,23,27,26,10,0,0,NA,17,8,0,0,5,1,0,3,27,13,15,20,0,17,9,26,35,25,30,15,19,0,0,NA,14,9,0,0,8,3,0,5,8,10,13
+2022-04-16,Akron Zips,Robert Morris,Away,NA,4,12,NA,36,0,4,0,4,16,11,18,27,11,0,0,NA,12,13,0,0,6,2,0,0,10,18,28,34,0,12,6,18,36,25,31,22,18,0,0,NA,4,7,0,0,9,5,0,0,10,23,25
+2022-04-23,Akron Zips,Detroit Mercy,Home,NA,8,14,NA,19,0,8,2,10,26,20,20,16,11,0,0,NA,14,11,0,0,6,2,0,2,13,9,10,13,0,14,10,24,32,25,26,18,11,0,0,NA,8,12,0,0,8,2,0,4,13,14,14
+2022-04-30,Akron Zips,Central Mich.,Home,NA,10,19,NA,5,0,10,1,11,25,16,28,13,11,0,0,NA,19,4,0,0,7,2,0,3,12,6,7,12,0,19,9,28,30,23,27,17,8,0,0,NA,10,6,0,0,3,2,0,2,19,12,14
