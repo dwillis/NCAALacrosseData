@@ -3,7 +3,7 @@ library(lubridate)
 library(rvest)
 library(janitor)
 
-urls <- read_csv("url_csvs/ncaa_womens_lacrosse_teamurls_2022.csv") %>% pull(3)
+urls <- read_csv("url_csvs/ncaa_mens_lacrosse_teamurls_2022.csv") %>% pull(3)
 
 season = "2022"
 
@@ -11,9 +11,9 @@ root_url <- "https://stats.ncaa.org"
 
 matchstatstibble = tibble()
 
-matchstatsfilename <- paste0("data/ncaa_womens_lacrosse_matchstats_", season, ".csv")
+matchstatsfilename <- paste0("data/ncaa_mens_lacrosse_matchstats_", season, ".csv")
 
-for (i in urls[[1]]){
+for (i in urls){
   
   schoolpage <- i %>% read_html()
   
@@ -37,7 +37,7 @@ for (i in urls[[1]]){
     select(date, team, opponent, home_away, result, home_score, visitor_score, overtime, everything()) %>% 
     clean_names() %>% 
     mutate_at(vars(-date, -opponent, -home_away, -result, -team), ~str_replace(., "/", "")) %>% 
-    mutate_at(vars(-date, -team, -opponent, -home_away, -result, -overtime), as.numeric)
+    mutate_at(vars(-date, -team, -opponent, -home_away, -result, -overtime, -g_min), as.numeric)
   
   teamside <- matches %>% filter(opponent != "Defensive Totals")
   
