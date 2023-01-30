@@ -19,19 +19,23 @@ for (i in urls){
   
   schoolfull <- schoolpage %>% html_nodes(xpath = '//*[@id="contentarea"]/fieldset[1]/legend/a[1]') %>% html_text()
   
-  matches <- schoolpage %>% html_nodes(xpath = '//*[@id="game_breakdown_div"]/table') %>% html_table(fill=TRUE)
+  matches <- schoolpage %>% html_nodes(xpath = '//*[@id="game_breakdown_div"]/table') %>% html_table()
   
+  # doesn't handle postponed games right now (Hobart has one)
+  # doesn't retain W/L, need to calculate that from score.
+
   matches <- matches[[1]] %>% slice(3:n()) %>% row_to_names(row_number = 1) %>% clean_names() %>% 
     remove_empty(which = c("cols")) %>% 
     mutate_all(na_if,"") %>% 
     fill(c(date, result)) %>% 
     mutate_at(vars(5:26),  replace_na, '0') %>% 
     mutate(date = mdy(date), home_away = case_when(grepl("@",opponent) ~ "Away", TRUE ~ "Home"), opponent = gsub("@ ","",opponent)) %>%
-    mutate(WinLoss = case_when(grepl("L", result) ~ "Loss", grepl("W", result) ~ "Win", grepl("T", result) ~ "Draw"), 
-           result = gsub("L ", "", result), result = gsub("W ", "", result), result = gsub("T ", "", result)) %>% 
+#    mutate(WinLoss = case_when(grepl("L", result) ~ "Loss", grepl("W", result) ~ "Win", grepl("T", result) ~ "Draw"), 
+#           result = gsub("L ", "", result), result = gsub("W ", "", result), result = gsub("T ", "", result)) %>% 
     separate(result, into=c("score", "overtime"), sep = " \\(") %>% 
     separate(score, into=c("home_score", "visitor_score")) %>% 
-    rename(result = WinLoss) %>% 
+#    rename(result = WinLoss) %>% 
+    mutate(result = is.character(NA)) %>% # placeholder for now
     mutate(team = schoolfull) %>% 
     mutate(overtime = gsub(")", "", overtime)) %>% 
     select(date, team, opponent, home_away, result, home_score, visitor_score, overtime, everything()) %>% 
