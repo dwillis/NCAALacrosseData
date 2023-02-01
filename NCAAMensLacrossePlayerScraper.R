@@ -3,8 +3,8 @@ library(lubridate)
 library(rvest)
 library(janitor)
 
-urls <- read_csv("url_csvs/ncaa_mens_lacrosse_teamurls_2022.csv") %>% pull(2)
-season = "2022"
+urls <- read_csv("url_csvs/ncaa_mens_lacrosse_teamurls_2020.csv") %>% pull(2)
+season = "2020"
 
 root_url <- "https://stats.ncaa.org"
 playerstatstibble = tibble()
@@ -15,7 +15,11 @@ for (i in urls){
   
   schoolpage <- i %>% read_html()
   
-  schoolfull <- schoolpage %>% html_nodes(xpath = '//*[@id="contentarea"]/fieldset[1]/legend/a[1]') %>% html_text()
+  if (i == "https://stats.ncaa.org/team/282/stats/15203") { # special case for Hobart in 2019-20
+    schoolfull = 'Hobart Statesmen'
+  } else {
+    schoolfull <- schoolpage %>% html_nodes(xpath = '//*[@id="contentarea"]/fieldset[1]/legend/a[1]') %>% html_text()
+  }
   
   player_ids <- schoolpage %>% html_nodes(xpath = '//*[@id="stat_grid"]') %>% html_nodes("a") %>% html_attr("href") %>% as_tibble() %>% rename(path = value)
   
