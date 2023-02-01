@@ -3,8 +3,8 @@ library(lubridate)
 library(rvest)
 library(janitor)
 
-urls <- read_csv("url_csvs/ncaa_mens_lacrosse_teamurls_2020.csv") %>% pull(2)
-season = "2020"
+urls <- read_csv("url_csvs/ncaa_mens_lacrosse_teamurls_2022.csv") %>% pull(2)
+season = "2022"
 
 root_url <- "https://stats.ncaa.org"
 playerstatstibble = tibble()
