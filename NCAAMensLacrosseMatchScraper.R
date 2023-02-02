@@ -3,9 +3,9 @@ library(lubridate)
 library(rvest)
 library(janitor)
 
-urls <- read_csv("url_csvs/ncaa_mens_lacrosse_teamurls_2022.csv") %>% pull(3)
+urls <- read_csv("url_csvs/ncaa_mens_lacrosse_teamurls_2020.csv") %>% pull(3)
 
-season = "2022"
+season = "2020"
 
 root_url <- "https://stats.ncaa.org"
 
@@ -17,7 +17,17 @@ for (i in urls){
   
   schoolpage <- i %>% read_html()
   
-  schoolfull <- schoolpage %>% html_nodes(xpath = '//*[@id="contentarea"]/fieldset[1]/legend/a[1]') %>% html_text()
+  if (str_detect(i, "org_id=282")) { # special case for Hobart
+    schoolfull = 'Hobart Statesmen'
+  } else {
+    schoolfull <- schoolpage %>% html_nodes(xpath = '//*[@id="contentarea"]/fieldset[1]/legend/a[1]') %>% html_text()
+  }
+  
+  message <- paste0("Adding ", schoolfull)
+  
+  print(message)
+  
+  schoolpage %>% html_nodes(xpath = '/html/body/div[2]/fieldset[1]/legend/a[1]') %>% html_text()
   
   matches <- schoolpage %>% html_nodes(xpath = '//*[@id="game_breakdown_div"]/table') %>% html_table()
   
@@ -52,9 +62,6 @@ for (i in urls){
   tryCatch(matchstatstibble <- bind_rows(matchstatstibble, joinedmatches),
            error = function(e){NA})
   
-  message <- paste0("Adding ", schoolfull)
-  
-  print(message)
   
   Sys.sleep(2)
 }
