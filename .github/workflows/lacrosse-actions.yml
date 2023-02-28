@@ -32,8 +32,12 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-renv-
 
-      - name: Generate data # Run the script
+      - name: Update match data # Run the script
         run: source("NCAAMensLacrosseMatchScraper.R")
+        shell: Rscript {0}
+
+      - name: Update player data # Run the script
+        run: source("NCAAMensLacrossePlayerScraper.R")
         shell: Rscript {0}
 
       - name: Commit files # Commit changes
