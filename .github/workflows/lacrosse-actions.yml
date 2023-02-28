@@ -1,5 +1,6 @@
 name: Update-data
 on:
+  push:
   schedule:
     - cron: "13 0 */2 * *" # Every two days at 12:13 AM
 
