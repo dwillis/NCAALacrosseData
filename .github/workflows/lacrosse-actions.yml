@@ -34,7 +34,6 @@ jobs:
           install.packages('lubridate')
           install.packages('rvest')
           install.packages('janitor')
-          renv::restore()
         shell: Rscript {0}
 
       - name: Generate data # Run the script
