@@ -32,14 +32,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-renv-
 
-      - name: Install dependencies # Install the dependencies eg. Dplyr, tidyverse etc
-        run: |
-          install.packages('tidyverse')
-          install.packages('lubridate')
-          install.packages('rvest')
-          install.packages('janitor')
-        shell: Rscript {0}
-
       - name: Generate data # Run the script
         run: source("NCAAMensLacrosseMatchScraper.R")
         shell: Rscript {0}
