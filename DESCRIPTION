@@ -1,0 +1,16 @@
+Package: NCAALacrosse
+Title: Scrapes NCAA Lacrosse Data
+Version: 0.0.1
+Authors@R: person("Derek", "Willis", email = "dpwillis@umd.edu",
+  role = c("aut", "cre"))
+Description: Scrapes NCAA lacrosse data.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+
+Imports:
+    tidyverse,
+    lubridate,
+    rvest,
+    janitor
