@@ -16,6 +16,7 @@ jobs:
       - name: Setup renv # Set up R env to install packages
         run: |
           install.packages('remotes')
+          Sys.unsetenv("GITHUB_PAT")
           remotes::install_github("rstudio/renv")
         shell: Rscript {0}
 
