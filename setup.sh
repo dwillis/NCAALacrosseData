@@ -1,14 +1,14 @@
 rm -f lacrosse.db
 pip install sqlite-utils datasette
 datasette install datasette-codespaces
-sqlite-utils insert lacrosse.db matches ncaa_mens_lacrosse_matchstats_2023.csv --csv
-sqlite-utils transform lacrosse.db matches --type date REAL
+sqlite-utils insert lacrosse.db matches data/ncaa_mens_lacrosse_matchstats_2023.csv --csv
+sqlite-utils transform lacrosse.db matches --type date TEXT
 sqlite-utils transform lacrosse.db matches --type team TEXT
 sqlite-utils transform lacrosse.db matches --type opponent TEXT
 sqlite-utils transform lacrosse.db matches --type home_away TEXT
 sqlite-utils transform lacrosse.db matches --type result TEXT
 sqlite-utils transform lacrosse.db matches --type home_score integer
-sqlite-utils transform lacrosse.db matches --visitor_score integer
+sqlite-utils transform lacrosse.db matches --type visitor_score integer
 sqlite-utils transform lacrosse.db matches --type overtime integer
 sqlite-utils transform lacrosse.db matches --type g integer
 sqlite-utils transform lacrosse.db matches --type goals integer
@@ -65,7 +65,7 @@ sqlite-utils transform lacrosse.db matches --type defensive_att.y integer
 sqlite-utils transform lacrosse.db matches --type defensive_clear_pct.y integer
 sqlite-utils transform lacrosse.db matches --type defensive_otg.y integer
 
-sqlite-utils insert lacrosse.db players ncaa_mens_lacrosse_playerstats_2023.csv --csv
+sqlite-utils insert lacrosse.db players data/ncaa_mens_lacrosse_playerstats_2023.csv --csv
 sqlite-utils transform lacrosse.db players --type season TEXT
 sqlite-utils transform lacrosse.db players --type team TEXT
 sqlite-utils transform lacrosse.db players --type jersey integer
@@ -108,8 +108,6 @@ sqlite-utils transform lacrosse.db players --type att integer
 sqlite-utils transform lacrosse.db players --type clear_pct integer
 sqlite-utils transform lacrosse.db players --type otg integer
 sqlite-utils transform lacrosse.db players --type ncaa_id integer
-
-
 datasette serve lacrosse.db
 
 
