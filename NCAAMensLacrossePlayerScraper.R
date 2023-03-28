@@ -35,6 +35,8 @@ for (i in urls){
   
   playerstats <- cbind(playerstats, ncaa_id = player_ids$ncaa_id)
   
+  playerstats <- replace(playerstats, is.na(playerstats), 0) 
+  
   message <- paste0("Fetching ", schoolfull)
   
   print(message)
