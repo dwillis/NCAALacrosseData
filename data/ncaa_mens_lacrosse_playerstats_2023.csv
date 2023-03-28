@@ -1,4 +1,4 @@
-season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_2,goals,assists,points,shots,shot_pct,sog,sog_pct,gwg,man_up_g,man_down_g,gb,to,ct,fo_won,f_os_taken,fo_pct,pen,pen_time,ggp,ggs,g_min,goals_allowed,gaa,saves,save_pct,rc,yc,clears,att,clear_pct,otg,ncaa_id
+Season,team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Position,Games Played,Games Started,g,gs_2,Goals,Assists,Points,Shots,Shooting Percentage,sog,sog_pct,Game Winning Goals,Powerplay Goals,Penalty Kill Goals,Ground Balls,Turnovers,Caused Turnovers,Faceoffs Won,Faceoffs Taken,Faceoff Percentage,pen,Penalties,Goalie Games Played,Goalie Games Started,Goalie Minutes,goals_allowed,GAA,Saves,Save Percentage,rc,yc,clears,att,clear_pct,otg,NCAA id
 2023,Air Force Falcons,17,Chris Bardak,"Bardak, Chris",Chris,Bardak,Jr,D,9,1,9,1,1,2,3,6,0.167,4,0.667,1,NA,NA,22,NA,15,5,17,0.294,6,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2473182
 2023,Air Force Falcons,56,Wes Peene,"Peene, Wes",Wes,Peene,So,M,9,8,9,8,11,6,17,33,0.333,16,0.485,NA,1,NA,9,13,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2663465
 2023,Air Force Falcons,10,Josh Yago,"Yago, Josh",Josh,Yago,So,ATT,9,8,9,8,11,9,20,54,0.204,24,0.444,1,NA,NA,13,18,3,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2663449
@@ -109,7 +109,7 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Bellarmine Knights,77,Jesse Roth,"Roth, Jesse",Jesse,Roth,Sr,M,8,2,8,2,4,5,9,19,0.211,12,0.632,1,NA,NA,7,4,2,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2332062
 2023,Bellarmine Knights,25,Wilson Murphree,"Murphree, Wilson",Wilson,Murphree,Jr,M,8,0,8,NA,5,1,6,13,0.385,8,0.615,NA,NA,NA,7,3,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2481127
 2023,Bellarmine Knights,66,Pat Anderson,"Anderson, Pat",Pat,Anderson,Sr,M,8,0,8,NA,4,6,10,17,0.235,10,0.588,NA,NA,NA,5,6,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2333368
-2023,Bellarmine Knights,28,Christian DellaRocco,"DellaRocco, Christian",Christian,DellaRocco,Jr,ATT,8,8,8,8,23,5,28,55,0.418,34,0.618,2,NA,NA,6,11,4,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2475375
+2023,Bellarmine Knights,28,Christian DellaRocco,"DellaRocco, Christian",Christian,DellaRocco,Jr,ATT,8,8,8,8,23,6,29,55,0.418,34,0.618,2,NA,NA,6,11,4,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2475375
 2023,Bellarmine Knights,5,Tayo Oladunmoye,"Oladunmoye, Tayo",Tayo,Oladunmoye,Jr,M,8,8,8,8,6,3,9,29,0.207,16,0.552,NA,1,NA,7,10,1,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2475377
 2023,Bellarmine Knights,52,Kyle Playsted,"Playsted, Kyle",Kyle,Playsted,Jr,ATT,8,7,8,7,19,21,40,42,0.452,27,0.643,NA,4,NA,7,9,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2475378
 2023,Bellarmine Knights,10,Justin Wescoat,"Wescoat, Justin",Justin,Wescoat,So,M,8,7,8,7,5,2,7,38,0.132,13,0.342,NA,NA,NA,4,12,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653802
@@ -118,7 +118,7 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Bellarmine Knights,51,Lukas Sinon,"Sinon, Lukas",Lukas,Sinon,Jr,M,7,0,7,NA,3,1,4,11,0.273,7,0.636,1,1,NA,4,9,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2481122
 2023,Bellarmine Knights,37,Aidan Fearn,"Fearn, Aidan",Aidan,Fearn,So,FO,6,0,6,NA,1,2,3,4,0.25,2,0.5,NA,NA,NA,20,3,NA,45,84,0.536,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653790
 2023,Bellarmine Knights,23,John Alie,"Alie, John",John,Alie,Fr,ATT,6,0,6,NA,4,NA,4,7,0.571,7,1,NA,NA,2,2,1,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2802776
-2023,Bellarmine Knights,27,Jack Love,"Love, Jack",Jack,Love,Fr,LSM,5,0,5,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,0,NA,1,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2802816
+2023,Bellarmine Knights,27,Jack Love,"Love, Jack",Jack,Love,Fr,LSM,5,0,5,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,0,NA,1,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2802816
 2023,Bellarmine Knights,34,Nick Ferge,"Ferge, Nick",Nick,Ferge,Fr,LSM,5,0,5,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2802807
 2023,Bellarmine Knights,7,Jack Cunningham,"Cunningham, Jack",Jack,Cunningham,Jr,M,4,0,4,NA,NA,NA,0,2,NA,2,1,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2488121
 2023,Bellarmine Knights,13,Brandon Boyle,"Boyle, Brandon",Brandon,Boyle,Fr,ATT,4,0,4,NA,NA,1,1,1,NA,1,1,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2802799
@@ -184,9 +184,9 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Boston U. Terriers,46,Dane DeGoler,"DeGoler, Dane",Dane,DeGoler,Jr,DM,8,7,8,7,2,NA,2,3,0.667,2,0.667,NA,NA,NA,23,3,12,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2494136
 2023,Boston U. Terriers,12,Zach Travaglini,"Travaglini, Zach",Zach,Travaglini,So,ATT,8,6,8,6,3,4,7,22,0.136,10,0.455,1,NA,NA,5,4,1,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2674106
 2023,Boston U. Terriers,77,Patrick Morrison,"Morrison, Patrick",Patrick,Morrison,Sr,D,8,8,8,8,NA,NA,0,2,NA,NA,NA,NA,NA,NA,25,7,15,NA,0,NA,2,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2332884
-2023,Boston U. Terriers,55,Roy Meyer,"Meyer, Roy",Roy,Meyer,Sr,DM,8,0,8,NA,2,NA,2,5,0.4,5,1,NA,NA,NA,43,8,14,NA,0,NA,3,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2332878
+2023,Boston U. Terriers,55,Roy Meyer,"Meyer, Roy",Roy,Meyer,Sr,DM,8,0,8,NA,2,NA,2,5,0.4,5,1,NA,NA,NA,43,8,16,NA,0,NA,3,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2332878
 2023,Boston U. Terriers,33,Matt Hilburn,"Hilburn, Matt",Matt,Hilburn,Sr,ATT,8,0,8,NA,4,3,7,10,0.4,8,0.8,NA,NA,NA,5,6,1,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2128004
-2023,Boston U. Terriers,41,Matt Garber,"Garber, Matt",Matt,Garber,Sr,GK,8,8,8,8,NA,1,1,NA,NA,NA,NA,NA,NA,NA,11,6,1,NA,0,NA,NA,NA,8,8,461:24,85,11.053,69,0.448,NA,NA,NA,NA,NA,NA,2128022
+2023,Boston U. Terriers,41,Matt Garber,"Garber, Matt",Matt,Garber,Sr,GK,8,8,8,8,NA,1,1,NA,NA,NA,NA,NA,NA,NA,11,6,1,NA,0,NA,NA,NA,8,8,460:50,85,11.067,69,0.448,NA,NA,NA,NA,NA,NA,2128022
 2023,Boston U. Terriers,22,Jimmy O'Connell,"O'Connell, Jimmy",Jimmy,O'Connell,So,ATT,8,1,8,1,1,5,6,3,0.333,1,0.333,NA,NA,NA,3,2,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2674116
 2023,Boston U. Terriers,37,Benjamin Ferrara,"Ferrara, Benjamin",Benjamin,Ferrara,So,FO,8,0,8,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,10,3,1,17,46,0.37,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2675002
 2023,Boston U. Terriers,6,Conor Calderone,"Calderone, Conor",Conor,Calderone,Sr,FO,8,0,8,NA,NA,NA,0,2,NA,NA,NA,NA,NA,NA,48,7,NA,101,160,0.631,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2321658
@@ -275,7 +275,7 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Bryant Bulldogs,1,Connor McMahon,"McMahon, Connor",Connor,McMahon,Sr,M,8,7,8,7,6,5,11,30,0.2,13,0.433,NA,NA,NA,7,7,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2131290
 2023,Bryant Bulldogs,29,Keaton Jones,"Jones, Keaton",Keaton,Jones,Sr,,8,0,8,NA,NA,NA,0,2,NA,2,1,NA,NA,NA,7,2,3,NA,1,NA,3,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2119269
 2023,Bryant Bulldogs,2,Spencer Clark,"Clark, Spencer",Spencer,Clark,So,M,7,0,7,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,1,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2666225
-2023,Bryant Bulldogs,24,Ryan Dobrzynski,"Dobrzynski, Ryan",Ryan,Dobrzynski,Sr,,7,0,7,NA,2,NA,2,9,0.222,6,0.667,NA,NA,NA,4,4,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310582
+2023,Bryant Bulldogs,24,Ryan Dobrzynski,"Dobrzynski, Ryan",Ryan,Dobrzynski,Sr,,7,0,7,NA,2,NA,2,10,0.2,7,0.7,NA,NA,NA,4,4,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310582
 2023,Bryant Bulldogs,32,Will Ronan,"Ronan, Will",Will,Ronan,Sr,,7,0,7,NA,1,2,3,1,1,1,1,NA,NA,NA,10,1,3,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310619
 2023,Bryant Bulldogs,99,Luke Mead,"Mead, Luke",Luke,Mead,Fr,LSM,6,0,6,NA,1,NA,1,4,0.25,3,0.75,NA,NA,NA,7,2,2,NA,0,NA,1,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2805119
 2023,Bryant Bulldogs,55,Brody Rule,"Rule, Brody",Brody,Rule,Sr,,4,4,4,4,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,1,5,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310620
@@ -342,12 +342,12 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Bucknell Bison,10,Brett Callahan,"Callahan, Brett",Brett,Callahan,Jr,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2659280
 2023,Bucknell Bison,77,Owen Kovacs,"Kovacs, Owen",Owen,Kovacs,Fr,ATT,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807972
 2023,Bucknell Bison,18,George Talarico,"Talarico, George",George,Talarico,So,D,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2659362
-2023,Canisius Golden Griffins,48,Micah Hanson,"Hanson, Micah",Micah,Hanson,Fr,FO,9,0,9,NA,NA,4,4,5,NA,4,0.8,NA,NA,NA,64,10,1,116,251,0.462,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799612
+2023,Canisius Golden Griffins,48,Micah Hanson,"Hanson, Micah",Micah,Hanson,Fr,FO,9,0,9,NA,NA,4,4,5,NA,4,0.8,NA,NA,NA,71,10,1,116,251,0.462,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799612
 2023,Canisius Golden Griffins,24,Kevin Carney,"Carney, Kevin",Kevin,Carney,Fr,ATT,9,8,9,8,10,5,15,26,0.385,15,0.577,NA,NA,NA,16,5,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799603
-2023,Canisius Golden Griffins,22,Alexis Simard,"Simard, Alexis",Alexis,Simard,Fr,LSM,9,0,9,NA,1,1,2,2,0.5,2,1,NA,NA,NA,15,3,9,NA,0,NA,2,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799602
+2023,Canisius Golden Griffins,22,Alexis Simard,"Simard, Alexis",Alexis,Simard,Fr,LSM,9,0,9,NA,1,1,2,2,0.5,2,1,NA,NA,NA,16,3,9,NA,0,NA,2,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799602
 2023,Canisius Golden Griffins,6,Jaxon Fridge,"Fridge, Jaxon",Jaxon,Fridge,So,M,9,9,9,9,6,7,13,21,0.286,13,0.619,NA,NA,NA,7,9,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652008
-2023,Canisius Golden Griffins,42,Chance Cook,"Cook, Chance",Chance,Cook,So,D,9,9,9,9,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,14,3,3,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652007
-2023,Canisius Golden Griffins,20,Tommy Kunz,"Kunz, Tommy",Tommy,Kunz,So,GK,9,9,9,9,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,16,6,3,NA,0,NA,1,60,9,9,535:26,130,14.568,120,0.48,NA,NA,NA,NA,NA,NA,2652005
+2023,Canisius Golden Griffins,42,Chance Cook,"Cook, Chance",Chance,Cook,So,D,9,9,9,9,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,13,3,3,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652007
+2023,Canisius Golden Griffins,20,Tommy Kunz,"Kunz, Tommy",Tommy,Kunz,So,GK,9,9,9,9,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,14,6,3,NA,0,NA,1,60,9,9,535:26,130,14.568,120,0.48,NA,NA,NA,NA,NA,NA,2652005
 2023,Canisius Golden Griffins,8,Kayden Easter,"Easter, Kayden",Kayden,Easter,So,M,9,0,9,NA,4,NA,4,18,0.222,10,0.556,NA,NA,NA,6,5,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2651982
 2023,Canisius Golden Griffins,4,Patrick Mitchell,"Mitchell, Patrick",Patrick,Mitchell,So,M,9,0,9,NA,9,3,12,33,0.273,19,0.576,NA,3,NA,8,7,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2651981
 2023,Canisius Golden Griffins,47,Ryan Furlong,"Furlong, Ryan",Ryan,Furlong,Jr,M,9,0,9,NA,NA,NA,0,3,NA,NA,NA,NA,NA,NA,10,6,6,NA,0,NA,9,480,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2467641
@@ -366,7 +366,7 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Canisius Golden Griffins,19,Jackson Webster,"Webster, Jackson",Jackson,Webster,Jr,M,7,0,7,NA,2,NA,2,11,0.182,7,0.636,NA,2,NA,NA,2,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2467609
 2023,Canisius Golden Griffins,32,Mikey Howe,"Howe, Mikey",Mikey,Howe,So,ATT,6,0,6,NA,1,NA,1,4,0.25,4,1,NA,NA,NA,3,1,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2467613
 2023,Canisius Golden Griffins,13,Ian Owens,"Owens, Ian",Ian,Owens,Jr,M,5,0,5,NA,NA,NA,0,1,NA,1,1,NA,NA,NA,1,NA,NA,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799599
-2023,Canisius Golden Griffins,28,Connor Zilisch,"Zilisch, Connor",Connor,Zilisch,Sr,M,5,0,5,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799606
+2023,Canisius Golden Griffins,28,Connor Zilisch,"Zilisch, Connor",Connor,Zilisch,Sr,M,5,0,5,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,1,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799606
 2023,Canisius Golden Griffins,25,Devin Collins,"Collins, Devin",Devin,Collins,Fr,M,5,2,5,2,NA,NA,0,3,NA,2,0.667,NA,NA,NA,2,1,NA,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799604
 2023,Canisius Golden Griffins,33,Reed Conrey,"Conrey, Reed",Reed,Conrey,So,D,5,1,5,1,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2651987
 2023,Canisius Golden Griffins,55,Owen Scannell,"Scannell, Owen",Owen,Scannell,Fr,D,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652010
@@ -501,44 +501,44 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Cornell Big Red,36,Griffin McGovern,"McGovern, Griffin",Griffin,McGovern,Fr,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2808667
 2023,Cornell Big Red,8,Tim Graham,"Graham, Tim",Tim,Graham,Sr,FO,1,0,1,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,1,2,0.5,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2118454
 2023,Dartmouth Big Green,34,Thomas Vandenberg,"Vandenberg, Thomas",Thomas,Vandenberg,Fr,M,7,0,7,NA,NA,NA,0,2,NA,1,0.5,NA,NA,NA,8,4,3,NA,0,NA,2,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2819267
-2023,Dartmouth Big Green,42,Emmett Paradine,"Paradine, Emmett",Emmett,Paradine,Fr,M,7,6,7,6,14,7,21,34,0.412,20,0.588,1,NA,NA,8,7,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2819264
+2023,Dartmouth Big Green,42,Emmett Paradine,"Paradine, Emmett",Emmett,Paradine,Fr,M,7,6,7,6,14,7,21,34,0.412,20,0.588,1,NA,NA,8,7,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2819264
 2023,Dartmouth Big Green,28,Max LaTorre,"LaTorre, Max",Max,LaTorre,Fr,D,7,0,7,NA,NA,1,1,1,NA,1,1,NA,NA,NA,10,NA,8,NA,0,NA,2,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2819262
 2023,Dartmouth Big Green,10,Cameron Brown,"Brown, Cameron",Cameron,Brown,Fr,M,7,0,7,NA,7,NA,7,18,0.389,11,0.611,NA,NA,NA,2,5,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2819258
-2023,Dartmouth Big Green,25,Griffin O'Neil,"O'Neil, Griffin",Griffin,O'Neil,So,D,7,6,7,6,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,12,1,8,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2664428
+2023,Dartmouth Big Green,25,Griffin O'Neil,"O'Neil, Griffin",Griffin,O'Neil,So,D,7,6,7,6,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,13,1,7,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2664428
 2023,Dartmouth Big Green,23,Brandon Ventarola,"Ventarola, Brandon",Brandon,Ventarola,So,M,7,6,7,6,10,3,13,27,0.37,17,0.63,1,2,NA,7,10,2,NA,0,NA,1,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2664426
-2023,Dartmouth Big Green,17,Cam Hitchcock,"Hitchcock, Cam",Cam,Hitchcock,So,D,7,5,7,5,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,4,2,4,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2664424
+2023,Dartmouth Big Green,18,Joe Azelby,"Azelby, Joe",Joe,Azelby,So,LSM,7,0,7,NA,1,1,2,1,1,1,1,NA,NA,NA,11,2,NA,NA,0,NA,2,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2664425
+2023,Dartmouth Big Green,17,Cam Hitchcock,"Hitchcock, Cam",Cam,Hitchcock,So,D,7,5,7,5,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,4,2,3,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2664424
 2023,Dartmouth Big Green,15,Quinn Moore,"Moore, Quinn",Quinn,Moore,So,M,7,6,7,6,15,5,20,43,0.349,24,0.558,2,2,NA,16,12,3,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2664403
-2023,Dartmouth Big Green,7,Colin McGill,"McGill, Colin",Colin,McGill,So,ATT,7,7,7,7,20,11,31,51,0.392,31,0.608,2,2,NA,12,12,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2664401
+2023,Dartmouth Big Green,7,Colin McGill,"McGill, Colin",Colin,McGill,So,ATT,7,7,7,7,20,11,31,51,0.392,31,0.608,2,2,NA,13,12,3,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2664401
 2023,Dartmouth Big Green,46,Ben DiGiovanni,"DiGiovanni, Ben",Ben,DiGiovanni,Jr,M,7,0,7,NA,NA,2,2,2,NA,1,0.5,NA,NA,NA,17,5,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2528887
 2023,Dartmouth Big Green,33,Nate Davis,"Davis, Nate",Nate,Davis,Jr,ATT,7,7,7,7,12,6,18,40,0.3,27,0.675,NA,2,NA,5,5,NA,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2528884
 2023,Dartmouth Big Green,4,Peter Lapina,"Lapina, Peter",Peter,Lapina,Jr,ATT,7,1,7,1,2,6,8,19,0.105,9,0.474,NA,NA,NA,4,9,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2528881
 2023,Dartmouth Big Green,30,Andrew Johnston,"Johnston, Andrew",Andrew,Johnston,Sr,D,7,7,7,7,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,14,5,6,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310768
-2023,Dartmouth Big Green,22,Mitchell Myers,"Myers, Mitchell",Mitchell,Myers,Sr,FO,7,0,7,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,59,5,1,111,174,0.638,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310763
+2023,Dartmouth Big Green,22,Mitchell Myers,"Myers, Mitchell",Mitchell,Myers,Sr,FO,7,0,7,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,59,5,1,112,174,0.644,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310763
 2023,Dartmouth Big Green,14,Tommy Rogan,"Rogan, Tommy",Tommy,Rogan,Sr,ATT,7,4,7,4,7,6,13,21,0.333,14,0.667,NA,NA,NA,11,17,3,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310759
-2023,Dartmouth Big Green,13,Peter Rizzotti,"Rizzotti, Peter",Peter,Rizzotti,Sr,M,7,3,7,3,NA,NA,0,2,NA,2,1,NA,NA,NA,11,3,9,NA,0,NA,2,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2116269
+2023,Dartmouth Big Green,13,Peter Rizzotti,"Rizzotti, Peter",Peter,Rizzotti,Sr,M,7,3,7,3,NA,NA,0,2,NA,2,1,NA,NA,NA,13,3,10,NA,0,NA,2,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2116269
 2023,Dartmouth Big Green,16,Hopper Zappitello,"Zappitello, Hopper",Hopper,Zappitello,So,ATT,7,3,7,3,1,2,3,4,0.25,2,0.5,NA,NA,NA,2,3,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2819269
-2023,Dartmouth Big Green,18,Joe Azelby,"Azelby, Joe",Joe,Azelby,So,LSM,6,0,6,NA,1,1,2,1,1,1,1,NA,NA,NA,11,2,NA,NA,0,NA,2,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2664425
-2023,Dartmouth Big Green,20,Henry Bonnie,"Bonnie, Henry",Henry,Bonnie,Jr,ATT,6,1,6,1,2,NA,2,11,0.182,5,0.455,NA,NA,NA,4,3,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2528882
 2023,Dartmouth Big Green,3,Sam Cooper,"Cooper, Sam",Sam,Cooper,Fr,GK,6,6,6,6,NA,NA,0,1,NA,NA,NA,NA,NA,NA,6,2,NA,NA,0,NA,NA,NA,6,6,319:24,58,10.895,41,0.414,NA,NA,NA,NA,NA,NA,2819259
-2023,Dartmouth Big Green,12,Jesse Phelan,"Phelan, Jesse",Jesse,Phelan,Fr,D,6,0,6,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2819265
+2023,Dartmouth Big Green,20,Henry Bonnie,"Bonnie, Henry",Henry,Bonnie,Jr,ATT,6,1,6,1,2,NA,2,11,0.182,5,0.455,NA,NA,NA,4,3,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2528882
 2023,Dartmouth Big Green,35,Jackson McGinley,"McGinley, Jackson",Jackson,McGinley,Sr,LSM,6,0,6,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,2,3,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310788
+2023,Dartmouth Big Green,12,Jesse Phelan,"Phelan, Jesse",Jesse,Phelan,Fr,D,6,0,6,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2819265
 2023,Dartmouth Big Green,21,Payton St. Geme,"St. Geme, Payton",Payton,St. Geme,Sr,ATT,5,0,5,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310774
 2023,Dartmouth Big Green,19,Thomas Goguen,"Goguen, Thomas",Thomas,Goguen,Fr,D,5,0,5,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,1,3,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2819261
 2023,Dartmouth Big Green,24,Colin Niehaus,"Niehaus, Colin",Colin,Niehaus,So,M,4,0,4,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2664427
 2023,Dartmouth Big Green,27,Logan Tucker,"Tucker, Logan",Logan,Tucker,Jr,FO,4,0,4,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2664429
-2023,Dartmouth Big Green,50,Jack Cooleen,"Cooleen, Jack",Jack,Cooleen,Jr,D,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,1,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2528889
 2023,Dartmouth Big Green,44,Holden Deck,"Deck, Holden",Holden,Deck,So,M,3,1,3,1,2,NA,2,5,0.4,4,0.8,NA,NA,NA,5,1,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2664430
+2023,Dartmouth Big Green,50,Jack Cooleen,"Cooleen, Jack",Jack,Cooleen,Jr,D,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,1,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2528889
 2023,Dartmouth Big Green,26,Vincent Gandolfo,"Gandolfo, Vincent",Vincent,Gandolfo,So,FO,3,0,3,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,3,1,NA,7,11,0.636,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2664421
-2023,Dartmouth Big Green,47,Mason Morel,"Morel, Mason",Mason,Morel,So,GK,3,1,3,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,7,4,1,NA,0,NA,NA,NA,3,1,98:55,22,13.345,21,0.488,NA,NA,NA,NA,NA,NA,2664423
 2023,Dartmouth Big Green,43,TJ Bryan,"Bryan, TJ",TJ,Bryan,Sr,FO,3,0,3,NA,1,NA,1,2,0.5,2,1,NA,NA,NA,3,NA,NA,9,15,0.6,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310791
+2023,Dartmouth Big Green,47,Mason Morel,"Morel, Mason",Mason,Morel,So,GK,3,1,3,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,7,4,NA,NA,0,NA,NA,NA,3,1,98:55,22,13.345,22,0.5,NA,NA,NA,NA,NA,NA,2664423
 2023,Dartmouth Big Green,40,Brett Gallagher,"Gallagher, Brett",Brett,Gallagher,Sr,M,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310770
-2023,Dartmouth Big Green,29,Zak Oehlerking,"Oehlerking, Zak",Zak,Oehlerking,Fr,ATT,2,0,2,NA,NA,NA,0,3,NA,1,0.333,NA,NA,NA,2,2,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2819263
 2023,Dartmouth Big Green,32,Cooper Higgins,"Higgins, Cooper",Cooper,Higgins,Jr,M,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2528883
-2023,Dartmouth Big Green,37,Quintin Campbell,"Campbell, Quintin",Quintin,Campbell,So,M,2,0,2,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2664422
-2023,Dartmouth Big Green,11,Tyler Ford,"Ford, Tyler",Tyler,Ford,So,ATT,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2664402
+2023,Dartmouth Big Green,29,Zak Oehlerking,"Oehlerking, Zak",Zak,Oehlerking,Fr,ATT,2,0,2,NA,NA,NA,0,3,NA,1,0.333,NA,NA,NA,2,2,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2819263
 2023,Dartmouth Big Green,39,Kellen Seeley,"Seeley, Kellen",Kellen,Seeley,Fr,M,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2819266
+2023,Dartmouth Big Green,11,Tyler Ford,"Ford, Tyler",Tyler,Ford,So,ATT,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2664402
 2023,Dartmouth Big Green,9,Blake Brookes,"Brookes, Blake",Blake,Brookes,Jr,D,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,0,NA,3,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2529450
 2023,Dartmouth Big Green,41,Michael Mauricio,"Mauricio, Michael",Michael,Mauricio,Jr,ATT,2,0,2,NA,NA,NA,0,2,NA,1,0.5,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2528886
+2023,Dartmouth Big Green,37,Quintin Campbell,"Campbell, Quintin",Quintin,Campbell,So,M,2,0,2,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2664422
 2023,Dartmouth Big Green,45,Reece Lagerquist,"Lagerquist, Reece",Reece,Lagerquist,Sr,D,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310792
 2023,Dartmouth Big Green,5,Hunter Binney,"Binney, Hunter",Hunter,Binney,Jr,GK,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,1,NA,4:06,3,43.902,1,0.25,NA,NA,NA,NA,NA,NA,2528880
 2023,Dartmouth Big Green,38,Lenox Huh,"Huh, Lenox",Lenox,Huh,Jr,ATT,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2528885
@@ -621,7 +621,7 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Denver Pioneers,29,Cody Malawsky,"Malawsky, Cody",Cody,Malawsky,Fr,ATT,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2800453
 2023,Detroit Mercy Titans,88,Jackson Ewald,"Ewald, Jackson",Jackson,Ewald,Fr,M,6,0,6,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,1,NA,NA,0,NA,3,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809331
 2023,Detroit Mercy Titans,8,Drew Kessenich,"Kessenich, Drew",Drew,Kessenich,Fr,M,6,5,6,5,10,4,14,34,0.294,21,0.618,NA,3,NA,8,10,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809308
-2023,Detroit Mercy Titans,20,Ayden Snow,"Snow, Ayden",Ayden,Snow,Fr,M,6,1,6,1,1,1,2,9,0.111,2,0.222,NA,NA,NA,3,2,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809265
+2023,Detroit Mercy Titans,20,Ayden Snow,"Snow, Ayden",Ayden,Snow,Fr,M,6,1,6,1,1,1,2,9,0.111,3,0.333,NA,NA,NA,3,2,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809265
 2023,Detroit Mercy Titans,18,Joe Janda,"Janda, Joe",Joe,Janda,Fr,D,6,1,6,1,NA,NA,0,2,NA,1,0.5,NA,NA,NA,6,1,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809262
 2023,Detroit Mercy Titans,44,Sean Henige,"Henige, Sean",Sean,Henige,So,D,6,5,6,5,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,6,4,3,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653089
 2023,Detroit Mercy Titans,25,Will Marshall,"Marshall, Will",Will,Marshall,So,M,6,0,6,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,3,1,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653087
@@ -630,8 +630,8 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Detroit Mercy Titans,10,Aidan Bishop,"Bishop, Aidan",Aidan,Bishop,So,ATT,6,5,6,5,2,3,5,18,0.111,9,0.5,NA,1,NA,7,5,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653076
 2023,Detroit Mercy Titans,30,Noah Martin,"Martin, Noah",Noah,Martin,Jr,D,6,6,6,6,NA,NA,0,1,NA,NA,NA,NA,NA,NA,18,3,6,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2470347
 2023,Detroit Mercy Titans,3,Jakob Hemme,"Hemme, Jakob",Jakob,Hemme,So,GK,6,5,6,5,NA,NA,0,2,NA,1,0.5,NA,NA,NA,17,5,3,NA,0,NA,NA,NA,6,5,298:16,86,17.3,82,0.488,NA,NA,NA,NA,NA,NA,2470344
-2023,Detroit Mercy Titans,33,Kyle Loken,"Loken, Kyle",Kyle,Loken,Sr,M,6,1,6,1,NA,NA,0,2,NA,NA,NA,NA,NA,NA,11,4,4,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2308909
-2023,Detroit Mercy Titans,9,Ryan Birney,"Birney, Ryan",Ryan,Birney,Sr,M,6,5,6,5,13,1,14,55,0.236,24,0.436,NA,2,NA,5,9,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2308883
+2023,Detroit Mercy Titans,33,Kyle Loken,"Loken, Kyle",Kyle,Loken,Sr,M,6,1,6,1,NA,NA,0,2,NA,NA,NA,NA,NA,NA,11,4,5,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2308909
+2023,Detroit Mercy Titans,9,Ryan Birney,"Birney, Ryan",Ryan,Birney,Sr,M,6,5,6,5,13,1,14,55,0.236,25,0.455,NA,2,NA,5,9,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2308883
 2023,Detroit Mercy Titans,16,Ivan Progar,"Progar, Ivan",Ivan,Progar,Sr,M,6,0,6,NA,1,1,2,12,0.083,4,0.333,NA,NA,NA,2,3,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2308868
 2023,Detroit Mercy Titans,12,Luke Majick,"Majick, Luke",Luke,Majick,Sr,M,6,5,6,5,7,6,13,28,0.25,18,0.643,NA,2,NA,3,11,1,NA,0,NA,3,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2306242
 2023,Detroit Mercy Titans,14,David Beacom,"Beacom, David",David,Beacom,Sr,DM,6,0,6,NA,1,NA,1,3,0.333,2,0.667,NA,NA,NA,14,1,8,NA,0,NA,5,210,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2117600
@@ -876,37 +876,37 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Hampton Pirates,28,Ryan Dallas,"Dallas, Ryan",Ryan,Dallas,Jr,D,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2682205
 2023,Hampton Pirates,44,Wilmer Leon IV,"Leon IV, Wilmer",Wilmer,Leon IV,Jr,D,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2682214
 2023,Hampton Pirates,20,Jacob Wilkerson,"Wilkerson, Jacob",Jacob,Wilkerson,So,GK,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2682209
-2023,Harvard Crimson,29,Matt Barraco,"Barraco, Matt",Matt,Barraco,Fr,FO,7,0,7,NA,NA,NA,0,1,NA,1,1,NA,NA,NA,11,5,NA,34,68,0.5,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799426
-2023,Harvard Crimson,53,Logan Ip,"Ip, Logan",Logan,Ip,Fr,M,7,0,7,NA,2,4,6,14,0.143,10,0.714,NA,NA,NA,7,5,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799414
+2023,Harvard Crimson,29,Matt Barraco,"Barraco, Matt",Matt,Barraco,Fr,FO,7,0,7,NA,NA,NA,0,1,NA,1,1,NA,NA,NA,10,4,NA,33,68,0.485,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799426
+2023,Harvard Crimson,53,Logan Ip,"Ip, Logan",Logan,Ip,Fr,M,7,0,7,NA,2,4,6,14,0.143,10,0.714,NA,NA,NA,7,5,3,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799414
 2023,Harvard Crimson,49,John Aurandt IV,"Aurandt IV, John",John,Aurandt IV,Fr,ATT,7,1,7,1,3,1,4,12,0.25,7,0.583,NA,NA,NA,1,NA,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799413
 2023,Harvard Crimson,8,Charlie Muller,"Muller, Charlie",Charlie,Muller,Fr,D,7,6,7,6,NA,1,1,NA,NA,NA,NA,NA,NA,NA,18,NA,7,NA,0,NA,2,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799386
 2023,Harvard Crimson,41,Andrew Perry,"Perry, Andrew",Andrew,Perry,So,M,7,7,7,7,7,5,12,31,0.226,13,0.419,NA,2,NA,6,7,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652502
-2023,Harvard Crimson,46,Martin Nelson,"Nelson, Martin",Martin,Nelson,So,D,7,7,7,7,NA,NA,0,1,NA,1,1,NA,NA,NA,17,2,5,NA,0,NA,3,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652501
+2023,Harvard Crimson,46,Martin Nelson,"Nelson, Martin",Martin,Nelson,So,D,7,7,7,7,NA,NA,0,1,NA,1,1,NA,NA,NA,17,1,4,NA,0,NA,3,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652501
 2023,Harvard Crimson,37,Joe Dowling,"Dowling, Joe",Joe,Dowling,So,ATT,7,0,7,NA,5,4,9,8,0.625,7,0.875,NA,3,NA,1,7,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652495
 2023,Harvard Crimson,24,Andrew DeGennaro,"DeGennaro, Andrew",Andrew,DeGennaro,So,M,7,0,7,NA,NA,NA,0,2,NA,1,0.5,NA,NA,NA,24,NA,2,65,148,0.439,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652487
-2023,Harvard Crimson,14,Collin Bergstrom,"Bergstrom, Collin",Collin,Bergstrom,So,D,7,7,7,7,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,11,2,6,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652486
-2023,Harvard Crimson,13,Owen Gaffney,"Gaffney, Owen",Owen,Gaffney,So,ATT,7,7,7,7,11,7,18,53,0.208,28,0.528,NA,3,NA,10,9,3,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652475
+2023,Harvard Crimson,14,Collin Bergstrom,"Bergstrom, Collin",Collin,Bergstrom,So,D,7,7,7,7,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,11,2,5,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652486
+2023,Harvard Crimson,13,Owen Gaffney,"Gaffney, Owen",Owen,Gaffney,So,ATT,7,7,7,7,11,7,18,53,0.208,28,0.528,NA,3,NA,11,9,3,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652475
 2023,Harvard Crimson,10,Ray Dearth,"Dearth, Ray",Ray,Dearth,So,M,7,0,7,NA,1,NA,1,3,0.333,1,0.333,NA,NA,NA,7,NA,4,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652474
-2023,Harvard Crimson,27,Miles Botkiss,"Botkiss, Miles",Miles,Botkiss,So,ATT,7,6,7,6,8,6,14,40,0.2,25,0.625,1,2,NA,5,3,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652470
+2023,Harvard Crimson,27,Miles Botkiss,"Botkiss, Miles",Miles,Botkiss,So,ATT,7,6,7,6,8,6,14,40,0.2,25,0.625,1,2,NA,5,4,3,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652470
 2023,Harvard Crimson,34,Thomas Martinson,"Martinson, Thomas",Thomas,Martinson,So,D,7,1,7,1,NA,NA,0,1,NA,NA,NA,NA,NA,NA,4,1,2,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652468
-2023,Harvard Crimson,7,Sam King,"King, Sam",Sam,King,So,ATT,7,7,7,7,20,14,34,57,0.351,27,0.474,1,1,NA,22,11,5,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2652467
-2023,Harvard Crimson,21,Greg Campisi,"Campisi, Greg",Greg,Campisi,Jr,LSM,7,0,7,NA,NA,NA,0,2,NA,1,0.5,NA,NA,NA,18,4,9,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303159
-2023,Harvard Crimson,11,Christian Barnard,"Barnard, Christian",Christian,Barnard,Jr,GK,7,7,7,7,2,NA,2,4,0.5,3,0.75,1,NA,NA,19,5,NA,NA,0,NA,NA,NA,7,6,385:05,87,13.556,68,0.439,NA,NA,NA,NA,NA,NA,2303158
-2023,Harvard Crimson,38,Chase Yager,"Yager, Chase",Chase,Yager,Sr,SSDM,7,0,7,NA,NA,2,2,2,NA,NA,NA,NA,NA,NA,20,3,8,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2151319
-2023,Harvard Crimson,6,Hayden Cheek,"Cheek, Hayden",Hayden,Cheek,Sr,ATT,7,7,7,7,14,2,16,34,0.412,21,0.618,NA,3,NA,17,7,3,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2121322
+2023,Harvard Crimson,7,Sam King,"King, Sam",Sam,King,So,ATT,7,7,7,7,20,14,34,58,0.345,28,0.483,1,1,NA,22,10,4,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2652467
+2023,Harvard Crimson,21,Greg Campisi,"Campisi, Greg",Greg,Campisi,Jr,LSM,7,0,7,NA,NA,NA,0,2,NA,1,0.5,NA,NA,NA,18,4,10,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303159
+2023,Harvard Crimson,11,Christian Barnard,"Barnard, Christian",Christian,Barnard,Jr,GK,7,7,7,7,2,NA,2,4,0.5,3,0.75,1,NA,NA,18,5,NA,NA,0,NA,NA,NA,7,6,385:05,87,13.556,68,0.439,NA,NA,NA,NA,NA,NA,2303158
+2023,Harvard Crimson,38,Chase Yager,"Yager, Chase",Chase,Yager,Sr,SSDM,7,0,7,NA,NA,2,2,2,NA,NA,NA,NA,NA,NA,20,3,9,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2151319
+2023,Harvard Crimson,6,Hayden Cheek,"Cheek, Hayden",Hayden,Cheek,Sr,ATT,7,7,7,7,14,2,16,34,0.412,21,0.618,NA,3,NA,17,7,4,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2121322
 2023,Harvard Crimson,33,Vince Cresci,"Cresci, Vince",Vince,Cresci,So,LSM,6,0,6,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,1,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652492
-2023,Harvard Crimson,39,Owen Guest,"Guest, Owen",Owen,Guest,Fr,M,6,0,6,NA,NA,NA,0,1,NA,1,1,NA,NA,NA,3,1,3,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799410
+2023,Harvard Crimson,39,Owen Guest,"Guest, Owen",Owen,Guest,Fr,M,6,0,6,NA,NA,NA,0,1,NA,1,1,NA,NA,NA,3,1,4,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799410
 2023,Harvard Crimson,26,Teddy Malone,"Malone, Teddy",Teddy,Malone,Fr,ATT,6,5,6,5,14,4,18,32,0.438,23,0.719,NA,NA,NA,5,7,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799387
 2023,Harvard Crimson,23,Isaiah Dawson,"Dawson, Isaiah",Isaiah,Dawson,Sr,M,6,0,6,NA,1,1,2,8,0.125,3,0.375,NA,NA,NA,NA,4,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2121230
 2023,Harvard Crimson,9,Andrew O'Berry,"O'Berry, Andrew",Andrew,O'Berry,So,M,6,0,6,NA,1,3,4,1,1,1,1,NA,NA,NA,8,2,2,NA,0,NA,3,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652469
 2023,Harvard Crimson,3,Nick Loring,"Loring, Nick",Nick,Loring,Sr,M,6,1,6,1,5,3,8,14,0.357,10,0.714,NA,NA,NA,3,8,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2121268
 2023,Harvard Crimson,45,Chase Strupp,"Strupp, Chase",Chase,Strupp,Sr,D,5,0,5,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,NA,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2121301
 2023,Harvard Crimson,22,Tommy Joyce,"Joyce, Tommy",Tommy,Joyce,Sr,D,5,0,5,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,6,5,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2121265
-2023,Harvard Crimson,43,Lucas Hilsenrath,"Hilsenrath, Lucas",Lucas,Hilsenrath,So,ATT,4,0,4,NA,1,3,4,6,0.167,4,0.667,NA,NA,NA,5,5,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652498
+2023,Harvard Crimson,43,Lucas Hilsenrath,"Hilsenrath, Lucas",Lucas,Hilsenrath,So,ATT,5,0,5,NA,1,3,4,6,0.167,4,0.667,NA,NA,NA,6,5,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652498
 2023,Harvard Crimson,52,Sean Jordan,"Jordan, Sean",Sean,Jordan,Fr,LSM,3,0,3,NA,NA,NA,0,1,NA,1,1,NA,NA,NA,2,NA,1,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799397
-2023,Harvard Crimson,25,Mark Stephens,"Stephens, Mark",Mark,Stephens,Jr,M,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,2,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303163
+2023,Harvard Crimson,25,Mark Stephens,"Stephens, Mark",Mark,Stephens,Jr,M,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,2,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303163
 2023,Harvard Crimson,2,Joey Graham,"Graham, Joey",Joey,Graham,So,ATT,2,1,2,1,NA,NA,0,1,NA,1,1,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652497
-2023,Harvard Crimson,42,Griffin Pokorny,"Pokorny, Griffin",Griffin,Pokorny,Fr,M,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799411
+2023,Harvard Crimson,42,Griffin Pokorny,"Pokorny, Griffin",Griffin,Pokorny,Fr,M,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799411
 2023,Harvard Crimson,36,Jake Brownley,"Brownley, Jake",Jake,Brownley,So,D,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652472
 2023,Harvard Crimson,32,Jack Bill,"Bill, Jack",Jack,Bill,Sr,,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2837628
 2023,Harvard Crimson,5,Bryn Evans,"Evans, Bryn",Bryn,Evans,Sr,M,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1983453
@@ -915,7 +915,7 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Harvard Crimson,55,Francisco Cortes,"Cortes, Francisco",Francisco,Cortes,Fr,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2799416
 2023,Harvard Crimson,35,Adam Blind,"Blind, Adam",Adam,Blind,Fr,GK,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,1,NA,41:20,10,14.516,7,0.412,NA,NA,NA,NA,NA,NA,2799440
 2023,Harvard Crimson,44,George Alvarez,"Alvarez, George",George,Alvarez,So,GK,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652465
-2023,Harvard Crimson,47,Max Ewald,"Ewald, Max",Max,Ewald,So,D,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652496
+2023,Harvard Crimson,47,Max Ewald,"Ewald, Max",Max,Ewald,So,D,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652496
 2023,High Point Panthers,28,Jaxson Lamb,"Lamb, Jaxson",Jaxson,Lamb,Sr,M,10,10,10,10,8,5,13,23,0.348,13,0.565,NA,1,NA,3,10,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2324338
 2023,High Point Panthers,7,Alex Albertson,"Albertson, Alex",Alex,Albertson,Sr,M,10,7,10,7,NA,NA,0,1,NA,NA,NA,NA,NA,NA,6,3,4,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2479676
 2023,High Point Panthers,60,Zack Brenfleck,"Brenfleck, Zack",Zack,Brenfleck,So,D,10,9,10,9,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,13,4,7,NA,0,NA,2,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669466
@@ -1068,10 +1068,10 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Jacksonville Dolphins,28,Jacob Greiner,"Greiner, Jacob",Jacob,Greiner,Jr,ATT,8,8,8,8,13,6,19,38,0.342,20,0.526,1,NA,NA,8,7,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310724
 2023,Jacksonville Dolphins,9,Tucker Garrity,"Garrity, Tucker",Tucker,Garrity,Jr,M,8,0,8,NA,3,1,4,5,0.6,3,0.6,1,NA,NA,14,4,14,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310723
 2023,Jacksonville Dolphins,53,Brandon Galloway,"Galloway, Brandon",Brandon,Galloway,Sr,M,8,5,8,5,13,6,19,30,0.433,22,0.733,1,1,NA,7,8,5,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2129170
-2023,Jacksonville Dolphins,45,Zack Deaken,"Deaken, Zack",Zack,Deaken,Sr,M,8,0,8,NA,NA,1,1,4,NA,1,0.25,NA,NA,NA,20,NA,15,NA,0,NA,3,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2119043
+2023,Jacksonville Dolphins,45,Zack Deaken,"Deaken, Zack",Zack,Deaken,Sr,M,8,0,8,NA,NA,1,1,4,NA,1,0.25,NA,NA,NA,21,NA,16,NA,0,NA,3,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2119043
 2023,Jacksonville Dolphins,26,Troy Hettinger,"Hettinger, Troy",Troy,Hettinger,Sr,M,8,8,8,8,2,NA,2,2,1,2,1,NA,NA,NA,19,2,10,NA,0,NA,2,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2119026
 2023,Jacksonville Dolphins,22,Jack Heed,"Heed, Jack",Jack,Heed,Sr,D,8,8,8,8,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,20,5,16,1,1,1,3,240,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2119023
-2023,Jacksonville Dolphins,14,Dylan Watson,"Watson, Dylan",Dylan,Watson,Sr,ATT,8,8,8,8,22,6,28,70,0.314,49,0.7,1,2,NA,14,9,2,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2112631
+2023,Jacksonville Dolphins,14,Dylan Watson,"Watson, Dylan",Dylan,Watson,Sr,ATT,8,8,8,8,22,7,29,70,0.314,49,0.7,1,2,NA,14,9,2,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2112631
 2023,Jacksonville Dolphins,15,Jack Taylor,"Taylor, Jack",Jack,Taylor,Fr,M,8,1,8,1,7,2,9,28,0.25,15,0.536,NA,NA,NA,3,4,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807305
 2023,Jacksonville Dolphins,46,Nicky Brown,"Brown, Nicky",Nicky,Brown,Fr,ATT,7,0,7,NA,2,1,3,6,0.333,5,0.833,NA,NA,NA,4,1,2,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807350
 2023,Jacksonville Dolphins,30,Jason Yoquinto,"Yoquinto, Jason",Jason,Yoquinto,Sr,GK,7,0,7,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,7,NA,19:33,9,27.621,11,0.55,NA,NA,NA,NA,NA,NA,1973898
@@ -1081,7 +1081,7 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Jacksonville Dolphins,4,Tucker Denault,"Denault, Tucker",Tucker,Denault,Jr,M,6,0,6,NA,NA,1,1,3,NA,2,0.667,NA,NA,NA,2,2,NA,NA,0,NA,3,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2484961
 2023,Jacksonville Dolphins,17,Max Waldbaum,"Waldbaum, Max",Max,Waldbaum,Sr,ATT,5,5,5,5,12,9,21,30,0.4,22,0.733,2,1,NA,7,6,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2006200
 2023,Jacksonville Dolphins,1,Tom Heed,"Heed, Tom",Tom,Heed,Sr,ATT,5,0,5,NA,1,1,2,3,0.333,2,0.667,NA,NA,NA,1,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2119004
-2023,Jacksonville Dolphins,5,Ibrahim Pio,"Pio, Ibrahim",Ibrahim,Pio,Jr,M,5,3,5,3,6,3,9,12,0.5,8,0.667,NA,NA,NA,1,4,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2484976
+2023,Jacksonville Dolphins,5,Ibrahim Pio,"Pio, Ibrahim",Ibrahim,Pio,Jr,M,5,3,5,3,6,3,9,12,0.5,8,0.667,NA,NA,NA,1,4,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2484976
 2023,Jacksonville Dolphins,34,George Bowdouris,"Bowdouris, George",George,Bowdouris,Fr,ATT,4,0,4,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,3,NA,2,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807256
 2023,Jacksonville Dolphins,52,Will Hardy,"Hardy, Will",Will,Hardy,Fr,M,3,0,3,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807354
 2023,Jacksonville Dolphins,32,Charlie DiGennaro,"DiGennaro, Charlie",Charlie,DiGennaro,So,M,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2655612
@@ -1100,6 +1100,7 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Jacksonville Dolphins,16,Theo Kostakos,"Kostakos, Theo",Theo,Kostakos,So,ATT,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2655645
 2023,Jacksonville Dolphins,2,Sam Chase,"Chase, Sam",Sam,Chase,Jr,ATT,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2484958
 2023,Jacksonville Dolphins,47,Ethan Duerk,"Duerk, Ethan",Ethan,Duerk,Fr,FO,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807352
+2023,Johns Hopkins Blue Jays,11,Carson Brown,"Brown, Carson",Carson,Brown,Fr,D,11,1,11,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,11,1,9,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2801469
 2023,Johns Hopkins Blue Jays,16,Matt Collison,"Collison, Matt",Matt,Collison,Fr,M,11,8,11,8,17,4,21,54,0.315,32,0.593,1,3,NA,5,8,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2801437
 2023,Johns Hopkins Blue Jays,18,Scott Smith,"Smith, Scott",Scott,Smith,Jr,D,11,11,11,11,NA,NA,0,4,NA,2,0.5,NA,NA,NA,18,5,15,NA,0,NA,4,210,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2483438
 2023,Johns Hopkins Blue Jays,51,Johnathan Peshko,"Peshko, Johnathan",Johnathan,Peshko,Jr,M,11,6,11,6,10,3,13,39,0.256,24,0.615,NA,1,NA,9,10,1,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2483432
@@ -1107,23 +1108,22 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Johns Hopkins Blue Jays,15,Cody Ince,"Ince, Cody",Cody,Ince,Jr,SSDM,11,0,11,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,3,NA,1,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2483422
 2023,Johns Hopkins Blue Jays,30,Tyler Dunn,"Dunn, Tyler",Tyler,Dunn,Jr,FO,11,0,11,NA,1,1,2,5,0.2,1,0.2,NA,NA,NA,42,7,5,83,166,0.5,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2483418
 2023,Johns Hopkins Blue Jays,20,Jakson Raposo,"Raposo, Jakson",Jakson,Raposo,Jr,SSDM,11,0,11,NA,1,NA,1,2,0.5,1,0.5,NA,NA,NA,9,2,2,NA,0,NA,3,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2483417
+2023,Johns Hopkins Blue Jays,12,Brett Martin,"Martin, Brett",Brett,Martin,Jr,SSDM,11,0,11,NA,NA,NA,0,4,NA,1,0.25,NA,NA,NA,10,2,8,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2483416
 2023,Johns Hopkins Blue Jays,9,Brendan Grimes,"Grimes, Brendan",Brendan,Grimes,Jr,M,11,9,11,9,14,10,24,50,0.28,34,0.68,2,1,NA,6,14,NA,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2483415
 2023,Johns Hopkins Blue Jays,77,Hunter Jaronski,"Jaronski, Hunter",Hunter,Jaronski,Sr,SSDM,11,0,11,NA,2,1,3,4,0.5,2,0.5,NA,NA,NA,9,4,2,NA,0,NA,2,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2321722
 2023,Johns Hopkins Blue Jays,26,Jack Hawley,"Hawley, Jack",Jack,Hawley,Sr,M,11,0,11,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,22,2,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2125076
 2023,Johns Hopkins Blue Jays,6,Alex Mazzone,"Mazzone, Alex",Alex,Mazzone,Sr,D,11,11,11,11,1,1,2,7,0.143,2,0.286,NA,NA,NA,42,4,11,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2112628
+2023,Johns Hopkins Blue Jays,40,Garrett Degnon,"Degnon, Garrett",Garrett,Degnon,Sr,ATT,10,10,10,10,25,2,27,65,0.385,40,0.615,1,5,NA,17,13,1,NA,0,NA,3,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2125072
+2023,Johns Hopkins Blue Jays,10,Tim Marcille,"Marcille, Tim",Tim,Marcille,Sr,GK,10,10,10,10,1,2,3,2,0.5,1,0.5,NA,NA,NA,20,6,1,NA,0,NA,NA,NA,10,10,564:51,109,11.578,123,0.53,NA,NA,NA,NA,NA,NA,2321700
 2023,Johns Hopkins Blue Jays,31,Russell Melendez,"Melendez, Russell",Russell,Melendez,Jr,ATT,10,9,10,9,16,9,25,44,0.364,33,0.75,NA,1,NA,8,13,2,NA,0,NA,3,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2464689
 2023,Johns Hopkins Blue Jays,23,Jacob Angelus,"Angelus, Jacob",Jacob,Angelus,Sr,ATT,10,9,10,9,9,28,37,33,0.273,18,0.545,NA,NA,NA,17,11,2,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2321702
-2023,Johns Hopkins Blue Jays,11,Carson Brown,"Brown, Carson",Carson,Brown,Fr,D,10,1,10,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,11,1,9,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2801469
 2023,Johns Hopkins Blue Jays,5,Logan Callahan,"Callahan, Logan",Logan,Callahan,So,FO,10,0,10,NA,NA,1,1,1,NA,1,1,NA,NA,NA,36,1,1,47,99,0.475,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2661500
-2023,Johns Hopkins Blue Jays,10,Tim Marcille,"Marcille, Tim",Tim,Marcille,Sr,GK,10,10,10,10,1,2,3,2,0.5,1,0.5,NA,NA,NA,20,6,1,NA,0,NA,NA,NA,10,10,564:51,109,11.578,125,0.534,NA,NA,NA,NA,NA,NA,2321700
-2023,Johns Hopkins Blue Jays,40,Garrett Degnon,"Degnon, Garrett",Garrett,Degnon,Sr,ATT,10,10,10,10,25,2,27,65,0.385,40,0.615,1,5,NA,17,13,1,NA,0,NA,3,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2125072
-2023,Johns Hopkins Blue Jays,12,Brett Martin,"Martin, Brett",Brett,Martin,Jr,SSDM,10,0,10,NA,NA,NA,0,4,NA,1,0.25,NA,NA,NA,10,2,8,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2483416
 2023,Johns Hopkins Blue Jays,91,Jack Ruddy,"Ruddy, Jack",Jack,Ruddy,Sr,D,9,4,9,4,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,7,4,3,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2321724
 2023,Johns Hopkins Blue Jays,17,Cameron Chauvette,"Chauvette, Cameron",Cameron,Chauvette,Jr,ATT,9,1,9,1,6,1,7,18,0.333,9,0.5,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2483423
-2023,Johns Hopkins Blue Jays,3,Stuart Phillips,"Phillips, Stuart",Stuart,Phillips,So,M,7,0,7,NA,3,1,4,12,0.25,8,0.667,NA,NA,NA,8,4,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2661512
-2023,Johns Hopkins Blue Jays,38,Ian Krampf,"Krampf, Ian",Ian,Krampf,Sr,ATT,7,3,7,3,6,2,8,12,0.5,9,0.75,NA,NA,NA,7,3,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2321719
 2023,Johns Hopkins Blue Jays,44,Beaudan Szuluk,"Szuluk, Beaudan",Beaudan,Szuluk,Sr,D,7,6,7,6,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,10,5,7,NA,0,NA,3,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310413
+2023,Johns Hopkins Blue Jays,3,Stuart Phillips,"Phillips, Stuart",Stuart,Phillips,So,M,7,0,7,NA,3,1,4,12,0.25,8,0.667,NA,NA,NA,8,4,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2661512
 2023,Johns Hopkins Blue Jays,49,Ryan Evans,"Evans, Ryan",Ryan,Evans,Jr,M,7,1,7,1,6,3,9,15,0.4,13,0.867,2,NA,NA,2,5,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2483428
+2023,Johns Hopkins Blue Jays,38,Ian Krampf,"Krampf, Ian",Ian,Krampf,Sr,ATT,7,3,7,3,6,2,8,12,0.5,9,0.75,NA,NA,NA,7,3,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2321719
 2023,Johns Hopkins Blue Jays,46,Patrick Deans,"Deans, Patrick",Patrick,Deans,Jr,LSM,7,0,7,NA,3,NA,3,7,0.429,3,0.429,NA,NA,NA,5,NA,6,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2483424
 2023,Johns Hopkins Blue Jays,1,Nick Kaufman,"Kaufman, Nick",Nick,Kaufman,So,D,6,0,6,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2661506
 2023,Johns Hopkins Blue Jays,33,Casey McDermott,"McDermott, Casey",Casey,McDermott,Jr,M,5,1,5,1,1,NA,1,2,0.5,2,1,1,NA,NA,5,6,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2483420
@@ -1132,10 +1132,10 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Johns Hopkins Blue Jays,87,Gib Versfeld,"Versfeld, Gib",Gib,Versfeld,Sr,GK,2,1,2,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,5,1,NA,NA,0,NA,NA,NA,2,1,65:09,8,7.368,15,0.652,NA,NA,NA,NA,NA,NA,2005997
 2023,Johns Hopkins Blue Jays,55,Jojo Todaro,"Todaro, Jojo",Jojo,Todaro,So,D,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2661525
 2023,Johns Hopkins Blue Jays,27,Jameson Smith,"Smith, Jameson",Jameson,Smith,Fr,M,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2801474
-2023,Johns Hopkins Blue Jays,42,Luke Caracciolo,"Caracciolo, Luke",Luke,Caracciolo,Sr,GK,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,0,NA,NA,NA,1,NA,30:00,5,10,3,0.375,NA,NA,NA,NA,NA,NA,2119247
+2023,Johns Hopkins Blue Jays,42,Luke Caracciolo,"Caracciolo, Luke",Luke,Caracciolo,Sr,GK,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,0,NA,NA,NA,1,NA,30:00,5,10,5,0.5,NA,NA,NA,NA,NA,NA,2119247
 2023,Johns Hopkins Blue Jays,92,Koleton Marquis,"Marquis, Koleton",Koleton,Marquis,Fr,ATT,1,0,1,NA,NA,NA,0,1,NA,1,1,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2801481
-2023,Johns Hopkins Blue Jays,22,Brett Handsor,"Handsor, Brett",Brett,Handsor,Sr,SSDM,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2321701
 2023,Johns Hopkins Blue Jays,43,Jeremiah Reen,"Reen, Jeremiah",Jeremiah,Reen,So,SSDM,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2661526
+2023,Johns Hopkins Blue Jays,22,Brett Handsor,"Handsor, Brett",Brett,Handsor,Sr,SSDM,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2321701
 2023,LIU Sharks,32,Nick Colantonio,"Colantonio, Nick",Nick,Colantonio,So,M,8,5,8,5,5,4,9,23,0.217,12,0.522,NA,NA,NA,2,9,1,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2661726
 2023,LIU Sharks,44,Tommy Ramsey,"Ramsey, Tommy",Tommy,Ramsey,Jr,M,8,2,8,2,NA,2,2,2,NA,1,0.5,NA,NA,NA,19,5,3,NA,0,NA,5,210,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2495207
 2023,LIU Sharks,0,Sean Gillman,"Gillman, Sean",Sean,Gillman,Jr,GK,8,7,8,7,NA,1,1,1,NA,NA,NA,NA,NA,NA,20,3,NA,NA,0,NA,NA,NA,8,7,441:43,83,11.274,80,0.491,NA,NA,NA,NA,NA,NA,2495205
@@ -1186,7 +1186,7 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Lafayette Leopards,21,Brian Collins,"Collins, Brian",Brian,Collins,Sr,M,10,0,10,NA,NA,1,1,3,NA,1,0.333,NA,NA,NA,28,7,8,NA,0,NA,3,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310382
 2023,Lafayette Leopards,7,Gunnar Bogorowski,"Bogorowski, Gunnar",Gunnar,Bogorowski,Sr,M,10,0,10,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,6,3,3,NA,0,NA,3,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310374
 2023,Lafayette Leopards,37,Ryan Duncan,"Duncan, Ryan",Ryan,Duncan,Sr,ATT,10,5,10,5,12,2,14,40,0.3,24,0.6,NA,2,NA,2,5,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310372
-2023,Lafayette Leopards,30,Joe Doherty,"Doherty, Joe",Joe,Doherty,Fr,GK,10,10,10,10,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,13,6,1,NA,0,NA,1,30,10,10,574:00,120,12.544,105,0.467,NA,NA,NA,NA,NA,NA,2816519
+2023,Lafayette Leopards,30,Joe Doherty,"Doherty, Joe",Joe,Doherty,Fr,GK,10,10,10,10,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,13,6,1,NA,0,NA,1,30,10,10,573:26,120,12.556,105,0.467,NA,NA,NA,NA,NA,NA,2816519
 2023,Lafayette Leopards,22,Charlie Cunniffe,"Cunniffe, Charlie",Charlie,Cunniffe,Jr,ATT,9,9,9,9,12,13,25,47,0.255,27,0.574,2,NA,NA,15,14,6,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2507777
 2023,Lafayette Leopards,55,John Galbraith,"Galbraith, John",John,Galbraith,So,M,9,0,9,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,3,1,2,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669570
 2023,Lafayette Leopards,11,Jacob Freeman,"Freeman, Jacob",Jacob,Freeman,Jr,M,9,0,9,NA,7,1,8,9,0.778,7,0.778,NA,NA,NA,14,8,4,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2507782
@@ -1271,18 +1271,18 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Lindenwood Lions,16,Brian Kallberg,"Kallberg, Brian",Brian,Kallberg,Sr,D,5,5,5,5,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,26,7,12,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305032
 2023,Lindenwood Lions,50,Adrian Thompson,"Thompson, Adrian",Adrian,Thompson,Sr,ATT,5,5,5,5,5,4,9,21,0.238,16,0.762,NA,1,NA,6,8,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305042
 2023,Lindenwood Lions,23,Trevor Lockwood,"Lockwood, Trevor",Trevor,Lockwood,Sr,D,5,0,5,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,1,3,NA,0,NA,2,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305054
-2023,Lindenwood Lions,1,Thomas Ortega,"Ortega, Thomas",Thomas,Ortega,Fr,ATT,4,0,4,NA,NA,NA,0,3,NA,1,0.333,NA,NA,NA,2,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2800189
-2023,Lindenwood Lions,9,Cam Smith,"Smith, Cam",Cam,Smith,Sr,ATT,4,3,4,3,3,1,4,15,0.2,12,0.8,NA,1,NA,1,9,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305031
 2023,Lindenwood Lions,11,Zackery Ough,"Ough, Zackery",Zackery,Ough,Fr,D,4,0,4,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,2,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2800193
+2023,Lindenwood Lions,18,Sam Schaffer,"Schaffer, Sam",Sam,Schaffer,So,M,4,0,4,NA,2,NA,2,3,0.667,2,0.667,NA,NA,NA,3,2,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2651906
+2023,Lindenwood Lions,9,Cam Smith,"Smith, Cam",Cam,Smith,Sr,ATT,4,3,4,3,3,1,4,15,0.2,12,0.8,NA,1,NA,1,9,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305031
 2023,Lindenwood Lions,34,Noah Wehrman,"Wehrman, Noah",Noah,Wehrman,So,M,4,3,4,3,1,1,2,18,0.056,11,0.611,NA,NA,NA,2,3,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2678413
+2023,Lindenwood Lions,1,Thomas Ortega,"Ortega, Thomas",Thomas,Ortega,Fr,ATT,4,0,4,NA,NA,NA,0,3,NA,1,0.333,NA,NA,NA,2,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2800189
 2023,Lindenwood Lions,5,Dawson Gillette,"Gillette, Dawson",Dawson,Gillette,So,M,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,3,2,2,3,12,0.25,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2651875
 2023,Lindenwood Lions,44,Danny Carolan,"Carolan, Danny",Danny,Carolan,So,M,3,0,3,NA,1,NA,1,1,1,1,1,NA,NA,NA,2,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2651909
 2023,Lindenwood Lions,25,John Copley,"Copley, John",John,Copley,Fr,M,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,3,NA,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2800223
-2023,Lindenwood Lions,18,Sam Schaffer,"Schaffer, Sam",Sam,Schaffer,So,M,3,0,3,NA,2,NA,2,3,0.667,2,0.667,NA,NA,NA,2,2,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2651906
+2023,Lindenwood Lions,22,Jony Major,"Major, Jony",Jony,Major,Sr,FO,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,18,0.167,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305053
 2023,Lindenwood Lions,39,AJ Preachuk,"Preachuk, AJ",AJ,Preachuk,So,GK,2,1,2,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,NA,1,NA,0,NA,NA,NA,1,1,47:27,15,18.967,6,0.286,NA,NA,NA,NA,NA,NA,2651894
 2023,Lindenwood Lions,26,Pat Lanigan,"Lanigan, Pat",Pat,Lanigan,Sr,M,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2333087
 2023,Lindenwood Lions,37,Jacob VanKleeck,"VanKleeck, Jacob",Jacob,VanKleeck,Sr,M,2,0,2,NA,NA,NA,0,1,NA,1,1,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305040
-2023,Lindenwood Lions,22,Jony Major,"Major, Jony",Jony,Major,Sr,FO,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,18,0.167,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305053
 2023,Loyola Maryland Greyhounds,28,Luke Murphy,"Murphy, Luke",Luke,Murphy,Fr,ATT,8,0,8,NA,3,2,5,7,0.429,4,0.571,1,2,NA,6,8,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813264
 2023,Loyola Maryland Greyhounds,27,Henry Haberman,"Haberman, Henry",Henry,Haberman,Fr,ATT,8,6,8,6,8,1,9,25,0.32,14,0.56,2,NA,NA,3,8,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813257
 2023,Loyola Maryland Greyhounds,7,Matthew Minicus,"Minicus, Matthew",Matthew,Minicus,Fr,ATT,8,8,8,8,22,5,27,51,0.431,36,0.706,NA,2,NA,16,12,4,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813255
@@ -1321,10 +1321,10 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Loyola Maryland Greyhounds,43,Calder VandenHeuvel,"VandenHeuvel, Calder",Calder,VandenHeuvel,Sr,D,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2309848
 2023,Loyola Maryland Greyhounds,37,Bobby Marlatt,"Marlatt, Bobby",Bobby,Marlatt,Fr,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813266
 2023,Loyola Maryland Greyhounds,11,Matt Heuston,"Heuston, Matt",Matt,Heuston,Sr,M,1,0,1,NA,NA,NA,0,4,NA,2,0.5,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2309839
-2023,Manhattan Jaspers,19,Michael Schafer,"Schafer, Michael",Michael,Schafer,Fr,D,8,8,8,8,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,11,1,12,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2823712
+2023,Manhattan Jaspers,19,Michael Schafer,"Schafer, Michael",Michael,Schafer,Fr,D,8,8,8,8,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,10,1,12,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2823712
 2023,Manhattan Jaspers,55,Scott O'Connor,"O'Connor, Scott",Scott,O'Connor,So,ATT,8,8,8,8,6,NA,6,22,0.273,11,0.5,NA,NA,NA,7,1,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2666306
-2023,Manhattan Jaspers,3,Hunter Newman,"Newman, Hunter",Hunter,Newman,So,D,8,8,8,8,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,7,2,5,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2666303
-2023,Manhattan Jaspers,51,Quinn Bowler,"Bowler, Quinn",Quinn,Bowler,Jr,ATT,8,8,8,8,6,8,14,28,0.214,13,0.464,NA,2,NA,10,7,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474251
+2023,Manhattan Jaspers,3,Hunter Newman,"Newman, Hunter",Hunter,Newman,So,D,8,8,8,8,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,10,2,5,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2666303
+2023,Manhattan Jaspers,51,Quinn Bowler,"Bowler, Quinn",Quinn,Bowler,Jr,ATT,8,8,8,8,6,8,14,28,0.214,13,0.464,NA,2,NA,11,7,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474251
 2023,Manhattan Jaspers,42,Spencer Moore,"Moore, Spencer",Spencer,Moore,Jr,D,8,0,8,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,11,1,4,NA,0,NA,3,210,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474250
 2023,Manhattan Jaspers,18,Louden Sheehan,"Sheehan, Louden",Louden,Sheehan,Jr,M,8,0,8,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,1,2,NA,0,NA,2,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474244
 2023,Manhattan Jaspers,9,Kevin Jaffe,"Jaffe, Kevin",Kevin,Jaffe,Sr,M,8,0,8,NA,3,NA,3,7,0.429,5,0.714,NA,NA,NA,2,5,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2333089
@@ -1332,17 +1332,17 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Manhattan Jaspers,6,Kyle Gucwa,"Gucwa, Kyle",Kyle,Gucwa,Sr,ATT,8,8,8,8,16,13,29,59,0.271,36,0.61,2,4,NA,7,11,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303939
 2023,Manhattan Jaspers,14,Matthew Scully,"Scully, Matthew",Matthew,Scully,Sr,M,8,0,8,NA,1,NA,1,3,0.333,1,0.333,NA,NA,NA,8,5,4,NA,0,NA,6,210,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303931
 2023,Manhattan Jaspers,42,Daniel Mackinney,"Mackinney, Daniel",Daniel,Mackinney,Sr,ATT,8,8,8,8,6,6,12,22,0.273,13,0.591,NA,NA,NA,5,6,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2132726
-2023,Manhattan Jaspers,20,Joe Persico,"Persico, Joe",Joe,Persico,Sr,GK,8,8,8,8,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,24,5,2,NA,0,NA,NA,NA,8,8,479:29,66,8.259,98,0.598,NA,NA,NA,NA,NA,NA,2116859
+2023,Manhattan Jaspers,20,Joe Persico,"Persico, Joe",Joe,Persico,Sr,GK,8,8,8,8,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,20,5,2,NA,0,NA,NA,NA,8,8,479:29,66,8.259,98,0.598,NA,NA,NA,NA,NA,NA,2116859
 2023,Manhattan Jaspers,22,Christian Clifford,"Clifford, Christian",Christian,Clifford,Sr,D,8,8,8,8,1,NA,1,2,0.5,1,0.5,NA,NA,NA,15,8,8,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2113914
 2023,Manhattan Jaspers,11,Tadhq O'Riordan,"O'Riordan, Tadhq",Tadhq,O'Riordan,Sr,M,8,8,8,8,6,1,7,27,0.222,15,0.556,1,NA,NA,14,7,4,NA,0,NA,3,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2113910
-2023,Manhattan Jaspers,22,Liam McDonough,"McDonough, Liam",Liam,McDonough,Sr,FO,8,0,8,NA,NA,4,4,6,NA,1,0.167,NA,NA,NA,33,3,1,64,124,0.516,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2112050
+2023,Manhattan Jaspers,22,Liam McDonough,"McDonough, Liam",Liam,McDonough,Sr,FO,8,0,8,NA,NA,4,4,6,NA,1,0.167,NA,NA,NA,43,3,1,64,124,0.516,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2112050
 2023,Manhattan Jaspers,66,Kelly Dupree,"Dupree, Kelly",Kelly,Dupree,So,ATT,7,0,7,NA,7,2,9,23,0.304,11,0.478,1,1,NA,6,8,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2666290
 2023,Manhattan Jaspers,21,Lukas Adams,"Adams, Lukas",Lukas,Adams,Sr,D,7,0,7,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,3,NA,4,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303958
 2023,Manhattan Jaspers,27,Liam Walshe,"Walshe, Liam",Liam,Walshe,Sr,ATT,7,7,7,7,16,4,20,47,0.34,29,0.617,1,2,NA,6,15,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2113921
 2023,Manhattan Jaspers,10,Sean Baudille,"Baudille, Sean",Sean,Baudille,Sr,FO,7,0,7,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,11,1,NA,19,48,0.396,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2113838
-2023,Manhattan Jaspers,24,Drew Hiner,"Hiner, Drew",Drew,Hiner,So,M,6,0,6,NA,1,NA,1,5,0.2,3,0.6,NA,NA,NA,5,4,3,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2666293
+2023,Manhattan Jaspers,24,Drew Hiner,"Hiner, Drew",Drew,Hiner,So,M,6,0,6,NA,1,NA,1,5,0.2,3,0.6,NA,NA,NA,6,4,3,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2666293
 2023,Manhattan Jaspers,23,Rhys Porteous,"Porteous, Rhys",Rhys,Porteous,Jr,M,6,0,6,NA,NA,NA,0,1,NA,1,1,NA,NA,NA,NA,1,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474241
-2023,Manhattan Jaspers,77,James McCoy,"McCoy, James",James,McCoy,Sr,M,6,0,6,NA,2,2,4,4,0.5,3,0.75,NA,1,NA,2,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2333088
+2023,Manhattan Jaspers,77,James McCoy,"McCoy, James",James,McCoy,Sr,M,6,0,6,NA,2,2,4,4,0.5,3,0.75,NA,1,NA,3,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2333088
 2023,Manhattan Jaspers,34,Liam Peabody,"Peabody, Liam",Liam,Peabody,Fr,M,6,1,6,1,1,1,2,8,0.125,4,0.5,1,NA,NA,6,3,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2823711
 2023,Manhattan Jaspers,17,Nikolus Nickerson,"Nickerson, Nikolus",Nikolus,Nickerson,Sr,M,6,0,6,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,3,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303954
 2023,Manhattan Jaspers,89,Robert Pousak,"Pousak, Robert",Robert,Pousak,Jr,D,6,0,6,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474239
@@ -1530,7 +1530,7 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Massachusetts Minutemen,37,Kyle Swanson,"Swanson, Kyle",Kyle,Swanson,Fr,D,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2820205
 2023,Massachusetts Minutemen,34,Liam Maher,"Maher, Liam",Liam,Maher,Fr,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2820220
 2023,Mercer Bears,90,Michael Frederick,"Frederick, Michael",Michael,Frederick,Fr,ATT,9,3,9,3,13,8,21,33,0.394,23,0.697,NA,4,NA,8,9,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2814702
-2023,Mercer Bears,11,Jack Sullivan,"Sullivan , Jack",Jack,Sullivan ,Fr,M,9,6,9,6,6,5,11,36,0.167,16,0.444,1,1,NA,12,15,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2814691
+2023,Mercer Bears,11,Jack Sullivan,"Sullivan , Jack",Jack,Sullivan ,Fr,M,9,6,9,6,5,5,10,35,0.143,15,0.429,1,1,NA,12,15,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2814691
 2023,Mercer Bears,91,Quinn Kelley,"Kelley, Quinn",Quinn,Kelley,So,D,9,0,9,NA,NA,2,2,1,NA,1,1,NA,NA,NA,21,5,5,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2657117
 2023,Mercer Bears,55,Connor Pannebianco,"Pannebianco, Connor",Connor,Pannebianco,So,M,9,9,9,9,8,4,12,36,0.222,22,0.611,1,1,NA,7,16,1,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2657115
 2023,Mercer Bears,10,Jackson Hirschy,"Hirschy, Jackson",Jackson,Hirschy,So,M,9,0,9,NA,1,NA,1,12,0.083,8,0.667,NA,NA,NA,4,5,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2657101
@@ -1540,7 +1540,7 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Mercer Bears,44,Kellan Arthur,"Arthur, Kellan",Kellan,Arthur,Jr,M,9,0,9,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,6,1,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2462346
 2023,Mercer Bears,22,Khory Reid,"Reid, Khory",Khory,Reid,Sr,M,9,0,9,NA,7,NA,7,33,0.212,12,0.364,NA,NA,NA,8,9,2,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305562
 2023,Mercer Bears,17,Carl Klepper,"Klepper, Carl",Carl,Klepper,Sr,ATT,9,9,9,9,7,3,10,21,0.333,13,0.619,NA,2,NA,1,4,NA,NA,0,NA,5,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305557
-2023,Mercer Bears,24,Parker Junod,"Junod, Parker",Parker,Junod,Sr,M,9,9,9,9,15,9,24,55,0.273,33,0.6,NA,1,1,10,20,1,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305553
+2023,Mercer Bears,24,Parker Junod,"Junod, Parker",Parker,Junod,Sr,M,9,9,9,9,16,9,25,56,0.286,34,0.607,NA,1,1,10,20,1,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305553
 2023,Mercer Bears,15,Drew Mayts,"Mayts, Drew",Drew,Mayts,Sr,D,9,9,9,9,NA,1,1,7,NA,3,0.429,NA,NA,NA,9,2,5,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305545
 2023,Mercer Bears,42,Colin Kelley,"Kelley, Colin",Colin,Kelley,Sr,GK,9,9,9,9,NA,NA,0,3,NA,1,0.333,NA,NA,NA,13,7,1,NA,0,NA,NA,NA,9,9,498:11,129,15.536,92,0.416,NA,NA,NA,NA,NA,NA,2305543
 2023,Mercer Bears,32,Kyle Cox,"Cox, Kyle",Kyle,Cox,Sr,ATT,9,7,9,7,5,3,8,24,0.208,10,0.417,NA,NA,NA,5,13,1,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305536
@@ -1858,10 +1858,10 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,North Carolina Tar Heels,33,Kai Prohaszka,"Prohaszka, Kai",Kai,Prohaszka,Fr,D,5,0,5,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,3,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2793612
 2023,North Carolina Tar Heels,42,George Kalos,"Kalos, George",George,Kalos,Fr,FO,5,0,5,NA,NA,NA,0,1,NA,1,1,NA,NA,NA,4,NA,1,10,34,0.294,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2793606
 2023,North Carolina Tar Heels,43,Tyler Schwarz,"Schwarz, Tyler",Tyler,Schwarz,So,D,5,0,5,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,3,1,1,NA,0,NA,2,240,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2657246
-2023,North Carolina Tar Heels,36,Graham Schwartz,"Schwartz, Graham",Graham,Schwartz,Sr,FO,5,0,5,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,7,NA,NA,15,30,0.5,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2306929
+2023,North Carolina Tar Heels,36,Graham Schwartz,"Schwartz, Graham",Graham,Schwartz,Sr,FO,5,0,5,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,7,NA,NA,15,31,0.484,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2306929
 2023,North Carolina Tar Heels,35,Ryan O'Leary,"O'Leary, Ryan",Ryan,O'Leary,Sr,DM,4,0,4,NA,1,1,2,1,1,1,1,NA,1,NA,1,2,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2306901
 2023,North Carolina Tar Heels,45,Zach Young,"Young, Zach",Zach,Young,Sr,D,4,0,4,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2306935
-2023,North Carolina Tar Heels,46,Kent Goode,"Goode, Kent",Kent,Goode,Fr,GK,4,0,4,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,1,NA,NA,NA,4,NA,45:44,3,3.936,4,0.571,NA,NA,NA,NA,NA,NA,2793589
+2023,North Carolina Tar Heels,46,Kent Goode,"Goode, Kent",Kent,Goode,Fr,GK,4,0,4,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,0,NA,NA,NA,4,NA,45:44,3,3.936,4,0.571,NA,NA,NA,NA,NA,NA,2793589
 2023,North Carolina Tar Heels,60,Jack Loftus,"Loftus, Jack",Jack,Loftus,Jr,M,4,0,4,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2480298
 2023,North Carolina Tar Heels,21,Dewey Egan,"Egan, Dewey",Dewey,Egan,So,ATT,4,2,4,2,5,NA,5,14,0.357,9,0.643,NA,1,NA,NA,3,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2657224
 2023,North Carolina Tar Heels,47,Mark Hand,"Hand, Mark",Mark,Hand,Sr,DM,4,0,4,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2306936
@@ -1924,49 +1924,49 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Notre Dame Fighting Irish,42,Christian Gallaher,"Gallaher, Christian",Christian,Gallaher,Fr,FO,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813663
 2023,Notre Dame Fighting Irish,1,Thomas Ricciardelli,"Ricciardelli, Thomas",Thomas,Ricciardelli,Fr,GK,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813636
 2023,Notre Dame Fighting Irish,41,Mick Lee,"Lee, Mick",Mick,Lee,Jr,GK,1,0,1,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2476787
-2023,Ohio St. Buckeyes,34,Blake Eiland,"Eiland, Blake",Blake,Eiland,Fr,M,8,1,8,1,1,2,3,8,0.125,4,0.5,NA,NA,NA,9,4,1,2,5,0.4,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807878
+2023,Ohio St. Buckeyes,34,Blake Eiland,"Eiland, Blake",Blake,Eiland,Fr,M,9,1,9,1,2,2,4,9,0.222,5,0.556,NA,NA,NA,10,5,1,2,5,0.4,2,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807878
+2023,Ohio St. Buckeyes,42,Cullen Brown,"Brown, Cullen",Cullen,Brown,Fr,D,9,0,9,NA,NA,1,1,1,NA,1,1,NA,NA,NA,18,3,2,NA,1,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807874
+2023,Ohio St. Buckeyes,10,Ed Shean,"Shean, Ed",Ed,Shean,So,ATT,9,9,9,9,19,7,26,28,0.679,21,0.75,1,1,NA,11,10,2,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653214
+2023,Ohio St. Buckeyes,44,Bobby Van Buren,"Van Buren, Bobby",Bobby,Van Buren,So,D,9,9,9,9,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,11,NA,5,NA,0,NA,5,330,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653203
+2023,Ohio St. Buckeyes,38,Greg Langermeier,"Langermeier, Greg",Greg,Langermeier,Jr,M,9,0,9,NA,NA,2,2,4,NA,1,0.25,NA,NA,NA,16,2,7,NA,0,NA,3,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2483073
+2023,Ohio St. Buckeyes,8,Connor Cmiel,"Cmiel, Connor",Connor,Cmiel,Jr,M,9,0,9,NA,3,1,4,6,0.5,4,0.667,NA,NA,NA,17,7,2,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2473819
+2023,Ohio St. Buckeyes,18,Trent DiCicco,"DiCicco, Trent",Trent,DiCicco,Jr,M,9,0,9,NA,NA,NA,0,7,NA,1,0.143,NA,NA,NA,16,8,1,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2473812
+2023,Ohio St. Buckeyes,52,Jacob Snyder,"Snyder, Jacob",Jacob,Snyder,Sr,D,9,9,9,9,NA,NA,0,1,NA,NA,NA,NA,NA,NA,7,2,3,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303437
+2023,Ohio St. Buckeyes,25,Mitchell Pehlke,"Pehlke, Mitchell",Mitchell,Pehlke,Sr,ATT,9,0,9,NA,5,2,7,12,0.417,8,0.667,NA,NA,NA,2,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303418
+2023,Ohio St. Buckeyes,19,Kyle Borda,"Borda, Kyle",Kyle,Borda,Sr,M,9,8,9,8,13,4,17,43,0.302,20,0.465,1,NA,NA,7,5,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2132803
+2023,Ohio St. Buckeyes,16,Jason Knox,"Knox, Jason",Jason,Knox,Sr,ATT,9,3,9,3,5,1,6,13,0.385,7,0.538,NA,4,NA,4,2,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2128733
+2023,Ohio St. Buckeyes,2,Jack Myers,"Myers, Jack",Jack,Myers,Sr,ATT,9,9,9,9,11,17,28,50,0.22,27,0.54,1,NA,NA,13,13,2,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2126387
+2023,Ohio St. Buckeyes,6,Scott White,"White, Scott",Scott,White,Sr,ATT,9,8,9,8,9,3,12,30,0.3,18,0.6,NA,1,NA,4,8,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2126371
+2023,Ohio St. Buckeyes,1,Skylar Wahlund,"Wahlund, Skylar",Skylar,Wahlund,Sr,GK,9,9,9,9,1,NA,1,1,1,1,1,NA,NA,NA,30,7,3,NA,0,NA,NA,NA,9,9,491:14,93,11.359,96,0.508,NA,NA,NA,NA,NA,NA,2126370
+2023,Ohio St. Buckeyes,9,Marcus Hudgins,"Hudgins, Marcus",Marcus,Hudgins,Sr,D,9,9,9,9,NA,1,1,NA,NA,NA,NA,NA,NA,NA,16,2,10,NA,1,NA,4,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2116238
+2023,Ohio St. Buckeyes,43,Dillon Magee,"Magee, Dillon",Dillon,Magee,Fr,M,9,7,9,7,9,4,13,27,0.333,16,0.593,1,NA,NA,3,8,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807904
 2023,Ohio St. Buckeyes,20,Jonny Cool,"Cool, Jonny",Jonny,Cool,Fr,D,8,0,8,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,6,2,1,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807877
-2023,Ohio St. Buckeyes,42,Cullen Brown,"Brown, Cullen",Cullen,Brown,Fr,D,8,0,8,NA,NA,1,1,1,NA,1,1,NA,NA,NA,14,2,2,NA,1,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807874
-2023,Ohio St. Buckeyes,10,Ed Shean,"Shean, Ed",Ed,Shean,So,ATT,8,8,8,8,19,5,24,27,0.704,21,0.778,1,1,NA,10,9,2,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653214
-2023,Ohio St. Buckeyes,44,Bobby Van Buren,"Van Buren, Bobby",Bobby,Van Buren,So,D,8,8,8,8,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,10,NA,4,NA,0,NA,4,270,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653203
-2023,Ohio St. Buckeyes,38,Greg Langermeier,"Langermeier, Greg",Greg,Langermeier,Jr,M,8,0,8,NA,NA,2,2,4,NA,1,0.25,NA,NA,NA,15,2,7,NA,0,NA,3,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2483073
-2023,Ohio St. Buckeyes,8,Connor Cmiel,"Cmiel, Connor",Connor,Cmiel,Jr,M,8,0,8,NA,3,1,4,6,0.5,4,0.667,NA,NA,NA,17,5,2,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2473819
-2023,Ohio St. Buckeyes,18,Trent DiCicco,"DiCicco, Trent",Trent,DiCicco,Jr,M,8,0,8,NA,NA,NA,0,6,NA,1,0.167,NA,NA,NA,14,7,1,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2473812
 2023,Ohio St. Buckeyes,24,Connor Mitchell,"Mitchell, Connor",Connor,Mitchell,Sr,M,8,0,8,NA,3,NA,3,13,0.231,9,0.692,NA,NA,NA,NA,6,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303449
-2023,Ohio St. Buckeyes,52,Jacob Snyder,"Snyder, Jacob",Jacob,Snyder,Sr,D,8,8,8,8,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,7,2,3,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303437
-2023,Ohio St. Buckeyes,25,Mitchell Pehlke,"Pehlke, Mitchell",Mitchell,Pehlke,Sr,ATT,8,0,8,NA,4,1,5,10,0.4,7,0.7,NA,NA,NA,2,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303418
-2023,Ohio St. Buckeyes,19,Kyle Borda,"Borda, Kyle",Kyle,Borda,Sr,M,8,7,8,7,12,2,14,40,0.3,19,0.475,1,NA,NA,5,5,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2132803
-2023,Ohio St. Buckeyes,16,Jason Knox,"Knox, Jason",Jason,Knox,Sr,ATT,8,3,8,3,4,1,5,12,0.333,6,0.5,NA,3,NA,4,2,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2128733
-2023,Ohio St. Buckeyes,2,Jack Myers,"Myers, Jack",Jack,Myers,Sr,ATT,8,8,8,8,10,17,27,46,0.217,26,0.565,1,NA,NA,10,12,2,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2126387
-2023,Ohio St. Buckeyes,6,Scott White,"White, Scott",Scott,White,Sr,ATT,8,8,8,8,9,3,12,30,0.3,18,0.6,NA,1,NA,4,7,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2126371
-2023,Ohio St. Buckeyes,1,Skylar Wahlund,"Wahlund, Skylar",Skylar,Wahlund,Sr,GK,8,8,8,8,1,NA,1,1,1,1,1,NA,NA,NA,27,6,2,NA,0,NA,NA,NA,8,8,431:14,86,11.966,79,0.479,NA,NA,NA,NA,NA,NA,2126370
-2023,Ohio St. Buckeyes,9,Marcus Hudgins,"Hudgins, Marcus",Marcus,Hudgins,Sr,D,8,8,8,8,NA,1,1,NA,NA,NA,NA,NA,NA,NA,11,2,8,NA,1,NA,3,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2116238
-2023,Ohio St. Buckeyes,43,Dillon Magee,"Magee, Dillon",Dillon,Magee,Fr,M,8,6,8,6,8,3,11,22,0.364,11,0.5,1,NA,NA,3,8,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807904
-2023,Ohio St. Buckeyes,11,Stephen Zupicich,"Zupicich, Stephen",Stephen,Zupicich,Sr,D,7,0,7,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,2,NA,1,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303434
+2023,Ohio St. Buckeyes,11,Stephen Zupicich,"Zupicich, Stephen",Stephen,Zupicich,Sr,D,8,0,8,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,2,NA,1,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303434
 2023,Ohio St. Buckeyes,17,Drew Blanchard,"Blanchard, Drew",Drew,Blanchard,Sr,FO,7,0,7,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,32,3,NA,82,131,0.626,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1975744
+2023,Ohio St. Buckeyes,37,Justin Sherrer,"Sherrer, Justin",Justin,Sherrer,Sr,D,7,0,7,NA,1,1,2,1,1,1,1,1,NA,NA,12,1,6,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2321666
+2023,Ohio St. Buckeyes,28,Matthew Fritz,"Fritz, Matthew",Matthew,Fritz,So,FO,7,0,7,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,14,5,1,33,74,0.446,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653190
 2023,Ohio St. Buckeyes,21,Kyle Lewis,"Lewis, Kyle",Kyle,Lewis,Sr,M,6,0,6,NA,2,4,6,9,0.222,7,0.778,NA,NA,NA,1,5,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2141823
-2023,Ohio St. Buckeyes,28,Matthew Fritz,"Fritz, Matthew",Matthew,Fritz,So,FO,6,0,6,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,13,5,1,28,57,0.491,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653190
-2023,Ohio St. Buckeyes,37,Justin Sherrer,"Sherrer, Justin",Justin,Sherrer,Sr,D,6,0,6,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,8,1,5,NA,1,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2321666
+2023,Ohio St. Buckeyes,31,Matt Caputo,"Caputo, Matt",Matt,Caputo,Fr,ATT,5,2,5,2,7,1,8,17,0.412,9,0.529,NA,3,NA,2,2,1,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807876
+2023,Ohio St. Buckeyes,27,James Hogan,"Hogan, James",James,Hogan,Sr,FO,5,0,5,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,9,22,0.409,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303441
+2023,Ohio St. Buckeyes,4,Colby Smith,"Smith, Colby",Colby,Smith,Sr,ATT,5,3,5,3,10,NA,10,35,0.286,17,0.486,NA,3,NA,1,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1989466
 2023,Ohio St. Buckeyes,15,Carson Raney,"Raney, Carson",Carson,Raney,Sr,D,5,0,5,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,1,1,NA,0,NA,1,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303423
-2023,Ohio St. Buckeyes,13,Aidan Kenley,"Kenley, Aidan",Aidan,Kenley,So,M,4,0,4,NA,1,NA,1,3,0.333,2,0.667,NA,NA,NA,NA,1,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653198
-2023,Ohio St. Buckeyes,27,James Hogan,"Hogan, James",James,Hogan,Sr,FO,4,0,4,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,7,18,0.389,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303441
-2023,Ohio St. Buckeyes,4,Colby Smith,"Smith, Colby",Colby,Smith,Sr,ATT,4,2,4,2,6,NA,6,22,0.273,13,0.591,NA,3,NA,1,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1989466
-2023,Ohio St. Buckeyes,14,Richie LaCalandra,"LaCalandra, Richie",Richie,LaCalandra,Sr,ATT,4,4,4,4,1,5,6,12,0.083,5,0.417,NA,NA,NA,3,9,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2304285
 2023,Ohio St. Buckeyes,26,Garrett Nilsen,"Nilsen, Garrett",Garrett,Nilsen,Sr,ATT,4,0,4,NA,1,1,2,7,0.143,5,0.714,NA,NA,NA,1,2,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303421
+2023,Ohio St. Buckeyes,13,Aidan Kenley,"Kenley, Aidan",Aidan,Kenley,So,M,4,0,4,NA,1,NA,1,3,0.333,2,0.667,NA,NA,NA,NA,1,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653198
+2023,Ohio St. Buckeyes,14,Richie LaCalandra,"LaCalandra, Richie",Richie,LaCalandra,Sr,ATT,4,4,4,4,1,5,6,12,0.083,5,0.417,NA,NA,NA,3,9,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2304285
 2023,Ohio St. Buckeyes,45,Alex Marinier,"Marinier, Alex",Alex,Marinier,So,D,4,0,4,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,3,1,1,NA,0,NA,3,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653199
-2023,Ohio St. Buckeyes,31,Matt Caputo,"Caputo, Matt",Matt,Caputo,Fr,ATT,4,1,4,1,7,1,8,14,0.5,7,0.5,NA,3,NA,2,1,1,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807876
 2023,Ohio St. Buckeyes,5,Mitchell Sandberg,"Sandberg, Mitchell",Mitchell,Sandberg,Jr,ATT,3,0,3,NA,2,NA,2,3,0.667,2,0.667,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2473815
+2023,Ohio St. Buckeyes,23,Dante Bowen,"Bowen, Dante",Dante,Bowen,So,D,3,0,3,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653187
+2023,Ohio St. Buckeyes,48,Griffin Liedel,"Liedel, Griffin",Griffin,Liedel,Fr,D,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807902
 2023,Ohio St. Buckeyes,47,Sam Burns,"Burns, Sam",Sam,Burns,Fr,M,3,0,3,NA,NA,NA,0,2,NA,1,0.5,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807875
 2023,Ohio St. Buckeyes,32,Tate Jones,"Jones, Tate",Tate,Jones,Fr,M,3,0,3,NA,1,NA,1,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807900
 2023,Ohio St. Buckeyes,40,Carter Hilleary,"Hilleary, Carter",Carter,Hilleary,Sr,M,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303464
-2023,Ohio St. Buckeyes,23,Dante Bowen,"Bowen, Dante",Dante,Bowen,So,D,3,0,3,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653187
-2023,Ohio St. Buckeyes,48,Griffin Liedel,"Liedel, Griffin",Griffin,Liedel,Fr,D,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807902
 2023,Ohio St. Buckeyes,50,Oran Gelinas,"Gelinas, Oran",Oran,Gelinas,Fr,GK,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,2,NA,27:07,6,13.276,1,0.143,NA,NA,NA,NA,NA,NA,2807899
-2023,Ohio St. Buckeyes,39,Taji Flynn,"Flynn, Taji",Taji,Flynn,So,D,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653179
-2023,Ohio St. Buckeyes,12,Caton Johnson,"Johnson, Caton",Caton,Johnson,Sr,GK,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,2,NA,21:39,4,11.085,3,0.429,NA,NA,NA,NA,NA,NA,2116817
-2023,Ohio St. Buckeyes,29,Gavin Begonia,"Begonia, Gavin",Gavin,Begonia,Fr,M,2,0,2,NA,NA,NA,0,2,NA,2,1,NA,NA,NA,1,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807873
 2023,Ohio St. Buckeyes,36,Matt Mercer,"Mercer, Matt",Matt,Mercer,So,D,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653212
-2023,Ohio St. Buckeyes,3,Ari Allen,"Allen, Ari",Ari,Allen,So,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653186
+2023,Ohio St. Buckeyes,39,Taji Flynn,"Flynn, Taji",Taji,Flynn,So,D,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653179
+2023,Ohio St. Buckeyes,29,Gavin Begonia,"Begonia, Gavin",Gavin,Begonia,Fr,M,2,0,2,NA,NA,NA,0,2,NA,2,1,NA,NA,NA,1,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807873
+2023,Ohio St. Buckeyes,12,Caton Johnson,"Johnson, Caton",Caton,Johnson,Sr,GK,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,2,NA,21:39,4,11.085,3,0.429,NA,NA,NA,NA,NA,NA,2116817
+2023,Ohio St. Buckeyes,3,Ari Allen,"Allen, Ari",Ari,Allen,So,M,2,0,2,NA,NA,NA,0,1,NA,1,1,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2653186
 2023,Ohio St. Buckeyes,33,Coleman Kraske,"Kraske, Coleman",Coleman,Kraske,Fr,FO,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,2,6,0.333,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2807901
 2023,Penn Quakers,60,Tynan Walsh,"Walsh, Tynan",Tynan,Walsh,So,ATT,7,3,7,3,3,4,7,6,0.5,5,0.833,NA,NA,NA,5,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2658410
 2023,Penn Quakers,48,Casey Mulligan,"Mulligan, Casey",Casey,Mulligan,So,M,7,0,7,NA,2,NA,2,6,0.333,2,0.333,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2658402
@@ -2205,53 +2205,53 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Quinnipiac Bobcats,21,Griffin Fitzmaurice,"Fitzmaurice, Griffin",Griffin,Fitzmaurice,Sr,GK,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2332717
 2023,Quinnipiac Bobcats,27,Adam Woodcock,"Woodcock, Adam",Adam,Woodcock,Jr,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2478699
 2023,Quinnipiac Bobcats,35,Max Pauwels,"Pauwels, Max",Max,Pauwels,Fr,FO,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2820809
-2023,Richmond Spiders,37,Joe Sheridan,"Sheridan, Joe",Joe,Sheridan,Fr,M,7,2,7,2,7,1,8,15,0.467,8,0.533,NA,NA,NA,7,8,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809403
-2023,Richmond Spiders,6,Hunter Smith,"Smith, Hunter",Hunter,Smith,Fr,D,7,0,7,NA,1,NA,1,2,0.5,2,1,NA,NA,NA,8,1,4,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809391
-2023,Richmond Spiders,10,Brandon Smith,"Smith, Brandon",Brandon,Smith,Sr,M,7,0,7,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,3,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809389
-2023,Richmond Spiders,19,Jack Pilling,"Pilling, Jack",Jack,Pilling,Fr,M,7,0,7,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,6,NA,5,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809387
-2023,Richmond Spiders,5,Aidan O'Neil,"O'Neil, Aidan",Aidan,O'Neil,Fr,ATT,7,7,7,7,10,6,16,24,0.417,17,0.708,NA,NA,NA,5,9,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809385
-2023,Richmond Spiders,42,Max Merklinger,"Merklinger, Max",Max,Merklinger,So,ATT,7,5,7,5,5,3,8,26,0.192,7,0.269,NA,NA,NA,5,3,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669520
-2023,Richmond Spiders,13,Henry Alpaugh,"Alpaugh, Henry",Henry,Alpaugh,So,M,7,1,7,1,4,1,5,19,0.211,7,0.368,NA,4,NA,2,6,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669513
-2023,Richmond Spiders,23,Jared Chenoy,"Chenoy, Jared",Jared,Chenoy,So,FO,7,0,7,NA,NA,1,1,3,NA,2,0.667,NA,NA,NA,40,2,2,84,158,0.532,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669443
+2023,Richmond Spiders,37,Joe Sheridan,"Sheridan, Joe",Joe,Sheridan,Fr,M,8,3,8,3,7,1,8,16,0.438,8,0.5,NA,NA,NA,8,8,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809403
+2023,Richmond Spiders,6,Hunter Smith,"Smith, Hunter",Hunter,Smith,Fr,D,8,1,8,1,1,NA,1,2,0.5,2,1,NA,NA,NA,12,2,4,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809391
+2023,Richmond Spiders,10,Brandon Smith,"Smith, Brandon",Brandon,Smith,Sr,M,8,0,8,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,4,3,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809389
+2023,Richmond Spiders,19,Jack Pilling,"Pilling, Jack",Jack,Pilling,Fr,M,8,0,8,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,8,NA,5,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809387
+2023,Richmond Spiders,5,Aidan O'Neil,"O'Neil, Aidan",Aidan,O'Neil,Fr,ATT,8,8,8,8,12,6,18,30,0.4,22,0.733,NA,NA,NA,6,10,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809385
+2023,Richmond Spiders,42,Max Merklinger,"Merklinger, Max",Max,Merklinger,So,ATT,8,6,8,6,5,4,9,26,0.192,7,0.269,NA,NA,NA,5,4,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669520
+2023,Richmond Spiders,13,Henry Alpaugh,"Alpaugh, Henry",Henry,Alpaugh,So,M,8,1,8,1,5,1,6,21,0.238,8,0.381,NA,4,NA,2,6,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669513
+2023,Richmond Spiders,23,Jared Chenoy,"Chenoy, Jared",Jared,Chenoy,So,FO,8,0,8,NA,NA,1,1,3,NA,2,0.667,NA,NA,NA,51,3,2,99,179,0.553,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669443
+2023,Richmond Spiders,47,Zach Vigue,"Vigue, Zach",Zach,Vigue,Jr,GK,8,8,8,8,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,5,2,NA,NA,0,NA,NA,NA,8,7,439:50,78,10.64,81,0.509,NA,NA,NA,NA,NA,NA,2462270
+2023,Richmond Spiders,7,Jeff Nugent,"Nugent, Jeff",Jeff,Nugent,Jr,M,8,0,8,NA,1,1,2,9,0.111,8,0.889,NA,NA,NA,5,4,6,NA,0,NA,5,240,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2462269
+2023,Richmond Spiders,2,Lance Madonna,"Madonna, Lance",Lance,Madonna,Jr,ATT,8,8,8,8,15,5,20,41,0.366,28,0.683,3,5,NA,3,11,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2462262
+2023,Richmond Spiders,15,Will Tazewell,"Tazewell, Will",Will,Tazewell,Jr,M,8,0,8,NA,2,NA,2,8,0.25,6,0.75,NA,NA,NA,1,3,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2462254
+2023,Richmond Spiders,14,Luke Grayum,"Grayum, Luke",Luke,Grayum,Jr,ATT,8,7,8,7,11,13,24,28,0.393,20,0.714,1,2,NA,8,16,5,NA,0,NA,2,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2462250
+2023,Richmond Spiders,77,Jack Fabean,"Fabean, Jack",Jack,Fabean,Sr,D,8,8,8,8,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,9,1,4,NA,0,NA,3,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303863
+2023,Richmond Spiders,41,Jake Kapp,"Kapp, Jake",Jake,Kapp,Sr,D,8,1,8,1,NA,NA,0,2,NA,2,1,NA,NA,NA,13,4,5,NA,0,NA,4,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303861
+2023,Richmond Spiders,36,Joe Gooley,"Gooley, Joe",Joe,Gooley,Sr,M,8,0,8,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,10,5,NA,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303858
+2023,Richmond Spiders,21,Dalton Young,"Young, Dalton",Dalton,Young,Sr,ATT,8,8,8,8,12,19,31,41,0.293,23,0.561,NA,NA,NA,19,26,3,NA,0,NA,3,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303843
+2023,Richmond Spiders,8,Derrek Madonna,"Madonna, Derrek",Derrek,Madonna,Sr,M,8,7,8,7,10,5,15,37,0.27,21,0.568,1,2,NA,9,6,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2128735
+2023,Richmond Spiders,45,Jake Saunders,"Saunders, Jake",Jake,Saunders,Sr,D,8,8,8,8,NA,NA,0,1,NA,NA,NA,NA,NA,NA,25,3,18,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2127575
+2023,Richmond Spiders,20,Mitch Pfeiffer,"Pfeiffer, Mitch",Mitch,Pfeiffer,Sr,M,7,0,7,NA,NA,NA,0,5,NA,2,0.4,NA,NA,NA,1,2,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303826
+2023,Richmond Spiders,4,Xander Welty,"Welty, Xander",Xander,Welty,So,M,7,0,7,NA,2,NA,2,7,0.286,6,0.857,NA,NA,NA,2,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669441
 2023,Richmond Spiders,27,Anthony Romano,"Romano, Anthony",Anthony,Romano,So,D,7,6,7,6,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,8,1,6,NA,0,NA,3,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669442
-2023,Richmond Spiders,47,Zach Vigue,"Vigue, Zach",Zach,Vigue,Jr,GK,7,7,7,7,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,5,2,NA,NA,0,NA,NA,NA,7,6,379:50,70,11.057,70,0.5,NA,NA,NA,NA,NA,NA,2462270
-2023,Richmond Spiders,7,Jeff Nugent,"Nugent, Jeff",Jeff,Nugent,Jr,M,7,0,7,NA,1,1,2,9,0.111,8,0.889,NA,NA,NA,5,3,6,NA,0,NA,5,240,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2462269
-2023,Richmond Spiders,2,Lance Madonna,"Madonna, Lance",Lance,Madonna,Jr,ATT,7,7,7,7,12,5,17,31,0.387,23,0.742,2,4,NA,3,9,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2462262
-2023,Richmond Spiders,15,Will Tazewell,"Tazewell, Will",Will,Tazewell,Jr,M,7,0,7,NA,2,NA,2,7,0.286,5,0.714,NA,NA,NA,1,2,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2462254
-2023,Richmond Spiders,14,Luke Grayum,"Grayum, Luke",Luke,Grayum,Jr,ATT,7,7,7,7,10,12,22,24,0.417,18,0.75,1,2,NA,7,16,5,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2462250
-2023,Richmond Spiders,77,Jack Fabean,"Fabean, Jack",Jack,Fabean,Sr,D,7,7,7,7,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,9,1,4,NA,0,NA,3,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303863
-2023,Richmond Spiders,41,Jake Kapp,"Kapp, Jake",Jake,Kapp,Sr,D,7,1,7,1,NA,NA,0,2,NA,2,1,NA,NA,NA,12,3,5,NA,0,NA,4,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303861
-2023,Richmond Spiders,36,Joe Gooley,"Gooley, Joe",Joe,Gooley,Sr,M,7,0,7,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,9,4,NA,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303858
-2023,Richmond Spiders,21,Dalton Young,"Young, Dalton",Dalton,Young,Sr,ATT,7,7,7,7,10,14,24,35,0.286,20,0.571,NA,NA,NA,17,24,2,NA,0,NA,2,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303843
-2023,Richmond Spiders,8,Derrek Madonna,"Madonna, Derrek",Derrek,Madonna,Sr,M,7,6,7,6,8,4,12,29,0.276,15,0.517,1,2,NA,7,3,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2128735
-2023,Richmond Spiders,45,Jake Saunders,"Saunders, Jake",Jake,Saunders,Sr,D,7,7,7,7,NA,NA,0,1,NA,NA,NA,NA,NA,NA,21,3,13,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2127575
-2023,Richmond Spiders,40,Tommy Stull,"Stull, Tommy",Tommy,Stull,So,D,6,0,6,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,9,3,4,NA,2,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669444
-2023,Richmond Spiders,4,Xander Welty,"Welty, Xander",Xander,Welty,So,M,6,0,6,NA,2,NA,2,7,0.286,6,0.857,NA,NA,NA,2,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669441
-2023,Richmond Spiders,20,Mitch Pfeiffer,"Pfeiffer, Mitch",Mitch,Pfeiffer,Sr,M,6,0,6,NA,NA,NA,0,5,NA,2,0.4,NA,NA,NA,1,2,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303826
+2023,Richmond Spiders,40,Tommy Stull,"Stull, Tommy",Tommy,Stull,So,D,7,0,7,NA,NA,NA,0,2,NA,1,0.5,NA,NA,NA,11,3,4,NA,2,NA,3,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669444
+2023,Richmond Spiders,48,Michael Farrell,"Farrell, Michael",Michael,Farrell,So,D,6,0,6,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669521
 2023,Richmond Spiders,24,Lukas Olsson,"Olsson, Lukas",Lukas,Olsson,So,ATT,6,0,6,NA,1,NA,1,4,0.25,2,0.5,NA,NA,NA,1,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669516
 2023,Richmond Spiders,26,Ryan Thompson,"Thompson, Ryan",Ryan,Thompson,Fr,M,5,0,5,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,3,1,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809407
-2023,Richmond Spiders,48,Michael Farrell,"Farrell, Michael",Michael,Farrell,So,D,5,0,5,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669521
-2023,Richmond Spiders,11,Aidan Fairchild,"Fairchild, Aidan",Aidan,Fairchild,Fr,D,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809375
+2023,Richmond Spiders,11,Aidan Fairchild,"Fairchild, Aidan",Aidan,Fairchild,Fr,D,4,0,4,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,NA,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809375
 2023,Richmond Spiders,34,Anthony DiCenso,"DiCenso, Anthony",Anthony,DiCenso,Fr,FO,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,5,10,0.5,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809373
+2023,Richmond Spiders,35,Trent Grainger,"Grainger, Trent",Trent,Grainger,So,FO,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,2,5,0.4,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652534
 2023,Richmond Spiders,33,Braden McClure,"McClure, Braden",Braden,McClure,Jr,D,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,3,NA,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2462253
-2023,Richmond Spiders,38,Brendan Murphy,"Murphy, Brendan",Brendan,Murphy,Jr,ATT,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669519
-2023,Richmond Spiders,30,Bo Brown,"Brown, Bo",Bo,Brown,So,GK,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669518
-2023,Richmond Spiders,3,Brendan O'Berry,"O'Berry, Brendan",Brendan,O'Berry,Jr,D,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2462271
-2023,Richmond Spiders,50,Jackson Carawan,"Carawan, Jackson",Jackson,Carawan,Fr,ATT,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809370
 2023,Richmond Spiders,22,Leo Caine,"Caine, Leo",Leo,Caine,Fr,ATT,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809367
-2023,Richmond Spiders,35,Trent Grainger,"Grainger, Trent",Trent,Grainger,So,FO,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,4,0.5,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652534
+2023,Richmond Spiders,50,Jackson Carawan,"Carawan, Jackson",Jackson,Carawan,Fr,ATT,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809370
+2023,Richmond Spiders,3,Brendan O'Berry,"O'Berry, Brendan",Brendan,O'Berry,Jr,D,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2462271
 2023,Richmond Spiders,16,Jack Ricciardi,"Ricciardi, Jack",Jack,Ricciardi,Fr,M,2,0,2,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809388
 2023,Richmond Spiders,18,Jack Averna,"Averna, Jack",Jack,Averna,Sr,M,2,0,2,NA,NA,NA,0,2,NA,1,0.5,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2133652
 2023,Richmond Spiders,32,Devin Craven,"Craven, Devin",Devin,Craven,Sr,GK,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,2,NA,37:25,8,12.829,4,0.333,1,NA,NA,NA,NA,NA,2303845
 2023,Richmond Spiders,91,Matt Civitella,"Civitella, Matt",Matt,Civitella,Jr,M,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303850
-2023,Richmond Spiders,28,Drew Tenzer,"Tenzer, Drew",Drew,Tenzer,Fr,LSM,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809393
-2023,Richmond Spiders,25,Kieran Laurie,"Laurie, Kieran",Kieran,Laurie,Jr,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303832
-2023,Richmond Spiders,1,Ryan Spilman,"Spilman, Ryan",Ryan,Spilman,So,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669514
+2023,Richmond Spiders,38,Brendan Murphy,"Murphy, Brendan",Brendan,Murphy,Jr,ATT,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669519
+2023,Richmond Spiders,30,Bo Brown,"Brown, Bo",Bo,Brown,So,GK,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669518
 2023,Richmond Spiders,31,Connor Knight,"Knight, Connor",Connor,Knight,Fr,GK,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,1,NA,2:45,1,21.818,NA,NA,NA,NA,NA,NA,NA,NA,2809380
+2023,Richmond Spiders,1,Ryan Spilman,"Spilman, Ryan",Ryan,Spilman,So,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669514
+2023,Richmond Spiders,25,Kieran Laurie,"Laurie, Kieran",Kieran,Laurie,Jr,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303832
+2023,Richmond Spiders,28,Drew Tenzer,"Tenzer, Drew",Drew,Tenzer,Fr,LSM,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809393
 2023,Robert Morris Colonials,31,Elliot Holden,"Holden, Elliot",Elliot,Holden,Sr,ATT,7,6,7,6,8,4,12,30,0.267,15,0.5,NA,2,NA,11,8,2,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2308241
 2023,Robert Morris Colonials,51,Nick Pelletier,"Pelletier, Nick",Nick,Pelletier,So,M,7,4,7,4,6,2,8,8,0.75,8,1,NA,1,NA,9,11,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669026
 2023,Robert Morris Colonials,18,Colton Lidstone,"Lidstone, Colton",Colton,Lidstone,Sr,M,7,3,7,3,3,5,8,10,0.3,5,0.5,NA,2,NA,3,2,2,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2115342
-2023,Robert Morris Colonials,20,James Christoforatos,"Christoforatos, James",James,Christoforatos,Sr,D,7,2,7,2,3,2,5,6,0.5,4,0.667,NA,NA,NA,13,3,3,NA,0,NA,4,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2115343
+2023,Robert Morris Colonials,20,James Christoforatos,"Christoforatos, James",James,Christoforatos,Sr,D,7,2,7,2,3,3,6,6,0.5,4,0.667,NA,NA,NA,13,3,3,NA,0,NA,4,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2115343
 2023,Robert Morris Colonials,47,David Burr,"Burr, David",David,Burr,So,ATT,7,4,7,4,13,6,19,46,0.283,21,0.457,2,5,NA,5,4,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2491152
 2023,Robert Morris Colonials,9,Ben Starkey,"Starkey, Ben",Ben,Starkey,Sr,ATT,7,0,7,NA,6,2,8,21,0.286,11,0.524,NA,NA,NA,6,6,2,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2308234
 2023,Robert Morris Colonials,41,Taggart Clark,"Clark, Taggart",Taggart,Clark,Sr,ATT,7,7,7,7,15,4,19,36,0.417,26,0.722,2,2,NA,13,15,5,NA,0,NA,3,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2115347
@@ -2286,49 +2286,49 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Robert Morris Colonials,26,Jackson Foord,"Foord, Jackson",Jackson,Foord,Fr,M,1,0,1,NA,1,NA,1,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2820781
 2023,Robert Morris Colonials,52,Matt King,"King, Matt",Matt,King,Fr,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2820812
 2023,Robert Morris Colonials,1,Nathan Gabriel,"Gabriel, Nathan",Nathan,Gabriel,So,D,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2669024
-2023,Rutgers Scarlet Knights,17,Ryan Splaine,"Splaine, Ryan",Ryan,Splaine,Fr,LSM,8,0,8,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,18,3,2,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813031
-2023,Rutgers Scarlet Knights,23,Andrew Macheca,"Macheca, Andrew",Andrew,Macheca,Fr,M,8,0,8,NA,NA,NA,0,1,NA,1,1,NA,NA,NA,6,NA,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2812933
-2023,Rutgers Scarlet Knights,1,Dante Kulas,"Kulas, Dante",Dante,Kulas,So,ATT,8,8,8,8,22,8,30,45,0.489,31,0.689,1,3,NA,11,3,1,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2659918
-2023,Rutgers Scarlet Knights,33,Jack Aimone,"Aimone, Jack",Jack,Aimone,Jr,M,8,8,8,8,15,3,18,53,0.283,35,0.66,NA,1,NA,8,6,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2491150
-2023,Rutgers Scarlet Knights,27,Shane Knobloch,"Knobloch, Shane",Shane,Knobloch,Jr,M,8,8,8,8,9,12,21,46,0.196,26,0.565,1,1,NA,12,9,3,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2491149
-2023,Rutgers Scarlet Knights,12,Nick Teresky,"Teresky, Nick",Nick,Teresky,Jr,M,8,0,8,NA,3,2,5,9,0.333,5,0.556,NA,NA,NA,1,3,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2491147
+2023,Rutgers Scarlet Knights,17,Ryan Splaine,"Splaine, Ryan",Ryan,Splaine,Fr,LSM,9,0,9,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,19,3,4,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813031
+2023,Rutgers Scarlet Knights,23,Andrew Macheca,"Macheca, Andrew",Andrew,Macheca,Fr,M,9,0,9,NA,NA,NA,0,1,NA,1,1,NA,NA,NA,6,NA,2,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2812933
+2023,Rutgers Scarlet Knights,1,Dante Kulas,"Kulas, Dante",Dante,Kulas,So,ATT,9,9,9,9,23,8,31,49,0.469,34,0.694,1,3,NA,12,5,1,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2659918
+2023,Rutgers Scarlet Knights,33,Jack Aimone,"Aimone, Jack",Jack,Aimone,Jr,M,9,9,9,9,16,5,21,56,0.286,36,0.643,NA,1,NA,8,7,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2491150
+2023,Rutgers Scarlet Knights,27,Shane Knobloch,"Knobloch, Shane",Shane,Knobloch,Jr,M,9,9,9,9,10,13,23,51,0.196,28,0.549,1,2,NA,12,13,4,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2491149
+2023,Rutgers Scarlet Knights,12,Nick Teresky,"Teresky, Nick",Nick,Teresky,Jr,M,9,0,9,NA,3,2,5,13,0.231,7,0.538,NA,NA,NA,1,3,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2491147
+2023,Rutgers Scarlet Knights,5,Ross Scott,"Scott, Ross",Ross,Scott,Sr,ATT,9,9,9,9,22,7,29,75,0.293,46,0.613,3,NA,NA,13,6,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2327771
+2023,Rutgers Scarlet Knights,21,Noah Daniels,"Daniels, Noah",Noah,Daniels,Sr,DM,9,0,9,NA,5,3,8,12,0.417,7,0.583,NA,NA,NA,20,4,8,NA,0,NA,2,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2131304
+2023,Rutgers Scarlet Knights,66,Ryan Decker,"Decker, Ryan",Ryan,Decker,Sr,M,9,0,9,NA,NA,2,2,2,NA,1,0.5,NA,NA,NA,10,3,3,NA,0,NA,5,270,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2130291
+2023,Rutgers Scarlet Knights,88,Bobby Russo,"Russo, Bobby",Bobby,Russo,Sr,D,9,9,9,9,1,1,2,3,0.333,2,0.667,NA,NA,NA,26,8,11,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2114273
+2023,Rutgers Scarlet Knights,54,Jack Stahanczyk,"Stahanczyk, Jack",Jack,Stahanczyk,Sr,D,9,9,9,9,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,26,2,3,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2114264
+2023,Rutgers Scarlet Knights,55,Brad Apgar,"Apgar, Brad",Brad,Apgar,Sr,D,9,9,9,9,NA,NA,0,1,NA,NA,NA,NA,NA,NA,11,1,10,NA,0,NA,4,270,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1989381
+2023,Rutgers Scarlet Knights,50,Kyle Mullin,"Mullin, Kyle",Kyle,Mullin,Sr,GK,9,9,9,9,NA,NA,0,1,NA,NA,NA,NA,NA,NA,17,4,3,NA,0,NA,1,30,9,9,527:01,83,9.449,98,0.541,NA,NA,NA,NA,NA,NA,1983452
+2023,Rutgers Scarlet Knights,22,Eric Civetti,"Civetti, Eric",Eric,Civetti,Sr,ATT,8,3,8,3,8,NA,8,22,0.364,20,0.909,NA,2,NA,4,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2114286
 2023,Rutgers Scarlet Knights,6,Jon Miller,"Miller, Jon",Jon,Miller,So,M,8,0,8,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,2,3,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2465319
-2023,Rutgers Scarlet Knights,5,Ross Scott,"Scott, Ross",Ross,Scott,Sr,ATT,8,8,8,8,22,7,29,67,0.328,43,0.642,3,NA,NA,12,6,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2327771
-2023,Rutgers Scarlet Knights,21,Noah Daniels,"Daniels, Noah",Noah,Daniels,Sr,DM,8,0,8,NA,3,3,6,8,0.375,4,0.5,NA,NA,NA,19,4,8,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2131304
-2023,Rutgers Scarlet Knights,66,Ryan Decker,"Decker, Ryan",Ryan,Decker,Sr,M,8,0,8,NA,NA,2,2,1,NA,NA,NA,NA,NA,NA,10,3,3,NA,0,NA,4,240,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2130291
-2023,Rutgers Scarlet Knights,88,Bobby Russo,"Russo, Bobby",Bobby,Russo,Sr,D,8,8,8,8,1,1,2,3,0.333,2,0.667,NA,NA,NA,24,8,10,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2114273
-2023,Rutgers Scarlet Knights,54,Jack Stahanczyk,"Stahanczyk, Jack",Jack,Stahanczyk,Sr,D,8,8,8,8,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,26,2,2,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2114264
-2023,Rutgers Scarlet Knights,55,Brad Apgar,"Apgar, Brad",Brad,Apgar,Sr,D,8,8,8,8,NA,NA,0,1,NA,NA,NA,NA,NA,NA,9,1,10,NA,0,NA,4,270,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1989381
-2023,Rutgers Scarlet Knights,50,Kyle Mullin,"Mullin, Kyle",Kyle,Mullin,Sr,GK,8,8,8,8,NA,NA,0,1,NA,NA,NA,NA,NA,NA,16,4,2,NA,0,NA,NA,NA,8,8,467:23,72,9.243,91,0.558,NA,NA,NA,NA,NA,NA,1983452
-2023,Rutgers Scarlet Knights,7,Logan Peters,"Peters, Logan",Logan,Peters,So,M,7,0,7,NA,1,1,2,5,0.2,1,0.2,NA,NA,NA,2,4,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2659897
-2023,Rutgers Scarlet Knights,31,James Ringer,"Ringer, James",James,Ringer,Sr,M,7,0,7,NA,1,1,2,9,0.111,4,0.444,NA,NA,NA,3,4,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2327766
-2023,Rutgers Scarlet Knights,3,Joe Neuman,"Neuman, Joe",Joe,Neuman,Sr,FO,7,0,7,NA,1,2,3,3,0.333,2,0.667,NA,NA,NA,20,1,1,50,86,0.581,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2116691
-2023,Rutgers Scarlet Knights,29,Ethan Rall,"Rall, Ethan",Ethan,Rall,Sr,DM,7,0,7,NA,NA,NA,0,3,NA,1,0.333,NA,NA,NA,23,2,10,NA,0,NA,2,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2114287
-2023,Rutgers Scarlet Knights,22,Eric Civetti,"Civetti, Eric",Eric,Civetti,Sr,ATT,7,2,7,2,6,NA,6,15,0.4,13,0.867,NA,2,NA,4,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2114286
-2023,Rutgers Scarlet Knights,91,Jonathan Dugenio,"Dugenio, Jonathan",Jonathan,Dugenio,Sr,FO,7,0,7,NA,NA,2,2,4,NA,1,0.25,NA,NA,NA,27,3,1,68,119,0.571,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305696
+2023,Rutgers Scarlet Knights,0,David Sprock,"Sprock, David",David,Sprock,Sr,M,8,8,8,8,7,1,8,30,0.233,19,0.633,NA,NA,NA,4,5,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2114260
+2023,Rutgers Scarlet Knights,91,Jonathan Dugenio,"Dugenio, Jonathan",Jonathan,Dugenio,Sr,FO,8,0,8,NA,NA,2,2,6,NA,1,0.167,NA,NA,NA,38,3,1,82,139,0.59,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305696
+2023,Rutgers Scarlet Knights,3,Joe Neuman,"Neuman, Joe",Joe,Neuman,Sr,FO,8,0,8,NA,1,2,3,3,0.333,2,0.667,NA,NA,NA,20,1,1,50,87,0.575,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2116691
+2023,Rutgers Scarlet Knights,32,Remington Reynolds,"Reynolds, Remington",Remington,Reynolds,So,M,8,0,8,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,NA,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2659902
+2023,Rutgers Scarlet Knights,29,Ethan Rall,"Rall, Ethan",Ethan,Rall,Sr,DM,8,0,8,NA,NA,1,1,4,NA,1,0.25,NA,NA,NA,26,2,10,NA,0,NA,2,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2114287
+2023,Rutgers Scarlet Knights,31,James Ringer,"Ringer, James",James,Ringer,Sr,M,8,0,8,NA,1,1,2,9,0.111,4,0.444,NA,NA,NA,3,4,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2327766
+2023,Rutgers Scarlet Knights,8,Brady Kurdyla,"Kurdyla, Brady",Brady,Kurdyla,Fr,ATT,7,0,7,NA,1,1,2,6,0.167,4,0.667,NA,NA,NA,4,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813022
 2023,Rutgers Scarlet Knights,77,LaJhon Jones,"Jones, LaJhon",LaJhon,Jones,Jr,D,7,0,7,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,0,NA,3,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2310614
-2023,Rutgers Scarlet Knights,32,Remington Reynolds,"Reynolds, Remington",Remington,Reynolds,So,M,7,0,7,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,NA,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2659902
+2023,Rutgers Scarlet Knights,7,Logan Peters,"Peters, Logan",Logan,Peters,So,M,7,0,7,NA,1,1,2,5,0.2,1,0.2,NA,NA,NA,2,4,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2659897
 2023,Rutgers Scarlet Knights,11,Brian Cameron,"Cameron, Brian",Brian,Cameron,Sr,ATT,7,7,7,7,20,9,29,54,0.37,38,0.704,2,1,NA,11,5,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2116815
-2023,Rutgers Scarlet Knights,0,David Sprock,"Sprock, David",David,Sprock,Sr,M,7,7,7,7,7,1,8,26,0.269,17,0.654,NA,NA,NA,4,3,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2114260
-2023,Rutgers Scarlet Knights,8,Brady Kurdyla,"Kurdyla, Brady",Brady,Kurdyla,Fr,ATT,6,0,6,NA,1,1,2,6,0.167,4,0.667,NA,NA,NA,4,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813022
-2023,Rutgers Scarlet Knights,28,Tommy Mendyke,"Mendyke, Tommy",Tommy,Mendyke,So,D,6,0,6,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2659901
+2023,Rutgers Scarlet Knights,28,Tommy Mendyke,"Mendyke, Tommy",Tommy,Mendyke,So,D,7,0,7,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2659901
+2023,Rutgers Scarlet Knights,9,Shane Murphy,"Murphy, Shane",Shane,Murphy,Fr,ATT,6,0,6,NA,3,1,4,10,0.3,4,0.4,NA,NA,NA,1,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2812934
 2023,Rutgers Scarlet Knights,15,Andrew Kim,"Kim, Andrew",Andrew,Kim,Sr,M,5,0,5,NA,NA,1,1,4,NA,2,0.5,NA,NA,NA,1,3,NA,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2133573
-2023,Rutgers Scarlet Knights,9,Shane Murphy,"Murphy, Shane",Shane,Murphy,Fr,ATT,5,0,5,NA,3,1,4,10,0.3,4,0.4,NA,NA,NA,1,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2812934
+2023,Rutgers Scarlet Knights,16,Justin Kim,"Kim, Justin",Justin,Kim,Sr,M,5,0,5,NA,1,2,3,5,0.2,3,0.6,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2133574
 2023,Rutgers Scarlet Knights,24,Dominic Carter,"Carter, Dominic",Dominic,Carter,Sr,ATT,4,0,4,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2327627
-2023,Rutgers Scarlet Knights,16,Justin Kim,"Kim, Justin",Justin,Kim,Sr,M,4,0,4,NA,1,2,3,5,0.2,3,0.6,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2133574
 2023,Rutgers Scarlet Knights,44,Zach Walsh,"Walsh, Zach",Zach,Walsh,Fr,ATT,4,0,4,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813036
 2023,Rutgers Scarlet Knights,40,Justin Lawler,"Lawler, Justin",Justin,Lawler,So,M,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2659924
-2023,Rutgers Scarlet Knights,19,Ben McKelvy,"McKelvy, Ben",Ben,McKelvy,So,D,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2659920
 2023,Rutgers Scarlet Knights,99,Luke Romanek,"Romanek, Luke",Luke,Romanek,So,FO,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,3,9,0.333,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2659927
 2023,Rutgers Scarlet Knights,4,Mitch Baker,"Baker, Mitch",Mitch,Baker,Sr,ATT,3,0,3,NA,1,NA,1,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2812932
+2023,Rutgers Scarlet Knights,19,Ben McKelvy,"McKelvy, Ben",Ben,McKelvy,So,D,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2659920
 2023,Rutgers Scarlet Knights,14,Ryan Palmer,"Palmer, Ryan",Ryan,Palmer,Fr,M,3,0,3,NA,NA,NA,0,7,NA,3,0.429,NA,NA,NA,2,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813029
 2023,Rutgers Scarlet Knights,10,Matthew Dollive,"Dollive, Matthew",Matthew,Dollive,Fr,M,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813020
+2023,Rutgers Scarlet Knights,30,Anthony Palma,"Palma, Anthony",Anthony,Palma,Sr,GK,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,3,NA,16:34,1,3.622,4,0.8,NA,NA,NA,NA,NA,NA,2127839
 2023,Rutgers Scarlet Knights,51,Zak Conley,"Conley, Zak",Zak,Conley,Jr,D,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2503597
 2023,Rutgers Scarlet Knights,41,Mason Rickens,"Rickens, Mason",Mason,Rickens,Jr,M,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2491153
-2023,Rutgers Scarlet Knights,30,Anthony Palma,"Palma, Anthony",Anthony,Palma,Sr,GK,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,2,NA,16:12,1,3.704,4,0.8,NA,NA,NA,NA,NA,NA,2127839
-2023,Rutgers Scarlet Knights,45,Christian Maisel,"Maisel, Christian",Christian,Maisel,So,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2659926
 2023,Rutgers Scarlet Knights,42,Jake Norgard,"Norgard, Jake",Jake,Norgard,Sr,D,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2327740
 2023,Rutgers Scarlet Knights,47,Liam Gray,"Gray, Liam",Liam,Gray,Jr,GK,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,1,NA,2:25,0,0,NA,NA,NA,NA,NA,NA,NA,NA,2491155
+2023,Rutgers Scarlet Knights,45,Christian Maisel,"Maisel, Christian",Christian,Maisel,So,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2659926
 2023,Sacred Heart Pioneers,1,Sal Miccio,"Miccio, Sal",Sal,Miccio,Jr,ATT,8,7,8,7,11,6,17,41,0.268,22,0.537,NA,2,NA,9,9,2,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2483400
 2023,Sacred Heart Pioneers,88,Jake Candelino,"Candelino, Jake",Jake,Candelino,Jr,D,8,8,8,8,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,3,1,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2483402
 2023,Sacred Heart Pioneers,25,Carson Spooner,"Spooner, Carson",Carson,Spooner,Sr,ATT,8,0,8,NA,13,3,16,37,0.351,21,0.568,1,NA,NA,8,15,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2303631
@@ -2499,47 +2499,47 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,St. Bonaventure Bonnies,82,Joey Paterno,"Paterno, Joey",Joey,Paterno,Sr,ATT,1,0,1,NA,1,NA,1,1,1,1,1,NA,1,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2318793
 2023,St. Bonaventure Bonnies,40,Connor Robinson,"Robinson, Connor",Connor,Robinson,So,GK,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2466225
 2023,St. Bonaventure Bonnies,32,Atkin Dwyer,"Dwyer, Atkin",Atkin,Dwyer,So,D,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2652527
-2023,St. John's (NY) Red Storm,88,John Mavlios,"Mavlios, John",John,Mavlios,So,M,8,0,8,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,6,1,NA,31,121,0.256,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813976
-2023,St. John's (NY) Red Storm,17,Jake Wright,"Wright, Jake",Jake,Wright,Fr,ATT,8,0,8,NA,NA,NA,0,6,NA,2,0.333,NA,NA,NA,3,2,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813967
-2023,St. John's (NY) Red Storm,47,Braeden Pratt,"Pratt, Braeden",Braeden,Pratt,So,D,8,8,8,8,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,12,4,6,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2675708
-2023,St. John's (NY) Red Storm,37,Bobby Seel,"Seel, Bobby",Bobby,Seel,So,M,8,0,8,NA,1,2,3,6,0.167,2,0.333,NA,NA,NA,21,8,4,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2675705
-2023,St. John's (NY) Red Storm,30,Brian Kelly,"Kelly, Brian",Brian,Kelly,So,ATT,8,8,8,8,15,13,28,56,0.268,34,0.607,NA,NA,NA,10,30,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2675704
-2023,St. John's (NY) Red Storm,99,Luke Mangan,"Mangan, Luke",Luke,Mangan,So,ATT,8,8,8,8,7,4,11,37,0.189,16,0.432,NA,3,NA,7,5,4,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2675703
-2023,St. John's (NY) Red Storm,33,Jack McCarthy,"McCarthy, Jack",Jack,McCarthy,Jr,D,8,3,8,3,NA,1,1,1,NA,1,1,NA,NA,NA,5,NA,5,NA,0,NA,2,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2675689
-2023,St. John's (NY) Red Storm,19,Caiden Vlasimsky,"Vlasimsky, Caiden",Caiden,Vlasimsky,So,M,8,8,8,8,8,5,13,41,0.195,18,0.439,NA,NA,NA,5,11,1,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2654894
+2023,St. John's (NY) Red Storm,23,Jackson Klein,"Klein, Jackson",Jackson,Klein,Jr,DM,9,0,9,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,9,4,8,1,7,0.143,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2487535
+2023,St. John's (NY) Red Storm,39,Harry Noel,"Noel, Harry",Harry,Noel,Fr,D,9,9,9,9,NA,NA,0,2,NA,NA,NA,NA,NA,NA,20,3,6,NA,0,NA,5,270,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813983
+2023,St. John's (NY) Red Storm,19,Caiden Vlasimsky,"Vlasimsky, Caiden",Caiden,Vlasimsky,So,M,9,9,9,9,8,5,13,42,0.19,18,0.429,NA,NA,NA,7,15,1,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2654894
+2023,St. John's (NY) Red Storm,44,Gavin Legg,"Legg, Gavin",Gavin,Legg,Sr,D,9,0,9,NA,3,1,4,9,0.333,5,0.556,NA,NA,NA,17,10,14,9,56,0.161,5,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1973728
+2023,St. John's (NY) Red Storm,47,Braeden Pratt,"Pratt, Braeden",Braeden,Pratt,So,D,9,9,9,9,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,13,4,6,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2675708
+2023,St. John's (NY) Red Storm,3,Sean Duffy,"Duffy, Sean",Sean,Duffy,Sr,M,9,9,9,9,12,NA,12,57,0.211,28,0.491,NA,2,NA,6,13,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2133736
+2023,St. John's (NY) Red Storm,17,Jake Wright,"Wright, Jake",Jake,Wright,Fr,ATT,9,1,9,1,NA,1,1,6,NA,2,0.333,NA,NA,NA,3,3,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813967
+2023,St. John's (NY) Red Storm,7,Connor Kalmus,"Kalmus, Connor",Connor,Kalmus,Sr,ATT,9,9,9,9,15,NA,15,46,0.326,29,0.63,NA,3,NA,14,6,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305694
+2023,St. John's (NY) Red Storm,88,John Mavlios,"Mavlios, John",John,Mavlios,So,M,9,0,9,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,6,1,1,31,125,0.248,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813976
+2023,St. John's (NY) Red Storm,37,Bobby Seel,"Seel, Bobby",Bobby,Seel,So,M,9,0,9,NA,4,3,7,13,0.308,6,0.462,NA,NA,NA,24,9,4,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2675705
+2023,St. John's (NY) Red Storm,30,Brian Kelly,"Kelly, Brian",Brian,Kelly,So,ATT,9,9,9,9,18,14,32,71,0.254,42,0.592,NA,NA,NA,11,33,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2675704
+2023,St. John's (NY) Red Storm,33,Jack McCarthy,"McCarthy, Jack",Jack,McCarthy,Jr,D,9,4,9,4,NA,1,1,1,NA,1,1,NA,NA,NA,5,NA,6,NA,0,NA,3,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2675689
+2023,St. John's (NY) Red Storm,26,Kyle Wasilewski,"Wasilewski, Kyle",Kyle,Wasilewski,Sr,M,9,0,9,NA,NA,1,1,4,NA,2,0.5,NA,NA,NA,16,3,8,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305685
+2023,St. John's (NY) Red Storm,38,Kyle Munson,"Munson, Kyle",Kyle,Munson,Jr,GK,8,8,8,8,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,14,7,1,NA,0,NA,NA,NA,8,8,431:40,105,14.595,98,0.483,NA,NA,NA,NA,NA,NA,2321862
+2023,St. John's (NY) Red Storm,18,Ricardo Carreras,"Carreras, Ricardo",Ricardo,Carreras,Sr,M,8,0,8,NA,NA,NA,0,3,NA,1,0.333,NA,NA,NA,7,NA,3,7,25,0.28,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305768
+2023,St. John's (NY) Red Storm,9,Benjamin Bishop,"Bishop, Benjamin",Benjamin,Bishop,Sr,D,8,0,8,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,3,NA,2,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305723
 2023,St. John's (NY) Red Storm,6,Caleb Zuhoski,"Zuhoski, Caleb",Caleb,Zuhoski,Jr,ATT,8,8,8,8,7,8,15,28,0.25,13,0.464,NA,2,NA,7,6,5,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2487539
-2023,St. John's (NY) Red Storm,23,Jackson Klein,"Klein, Jackson",Jackson,Klein,Jr,DM,8,0,8,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,8,3,7,1,7,0.143,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2487535
-2023,St. John's (NY) Red Storm,7,Connor Kalmus,"Kalmus, Connor",Connor,Kalmus,Sr,ATT,8,8,8,8,15,NA,15,42,0.357,28,0.667,NA,3,NA,12,6,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305694
-2023,St. John's (NY) Red Storm,26,Kyle Wasilewski,"Wasilewski, Kyle",Kyle,Wasilewski,Sr,M,8,0,8,NA,NA,1,1,4,NA,2,0.5,NA,NA,NA,15,2,8,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305685
-2023,St. John's (NY) Red Storm,3,Sean Duffy,"Duffy, Sean",Sean,Duffy,Sr,M,8,8,8,8,12,NA,12,54,0.222,26,0.481,NA,2,NA,5,11,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2133736
-2023,St. John's (NY) Red Storm,44,Gavin Legg,"Legg, Gavin",Gavin,Legg,Sr,D,8,0,8,NA,2,1,3,8,0.25,4,0.5,NA,NA,NA,16,9,13,9,49,0.184,5,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1973728
-2023,St. John's (NY) Red Storm,39,Harry Noel,"Noel, Harry",Harry,Noel,Fr,D,8,8,8,8,NA,NA,0,2,NA,NA,NA,NA,NA,NA,17,3,5,NA,0,NA,4,240,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813983
-2023,St. John's (NY) Red Storm,9,Benjamin Bishop,"Bishop, Benjamin",Benjamin,Bishop,Sr,D,7,0,7,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,3,NA,2,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305723
-2023,St. John's (NY) Red Storm,18,Ricardo Carreras,"Carreras, Ricardo",Ricardo,Carreras,Sr,M,7,0,7,NA,NA,NA,0,3,NA,1,0.333,NA,NA,NA,7,NA,3,7,25,0.28,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305768
-2023,St. John's (NY) Red Storm,38,Kyle Munson,"Munson, Kyle",Kyle,Munson,Jr,GK,7,7,7,7,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,11,6,NA,NA,0,NA,NA,NA,7,7,371:40,94,15.175,85,0.475,NA,NA,NA,NA,NA,NA,2321862
-2023,St. John's (NY) Red Storm,5,Braden Fitzsimmons,"Fitzsimmons, Braden",Braden,Fitzsimmons,So,M,7,0,7,NA,1,1,2,4,0.25,1,0.25,NA,NA,NA,3,4,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2675701
-2023,St. John's (NY) Red Storm,48,Michael Efron,"Efron, Michael",Michael,Efron,Jr,D,6,0,6,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2487533
+2023,St. John's (NY) Red Storm,99,Luke Mangan,"Mangan, Luke",Luke,Mangan,So,ATT,8,8,8,8,7,4,11,37,0.189,16,0.432,NA,3,NA,7,5,4,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2675703
+2023,St. John's (NY) Red Storm,5,Braden Fitzsimmons,"Fitzsimmons, Braden",Braden,Fitzsimmons,So,M,8,0,8,NA,1,1,2,4,0.25,1,0.25,NA,NA,NA,3,5,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2675701
+2023,St. John's (NY) Red Storm,48,Michael Efron,"Efron, Michael",Michael,Efron,Jr,D,7,0,7,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2487533
 2023,St. John's (NY) Red Storm,2,Billy Mahecha,"Mahecha, Billy",Billy,Mahecha,Sr,ATT,6,0,6,NA,NA,1,1,2,NA,NA,NA,NA,NA,NA,1,2,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305780
 2023,St. John's (NY) Red Storm,27,Jack Schirtzer,"Schirtzer, Jack",Jack,Schirtzer,So,D,6,5,6,5,NA,NA,0,1,NA,1,1,NA,NA,NA,13,NA,11,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2657871
-2023,St. John's (NY) Red Storm,11,Drew Martin,"Martin, Drew",Drew,Martin,Sr,M,5,0,5,NA,NA,NA,0,2,NA,2,1,NA,NA,NA,2,1,2,NA,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2333399
 2023,St. John's (NY) Red Storm,24,Danny Seaman,"Seaman, Danny",Danny,Seaman,Fr,GK,5,1,5,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,0,NA,NA,NA,5,1,106:08,31,17.525,24,0.436,NA,NA,NA,NA,NA,NA,2813969
+2023,St. John's (NY) Red Storm,11,Drew Martin,"Martin, Drew",Drew,Martin,Sr,M,5,0,5,NA,NA,NA,0,2,NA,2,1,NA,NA,NA,2,1,2,NA,4,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2333399
+2023,St. John's (NY) Red Storm,8,Jack Lutfi,"Lutfi, Jack",Jack,Lutfi,Jr,M,5,1,5,1,3,2,5,15,0.2,6,0.4,NA,NA,NA,4,8,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2487536
 2023,St. John's (NY) Red Storm,4,Sean Rice,"Rice, Sean",Sean,Rice,So,ATT,4,0,4,NA,NA,NA,0,2,NA,1,0.5,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813965
 2023,St. John's (NY) Red Storm,21,Dan Koban,"Koban, Dan",Dan,Koban,So,,4,0,4,NA,1,NA,1,1,1,1,1,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2695032
-2023,St. John's (NY) Red Storm,8,Jack Lutfi,"Lutfi, Jack",Jack,Lutfi,Jr,M,4,0,4,NA,2,1,3,10,0.2,3,0.3,NA,NA,NA,2,8,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2487536
-2023,St. John's (NY) Red Storm,41,Thomas Flavin,"Flavin, Thomas",Thomas,Flavin,So,M,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,3,0.333,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2675706
 2023,St. John's (NY) Red Storm,14,Casey Hurley,"Hurley, Casey",Casey,Hurley,Fr,M,3,0,3,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813966
+2023,St. John's (NY) Red Storm,12,Corey Hall,"Hall, Corey",Corey,Hall,Sr,D,3,0,3,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,2,NA,2,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1978263
+2023,St. John's (NY) Red Storm,41,Thomas Flavin,"Flavin, Thomas",Thomas,Flavin,So,M,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,3,0.333,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2675706
+2023,St. John's (NY) Red Storm,50,Evan Stowe,"Stowe, Evan",Evan,Stowe,So,M,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2675710
 2023,St. John's (NY) Red Storm,22,Danielo Parkinson,"Parkinson, Danielo",Danielo,Parkinson,Jr,M,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,1,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2654883
+2023,St. John's (NY) Red Storm,42,Jake Oemcke,"Oemcke, Jake",Jake,Oemcke,Jr,M,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,6,1,NA,10,19,0.526,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2487538
 2023,St. John's (NY) Red Storm,15,Dante Colaiacovo,"Colaiacovo, Dante",Dante,Colaiacovo,Sr,ATT,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2311727
-2023,St. John's (NY) Red Storm,12,Corey Hall,"Hall, Corey",Corey,Hall,Sr,D,2,0,2,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,NA,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1978263
-2023,St. John's (NY) Red Storm,46,Julian Freeman,"Freeman, Julian",Julian,Freeman,Fr,LSM,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813974
-2023,St. John's (NY) Red Storm,50,Evan Stowe,"Stowe, Evan",Evan,Stowe,So,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2675710
+2023,St. John's (NY) Red Storm,36,Zach Kroog,"Kroog, Zach",Zach,Kroog,So,,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2685270
 2023,St. John's (NY) Red Storm,1,Michael Pisanelli,"Pisanelli, Michael",Michael,Pisanelli,Sr,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2305770
-2023,St. John's (NY) Red Storm,42,Jake Oemcke,"Oemcke, Jake",Jake,Oemcke,Jr,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,3,8,0.375,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2487538
+2023,St. John's (NY) Red Storm,28,Adrian Nowak,"Nowak, Adrian",Adrian,Nowak,Fr,ATT,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813982
+2023,St. John's (NY) Red Storm,16,Nick van Zyl,"van Zyl, Nick",Nick,van Zyl,So,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2654886
 2023,St. John's (NY) Red Storm,25,Trevor Batastini,"Batastini, Trevor",Trevor,Batastini,Jr,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2487531
 2023,St. John's (NY) Red Storm,32,Ronald Durante,"Durante, Ronald",Ronald,Durante,Jr,GK,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,1,NA,1:53,0,0,1,1,NA,NA,NA,NA,NA,NA,2487532
-2023,St. John's (NY) Red Storm,16,Nick van Zyl,"van Zyl, Nick",Nick,van Zyl,So,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2654886
-2023,St. John's (NY) Red Storm,28,Adrian Nowak,"Nowak, Adrian",Adrian,Nowak,Fr,ATT,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813982
-2023,St. John's (NY) Red Storm,36,Zach Kroog,"Kroog, Zach",Zach,Kroog,So,,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2685270
+2023,St. John's (NY) Red Storm,46,Julian Freeman,"Freeman, Julian",Julian,Freeman,Fr,LSM,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2813974
 2023,Stony Brook Seawolves,27,Sean Carlo,"Carlo, Sean",Sean,Carlo,Fr,M,9,0,9,NA,3,NA,3,11,0.273,5,0.455,NA,NA,NA,3,7,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2823804
 2023,Stony Brook Seawolves,10,Michael DeSano,"DeSano, Michael",Michael,DeSano,Fr,D,9,8,9,8,NA,NA,0,1,NA,1,1,NA,NA,NA,11,1,3,NA,0,NA,4,240,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2823799
 2023,Stony Brook Seawolves,22,Jamison MacLachlan,"MacLachlan, Jamison",Jamison,MacLachlan,So,GK,9,9,9,9,NA,1,1,2,NA,1,0.5,NA,NA,NA,18,3,3,NA,0,NA,NA,NA,9,9,521:00,94,10.825,102,0.52,NA,NA,NA,NA,NA,NA,2675783
@@ -2580,54 +2580,55 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Stony Brook Seawolves,30,Antoine Campbell,"Campbell, Antoine",Antoine,Campbell,Jr,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2675786
 2023,Stony Brook Seawolves,92,Gavin Takacs,"Takacs, Gavin",Gavin,Takacs,Fr,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2823806
 2023,Stony Brook Seawolves,6,Jimmy Burns,"Burns, Jimmy",Jimmy,Burns,Sr,DM,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,1,1,1,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2304057
-2023,Syracuse Orange,18,Vinnie Trujillo,"Trujillo, Vinnie",Vinnie,Trujillo,Fr,SSDM,9,0,9,NA,NA,NA,0,1,NA,1,1,NA,NA,NA,3,1,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809184
-2023,Syracuse Orange,42,Dylan Sageder,"Sageder, Dylan",Dylan,Sageder,Fr,LSM,9,0,9,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,4,NA,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809182
-2023,Syracuse Orange,8,Luke Rhoa,"Rhoa, Luke",Luke,Rhoa,Fr,M,9,0,9,NA,6,1,7,26,0.231,10,0.385,2,NA,NA,1,2,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809181
-2023,Syracuse Orange,22,Joey Spallina,"Spallina, Joey",Joey,Spallina,Fr,ATT,9,9,9,9,23,17,40,66,0.348,46,0.697,1,9,NA,8,12,5,NA,0,NA,3,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809162
-2023,Syracuse Orange,23,Finn Thomson,"Thomson, Finn",Finn,Thomson,Fr,ATT,9,9,9,9,12,11,23,24,0.5,18,0.75,NA,3,NA,6,6,3,NA,0,NA,3,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809161
-2023,Syracuse Orange,7,Michael Leo,"Leo, Michael",Michael,Leo,Fr,M,9,7,9,7,9,3,12,28,0.321,19,0.679,NA,3,NA,1,9,NA,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809156
-2023,Syracuse Orange,35,Billy Dwan,"Dwan, Billy",Billy,Dwan,Fr,D,9,2,9,2,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,2,3,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809075
-2023,Syracuse Orange,28,Nick Caccamo,"Caccamo, Nick",Nick,Caccamo,So,D,9,9,9,9,NA,NA,0,3,NA,2,0.667,NA,NA,NA,19,4,12,NA,0,NA,4,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2660407
-2023,Syracuse Orange,12,Carter Rice,"Rice, Carter",Carter,Rice,So,SSDM,9,0,9,NA,2,1,3,3,0.667,3,1,NA,NA,NA,5,3,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2660404
-2023,Syracuse Orange,45,Johnny Richiusa,"Richiusa, Johnny",Johnny,Richiusa,So,FO,9,0,9,NA,NA,2,2,1,NA,1,1,NA,NA,NA,40,4,1,82,196,0.418,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2651985
-2023,Syracuse Orange,77,Owen Hiltz,"Hiltz, Owen",Owen,Hiltz,Jr,ATT,9,9,9,9,18,17,35,50,0.36,30,0.6,NA,2,NA,17,9,4,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474679
-2023,Syracuse Orange,48,Saam Olexo,"Olexo, Saam",Saam,Olexo,Jr,LSM,9,0,9,NA,2,1,3,6,0.333,2,0.333,NA,NA,NA,29,7,16,NA,0,NA,5,240,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474563
-2023,Syracuse Orange,33,Caden Kol,"Kol, Caden",Caden,Kol,So,D,9,9,9,9,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,14,NA,9,NA,0,NA,3,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474543
-2023,Syracuse Orange,9,Jackson Birtwistle,"Birtwistle, Jackson",Jackson,Birtwistle,So,M,9,6,9,6,17,NA,17,45,0.378,33,0.733,1,5,NA,10,7,1,NA,0,NA,2,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474504
-2023,Syracuse Orange,10,Max Rosa,"Rosa, Max",Max,Rosa,Sr,DM,9,0,9,NA,1,NA,1,6,0.167,2,0.333,NA,NA,NA,6,1,3,NA,0,NA,3,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2326057
-2023,Syracuse Orange,88,Will Mark,"Mark, Will",Will,Mark,Sr,GK,9,9,9,9,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,21,2,1,NA,0,NA,NA,NA,9,9,512:42,85,9.947,126,0.597,NA,NA,NA,NA,NA,NA,2304343
-2023,Syracuse Orange,2,Griffin Cook,"Cook, Griffin",Griffin,Cook,Sr,M,9,0,9,NA,6,2,8,24,0.25,17,0.708,1,NA,NA,5,5,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2133575
-2023,Syracuse Orange,19,Alex Simmons,"Simmons, Alex",Alex,Simmons,Sr,ATT,9,9,9,9,11,13,24,32,0.344,22,0.688,NA,3,NA,5,8,NA,NA,0,NA,3,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2123582
-2023,Syracuse Orange,40,Cole Kirst,"Kirst, Cole",Cole,Kirst,Sr,M,9,5,9,5,11,7,18,32,0.344,20,0.625,NA,NA,NA,4,5,1,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2120723
-2023,Syracuse Orange,16,Jake Murphy,"Murphy, Jake",Jake,Murphy,Sr,M,9,0,9,NA,1,NA,1,2,0.5,2,1,NA,NA,NA,7,2,4,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2113438
-2023,Syracuse Orange,41,Jordan Beck,"Beck, Jordan",Jordan,Beck,Fr,D,8,0,8,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809145
+2023,Syracuse Orange,18,Vinnie Trujillo,"Trujillo, Vinnie",Vinnie,Trujillo,Fr,SSDM,10,0,10,NA,NA,NA,0,1,NA,1,1,NA,NA,NA,3,1,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809184
+2023,Syracuse Orange,42,Dylan Sageder,"Sageder, Dylan",Dylan,Sageder,Fr,LSM,10,0,10,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,4,NA,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809182
+2023,Syracuse Orange,8,Luke Rhoa,"Rhoa, Luke",Luke,Rhoa,Fr,M,10,0,10,NA,6,2,8,29,0.207,11,0.379,2,NA,NA,1,2,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809181
+2023,Syracuse Orange,22,Joey Spallina,"Spallina, Joey",Joey,Spallina,Fr,ATT,10,10,10,10,27,19,46,73,0.37,52,0.712,1,9,NA,8,12,5,NA,0,NA,3,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809162
+2023,Syracuse Orange,23,Finn Thomson,"Thomson, Finn",Finn,Thomson,Fr,ATT,10,10,10,10,13,12,25,28,0.464,20,0.714,NA,3,NA,8,7,4,NA,0,NA,4,210,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809161
+2023,Syracuse Orange,7,Michael Leo,"Leo, Michael",Michael,Leo,Fr,M,10,8,10,8,12,3,15,33,0.364,22,0.667,NA,3,NA,1,9,1,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809156
+2023,Syracuse Orange,35,Billy Dwan,"Dwan, Billy",Billy,Dwan,Fr,D,10,3,10,3,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,2,3,NA,0,NA,2,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809075
+2023,Syracuse Orange,28,Nick Caccamo,"Caccamo, Nick",Nick,Caccamo,So,D,10,10,10,10,NA,NA,0,3,NA,2,0.667,NA,NA,NA,20,4,12,NA,0,NA,4,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2660407
+2023,Syracuse Orange,12,Carter Rice,"Rice, Carter",Carter,Rice,So,SSDM,10,0,10,NA,2,1,3,4,0.5,3,0.75,NA,NA,NA,5,3,3,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2660404
+2023,Syracuse Orange,45,Johnny Richiusa,"Richiusa, Johnny",Johnny,Richiusa,So,FO,10,0,10,NA,NA,2,2,2,NA,1,0.5,NA,NA,NA,44,4,1,86,205,0.42,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2651985
+2023,Syracuse Orange,77,Owen Hiltz,"Hiltz, Owen",Owen,Hiltz,Jr,ATT,10,10,10,10,19,19,38,56,0.339,33,0.589,NA,2,NA,17,10,4,NA,0,NA,2,90,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474679
+2023,Syracuse Orange,48,Saam Olexo,"Olexo, Saam",Saam,Olexo,Jr,LSM,10,0,10,NA,2,1,3,8,0.25,3,0.375,NA,NA,NA,34,7,17,NA,0,NA,5,240,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474563
+2023,Syracuse Orange,33,Caden Kol,"Kol, Caden",Caden,Kol,So,D,10,10,10,10,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,14,NA,9,NA,0,NA,4,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474543
+2023,Syracuse Orange,9,Jackson Birtwistle,"Birtwistle, Jackson",Jackson,Birtwistle,So,M,10,6,10,6,19,NA,19,49,0.388,37,0.755,1,6,NA,10,8,2,NA,0,NA,2,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474504
+2023,Syracuse Orange,10,Max Rosa,"Rosa, Max",Max,Rosa,Sr,DM,10,0,10,NA,1,NA,1,6,0.167,2,0.333,NA,NA,NA,8,1,5,NA,0,NA,3,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2326057
+2023,Syracuse Orange,88,Will Mark,"Mark, Will",Will,Mark,Sr,GK,10,10,10,10,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,21,2,1,NA,0,NA,NA,NA,10,10,568:24,91,9.606,140,0.606,NA,NA,NA,NA,NA,NA,2304343
+2023,Syracuse Orange,2,Griffin Cook,"Cook, Griffin",Griffin,Cook,Sr,M,10,0,10,NA,7,2,9,27,0.259,18,0.667,1,NA,NA,5,6,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2133575
+2023,Syracuse Orange,19,Alex Simmons,"Simmons, Alex",Alex,Simmons,Sr,ATT,10,10,10,10,11,13,24,35,0.314,23,0.657,NA,3,NA,5,9,NA,NA,0,NA,4,210,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2123582
+2023,Syracuse Orange,40,Cole Kirst,"Kirst, Cole",Cole,Kirst,Sr,M,10,6,10,6,13,7,20,40,0.325,23,0.575,NA,NA,NA,5,6,1,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2120723
+2023,Syracuse Orange,16,Jake Murphy,"Murphy, Jake",Jake,Murphy,Sr,M,10,0,10,NA,1,NA,1,2,0.5,2,1,NA,NA,NA,7,3,4,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2113438
+2023,Syracuse Orange,41,Jordan Beck,"Beck, Jordan",Jordan,Beck,Fr,D,9,0,9,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809145
 2023,Syracuse Orange,30,Landon Clary,"Clary, Landon",Landon,Clary,Jr,D,7,7,7,7,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,13,2,5,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2326302
-2023,Syracuse Orange,3,Carter Kempney,"Kempney, Carter",Carter,Kempney,Fr,M,5,0,5,NA,2,NA,2,4,0.5,3,0.75,NA,NA,NA,2,4,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809078
-2023,Syracuse Orange,38,Jack Fine,"Fine, Jack",Jack,Fine,So,FO,5,0,5,NA,1,NA,1,1,1,1,1,NA,NA,NA,5,1,1,20,45,0.444,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2660392
-2023,Syracuse Orange,43,Brandon Aviles,"Aviles, Brandon",Brandon,Aviles,Jr,SSDM,4,0,4,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,6,NA,1,NA,0,NA,3,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2326305
-2023,Syracuse Orange,36,Shaffer Woody,"Woody, Shaffer",Shaffer,Woody,Jr,SSDM,4,0,4,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2326284
-2023,Syracuse Orange,32,Jack Witherspoon,"Witherspoon, Jack",Jack,Witherspoon,So,D,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474524
-2023,Syracuse Orange,15,Caelin Lewis,"Lewis, Caelin",Caelin,Lewis,So,M,3,0,3,NA,NA,1,1,1,NA,1,1,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474555
-2023,Syracuse Orange,13,Pete Fiorini,"Fiorini, Pete",Pete,Fiorini,Sr,M,3,0,3,NA,1,NA,1,2,0.5,1,0.5,NA,NA,NA,1,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2133593
-2023,Syracuse Orange,31,Barrett White,"White, Barrett",Barrett,White,So,M,3,0,3,NA,NA,1,1,1,NA,1,1,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2660393
-2023,Syracuse Orange,17,Tommy Drago,"Drago, Tommy",Tommy,Drago,Jr,LSM,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474678
-2023,Syracuse Orange,21,Blake Borges,"Borges, Blake",Blake,Borges,So,M,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2660387
-2023,Syracuse Orange,29,Tyler Cordes,"Cordes, Tyler",Tyler,Cordes,So,M,3,0,3,NA,1,1,2,2,0.5,1,0.5,NA,NA,NA,3,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2660389
-2023,Syracuse Orange,27,Brett Tenaglia,"Tenaglia, Brett",Brett,Tenaglia,Jr,ATT,3,0,3,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2306248
-2023,Syracuse Orange,81,John Cohen,"Cohen, John",John,Cohen,So,ATT,3,0,3,NA,1,3,4,3,0.333,2,0.667,NA,NA,NA,2,1,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2321707
-2023,Syracuse Orange,4,Michael Page,"Page, Michael",Michael,Page,Jr,LSM,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2326303
-2023,Syracuse Orange,1,Harrison Thompson,"Thompson, Harrison",Harrison,Thompson,Jr,GK,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,3,NA,19:38,4,12.224,4,0.5,NA,NA,NA,NA,NA,NA,2326283
-2023,Syracuse Orange,83,Blake Erlbeck,"Erlbeck, Blake",Blake,Erlbeck,Jr,ATT,3,0,3,NA,2,NA,2,4,0.5,3,0.75,NA,NA,NA,1,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474675
-2023,Syracuse Orange,6,Kyle Gonsiorek,"Gonsiorek, Kyle",Kyle,Gonsiorek,So,LSM,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,0,NA,1,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2660363
+2023,Syracuse Orange,38,Jack Fine,"Fine, Jack",Jack,Fine,So,FO,6,0,6,NA,1,NA,1,1,1,1,1,NA,NA,NA,9,2,2,29,62,0.468,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2660392
+2023,Syracuse Orange,3,Carter Kempney,"Kempney, Carter",Carter,Kempney,Fr,M,6,0,6,NA,2,NA,2,5,0.4,3,0.6,NA,NA,NA,2,4,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809078
+2023,Syracuse Orange,36,Shaffer Woody,"Woody, Shaffer",Shaffer,Woody,Jr,SSDM,5,0,5,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2326284
+2023,Syracuse Orange,43,Brandon Aviles,"Aviles, Brandon",Brandon,Aviles,Jr,SSDM,5,0,5,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,8,1,1,NA,0,NA,3,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2326305
+2023,Syracuse Orange,13,Pete Fiorini,"Fiorini, Pete",Pete,Fiorini,Sr,M,4,0,4,NA,1,NA,1,2,0.5,1,0.5,NA,NA,NA,1,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2133593
+2023,Syracuse Orange,32,Jack Witherspoon,"Witherspoon, Jack",Jack,Witherspoon,So,D,4,0,4,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474524
+2023,Syracuse Orange,4,Michael Page,"Page, Michael",Michael,Page,Jr,LSM,4,0,4,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2326303
+2023,Syracuse Orange,21,Blake Borges,"Borges, Blake",Blake,Borges,So,M,4,0,4,NA,NA,NA,0,2,NA,1,0.5,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2660387
+2023,Syracuse Orange,31,Barrett White,"White, Barrett",Barrett,White,So,M,4,0,4,NA,NA,1,1,1,NA,1,1,NA,NA,NA,2,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2660393
+2023,Syracuse Orange,17,Tommy Drago,"Drago, Tommy",Tommy,Drago,Jr,LSM,4,0,4,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474678
+2023,Syracuse Orange,83,Blake Erlbeck,"Erlbeck, Blake",Blake,Erlbeck,Jr,ATT,4,0,4,NA,3,NA,3,5,0.6,4,0.8,NA,NA,NA,1,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474675
+2023,Syracuse Orange,81,John Cohen,"Cohen, John",John,Cohen,So,ATT,4,0,4,NA,3,5,8,7,0.429,4,0.571,NA,NA,NA,3,1,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2321707
+2023,Syracuse Orange,15,Caelin Lewis,"Lewis, Caelin",Caelin,Lewis,So,M,4,0,4,NA,NA,1,1,4,NA,2,0.5,NA,NA,NA,NA,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2474555
+2023,Syracuse Orange,29,Tyler Cordes,"Cordes, Tyler",Tyler,Cordes,So,M,4,0,4,NA,2,1,3,3,0.667,2,0.667,1,NA,NA,3,NA,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2660389
+2023,Syracuse Orange,27,Brett Tenaglia,"Tenaglia, Brett",Brett,Tenaglia,Jr,ATT,4,0,4,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2306248
+2023,Syracuse Orange,1,Harrison Thompson,"Thompson, Harrison",Harrison,Thompson,Jr,GK,4,0,4,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,0,NA,NA,NA,4,NA,23:56,5,12.535,4,0.444,NA,NA,NA,NA,NA,NA,2326283
+2023,Syracuse Orange,6,Kyle Gonsiorek,"Gonsiorek, Kyle",Kyle,Gonsiorek,So,LSM,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,0,NA,1,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2660363
+2023,Syracuse Orange,24,Gavin Gibbs,"Gibbs, Gavin",Gavin,Gibbs,Fr,FO,3,0,3,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,7,0.143,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809150
+2023,Syracuse Orange,90,Jordan Vincent,"Vincent, Jordan",Jordan,Vincent,Fr,LSM,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809185
 2023,Syracuse Orange,44,Joe Bolea,"Bolea, Joe",Joe,Bolea,Sr,SSDM,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1998940
-2023,Syracuse Orange,24,Gavin Gibbs,"Gibbs, Gavin",Gavin,Gibbs,Fr,FO,2,0,2,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,4,0.25,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809150
-2023,Syracuse Orange,47,Aidan Kelly,"Kelly, Aidan",Aidan,Kelly,So,SSDM,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2660395
-2023,Syracuse Orange,89,Kyle Rolley,"Rolley, Kyle",Kyle,Rolley,So,GK,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,1,NA,5:44,1,10.465,3,0.75,NA,NA,NA,NA,NA,NA,2660396
 2023,Syracuse Orange,20,Paul Lamonaca,"Lamonaca, Paul",Paul,Lamonaca,So,FO,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809155
 2023,Syracuse Orange,5,Finn Kelly,"Kelly, Finn",Finn,Kelly,So,ATT,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2660362
 2023,Syracuse Orange,50,Patrick Duffy,"Duffy, Patrick",Patrick,Duffy,Jr,GK,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,1,NA,5:02,1,11.921,1,0.5,NA,NA,NA,NA,NA,NA,2474565
+2023,Syracuse Orange,34,Nathan Levine,"Levine, Nathan",Nathan,Levine,So,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2660391
+2023,Syracuse Orange,89,Kyle Rolley,"Rolley, Kyle",Kyle,Rolley,So,GK,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,1,NA,5:44,1,10.465,3,0.75,NA,NA,NA,NA,NA,NA,2660396
 2023,Syracuse Orange,14,Zach Mercado,"Mercado, Zach",Zach,Mercado,Fr,M,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809179
-2023,Syracuse Orange,90,Jordan Vincent,"Vincent, Jordan",Jordan,Vincent,Fr,LSM,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2809185
+2023,Syracuse Orange,47,Aidan Kelly,"Kelly, Aidan",Aidan,Kelly,So,SSDM,1,0,1,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2660395
 2023,Towson Tigers,13,Chop Gallagher,"Gallagher, Chop",Chop,Gallagher,Jr,ATT,8,5,8,5,8,3,11,15,0.533,13,0.867,NA,NA,1,16,7,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2473478
 2023,Towson Tigers,23,Colby Barsz,"Barsz, Colby",Colby,Barsz,Jr,D,8,8,8,8,NA,NA,0,2,NA,NA,NA,NA,NA,NA,9,7,7,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2473475
 2023,Towson Tigers,51,Matt Constantinides,"Constantinides, Matt",Matt,Constantinides,So,FO,8,0,8,NA,1,3,4,8,0.125,4,0.5,NA,NA,NA,65,9,2,110,201,0.547,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2671052
@@ -2791,24 +2792,24 @@ season,team,jersey,full_name,roster_name,first_name,last_name,yr,pos,gp,gs,g,gs_
 2023,Utah Utes,17,Tyler Schifko,"Schifko, Tyler",Tyler,Schifko,So,M,7,0,7,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,3,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2657836
 2023,Utah Utes,48,Zach Chandler,"Chandler, Zach",Zach,Chandler,Sr,M,7,0,7,NA,2,2,4,8,0.25,5,0.625,NA,NA,NA,2,1,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2009688
 2023,Utah Utes,25,Bryce Horton,"Horton, Bryce",Bryce,Horton,Fr,M,7,0,7,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,3,3,NA,NA,0,NA,1,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2805023
-2023,Utah Utes,28,Colby Plotts,"Plotts, Colby",Colby,Plotts,So,D,7,0,7,NA,4,6,10,12,0.333,8,0.667,NA,NA,NA,13,3,3,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2657807
+2023,Utah Utes,28,Colby Plotts,"Plotts, Colby",Colby,Plotts,So,D,7,0,7,NA,4,7,11,12,0.333,8,0.667,NA,NA,NA,13,3,3,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2657807
 2023,Utah Utes,19,Samuel Cambere,"Cambere, Samuel",Samuel,Cambere,Sr,D,7,6,7,6,2,4,6,9,0.222,3,0.333,NA,NA,NA,16,4,6,NA,1,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2116834
 2023,Utah Utes,6,Ryan Stines,"Stines, Ryan",Ryan,Stines,Fr,ATT,7,7,7,7,16,1,17,42,0.381,28,0.667,NA,3,NA,12,7,3,NA,0,NA,3,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2657834
 2023,Utah Utes,3,Cody Hart,"Hart, Cody",Cody,Hart,So,M,7,0,7,NA,3,1,4,12,0.25,10,0.833,NA,NA,NA,6,4,NA,NA,0,NA,1,30,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2657833
 2023,Utah Utes,50,Dominic Mata,"Mata, Dominic",Dominic,Mata,Sr,D,7,1,7,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2116843
-2023,Utah Utes,16,Colin Lenskold,"Lenskold, Colin",Colin,Lenskold,Fr,GK,7,7,7,7,NA,1,1,NA,NA,NA,NA,NA,NA,NA,14,2,1,NA,0,NA,NA,NA,7,7,407:16,89,13.112,82,0.48,NA,NA,NA,NA,NA,NA,2805008
+2023,Utah Utes,16,Colin Lenskold,"Lenskold, Colin",Colin,Lenskold,Fr,GK,7,7,7,7,NA,1,1,NA,NA,NA,NA,NA,NA,NA,13,2,1,NA,0,NA,NA,NA,7,7,407:16,89,13.112,84,0.486,NA,NA,NA,NA,NA,NA,2805008
 2023,Utah Utes,29,Will Overly,"Overly, Will",Will,Overly,Fr,ATT,7,0,7,NA,1,1,2,4,0.25,2,0.5,NA,NA,NA,2,2,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2805031
 2023,Utah Utes,7,Josh Rose,"Rose, Josh",Josh,Rose,Jr,M,7,0,7,NA,2,4,6,10,0.2,3,0.3,NA,NA,NA,22,3,5,NA,0,NA,2,120,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2315088
 2023,Utah Utes,22,MJ McMahon,"McMahon, MJ",MJ,McMahon,Jr,ATT,7,7,7,7,3,8,11,17,0.176,9,0.529,NA,1,NA,4,2,2,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2315090
-2023,Utah Utes,23,Tyler Bradbury,"Bradbury, Tyler",Tyler,Bradbury,Jr,ATT,7,7,7,7,15,11,26,39,0.385,25,0.641,1,NA,NA,14,8,3,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2315091
+2023,Utah Utes,23,Tyler Bradbury,"Bradbury, Tyler",Tyler,Bradbury,Jr,ATT,7,7,7,7,15,12,27,39,0.385,25,0.641,1,NA,NA,14,8,3,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2315091
 2023,Utah Utes,18,Ryan Rogers,"Rogers, Ryan",Ryan,Rogers,Jr,ATT,7,0,7,NA,3,1,4,7,0.429,3,0.429,NA,NA,NA,1,4,NA,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2315610
 2023,Utah Utes,24,Cole Brams,"Brams, Cole",Cole,Brams,Sr,FO,7,0,7,NA,2,4,6,9,0.222,8,0.889,1,NA,NA,51,7,NA,101,181,0.558,2,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2315614
-2023,Utah Utes,5,Koa Todd,"Todd, Koa",Koa,Todd,Jr,M,7,0,7,NA,10,2,12,49,0.204,18,0.367,NA,NA,NA,3,7,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2315615
+2023,Utah Utes,5,Koa Todd,"Todd, Koa",Koa,Todd,Jr,M,7,0,7,NA,10,3,13,49,0.204,18,0.367,NA,NA,NA,3,7,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2315615
 2023,Utah Utes,46,Nikko DiPonio,"DiPonio, Nikko",Nikko,DiPonio,Fr,D,7,7,7,7,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,16,2,5,NA,0,NA,2,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2804995
 2023,Utah Utes,45,Carson Moyer,"Moyer, Carson",Carson,Moyer,Jr,M,7,7,7,7,5,2,7,27,0.185,9,0.333,NA,NA,NA,NA,1,1,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2315653
-2023,Utah Utes,2,Jared Andreala,"Andreala, Jared",Jared,Andreala,Jr,M,7,7,7,7,7,1,8,37,0.189,20,0.541,1,NA,1,16,11,1,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2472799
+2023,Utah Utes,2,Jared Andreala,"Andreala, Jared",Jared,Andreala,Jr,M,7,7,7,7,7,2,9,37,0.189,20,0.541,1,NA,1,16,11,1,NA,0,NA,1,60,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2472799
 2023,Utah Utes,4,Jordan Hyde,"Hyde, Jordan",Jordan,Hyde,Jr,ATT,7,7,7,7,18,NA,18,45,0.4,27,0.6,NA,1,NA,8,8,1,NA,0,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2472801
-2023,Utah Utes,11,Joey Boylston,"Boylston, Joey",Joey,Boylston,Jr,D,7,7,7,7,NA,1,1,1,NA,NA,NA,NA,NA,NA,18,3,10,NA,0,NA,4,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2472855
+2023,Utah Utes,11,Joey Boylston,"Boylston, Joey",Joey,Boylston,Jr,D,7,7,7,7,NA,1,1,1,NA,NA,NA,NA,NA,NA,19,3,10,NA,0,NA,4,180,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2472855
 2023,Utah Utes,10,Will Potter,"Potter, Will",Will,Potter,Fr,D,4,0,4,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1,15,0.067,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2805034
 2023,Utah Utes,31,Ruben Santana,"Santana, Ruben",Ruben,Santana,Sr,M,4,0,4,NA,1,1,2,5,0.2,2,0.4,NA,NA,NA,3,1,1,NA,0,NA,3,150,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2116863
 2023,Utah Utes,37,Trey Akabane,"Akabane, Trey",Trey,Akabane,So,FO,4,0,4,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,3,10,0.3,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2657839
