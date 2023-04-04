@@ -40,8 +40,9 @@ for (i in urls){
   message <- paste0("Fetching ", schoolfull)
   
   playerstats <- playerstats %>% 
-   rename(Season = season) %>% 
+   rename("Season" = "season") %>% 
    rename("Jersey Number" = "jersey") %>% 
+   rename("Team" = "team") %>% 
    rename("Full Name" = "full_name") %>%
    rename("Roster Name" = "roster_name") %>%
    rename("First Name" = "first_name") %>%
@@ -57,6 +58,8 @@ for (i in urls){
    rename("Points" = "points") %>%
    rename("Shots" = "shots") %>%
    rename("Shooting Percentage" = "shot_pct") %>%
+   rename("Shots on Goal" = "sog") %>%
+   rename("Shots on Goal Percentage" = "sog_pct") %>%
    rename("Game Winning Goals" = "gwg") %>%
    rename("Powerplay Goals" = "man_up_g") %>%
    rename("Penalty Kill Goals" = "man_down_g") %>% 
