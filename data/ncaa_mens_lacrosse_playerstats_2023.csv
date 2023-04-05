@@ -1,41 +1,41 @@
 Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Position,Games Played,Games Started,g,gs_2,Goals,Assists,Points,Shots,Shooting Percentage,Shots on Goal,Shots on Goal Percentage,Game Winning Goals,Powerplay Goals,Penalty Kill Goals,Ground Balls,Turnovers,Caused Turnovers,Faceoffs Won,Faceoffs Taken,Faceoff Percentage,pen,Penalties,Goalie Games Played,Goalie Games Started,Goalie Minutes,goals_allowed,GAA,Saves,Save Percentage,rc,yc,clears,att,clear_pct,otg,NCAA id
 2023,Air Force Falcons,56,Wes Peene,"Peene, Wes",Wes,Peene,So,M,11,10,11,10,11,6,17,34,0.324,16,0.471,0,1,0,9,14,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2663465
-2023,Air Force Falcons,25,James Chastain,"Chastain, James",James,Chastain,Jr,D,11,11,11,11,0,0,0,3,0,0,0,0,0,0,15,5,8,0,0,0,2,120,0,0,,0,0,0,0,0,0,0,0,0,0,2473183
-2023,Air Force Falcons,17,Chris Bardak,"Bardak, Chris",Chris,Bardak,Jr,D,11,1,11,1,1,2,3,9,0.111,4,0.444,1,0,0,35,1,18,17,37,0.459,7,240,0,0,,0,0,0,0,0,0,0,0,0,0,2473182
-2023,Air Force Falcons,33,Jason Rose,"Rose, Jason",Jason,Rose,Sr,GK,11,11,11,11,0,0,0,1,0,1,1,0,0,0,29,6,6,0,0,0,1,30,11,11,593:42,111,11.218,114,0.507,0,0,0,0,0,0,2319159
 2023,Air Force Falcons,44,Daniel Enoch,"Enoch, Daniel",Daniel,Enoch,So,D,11,10,11,10,0,0,0,0,0,0,0,0,0,0,14,3,6,0,0,0,3,150,0,0,,0,0,0,0,0,0,0,0,0,0,2663460
+2023,Air Force Falcons,25,James Chastain,"Chastain, James",James,Chastain,Jr,D,11,11,11,11,0,0,0,3,0,0,0,0,0,0,15,5,8,0,0,0,2,120,0,0,,0,0,0,0,0,0,0,0,0,0,2473183
+2023,Air Force Falcons,33,Jason Rose,"Rose, Jason",Jason,Rose,Sr,GK,11,11,11,11,0,0,0,1,0,1,1,0,0,0,29,6,6,0,0,0,1,30,11,11,593:42,111,11.218,114,0.507,0,0,0,0,0,0,2319159
+2023,Air Force Falcons,17,Chris Bardak,"Bardak, Chris",Chris,Bardak,Jr,D,11,1,11,1,1,2,3,9,0.111,4,0.444,1,0,0,35,1,18,17,37,0.459,7,240,0,0,,0,0,0,0,0,0,0,0,0,0,2473182
 2023,Air Force Falcons,40,Ethan Grandolfo,"Grandolfo, Ethan",Ethan,Grandolfo,Sr,ATT,11,9,11,9,23,7,30,61,0.377,39,0.639,2,3,0,12,13,6,0,0,0,2,60,0,0,,0,0,0,0,0,0,0,0,0,0,2319161
 2023,Air Force Falcons,24,Gavin Peene,"Peene, Gavin",Gavin,Peene,Sr,M,11,6,11,6,7,4,11,19,0.368,12,0.632,0,0,0,2,6,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2319155
 2023,Air Force Falcons,12,Tommy Hellman,"Hellman, Tommy",Tommy,Hellman,Sr,M,11,1,11,1,3,0,3,7,0.429,6,0.857,0,1,0,22,12,5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2319136
-2023,Air Force Falcons,5,Aidan Tolen,"Tolen, Aidan",Aidan,Tolen,Jr,M,10,6,10,6,14,5,19,35,0.4,18,0.514,0,1,0,13,16,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2473179
-2023,Air Force Falcons,10,Josh Yago,"Yago, Josh",Josh,Yago,So,ATT,10,9,10,9,12,9,21,62,0.194,28,0.452,1,0,0,15,18,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2663449
-2023,Air Force Falcons,14,Luke Vrsansky,"Vrsansky, Luke",Luke,Vrsansky,Fr,M,10,0,10,0,2,1,3,11,0.182,5,0.455,0,0,0,1,4,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2810581
 2023,Air Force Falcons,26,Quinn Richards,"Richards, Quinn",Quinn,Richards,Jr,GK,10,0,10,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,9,0,66:11,10,9.066,11,0.524,0,0,0,0,0,0,2473189
-2023,Air Force Falcons,15,Sam Ewing,"Ewing, Sam",Sam,Ewing,Jr,D,10,0,10,0,0,1,1,2,0,0,0,0,0,0,9,3,2,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2473181
+2023,Air Force Falcons,14,Luke Vrsansky,"Vrsansky, Luke",Luke,Vrsansky,Fr,M,10,0,10,0,2,1,3,11,0.182,5,0.455,0,0,0,1,4,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2810581
+2023,Air Force Falcons,10,Josh Yago,"Yago, Josh",Josh,Yago,So,ATT,10,9,10,9,12,9,21,62,0.194,28,0.452,1,0,0,15,18,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2663449
 2023,Air Force Falcons,42,Hunter Panzik,"Panzik, Hunter",Hunter,Panzik,Fr,M,10,0,10,0,2,1,3,8,0.25,3,0.375,0,0,0,2,4,0,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2810589
+2023,Air Force Falcons,15,Sam Ewing,"Ewing, Sam",Sam,Ewing,Jr,D,10,0,10,0,0,1,1,2,0,0,0,0,0,0,9,3,2,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2473181
+2023,Air Force Falcons,5,Aidan Tolen,"Tolen, Aidan",Aidan,Tolen,Jr,M,10,6,10,6,14,5,19,35,0.4,18,0.514,0,1,0,13,16,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2473179
 2023,Air Force Falcons,45,Brandon Dodd,"Dodd, Brandon",Brandon,Dodd,Sr,ATT,10,10,10,10,28,18,46,74,0.378,44,0.595,2,2,0,12,22,2,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2319163
 2023,Air Force Falcons,29,Braden Gaab,"Gaab, Braden",Braden,Gaab,Jr,FO,9,0,9,0,1,0,1,3,0.333,1,0.333,0,0,0,15,2,0,35,91,0.385,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2473184
-2023,Air Force Falcons,1,Caelen Driggs,"Driggs, Caelen",Caelen,Driggs,Fr,ATT,9,8,9,8,4,2,6,33,0.121,19,0.576,0,1,0,4,7,4,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2810577
-2023,Air Force Falcons,34,Matt Rosato,"Rosato, Matt",Matt,Rosato,Fr,D,9,6,9,6,0,0,0,0,0,0,0,0,0,0,5,2,3,0,0,0,5,270,0,0,,0,0,0,0,0,0,0,0,0,0,2810585
 2023,Air Force Falcons,11,Dylan Frankhouser,"Frankhouser, Dylan",Dylan,Frankhouser,Sr,FO,9,1,9,1,0,0,0,0,0,0,0,0,0,0,9,2,0,24,73,0.329,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2319154
-2023,Air Force Falcons,27,Mitchell Gruenewald,"Gruenewald, Mitchell",Mitchell,Gruenewald,Sr,D,8,1,8,1,0,0,0,0,0,0,0,0,0,0,10,0,4,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2319156
-2023,Air Force Falcons,8,Alexander Stepney,"Stepney, Alexander",Alexander,Stepney,So,M,8,2,8,2,1,1,2,8,0.125,3,0.375,0,1,0,3,4,1,1,1,1,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2663450
+2023,Air Force Falcons,34,Matt Rosato,"Rosato, Matt",Matt,Rosato,Fr,D,9,6,9,6,0,0,0,0,0,0,0,0,0,0,5,2,3,0,0,0,5,270,0,0,,0,0,0,0,0,0,0,0,0,0,2810585
+2023,Air Force Falcons,1,Caelen Driggs,"Driggs, Caelen",Caelen,Driggs,Fr,ATT,9,8,9,8,4,2,6,33,0.121,19,0.576,0,1,0,4,7,4,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2810577
 2023,Air Force Falcons,0,Shad Bruce,"Bruce, Shad",Shad,Bruce,Sr,SSDM,8,0,8,0,5,2,7,7,0.714,6,0.857,0,1,0,10,2,3,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2319132
 2023,Air Force Falcons,16,Jake Knapp,"Knapp, Jake",Jake,Knapp,So,FO,8,0,8,0,1,1,2,4,0.25,3,0.75,0,0,0,17,3,0,31,71,0.437,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2663459
+2023,Air Force Falcons,27,Mitchell Gruenewald,"Gruenewald, Mitchell",Mitchell,Gruenewald,Sr,D,8,1,8,1,0,0,0,0,0,0,0,0,0,0,10,0,4,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2319156
+2023,Air Force Falcons,8,Alexander Stepney,"Stepney, Alexander",Alexander,Stepney,So,M,8,2,8,2,1,1,2,8,0.125,3,0.375,0,1,0,3,4,1,1,1,1,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2663450
 2023,Air Force Falcons,32,Maxwell Kane,"Kane, Maxwell",Maxwell,Kane,Sr,M,7,1,7,1,1,2,3,5,0.2,3,0.6,0,0,0,5,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2319138
 2023,Air Force Falcons,30,Blake Boyd,"Boyd, Blake",Blake,Boyd,Fr,FO,7,0,7,0,0,0,0,0,0,0,0,0,0,0,6,1,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2810584
 2023,Air Force Falcons,21,Cody Gross,"Gross, Cody",Cody,Gross,So,D,6,5,6,5,0,0,0,0,0,0,0,0,0,0,10,1,4,0,0,0,2,60,0,0,,0,0,0,0,0,0,0,0,0,0,2663461
 2023,Air Force Falcons,28,Cole Cunningham,"Cunningham, Cole",Cole,Cunningham,Fr,D,6,0,6,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2810544
 2023,Air Force Falcons,31,Kyle Griffith,"Griffith, Kyle",Kyle,Griffith,So,ATT,5,1,5,1,2,1,3,5,0.4,3,0.6,1,1,0,3,3,0,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2663453
-2023,Air Force Falcons,6,Matt Rubino,"Rubino, Matt",Matt,Rubino,So,ATT,5,1,5,1,0,0,0,2,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2663464
 2023,Air Force Falcons,9,Josh Tauss,"Tauss, Josh",Josh,Tauss,Sr,M,5,0,5,0,5,0,5,7,0.714,6,0.857,0,0,0,3,3,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2518908
-2023,Air Force Falcons,4,Cooper Rich,"Rich, Cooper",Cooper,Rich,Jr,M,4,0,4,0,1,0,1,3,0.333,2,0.667,0,0,0,3,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2473188
-2023,Air Force Falcons,41,Connor Albertson,"Albertson, Connor",Connor,Albertson,Fr,D,4,0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2810588
+2023,Air Force Falcons,6,Matt Rubino,"Rubino, Matt",Matt,Rubino,So,ATT,5,1,5,1,0,0,0,2,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2663464
 2023,Air Force Falcons,13,Cole Rassas,"Rassas, Cole",Cole,Rassas,Fr,M,4,0,4,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2810579
-2023,Air Force Falcons,18,Ethan Howell,"Howell, Ethan",Ethan,Howell,So,ATT,3,0,3,0,1,1,2,1,1,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2663463
+2023,Air Force Falcons,41,Connor Albertson,"Albertson, Connor",Connor,Albertson,Fr,D,4,0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2810588
+2023,Air Force Falcons,4,Cooper Rich,"Rich, Cooper",Cooper,Rich,Jr,M,4,0,4,0,1,0,1,3,0.333,2,0.667,0,0,0,3,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2473188
 2023,Air Force Falcons,22,Ollie Lovell,"Lovell, Ollie",Ollie,Lovell,So,SSDM,3,0,3,0,0,0,0,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2663452
-2023,Air Force Falcons,7,Will Stax,"Stax, Will",Will,Stax,Jr,SSDM,3,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2473190
 2023,Air Force Falcons,20,Joey Matheson,"Matheson, Joey",Joey,Matheson,Sr,M,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2319166
+2023,Air Force Falcons,7,Will Stax,"Stax, Will",Will,Stax,Jr,SSDM,3,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2473190
+2023,Air Force Falcons,18,Ethan Howell,"Howell, Ethan",Ethan,Howell,So,ATT,3,0,3,0,1,1,2,1,1,1,1,0,0,0,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2663463
 2023,Air Force Falcons,36,Daniel Haimes,"Haimes, Daniel",Daniel,Haimes,So,FO,2,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,7,0.429,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2663455
 2023,Air Force Falcons,47,Jim Breen,"Breen, Jim",Jim,Breen,Fr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2810592
 2023,Air Force Falcons,23,Jack Stewart,"Stewart, Jack",Jack,Stewart,Jr,SSDM,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2518907
@@ -135,12 +135,12 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,Bellarmine Knights,50,Jackson Hammersley,"Hammersley, Jackson",Jackson,Hammersley,Jr,M,3,0,3,0,1,0,1,1,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2481129
 2023,Bellarmine Knights,42,Nate Committee,"Committee, Nate",Nate,Committee,Fr,D,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2802800
 2023,Bellarmine Knights,55,Jayden Smith,"Smith, Jayden",Jayden,Smith,So,LSM,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2653828
-2023,Bellarmine Knights,17,Ziggy Iannessa,"Iannessa, Ziggy",Ziggy,Iannessa,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2802821
-2023,Bellarmine Knights,20,Ethan Tunucci,"Tunucci, Ethan",Ethan,Tunucci,Fr,ATT,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2802844
-2023,Bellarmine Knights,9,Matt Ury,"Ury, Matt",Matt,Ury,Sr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2332066
-2023,Bellarmine Knights,4,Jack Bozik,"Bozik, Jack",Jack,Bozik,Sr,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6:29,4,37.018,2,0.333,0,0,0,0,0,0,2332044
 2023,Bellarmine Knights,43,Brendan Lehrer,"Lehrer, Brendan",Brendan,Lehrer,Fr,M,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2802845
 2023,Bellarmine Knights,24,Josh Seipp,"Seipp, Josh",Josh,Seipp,Fr,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2802842
+2023,Bellarmine Knights,9,Matt Ury,"Ury, Matt",Matt,Ury,Sr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2332066
+2023,Bellarmine Knights,4,Jack Bozik,"Bozik, Jack",Jack,Bozik,Sr,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6:29,4,37.018,2,0.333,0,0,0,0,0,0,2332044
+2023,Bellarmine Knights,20,Ethan Tunucci,"Tunucci, Ethan",Ethan,Tunucci,Fr,ATT,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2802844
+2023,Bellarmine Knights,17,Ziggy Iannessa,"Iannessa, Ziggy",Ziggy,Iannessa,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2802821
 2023,Binghamton Bearcats,7,Will Feldmann,"Feldmann, Will",Will,Feldmann,N/A,,9,1,9,1,2,0,2,8,0.25,5,0.625,0,0,0,3,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2824220
 2023,Binghamton Bearcats,31,Matthew Keegan,"Keegan, Matthew",Matthew,Keegan,So,ATT,9,9,9,9,33,8,41,82,0.402,54,0.659,3,6,1,13,10,1,0,0,0,2,120,0,0,,0,0,0,0,0,0,0,0,0,1,2664840
 2023,Binghamton Bearcats,4,Paolo Capucciati,"Capucciati, Paolo",Paolo,Capucciati,N/A,,9,0,9,0,0,0,0,1,0,0,0,0,0,0,11,2,2,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2824129
@@ -260,10 +260,10 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,Brown Bears,18,George Wandoff,"Wandoff, George",George,Wandoff,Fr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2803795
 2023,Brown Bears,33,Oscar Hertz,"Hertz, Oscar",Oscar,Hertz,Sr,D,1,1,1,1,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,3,180,0,0,,0,0,0,0,0,0,0,0,0,0,2303424
 2023,Brown Bears,22,Forrest Demetri,"Demetri, Forrest",Forrest,Demetri,So,ATT,1,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653255
+2023,Bryant Bulldogs,2,Spencer Clark,"Clark, Spencer",Spencer,Clark,So,M,9,0,9,0,0,0,0,1,0,1,1,0,0,0,4,1,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2666225
 2023,Bryant Bulldogs,22,Johnny Hackett,"Hackett, Johnny",Johnny,Hackett,Fr,ATT,9,8,9,8,27,7,34,53,0.509,43,0.811,1,0,0,4,19,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805091
 2023,Bryant Bulldogs,30,Drew Lucas,"Lucas, Drew",Drew,Lucas,So,D,9,9,9,9,2,4,6,6,0.333,4,0.667,0,0,0,35,4,12,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2666237
 2023,Bryant Bulldogs,12,Jack Lonsinger,"Lonsinger, Jack",Jack,Lonsinger,Fr,ATT,9,9,9,9,29,2,31,55,0.527,41,0.745,3,3,0,18,7,5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2666235
-2023,Bryant Bulldogs,2,Spencer Clark,"Clark, Spencer",Spencer,Clark,So,M,9,0,9,0,0,0,0,1,0,1,1,0,0,0,4,1,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2666225
 2023,Bryant Bulldogs,97,Cole Braun,"Braun, Cole",Cole,Braun,So,M,9,0,9,0,3,1,4,7,0.429,3,0.429,0,0,0,1,6,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2666223
 2023,Bryant Bulldogs,81,Nathan LaLiberte,"LaLiberte, Nathan",Nathan,LaLiberte,Jr,M,9,0,9,0,3,5,8,14,0.214,8,0.571,0,0,0,59,4,0,99,154,0.643,3,270,0,0,,0,0,0,0,0,0,0,0,0,0,2465316
 2023,Bryant Bulldogs,34,Aidan Goltz,"Goltz, Aidan",Aidan,Goltz,Jr,M,9,9,9,9,22,6,28,84,0.262,48,0.571,0,3,0,15,13,2,0,0,0,4,210,0,0,,0,0,0,0,0,0,0,0,0,0,2465313
@@ -283,31 +283,31 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,Bryant Bulldogs,99,Luke Mead,"Mead, Luke",Luke,Mead,Fr,LSM,7,0,7,0,1,0,1,6,0.167,5,0.833,0,0,0,7,2,3,0,0,0,1,180,0,0,,0,0,0,0,0,0,0,0,0,0,2805119
 2023,Bryant Bulldogs,55,Brody Rule,"Rule, Brody",Brody,Rule,Sr,,5,5,5,5,0,0,0,0,0,0,0,0,0,0,6,1,7,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2310620
 2023,Bryant Bulldogs,11,Tim LaCroix,"LaCroix, Tim",Tim,LaCroix,Jr,M,4,0,4,0,0,1,1,1,0,1,1,0,0,0,0,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2465194
-2023,Bryant Bulldogs,40,Brennan Hart,"Hart, Brennan",Brennan,Hart,Sr,,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,11:58,1,5.014,1,0.5,0,0,0,0,0,0,2310613
-2023,Bryant Bulldogs,3,Nick Pisano,"Pisano, Nick",Nick,Pisano,Fr,ATT,3,0,3,0,0,0,0,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805083
-2023,Bryant Bulldogs,27,Killian Lathrop,"Lathrop, Killian",Killian,Lathrop,So,M,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2666234
 2023,Bryant Bulldogs,13,Henry Watson,"Watson, Henry",Henry,Watson,So,D,3,0,3,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2473830
+2023,Bryant Bulldogs,3,Nick Pisano,"Pisano, Nick",Nick,Pisano,Fr,ATT,3,0,3,0,0,0,0,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805083
+2023,Bryant Bulldogs,40,Brennan Hart,"Hart, Brennan",Brennan,Hart,Sr,,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,11:58,1,5.014,1,0.5,0,0,0,0,0,0,2310613
 2023,Bryant Bulldogs,35,Chad Vasquenza,"Vasquenza, Chad",Chad,Vasquenza,Sr,,3,0,3,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2310623
-2023,Bryant Bulldogs,4,John Tomsheck,"Tomsheck, John",John,Tomsheck,Fr,ATT,2,0,2,0,0,1,1,4,0,2,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805070
-2023,Bryant Bulldogs,66,Isaiah Davis,"Davis, Isaiah",Isaiah,Davis,Jr,ATT,2,0,2,0,1,0,1,2,0.5,1,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2465310
+2023,Bryant Bulldogs,27,Killian Lathrop,"Lathrop, Killian",Killian,Lathrop,So,M,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2666234
 2023,Bryant Bulldogs,50,Ian Peck,"Peck, Ian",Ian,Peck,Jr,D,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2465320
 2023,Bryant Bulldogs,38,Will Milewski,"Milewski, Will",Will,Milewski,Jr,D,2,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2465318
-2023,Bryant Bulldogs,28,Jack Barton,"Barton, Jack",Jack,Barton,So,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2666222
-2023,Bryant Bulldogs,25,Matt Groeninger,"Groeninger, Matt",Matt,Groeninger,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805094
-2023,Bryant Bulldogs,39,Grant Nelligan,"Nelligan, Grant",Grant,Nelligan,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805095
-2023,Bryant Bulldogs,36,Liam Peterson,"Peterson, Liam",Liam,Peterson,Sr,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2310584
-2023,Bryant Bulldogs,43,Austin Daigneault,"Daigneault, Austin",Austin,Daigneault,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805097
+2023,Bryant Bulldogs,4,John Tomsheck,"Tomsheck, John",John,Tomsheck,Fr,ATT,2,0,2,0,0,1,1,4,0,2,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805070
+2023,Bryant Bulldogs,66,Isaiah Davis,"Davis, Isaiah",Isaiah,Davis,Jr,ATT,2,0,2,0,1,0,1,2,0.5,1,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2465310
 2023,Bryant Bulldogs,44,Jackson Degner,"Degner, Jackson",Jackson,Degner,Fr,D,1,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805098
+2023,Bryant Bulldogs,36,Liam Peterson,"Peterson, Liam",Liam,Peterson,Sr,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2310584
+2023,Bryant Bulldogs,49,Connor Ruppert,"Ruppert, Connor",Connor,Ruppert,Fr,M,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805099
+2023,Bryant Bulldogs,51,Rand Paddack,"Paddack, Rand",Rand,Paddack,So,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2666240
+2023,Bryant Bulldogs,19,Graham Tyson,"Tyson, Graham",Graham,Tyson,So,FO,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2666242
 2023,Bryant Bulldogs,21,Mike Kearney,"Kearney, Mike",Mike,Kearney,Sr,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2310615
 2023,Bryant Bulldogs,58,Ean Patry,"Patry, Ean",Ean,Patry,Sr,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,6:01,0,0,1,1,0,0,0,0,0,0,2310617
-2023,Bryant Bulldogs,46,Liam Smith,"Smith, Liam",Liam,Smith,Sr,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2310622
-2023,Bryant Bulldogs,51,Rand Paddack,"Paddack, Rand",Rand,Paddack,So,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2666240
-2023,Bryant Bulldogs,23,Tom Caito,"Caito, Tom",Tom,Caito,Fr,M,1,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805092
+2023,Bryant Bulldogs,28,Jack Barton,"Barton, Jack",Jack,Barton,So,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2666222
+2023,Bryant Bulldogs,39,Grant Nelligan,"Nelligan, Grant",Grant,Nelligan,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805095
 2023,Bryant Bulldogs,15,Lucas Hogan,"Hogan, Lucas",Lucas,Hogan,Jr,M,1,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2465314
-2023,Bryant Bulldogs,49,Connor Ruppert,"Ruppert, Connor",Connor,Ruppert,Fr,M,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805099
+2023,Bryant Bulldogs,25,Matt Groeninger,"Groeninger, Matt",Matt,Groeninger,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805094
+2023,Bryant Bulldogs,23,Tom Caito,"Caito, Tom",Tom,Caito,Fr,M,1,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805092
 2023,Bryant Bulldogs,14,Andrew Finn,"Finn, Andrew",Andrew,Finn,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805085
-2023,Bryant Bulldogs,19,Graham Tyson,"Tyson, Graham",Graham,Tyson,So,FO,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2666242
+2023,Bryant Bulldogs,46,Liam Smith,"Smith, Liam",Liam,Smith,Sr,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2310622
 2023,Bryant Bulldogs,7,Riley Van Duzer,"Van Duzer, Riley",Riley,Van Duzer,Jr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2465195
+2023,Bryant Bulldogs,43,Austin Daigneault,"Daigneault, Austin",Austin,Daigneault,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805097
 2023,Bucknell Bison,42,Jaz Zanelli,"Zanelli, Jaz",Jaz,Zanelli,Fr,GK,9,9,9,9,0,0,0,1,0,1,1,0,0,0,17,7,3,0,0,0,0,0,9,9,471:03,103,13.12,93,0.474,0,0,0,0,0,0,2807969
 2023,Bucknell Bison,25,John Young,"Young, John",John,Young,Fr,LSM,9,0,9,0,0,0,0,1,0,0,0,0,0,0,15,3,7,0,0,0,3,150,0,0,,0,0,0,0,0,0,0,0,0,0,2807966
 2023,Bucknell Bison,16,Will Pickering,"Pickering, Will",Will,Pickering,Fr,D,9,7,9,7,0,0,0,0,0,0,0,0,0,0,14,7,6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2807965
@@ -506,48 +506,48 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,Cornell Big Red,16,Max Fields,"Fields, Max",Max,Fields,Sr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2118456
 2023,Cornell Big Red,49,Monty Cook,"Cook, Monty",Monty,Cook,Jr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2655285
 2023,Cornell Big Red,47,Ethan Ruller,"Ruller, Ethan",Ethan,Ruller,Fr,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2808679
-2023,Dartmouth Big Green,7,Colin McGill,"McGill, Colin",Colin,McGill,So,ATT,8,8,8,8,22,13,35,58,0.379,36,0.621,2,3,0,14,13,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,2664401
-2023,Dartmouth Big Green,33,Nate Davis,"Davis, Nate",Nate,Davis,Jr,ATT,8,8,8,8,13,6,19,45,0.289,28,0.622,0,2,0,5,5,1,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2528884
-2023,Dartmouth Big Green,46,Ben DiGiovanni,"DiGiovanni, Ben",Ben,DiGiovanni,Jr,M,8,0,8,0,0,2,2,2,0,1,0.5,0,0,0,19,5,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2528887
-2023,Dartmouth Big Green,25,Griffin O'Neil,"O'Neil, Griffin",Griffin,O'Neil,So,D,8,6,8,6,0,0,0,0,0,0,0,0,0,0,14,1,8,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2664428
-2023,Dartmouth Big Green,10,Cameron Brown,"Brown, Cameron",Cameron,Brown,Fr,M,8,0,8,0,7,0,7,20,0.35,13,0.65,0,0,0,2,8,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819258
-2023,Dartmouth Big Green,22,Mitchell Myers,"Myers, Mitchell",Mitchell,Myers,Sr,FO,8,0,8,0,0,0,0,1,0,0,0,0,0,0,64,7,1,126,204,0.618,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2310763
-2023,Dartmouth Big Green,30,Andrew Johnston,"Johnston, Andrew",Andrew,Johnston,Sr,D,8,8,8,8,0,0,0,0,0,0,0,0,0,0,14,5,6,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2310768
-2023,Dartmouth Big Green,17,Cam Hitchcock,"Hitchcock, Cam",Cam,Hitchcock,So,D,8,6,8,6,0,0,0,0,0,0,0,0,0,0,4,2,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2664424
-2023,Dartmouth Big Green,42,Emmett Paradine,"Paradine, Emmett",Emmett,Paradine,Fr,M,8,7,8,7,15,7,22,40,0.375,22,0.55,1,0,0,9,8,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819264
 2023,Dartmouth Big Green,34,Thomas Vandenberg,"Vandenberg, Thomas",Thomas,Vandenberg,Fr,M,8,0,8,0,0,0,0,2,0,1,0.5,0,0,0,8,6,3,0,0,0,2,60,0,0,,0,0,0,0,0,0,0,0,0,0,2819267
+2023,Dartmouth Big Green,42,Emmett Paradine,"Paradine, Emmett",Emmett,Paradine,Fr,M,8,7,8,7,15,7,22,40,0.375,22,0.55,1,0,0,9,8,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819264
 2023,Dartmouth Big Green,28,Max LaTorre,"LaTorre, Max",Max,LaTorre,Fr,D,8,0,8,0,0,1,1,1,0,1,1,0,0,0,10,0,8,0,0,0,2,120,0,0,,0,0,0,0,0,0,0,0,0,0,2819262
-2023,Dartmouth Big Green,15,Quinn Moore,"Moore, Quinn",Quinn,Moore,So,M,8,7,8,7,16,6,22,50,0.32,28,0.56,2,3,0,19,13,5,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2664403
-2023,Dartmouth Big Green,4,Peter Lapina,"Lapina, Peter",Peter,Lapina,Jr,ATT,8,1,8,1,3,7,10,20,0.15,10,0.5,0,1,0,4,11,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2528881
-2023,Dartmouth Big Green,13,Peter Rizzotti,"Rizzotti, Peter",Peter,Rizzotti,Sr,M,8,4,8,4,0,0,0,2,0,2,1,0,0,0,14,5,12,0,0,0,3,180,0,0,,0,0,0,0,0,0,0,0,0,0,2116269
-2023,Dartmouth Big Green,14,Tommy Rogan,"Rogan, Tommy",Tommy,Rogan,Sr,ATT,8,5,8,5,9,7,16,25,0.36,17,0.68,0,0,0,12,18,3,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2310759
+2023,Dartmouth Big Green,10,Cameron Brown,"Brown, Cameron",Cameron,Brown,Fr,M,8,0,8,0,7,0,7,20,0.35,13,0.65,0,0,0,2,8,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819258
+2023,Dartmouth Big Green,25,Griffin O'Neil,"O'Neil, Griffin",Griffin,O'Neil,So,D,8,6,8,6,0,0,0,0,0,0,0,0,0,0,14,1,8,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2664428
 2023,Dartmouth Big Green,23,Brandon Ventarola,"Ventarola, Brandon",Brandon,Ventarola,So,M,8,7,8,7,11,3,14,28,0.393,18,0.643,1,2,0,7,11,2,0,0,0,1,120,0,0,,0,0,0,0,0,0,0,0,0,0,2664426
-2023,Dartmouth Big Green,3,Sam Cooper,"Cooper, Sam",Sam,Cooper,Fr,GK,7,6,7,6,0,0,0,1,0,0,0,0,0,0,6,2,0,0,0,0,0,0,7,6,372:16,74,11.927,52,0.413,0,0,0,0,0,0,2819259
-2023,Dartmouth Big Green,20,Henry Bonnie,"Bonnie, Henry",Henry,Bonnie,Jr,ATT,7,1,7,1,4,0,4,16,0.25,7,0.438,0,0,0,4,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2528882
+2023,Dartmouth Big Green,17,Cam Hitchcock,"Hitchcock, Cam",Cam,Hitchcock,So,D,8,6,8,6,0,0,0,0,0,0,0,0,0,0,4,2,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2664424
+2023,Dartmouth Big Green,15,Quinn Moore,"Moore, Quinn",Quinn,Moore,So,M,8,7,8,7,16,6,22,50,0.32,28,0.56,2,3,0,19,13,5,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2664403
+2023,Dartmouth Big Green,7,Colin McGill,"McGill, Colin",Colin,McGill,So,ATT,8,8,8,8,22,13,35,58,0.379,36,0.621,2,3,0,14,13,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,2664401
+2023,Dartmouth Big Green,46,Ben DiGiovanni,"DiGiovanni, Ben",Ben,DiGiovanni,Jr,M,8,0,8,0,0,2,2,2,0,1,0.5,0,0,0,19,5,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2528887
+2023,Dartmouth Big Green,33,Nate Davis,"Davis, Nate",Nate,Davis,Jr,ATT,8,8,8,8,13,6,19,45,0.289,28,0.622,0,2,0,5,5,1,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2528884
+2023,Dartmouth Big Green,4,Peter Lapina,"Lapina, Peter",Peter,Lapina,Jr,ATT,8,1,8,1,3,7,10,20,0.15,10,0.5,0,1,0,4,11,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2528881
+2023,Dartmouth Big Green,30,Andrew Johnston,"Johnston, Andrew",Andrew,Johnston,Sr,D,8,8,8,8,0,0,0,0,0,0,0,0,0,0,14,5,6,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2310768
+2023,Dartmouth Big Green,22,Mitchell Myers,"Myers, Mitchell",Mitchell,Myers,Sr,FO,8,0,8,0,0,0,0,1,0,0,0,0,0,0,64,7,1,126,204,0.618,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2310763
+2023,Dartmouth Big Green,14,Tommy Rogan,"Rogan, Tommy",Tommy,Rogan,Sr,ATT,8,5,8,5,9,7,16,25,0.36,17,0.68,0,0,0,12,18,3,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2310759
+2023,Dartmouth Big Green,13,Peter Rizzotti,"Rizzotti, Peter",Peter,Rizzotti,Sr,M,8,4,8,4,0,0,0,2,0,2,1,0,0,0,14,5,12,0,0,0,3,180,0,0,,0,0,0,0,0,0,0,0,0,0,2116269
+2023,Dartmouth Big Green,18,Joe Azelby,"Azelby, Joe",Joe,Azelby,So,LSM,7,0,7,0,1,1,2,1,1,1,1,0,0,0,11,2,0,0,0,0,2,60,0,0,,0,0,0,0,0,0,0,0,0,0,2664425
 2023,Dartmouth Big Green,35,Jackson McGinley,"McGinley, Jackson",Jackson,McGinley,Sr,LSM,7,0,7,0,0,0,0,0,0,0,0,0,0,0,2,2,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2310788
 2023,Dartmouth Big Green,12,Jesse Phelan,"Phelan, Jesse",Jesse,Phelan,Fr,D,7,0,7,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819265
+2023,Dartmouth Big Green,20,Henry Bonnie,"Bonnie, Henry",Henry,Bonnie,Jr,ATT,7,1,7,1,4,0,4,16,0.25,7,0.438,0,0,0,4,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2528882
 2023,Dartmouth Big Green,16,Hopper Zappitello,"Zappitello, Hopper",Hopper,Zappitello,So,ATT,7,3,7,3,1,2,3,4,0.25,2,0.5,0,0,0,2,3,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819269
-2023,Dartmouth Big Green,18,Joe Azelby,"Azelby, Joe",Joe,Azelby,So,LSM,7,0,7,0,1,1,2,1,1,1,1,0,0,0,11,2,0,0,0,0,2,60,0,0,,0,0,0,0,0,0,0,0,0,0,2664425
-2023,Dartmouth Big Green,19,Thomas Goguen,"Goguen, Thomas",Thomas,Goguen,Fr,D,6,0,6,0,0,0,0,0,0,0,0,0,0,0,4,1,5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819261
+2023,Dartmouth Big Green,3,Sam Cooper,"Cooper, Sam",Sam,Cooper,Fr,GK,7,6,7,6,0,0,0,1,0,0,0,0,0,0,6,2,0,0,0,0,0,0,7,6,372:16,74,11.927,52,0.413,0,0,0,0,0,0,2819259
 2023,Dartmouth Big Green,21,Payton St. Geme,"St. Geme, Payton",Payton,St. Geme,Sr,ATT,6,0,6,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2310774
+2023,Dartmouth Big Green,19,Thomas Goguen,"Goguen, Thomas",Thomas,Goguen,Fr,D,6,0,6,0,0,0,0,0,0,0,0,0,0,0,4,1,5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819261
 2023,Dartmouth Big Green,24,Colin Niehaus,"Niehaus, Colin",Colin,Niehaus,So,M,5,0,5,0,0,0,0,2,0,1,0.5,0,0,0,2,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2664427
-2023,Dartmouth Big Green,47,Mason Morel,"Morel, Mason",Mason,Morel,So,GK,4,2,4,2,0,0,0,0,0,0,0,0,0,0,7,4,0,0,0,0,0,0,4,2,106:03,28,15.842,22,0.44,0,0,0,0,0,0,2664423
+2023,Dartmouth Big Green,27,Logan Tucker,"Tucker, Logan",Logan,Tucker,Jr,FO,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2664429
 2023,Dartmouth Big Green,50,Jack Cooleen,"Cooleen, Jack",Jack,Cooleen,Jr,D,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,120,0,0,,0,0,0,0,0,0,0,0,0,0,2528889
 2023,Dartmouth Big Green,43,TJ Bryan,"Bryan, TJ",TJ,Bryan,Sr,FO,4,0,4,0,1,0,1,2,0.5,2,1,0,0,0,3,0,0,11,22,0.5,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2310791
-2023,Dartmouth Big Green,27,Logan Tucker,"Tucker, Logan",Logan,Tucker,Jr,FO,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2664429
-2023,Dartmouth Big Green,9,Blake Brookes,"Brookes, Blake",Blake,Brookes,Jr,D,3,0,3,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2529450
-2023,Dartmouth Big Green,41,Michael Mauricio,"Mauricio, Michael",Michael,Mauricio,Jr,ATT,3,0,3,0,0,0,0,2,0,1,0.5,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2528886
+2023,Dartmouth Big Green,47,Mason Morel,"Morel, Mason",Mason,Morel,So,GK,4,2,4,2,0,0,0,0,0,0,0,0,0,0,7,4,0,0,0,0,0,0,4,2,106:03,28,15.842,22,0.44,0,0,0,0,0,0,2664423
 2023,Dartmouth Big Green,26,Vincent Gandolfo,"Gandolfo, Vincent",Vincent,Gandolfo,So,FO,3,0,3,0,0,1,1,0,0,0,0,0,0,0,3,1,0,7,11,0.636,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2664421
-2023,Dartmouth Big Green,29,Zak Oehlerking,"Oehlerking, Zak",Zak,Oehlerking,Fr,ATT,3,0,3,0,0,0,0,3,0,1,0.333,0,0,0,2,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819263
+2023,Dartmouth Big Green,9,Blake Brookes,"Brookes, Blake",Blake,Brookes,Jr,D,3,0,3,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2529450
 2023,Dartmouth Big Green,44,Holden Deck,"Deck, Holden",Holden,Deck,So,M,3,1,3,1,2,0,2,5,0.4,4,0.8,0,0,0,5,1,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2664430
+2023,Dartmouth Big Green,41,Michael Mauricio,"Mauricio, Michael",Michael,Mauricio,Jr,ATT,3,0,3,0,0,0,0,2,0,1,0.5,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2528886
+2023,Dartmouth Big Green,29,Zak Oehlerking,"Oehlerking, Zak",Zak,Oehlerking,Fr,ATT,3,0,3,0,0,0,0,3,0,1,0.333,0,0,0,2,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819263
+2023,Dartmouth Big Green,37,Quintin Campbell,"Campbell, Quintin",Quintin,Campbell,So,M,2,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2664422
+2023,Dartmouth Big Green,39,Kellen Seeley,"Seeley, Kellen",Kellen,Seeley,Fr,M,2,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819266
+2023,Dartmouth Big Green,11,Tyler Ford,"Ford, Tyler",Tyler,Ford,So,ATT,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2664402
 2023,Dartmouth Big Green,32,Cooper Higgins,"Higgins, Cooper",Cooper,Higgins,Jr,M,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2528883
 2023,Dartmouth Big Green,40,Brett Gallagher,"Gallagher, Brett",Brett,Gallagher,Sr,M,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2310770
-2023,Dartmouth Big Green,39,Kellen Seeley,"Seeley, Kellen",Kellen,Seeley,Fr,M,2,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819266
-2023,Dartmouth Big Green,37,Quintin Campbell,"Campbell, Quintin",Quintin,Campbell,So,M,2,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2664422
-2023,Dartmouth Big Green,11,Tyler Ford,"Ford, Tyler",Tyler,Ford,So,ATT,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2664402
-2023,Dartmouth Big Green,31,Brendon Gallagher,"Gallagher, Brendon",Brendon,Gallagher,Sr,LSM,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2310785
-2023,Dartmouth Big Green,38,Lenox Huh,"Huh, Lenox",Lenox,Huh,Jr,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2528885
 2023,Dartmouth Big Green,45,Reece Lagerquist,"Lagerquist, Reece",Reece,Lagerquist,Sr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2310792
+2023,Dartmouth Big Green,38,Lenox Huh,"Huh, Lenox",Lenox,Huh,Jr,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2528885
+2023,Dartmouth Big Green,31,Brendon Gallagher,"Gallagher, Brendon",Brendon,Gallagher,Sr,LSM,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2310785
 2023,Dartmouth Big Green,5,Hunter Binney,"Binney, Hunter",Hunter,Binney,Jr,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4:06,3,43.902,1,0.25,0,0,0,0,0,0,2528880
 2023,Delaware Blue Hens,44,Joe Speers,"Speers, Joe",Joe,Speers,Jr,D,10,0,10,0,1,1,2,3,0.333,3,1,1,0,0,23,2,16,0,0,0,2,180,0,0,,0,0,0,0,0,0,0,0,0,0,2482075
 2023,Delaware Blue Hens,18,Aidan Fritz,"Fritz, Aidan",Aidan,Fritz,Jr,M,10,0,10,0,0,1,1,0,0,0,0,0,0,0,6,4,2,0,0,0,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2482062
@@ -627,38 +627,38 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,Denver Pioneers,39,Gabe Bowen-Slott,"Bowen-Slott, Gabe",Gabe,Bowen-Slott,So,D,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2651916
 2023,Denver Pioneers,22,Dakota Johnson,"Johnson, Dakota",Dakota,Johnson,So,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2651920
 2023,Denver Pioneers,29,Cody Malawsky,"Malawsky, Cody",Cody,Malawsky,Fr,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2800453
-2023,Detroit Mercy Titans,24,Chase Mahabir,"Mahabir, Chase",Chase,Mahabir,So,M,8,6,8,6,3,2,5,16,0.188,7,0.438,0,0,0,2,10,0,0,0,0,5,180,0,0,,0,0,0,0,0,0,0,0,0,0,2653081
-2023,Detroit Mercy Titans,18,Joe Janda,"Janda, Joe",Joe,Janda,Fr,D,8,1,8,1,0,0,0,2,0,1,0.5,0,0,0,11,1,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809262
-2023,Detroit Mercy Titans,14,David Beacom,"Beacom, David",David,Beacom,Sr,DM,8,0,8,0,2,0,2,4,0.5,3,0.75,0,0,0,17,2,9,0,0,0,5,210,0,0,,0,0,0,0,0,0,0,0,0,0,2117600
-2023,Detroit Mercy Titans,10,Aidan Bishop,"Bishop, Aidan",Aidan,Bishop,So,ATT,8,7,8,7,5,3,8,26,0.192,14,0.538,1,1,0,9,5,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653076
-2023,Detroit Mercy Titans,44,Sean Henige,"Henige, Sean",Sean,Henige,So,D,8,7,8,7,0,0,0,0,0,0,0,0,0,0,10,4,6,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2653089
-2023,Detroit Mercy Titans,8,Drew Kessenich,"Kessenich, Drew",Drew,Kessenich,Fr,M,8,7,8,7,12,6,18,47,0.255,29,0.617,0,4,0,13,13,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809308
-2023,Detroit Mercy Titans,12,Luke Majick,"Majick, Luke",Luke,Majick,Sr,M,8,7,8,7,10,6,16,42,0.238,27,0.643,0,2,0,7,14,2,0,0,0,3,90,0,0,,0,0,0,0,0,0,0,0,0,0,2306242
-2023,Detroit Mercy Titans,16,Ivan Progar,"Progar, Ivan",Ivan,Progar,Sr,M,8,1,8,1,2,2,4,21,0.095,6,0.286,0,0,0,2,7,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2308868
-2023,Detroit Mercy Titans,9,Ryan Birney,"Birney, Ryan",Ryan,Birney,Sr,M,8,7,8,7,19,1,20,80,0.238,38,0.475,0,3,0,9,9,6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2308883
-2023,Detroit Mercy Titans,33,Kyle Loken,"Loken, Kyle",Kyle,Loken,Sr,M,8,1,8,1,1,0,1,7,0.143,3,0.429,0,0,0,14,6,6,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2308909
 2023,Detroit Mercy Titans,88,Jackson Ewald,"Ewald, Jackson",Jackson,Ewald,Fr,M,8,0,8,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,3,150,0,0,,0,0,0,0,0,0,0,0,0,0,2809331
-2023,Detroit Mercy Titans,3,Jakob Hemme,"Hemme, Jakob",Jakob,Hemme,So,GK,8,7,8,7,0,0,0,2,0,1,0.5,0,0,0,20,5,3,0,0,0,0,0,8,7,418:16,103,14.775,102,0.498,0,0,0,0,0,0,2470344
+2023,Detroit Mercy Titans,8,Drew Kessenich,"Kessenich, Drew",Drew,Kessenich,Fr,M,8,7,8,7,12,6,18,47,0.255,29,0.617,0,4,0,13,13,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809308
+2023,Detroit Mercy Titans,18,Joe Janda,"Janda, Joe",Joe,Janda,Fr,D,8,1,8,1,0,0,0,2,0,1,0.5,0,0,0,11,1,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809262
+2023,Detroit Mercy Titans,44,Sean Henige,"Henige, Sean",Sean,Henige,So,D,8,7,8,7,0,0,0,0,0,0,0,0,0,0,10,4,6,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2653089
 2023,Detroit Mercy Titans,25,Will Marshall,"Marshall, Will",Will,Marshall,So,M,8,0,8,0,0,0,0,0,0,0,0,0,0,0,4,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653087
-2023,Detroit Mercy Titans,30,Noah Martin,"Martin, Noah",Noah,Martin,Jr,D,8,8,8,8,0,0,0,1,0,0,0,0,0,0,24,4,6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2470347
 2023,Detroit Mercy Titans,28,Nolan Graalman,"Graalman, Nolan",Nolan,Graalman,So,ATT,8,8,8,8,8,1,9,28,0.286,18,0.643,0,2,0,9,10,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653083
-2023,Detroit Mercy Titans,13,Logan Flaherty,"Flaherty, Logan",Logan,Flaherty,Fr,M,7,1,7,1,0,0,0,0,0,0,0,0,0,0,8,4,1,45,119,0.378,6,210,0,0,,0,0,0,0,0,0,0,0,0,0,2809311
-2023,Detroit Mercy Titans,27,Eoghan Mullet,"Mullet, Eoghan",Eoghan,Mullet,So,D,7,0,7,0,0,1,1,1,0,0,0,0,0,0,19,1,6,3,19,0.158,3,150,0,0,,0,0,0,0,0,0,0,0,0,0,2666238
+2023,Detroit Mercy Titans,24,Chase Mahabir,"Mahabir, Chase",Chase,Mahabir,So,M,8,6,8,6,3,2,5,16,0.188,7,0.438,0,0,0,2,10,0,0,0,0,5,180,0,0,,0,0,0,0,0,0,0,0,0,0,2653081
+2023,Detroit Mercy Titans,10,Aidan Bishop,"Bishop, Aidan",Aidan,Bishop,So,ATT,8,7,8,7,5,3,8,26,0.192,14,0.538,1,1,0,9,5,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653076
+2023,Detroit Mercy Titans,30,Noah Martin,"Martin, Noah",Noah,Martin,Jr,D,8,8,8,8,0,0,0,1,0,0,0,0,0,0,24,4,6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2470347
+2023,Detroit Mercy Titans,3,Jakob Hemme,"Hemme, Jakob",Jakob,Hemme,So,GK,8,7,8,7,0,0,0,2,0,1,0.5,0,0,0,20,5,3,0,0,0,0,0,8,7,418:16,103,14.775,102,0.498,0,0,0,0,0,0,2470344
+2023,Detroit Mercy Titans,33,Kyle Loken,"Loken, Kyle",Kyle,Loken,Sr,M,8,1,8,1,1,0,1,7,0.143,3,0.429,0,0,0,14,6,6,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2308909
+2023,Detroit Mercy Titans,9,Ryan Birney,"Birney, Ryan",Ryan,Birney,Sr,M,8,7,8,7,19,1,20,80,0.238,38,0.475,0,3,0,9,9,6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2308883
+2023,Detroit Mercy Titans,16,Ivan Progar,"Progar, Ivan",Ivan,Progar,Sr,M,8,1,8,1,2,2,4,21,0.095,6,0.286,0,0,0,2,7,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2308868
+2023,Detroit Mercy Titans,12,Luke Majick,"Majick, Luke",Luke,Majick,Sr,M,8,7,8,7,10,6,16,42,0.238,27,0.643,0,2,0,7,14,2,0,0,0,3,90,0,0,,0,0,0,0,0,0,0,0,0,0,2306242
+2023,Detroit Mercy Titans,14,David Beacom,"Beacom, David",David,Beacom,Sr,DM,8,0,8,0,2,0,2,4,0.5,3,0.75,0,0,0,17,2,9,0,0,0,5,210,0,0,,0,0,0,0,0,0,0,0,0,0,2117600
 2023,Detroit Mercy Titans,21,Joey Schmaltz,"Schmaltz, Joey",Joey,Schmaltz,So,D,7,6,7,6,0,0,0,0,0,0,0,0,0,0,6,1,2,0,0,0,5,240,0,0,,0,0,0,0,0,0,0,0,0,0,2653080
+2023,Detroit Mercy Titans,27,Eoghan Mullet,"Mullet, Eoghan",Eoghan,Mullet,So,D,7,0,7,0,0,1,1,1,0,0,0,0,0,0,19,1,6,3,19,0.158,3,150,0,0,,0,0,0,0,0,0,0,0,0,0,2666238
+2023,Detroit Mercy Titans,13,Logan Flaherty,"Flaherty, Logan",Logan,Flaherty,Fr,M,7,1,7,1,0,0,0,0,0,0,0,0,0,0,8,4,1,45,119,0.378,6,210,0,0,,0,0,0,0,0,0,0,0,0,0,2809311
 2023,Detroit Mercy Titans,20,Ayden Snow,"Snow, Ayden",Ayden,Snow,Fr,M,6,1,6,1,1,1,2,9,0.111,3,0.333,0,0,0,3,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809265
 2023,Detroit Mercy Titans,4,Kyle Grant,"Grant, Kyle",Kyle,Grant,Fr,D,6,3,6,3,0,0,0,0,0,0,0,0,0,0,3,4,6,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809305
 2023,Detroit Mercy Titans,29,Harold Skinner,"Skinner, Harold",Harold,Skinner,So,M,5,0,5,0,1,1,2,2,0.5,2,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653084
 2023,Detroit Mercy Titans,2,Billy Hart,"Hart, Billy",Billy,Hart,So,FO,5,0,5,0,0,0,0,0,0,0,0,0,0,0,5,2,1,24,63,0.381,3,90,0,0,,0,0,0,0,0,0,0,0,0,0,2653075
-2023,Detroit Mercy Titans,0,Danton Molotky,"Molotky, Danton",Danton,Molotky,Fr,ATT,3,0,3,0,0,0,0,2,0,2,1,0,0,0,1,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809303
-2023,Detroit Mercy Titans,23,Ally Don Jean-Francois,"Jean-Francois, Ally Don",Ally Don,Jean-Francois,Jr,M,3,0,3,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2470350
-2023,Detroit Mercy Titans,37,Cole Gellatly,"Gellatly, Cole",Cole,Gellatly,Jr,M,3,0,3,0,0,2,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2470348
 2023,Detroit Mercy Titans,1,Tyler Hart,"Hart, Tyler",Tyler,Hart,Sr,GK,3,1,3,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,3,1,61:44,14,13.607,14,0.5,0,0,0,0,0,0,2310852
+2023,Detroit Mercy Titans,37,Cole Gellatly,"Gellatly, Cole",Cole,Gellatly,Jr,M,3,0,3,0,0,2,2,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2470348
+2023,Detroit Mercy Titans,23,Ally Don Jean-Francois,"Jean-Francois, Ally Don",Ally Don,Jean-Francois,Jr,M,3,0,3,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2470350
 2023,Detroit Mercy Titans,15,Kaden Dietrich,"Dietrich, Kaden",Kaden,Dietrich,So,DM,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2653077
+2023,Detroit Mercy Titans,0,Danton Molotky,"Molotky, Danton",Danton,Molotky,Fr,ATT,3,0,3,0,0,0,0,2,0,2,1,0,0,0,1,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809303
 2023,Detroit Mercy Titans,50,Ethan Pattinson,"Pattinson, Ethan",Ethan,Pattinson,Sr,M,2,0,2,0,0,1,1,3,0,2,0.667,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2128291
 2023,Detroit Mercy Titans,22,Zach Snider,"Snider, Zach",Zach,Snider,Fr,ATT,2,1,2,1,2,0,2,6,0.333,2,0.333,0,0,0,0,1,0,0,0,0,3,240,0,0,,0,0,0,0,0,0,0,0,0,0,2809320
-2023,Detroit Mercy Titans,11,Zane Hitch,"Hitch, Zane",Zane,Hitch,Fr,LSM,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809309
-2023,Detroit Mercy Titans,91,Luke Fritz,"Fritz, Luke",Luke,Fritz,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,0.111,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809332
 2023,Detroit Mercy Titans,6,Harrison Albano,"Albano, Harrison",Harrison,Albano,So,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2470345
+2023,Detroit Mercy Titans,91,Luke Fritz,"Fritz, Luke",Luke,Fritz,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9,0.111,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809332
+2023,Detroit Mercy Titans,11,Zane Hitch,"Hitch, Zane",Zane,Hitch,Fr,LSM,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809309
 2023,Drexel Dragons,10,Connor Hooley,"Hooley, Connor",Connor,Hooley,Fr,,9,9,9,9,11,3,14,36,0.306,21,0.583,1,0,0,11,8,2,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2802541
 2023,Drexel Dragons,2,Casey Waller,"Waller, Casey",Casey,Waller,Sr,,9,2,9,2,4,0,4,10,0.4,6,0.6,0,0,0,0,5,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1977144
 2023,Drexel Dragons,1,Connor McVicker,"McVicker, Connor",Connor,McVicker,Fr,,9,0,9,0,1,1,2,8,0.125,4,0.5,0,0,0,9,7,4,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2802540
@@ -794,50 +794,50 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,Fairfield Stags,12,Jason LaMay Jr.,"LaMay Jr., Jason",Jason,LaMay Jr.,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2820567
 2023,Fairfield Stags,33,Trey Ordway,"Ordway, Trey",Trey,Ordway,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2820574
 2023,Fairfield Stags,49,Jack LaBanca,"LaBanca, Jack",Jack,LaBanca,Fr,FO,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2820568
-2023,Georgetown Hoyas,10,Will Godine,"Godine, Will",Will,Godine,Sr,DM,8,0,8,0,0,1,1,2,0,1,0.5,0,0,0,23,2,1,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2304656
-2023,Georgetown Hoyas,14,Wallace Halpert,"Halpert, Wallace",Wallace,Halpert,Jr,D,8,3,8,3,1,0,1,3,0.333,2,0.667,0,1,0,23,1,13,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2475497
-2023,Georgetown Hoyas,24,Patrick Crogan,"Crogan, Patrick",Patrick,Crogan,Fr,M,8,5,8,5,7,4,11,14,0.5,11,0.786,0,0,0,5,8,1,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2798557
-2023,Georgetown Hoyas,9,Graham Bundy Jr.,"Bundy Jr., Graham",Graham,Bundy Jr.,Sr,M,8,8,8,8,17,3,20,71,0.239,40,0.563,1,2,0,14,8,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2304655
-2023,Georgetown Hoyas,40,Dylan Hess,"Hess, Dylan",Dylan,Hess,Jr,M,8,0,8,0,3,0,3,5,0.6,3,0.6,0,0,0,10,5,7,0,0,0,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2475495
-2023,Georgetown Hoyas,12,Aidan Carroll,"Carroll, Aidan",Aidan,Carroll,Jr,ATT,8,1,8,1,3,3,6,10,0.3,6,0.6,0,0,0,8,6,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2475493
 2023,Georgetown Hoyas,16,Jack Leary,"Leary, Jack",Jack,Leary,Jr,DM,8,0,8,0,0,0,0,3,0,2,0.667,0,0,0,3,1,2,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2475492
+2023,Georgetown Hoyas,40,Dylan Hess,"Hess, Dylan",Dylan,Hess,Jr,M,8,0,8,0,3,0,3,5,0.6,3,0.6,0,0,0,10,5,7,0,0,0,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2475495
 2023,Georgetown Hoyas,7,Will Tominovich,"Tominovich, Will",Will,Tominovich,Jr,D,8,5,8,5,1,0,1,2,0.5,1,0.5,0,0,0,26,0,12,0,0,0,2,120,0,0,,0,0,0,0,0,0,0,0,0,0,2475489
 2023,Georgetown Hoyas,4,TJ Haley,"Haley, TJ",TJ,Haley,Jr,ATT,8,8,8,8,0,9,9,5,0,3,0.6,0,0,0,7,8,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2475487
 2023,Georgetown Hoyas,43,James Donaldson,"Donaldson, James",James,Donaldson,Sr,D,8,8,8,8,0,0,0,0,0,0,0,0,0,0,5,1,5,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2304674
-2023,Georgetown Hoyas,33,James Reilly,"Reilly, James",James,Reilly,Sr,FO,8,0,8,0,3,2,5,7,0.429,6,0.857,0,0,0,75,7,1,108,199,0.543,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2112579
+2023,Georgetown Hoyas,14,Wallace Halpert,"Halpert, Wallace",Wallace,Halpert,Jr,D,8,3,8,3,1,0,1,3,0.333,2,0.667,0,1,0,23,1,13,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2475497
+2023,Georgetown Hoyas,10,Will Godine,"Godine, Will",Will,Godine,Sr,DM,8,0,8,0,0,1,1,2,0,1,0.5,0,0,0,23,2,1,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2304656
+2023,Georgetown Hoyas,9,Graham Bundy Jr.,"Bundy Jr., Graham",Graham,Bundy Jr.,Sr,M,8,8,8,8,17,3,20,71,0.239,40,0.563,1,2,0,14,8,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2304655
+2023,Georgetown Hoyas,12,Aidan Carroll,"Carroll, Aidan",Aidan,Carroll,Jr,ATT,8,1,8,1,3,3,6,10,0.3,6,0.6,0,0,0,8,6,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2475493
+2023,Georgetown Hoyas,24,Patrick Crogan,"Crogan, Patrick",Patrick,Crogan,Fr,M,8,5,8,5,7,4,11,14,0.5,11,0.786,0,0,0,5,8,1,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2798557
 2023,Georgetown Hoyas,2,Tucker Dordevic,"Dordevic, Tucker",Tucker,Dordevic,Sr,ATT,8,8,8,8,24,5,29,91,0.264,54,0.593,1,4,0,15,17,3,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,1979823
+2023,Georgetown Hoyas,33,James Reilly,"Reilly, James",James,Reilly,Sr,FO,8,0,8,0,3,2,5,7,0.429,6,0.857,0,0,0,75,7,1,108,199,0.543,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2112579
 2023,Georgetown Hoyas,1,Declan McDermott,"McDermott, Declan",Declan,McDermott,Sr,M,8,8,8,8,10,4,14,32,0.312,20,0.625,0,0,0,6,5,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2112598
 2023,Georgetown Hoyas,55,Jacob Kelly,"Kelly, Jacob",Jacob,Kelly,Sr,ATT,8,2,8,2,7,7,14,19,0.368,14,0.737,0,1,0,4,5,4,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2116814
-2023,Georgetown Hoyas,13,Brian Minicus,"Minicus, Brian",Brian,Minicus,Sr,ATT,8,8,8,8,17,8,25,45,0.378,30,0.667,0,1,0,20,9,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2130255
-2023,Georgetown Hoyas,3,Nicky Solomon,"Solomon, Nicky",Nicky,Solomon,Sr,ATT,8,0,8,0,7,5,12,25,0.28,16,0.64,2,2,0,5,4,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2116829
 2023,Georgetown Hoyas,99,Will Bowen,"Bowen, Will",Will,Bowen,Sr,D,8,8,8,8,1,1,2,3,0.333,2,0.667,0,0,0,12,1,18,0,0,0,3,180,0,0,,0,0,0,0,0,0,0,0,0,0,2116816
-2023,Georgetown Hoyas,29,Carson Milburn,"Milburn, Carson",Carson,Milburn,Sr,FO,7,0,7,0,0,0,0,0,0,0,0,0,0,0,4,0,0,7,19,0.368,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2304662
-2023,Georgetown Hoyas,37,Charlie McGurrin,"McGurrin, Charlie",Charlie,McGurrin,Fr,D,7,0,7,0,0,0,0,0,0,0,0,0,0,0,5,1,2,0,0,0,2,180,0,0,,0,0,0,0,0,0,0,0,0,0,2798563
+2023,Georgetown Hoyas,3,Nicky Solomon,"Solomon, Nicky",Nicky,Solomon,Sr,ATT,8,0,8,0,7,5,12,25,0.28,16,0.64,2,2,0,5,4,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2116829
+2023,Georgetown Hoyas,13,Brian Minicus,"Minicus, Brian",Brian,Minicus,Sr,ATT,8,8,8,8,17,8,25,45,0.378,30,0.667,0,1,0,20,9,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2130255
 2023,Georgetown Hoyas,35,Michael Scharfenberger,"Scharfenberger, Michael",Michael,Scharfenberger,So,GK,7,5,7,5,0,0,0,0,0,0,0,0,0,0,19,2,3,0,0,0,0,0,7,5,300:46,52,10.373,48,0.48,0,0,0,0,0,0,2652464
+2023,Georgetown Hoyas,29,Carson Milburn,"Milburn, Carson",Carson,Milburn,Sr,FO,7,0,7,0,0,0,0,0,0,0,0,0,0,0,4,0,0,7,19,0.368,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2304662
 2023,Georgetown Hoyas,45,Jordan Wray,"Wray, Jordan",Jordan,Wray,Fr,M,7,0,7,0,3,1,4,9,0.333,6,0.667,1,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2798516
-2023,Georgetown Hoyas,48,Cavanagh Williams,"Williams, Cavanagh",Cavanagh,Williams,So,D,4,0,4,0,0,1,1,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2652456
+2023,Georgetown Hoyas,37,Charlie McGurrin,"McGurrin, Charlie",Charlie,McGurrin,Fr,D,7,0,7,0,0,0,0,0,0,0,0,0,0,0,5,1,2,0,0,0,2,180,0,0,,0,0,0,0,0,0,0,0,0,0,2798563
 2023,Georgetown Hoyas,27,Daniel Hincks,"Hincks, Daniel",Daniel,Hincks,Sr,GK,4,3,4,3,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,4,3,173:07,35,12.131,38,0.521,0,0,0,0,0,0,2116245
-2023,Georgetown Hoyas,5,Seamus Foley,"Foley, Seamus",Seamus,Foley,Jr,D,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2475488
-2023,Georgetown Hoyas,47,Griffin Aslanian,"Aslanian, Griffin",Griffin,Aslanian,Sr,D,3,0,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2304672
+2023,Georgetown Hoyas,48,Cavanagh Williams,"Williams, Cavanagh",Cavanagh,Williams,So,D,4,0,4,0,0,1,1,0,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2652456
 2023,Georgetown Hoyas,20,Michael Haus,"Haus, Michael",Michael,Haus,So,DM,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2652418
-2023,Georgetown Hoyas,34,George Acton,"Acton, George",George,Acton,Fr,D,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2798561
+2023,Georgetown Hoyas,47,Griffin Aslanian,"Aslanian, Griffin",Griffin,Aslanian,Sr,D,3,0,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2304672
+2023,Georgetown Hoyas,5,Seamus Foley,"Foley, Seamus",Seamus,Foley,Jr,D,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2475488
 2023,Georgetown Hoyas,77,Wilson Van Buren,"Van Buren, Wilson",Wilson,Van Buren,Fr,FO,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,9,0.333,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2798567
-2023,Georgetown Hoyas,31,Luke Schlank,"Schlank, Luke",Luke,Schlank,Fr,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2:35,2,46.452,0,0,0,0,0,0,0,0,2798560
-2023,Georgetown Hoyas,30,James Carretta,"Carretta, James",James,Carretta,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2798559
-2023,Georgetown Hoyas,15,JoJo Dean,"Dean, JoJo",JoJo,Dean,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2798556
-2023,Georgetown Hoyas,32,Joe Cesare,"Cesare, Joe",Joe,Cesare,Fr,M,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2798515
-2023,Georgetown Hoyas,44,Cade Caggiano,"Caggiano, Cade",Cade,Caggiano,So,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2652439
-2023,Georgetown Hoyas,28,Pierre Reeves,"Reeves, Pierre",Pierre,Reeves,So,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2652432
-2023,Georgetown Hoyas,26,Jake Waldman,"Waldman, Jake",Jake,Waldman,So,ATT,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2652429
-2023,Georgetown Hoyas,11,Holt Matheis,"Matheis, Holt",Holt,Matheis,So,ATT,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2652427
-2023,Georgetown Hoyas,50,Brendan Voelker,"Voelker, Brendan",Brendan,Voelker,Jr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2475501
+2023,Georgetown Hoyas,34,George Acton,"Acton, George",George,Acton,Fr,D,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2798561
 2023,Georgetown Hoyas,49,Todd Kennedy Jr.,"Kennedy Jr., Todd",Todd,Kennedy Jr.,Jr,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3:32,1,16.981,1,0.5,0,0,0,0,0,0,2475499
-2023,Georgetown Hoyas,42,Zack Pacheco,"Pacheco, Zack",Zack,Pacheco,Sr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2304673
+2023,Georgetown Hoyas,8,Chase Llewellyn,"Llewellyn, Chase",Chase,Llewellyn,Jr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2475491
 2023,Georgetown Hoyas,38,Connor O'Reilly,"O'Reilly, Connor",Connor,O'Reilly,Sr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2304667
+2023,Georgetown Hoyas,11,Holt Matheis,"Matheis, Holt",Holt,Matheis,So,ATT,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2652427
+2023,Georgetown Hoyas,26,Jake Waldman,"Waldman, Jake",Jake,Waldman,So,ATT,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2652429
+2023,Georgetown Hoyas,28,Pierre Reeves,"Reeves, Pierre",Pierre,Reeves,So,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2652432
+2023,Georgetown Hoyas,44,Cade Caggiano,"Caggiano, Cade",Cade,Caggiano,So,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2652439
 2023,Georgetown Hoyas,18,Jack Howe,"Howe, Jack",Jack,Howe,Sr,SSDM,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2304658
 2023,Georgetown Hoyas,36,Chris Glynn,"Glynn, Chris",Chris,Glynn,Sr,DM,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2304632
+2023,Georgetown Hoyas,32,Joe Cesare,"Cesare, Joe",Joe,Cesare,Fr,M,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2798515
 2023,Georgetown Hoyas,6,Cade MacLeod,"MacLeod, Cade",Cade,MacLeod,Sr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2304629
-2023,Georgetown Hoyas,8,Chase Llewellyn,"Llewellyn, Chase",Chase,Llewellyn,Jr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2475491
+2023,Georgetown Hoyas,15,JoJo Dean,"Dean, JoJo",JoJo,Dean,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2798556
+2023,Georgetown Hoyas,50,Brendan Voelker,"Voelker, Brendan",Brendan,Voelker,Jr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2475501
+2023,Georgetown Hoyas,42,Zack Pacheco,"Pacheco, Zack",Zack,Pacheco,Sr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2304673
+2023,Georgetown Hoyas,30,James Carretta,"Carretta, James",James,Carretta,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2798559
+2023,Georgetown Hoyas,31,Luke Schlank,"Schlank, Luke",Luke,Schlank,Fr,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2:35,2,46.452,0,0,0,0,0,0,0,0,2798560
 2023,Georgetown Hoyas,88,Lucas Dudemaine,"Dudemaine, Lucas",Lucas,Dudemaine,Fr,D,1,0,1,0,1,0,1,1,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2798568
 2023,Georgetown Hoyas,41,Henry Caponiti,"Caponiti, Henry",Henry,Caponiti,Fr,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2798566
 2023,Hampton Pirates,18,Darius Stanley,"Stanley, Darius",Darius,Stanley,Fr,M,10,7,10,7,9,6,15,22,0.409,15,0.682,0,2,0,5,11,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2828432
@@ -1028,10 +1028,10 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,Hofstra Pride,31,Will Delaney,"Delaney, Will",Will,Delaney,So,DM,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2665471
 2023,Hofstra Pride,40,Teigue Norman,"Norman, Teigue",Teigue,Norman,Jr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2479934
 2023,Hofstra Pride,8,Jyasi Watson,"Watson, Jyasi",Jyasi,Watson,Jr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2479903
+2023,Holy Cross Crusaders,29,Michael Rincon,"Rincon, Michael",Michael,Rincon,Fr,,10,0,10,0,0,0,0,0,0,0,0,0,0,0,18,8,4,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2803934
 2023,Holy Cross Crusaders,28,Julian Jenkins,"Jenkins, Julian",Julian,Jenkins,Fr,D,10,3,10,3,0,1,1,1,0,0,0,0,0,0,16,2,9,0,0,0,4,240,0,0,,0,0,0,0,0,0,0,0,0,0,2803932
 2023,Holy Cross Crusaders,27,Tyler Marmo,"Marmo, Tyler",Tyler,Marmo,Fr,ATT,10,1,10,1,4,2,6,16,0.25,10,0.625,0,1,0,8,7,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2803931
 2023,Holy Cross Crusaders,11,Jordan Naso,"Naso, Jordan",Jordan,Naso,Fr,,10,0,10,0,0,0,0,4,0,3,0.75,0,0,0,28,0,0,48,117,0.41,3,90,0,0,,0,0,0,0,0,0,0,0,0,0,2803917
-2023,Holy Cross Crusaders,29,Michael Rincon,"Rincon, Michael",Michael,Rincon,Fr,,10,0,10,0,0,0,0,0,0,0,0,0,0,0,18,8,4,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2803934
 2023,Holy Cross Crusaders,6,Baker Reding,"Reding, Baker",Baker,Reding,So,M,10,0,10,0,3,0,3,15,0.2,7,0.467,0,0,0,12,5,3,0,0,0,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2681504
 2023,Holy Cross Crusaders,88,Luke Shoemaker,"Shoemaker, Luke",Luke,Shoemaker,So,ATT,10,5,10,5,0,0,0,2,0,0,0,0,0,0,4,5,5,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2668952
 2023,Holy Cross Crusaders,50,Henry Sheehan,"Sheehan, Henry",Henry,Sheehan,So,ATT,10,0,10,0,4,2,6,11,0.364,7,0.636,0,0,0,4,10,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2668920
@@ -1050,22 +1050,22 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,Holy Cross Crusaders,22,Tyler Strub,"Strub, Tyler",Tyler,Strub,Sr,D,10,5,10,5,0,0,0,0,0,0,0,0,0,0,5,1,4,0,0,0,4,210,0,0,,0,0,0,0,0,0,0,0,0,0,2303341
 2023,Holy Cross Crusaders,44,Connor Boyle,"Boyle, Connor",Connor,Boyle,Sr,M,10,7,10,7,2,1,3,10,0.2,7,0.7,0,0,0,2,10,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2307433
 2023,Holy Cross Crusaders,12,T.J. Lynch,"Lynch, T.J.",T.J.,Lynch,Sr,M,10,8,10,8,2,4,6,22,0.091,11,0.5,0,0,0,4,8,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2309964
-2023,Holy Cross Crusaders,23,Michael Bonomo,"Bonomo, Michael",Michael,Bonomo,So,ATT,9,0,9,0,3,0,3,6,0.5,4,0.667,0,0,0,4,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2668934
 2023,Holy Cross Crusaders,35,William Stahl,"Stahl, William",William,Stahl,Fr,M,9,0,9,0,5,0,5,12,0.417,8,0.667,0,0,0,11,6,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2803935
+2023,Holy Cross Crusaders,23,Michael Bonomo,"Bonomo, Michael",Michael,Bonomo,So,ATT,9,0,9,0,3,0,3,6,0.5,4,0.667,0,0,0,4,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2668934
 2023,Holy Cross Crusaders,21,Calahan McPherson,"McPherson, Calahan",Calahan,McPherson,So,M,9,0,9,0,1,0,1,3,0.333,2,0.667,0,0,0,10,6,4,0,0,0,2,120,0,0,,0,0,0,0,0,0,0,0,0,0,2668932
 2023,Holy Cross Crusaders,7,Jayce Lambert,"Lambert, Jayce",Jayce,Lambert,Sr,ATT,9,2,9,2,1,0,1,11,0.091,4,0.364,0,0,0,3,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2310027
-2023,Holy Cross Crusaders,20,Will Messineo,"Messineo, Will",Will,Messineo,Fr,ATT,7,0,7,0,1,1,2,3,0.333,1,0.333,0,0,0,1,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2803926
 2023,Holy Cross Crusaders,3,Cole Kratovil,"Kratovil, Cole",Cole,Kratovil,Jr,ATT,7,4,7,4,0,3,3,9,0,4,0.444,0,0,0,3,10,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2480328
-2023,Holy Cross Crusaders,9,Billy Carlini,"Carlini, Billy",Billy,Carlini,Sr,DM,5,1,5,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2309951
+2023,Holy Cross Crusaders,20,Will Messineo,"Messineo, Will",Will,Messineo,Fr,ATT,7,0,7,0,1,1,2,3,0.333,1,0.333,0,0,0,1,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2803926
 2023,Holy Cross Crusaders,13,John Mitchell,"Mitchell, John",John,Mitchell,So,ATT,5,1,5,1,1,0,1,5,0.2,2,0.4,0,0,0,0,7,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2668919
-2023,Holy Cross Crusaders,47,Owen Larson,"Larson, Owen",Owen,Larson,So,FO,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2668936
+2023,Holy Cross Crusaders,9,Billy Carlini,"Carlini, Billy",Billy,Carlini,Sr,DM,5,1,5,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2309951
 2023,Holy Cross Crusaders,42,Stuart Pollard,"Pollard, Stuart",Stuart,Pollard,Sr,FO,4,1,4,1,0,0,0,0,0,0,0,0,0,0,4,0,0,6,17,0.353,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2310036
+2023,Holy Cross Crusaders,47,Owen Larson,"Larson, Owen",Owen,Larson,So,FO,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2668936
+2023,Holy Cross Crusaders,15,Liam Ray,"Ray, Liam",Liam,Ray,Fr,,3,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,40:11,6,8.959,9,0.6,0,0,0,0,0,0,2803920
 2023,Holy Cross Crusaders,24,Martin Folan,"Folan, Martin",Martin,Folan,Sr,DM,3,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2309990
 2023,Holy Cross Crusaders,26,Max Hubler,"Hubler, Max",Max,Hubler,Fr,D,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2803875
-2023,Holy Cross Crusaders,15,Liam Ray,"Ray, Liam",Liam,Ray,Fr,,3,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,40:11,6,8.959,9,0.6,0,0,0,0,0,0,2803920
 2023,Holy Cross Crusaders,45,Ben Berger,"Berger, Ben",Ben,Berger,Fr,,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2803874
-2023,Holy Cross Crusaders,16,Billy Black,"Black, Billy",Billy,Black,Fr,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2803898
 2023,Holy Cross Crusaders,5,Jack Dowling,"Dowling, Jack",Jack,Dowling,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2803903
+2023,Holy Cross Crusaders,16,Billy Black,"Black, Billy",Billy,Black,Fr,,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2803898
 2023,Holy Cross Crusaders,37,Alec Hakman,"Hakman, Alec",Alec,Hakman,So,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2668930
 2023,Jacksonville Dolphins,51,Davis Smith,"Smith, Davis",Davis,Smith,Jr,D,10,10,10,10,0,0,0,0,0,0,0,0,0,0,16,3,7,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2472879
 2023,Jacksonville Dolphins,42,Aaron Toguri,"Toguri, Aaron",Aaron,Toguri,Fr,D,10,0,10,0,0,1,1,0,0,0,0,0,0,0,11,2,14,0,3,0,2,120,0,0,,0,0,0,0,0,0,0,0,0,0,2807326
@@ -1124,18 +1124,18 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,Johns Hopkins Blue Jays,77,Hunter Jaronski,"Jaronski, Hunter",Hunter,Jaronski,Sr,SSDM,12,0,12,0,2,1,3,4,0.5,2,0.5,0,0,0,10,6,2,0,0,0,2,60,0,0,,0,0,0,0,0,0,0,0,0,0,2321722
 2023,Johns Hopkins Blue Jays,26,Jack Hawley,"Hawley, Jack",Jack,Hawley,Sr,M,12,0,12,0,0,1,1,0,0,0,0,0,0,0,23,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2125076
 2023,Johns Hopkins Blue Jays,6,Alex Mazzone,"Mazzone, Alex",Alex,Mazzone,Sr,D,12,12,12,12,1,1,2,8,0.125,3,0.375,0,0,0,45,5,12,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2112628
-2023,Johns Hopkins Blue Jays,5,Logan Callahan,"Callahan, Logan",Logan,Callahan,So,FO,11,0,11,0,0,1,1,1,0,1,1,0,0,0,37,1,1,48,103,0.466,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2661500
 2023,Johns Hopkins Blue Jays,40,Garrett Degnon,"Degnon, Garrett",Garrett,Degnon,Sr,ATT,11,11,11,11,26,2,28,70,0.371,43,0.614,2,5,0,18,13,2,0,0,0,3,150,0,0,,0,0,0,0,0,0,0,0,0,0,2125072
-2023,Johns Hopkins Blue Jays,31,Russell Melendez,"Melendez, Russell",Russell,Melendez,Jr,ATT,11,10,11,10,17,9,26,49,0.347,36,0.735,0,1,0,9,13,2,0,0,0,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2464689
-2023,Johns Hopkins Blue Jays,10,Tim Marcille,"Marcille, Tim",Tim,Marcille,Sr,GK,11,11,11,11,1,2,3,2,0.5,1,0.5,0,0,0,24,6,2,0,0,0,0,0,11,11,624:51,121,11.619,137,0.531,0,0,0,0,0,0,2321700
-2023,Johns Hopkins Blue Jays,23,Jacob Angelus,"Angelus, Jacob",Jacob,Angelus,Sr,ATT,11,10,11,10,11,31,42,38,0.289,23,0.605,0,0,0,18,14,2,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2321702
 2023,Johns Hopkins Blue Jays,7,Dylan Bauer,"Bauer, Dylan",Dylan,Bauer,Jr,ATT,11,9,11,9,8,4,12,34,0.235,24,0.706,1,0,0,10,13,0,0,0,0,2,60,0,0,,0,0,0,0,0,0,0,0,0,0,2483430
+2023,Johns Hopkins Blue Jays,31,Russell Melendez,"Melendez, Russell",Russell,Melendez,Jr,ATT,11,10,11,10,17,9,26,49,0.347,36,0.735,0,1,0,9,13,2,0,0,0,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2464689
+2023,Johns Hopkins Blue Jays,5,Logan Callahan,"Callahan, Logan",Logan,Callahan,So,FO,11,0,11,0,0,1,1,1,0,1,1,0,0,0,37,1,1,48,103,0.466,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2661500
+2023,Johns Hopkins Blue Jays,23,Jacob Angelus,"Angelus, Jacob",Jacob,Angelus,Sr,ATT,11,10,11,10,11,31,42,38,0.289,23,0.605,0,0,0,18,14,2,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2321702
+2023,Johns Hopkins Blue Jays,10,Tim Marcille,"Marcille, Tim",Tim,Marcille,Sr,GK,11,11,11,11,1,2,3,2,0.5,1,0.5,0,0,0,24,6,2,0,0,0,0,0,11,11,624:51,121,11.619,137,0.531,0,0,0,0,0,0,2321700
 2023,Johns Hopkins Blue Jays,91,Jack Ruddy,"Ruddy, Jack",Jack,Ruddy,Sr,D,10,4,10,4,0,0,0,0,0,0,0,0,0,0,7,4,3,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2321724
 2023,Johns Hopkins Blue Jays,17,Cameron Chauvette,"Chauvette, Cameron",Cameron,Chauvette,Jr,ATT,9,1,9,1,6,1,7,18,0.333,9,0.5,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2483423
-2023,Johns Hopkins Blue Jays,44,Beaudan Szuluk,"Szuluk, Beaudan",Beaudan,Szuluk,Sr,D,8,7,8,7,0,0,0,0,0,0,0,0,0,0,11,5,8,0,0,0,5,240,0,0,,0,0,0,0,0,0,0,0,0,0,2310413
-2023,Johns Hopkins Blue Jays,46,Patrick Deans,"Deans, Patrick",Patrick,Deans,Jr,LSM,8,0,8,0,3,1,4,7,0.429,3,0.429,0,0,0,6,0,6,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2483424
-2023,Johns Hopkins Blue Jays,49,Ryan Evans,"Evans, Ryan",Ryan,Evans,Jr,M,8,1,8,1,8,3,11,18,0.444,16,0.889,2,0,0,2,6,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2483428
 2023,Johns Hopkins Blue Jays,3,Stuart Phillips,"Phillips, Stuart",Stuart,Phillips,So,M,8,0,8,0,3,1,4,12,0.25,8,0.667,0,0,0,8,4,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2661512
+2023,Johns Hopkins Blue Jays,44,Beaudan Szuluk,"Szuluk, Beaudan",Beaudan,Szuluk,Sr,D,8,7,8,7,0,0,0,0,0,0,0,0,0,0,11,5,8,0,0,0,5,240,0,0,,0,0,0,0,0,0,0,0,0,0,2310413
+2023,Johns Hopkins Blue Jays,49,Ryan Evans,"Evans, Ryan",Ryan,Evans,Jr,M,8,1,8,1,8,3,11,18,0.444,16,0.889,2,0,0,2,6,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2483428
+2023,Johns Hopkins Blue Jays,46,Patrick Deans,"Deans, Patrick",Patrick,Deans,Jr,LSM,8,0,8,0,3,1,4,7,0.429,3,0.429,0,0,0,6,0,6,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2483424
 2023,Johns Hopkins Blue Jays,1,Nick Kaufman,"Kaufman, Nick",Nick,Kaufman,So,D,7,0,7,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2661506
 2023,Johns Hopkins Blue Jays,38,Ian Krampf,"Krampf, Ian",Ian,Krampf,Sr,ATT,7,3,7,3,6,2,8,12,0.5,9,0.75,0,0,0,7,3,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2321719
 2023,Johns Hopkins Blue Jays,33,Casey McDermott,"McDermott, Casey",Casey,McDermott,Jr,M,6,1,6,1,3,0,3,4,0.75,4,1,1,0,0,5,6,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2483420
@@ -1144,10 +1144,10 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,Johns Hopkins Blue Jays,55,Jojo Todaro,"Todaro, Jojo",Jojo,Todaro,So,D,3,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2661525
 2023,Johns Hopkins Blue Jays,27,Jameson Smith,"Smith, Jameson",Jameson,Smith,Fr,M,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2801474
 2023,Johns Hopkins Blue Jays,87,Gib Versfeld,"Versfeld, Gib",Gib,Versfeld,Sr,GK,2,1,2,1,0,0,0,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,2,1,65:09,8,7.368,15,0.652,0,0,0,0,0,0,2005997
-2023,Johns Hopkins Blue Jays,92,Koleton Marquis,"Marquis, Koleton",Koleton,Marquis,Fr,ATT,1,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2801481
-2023,Johns Hopkins Blue Jays,22,Brett Handsor,"Handsor, Brett",Brett,Handsor,Sr,SSDM,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2321701
 2023,Johns Hopkins Blue Jays,42,Luke Caracciolo,"Caracciolo, Luke",Luke,Caracciolo,Sr,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,30:00,5,10,5,0.5,0,0,0,0,0,0,2119247
+2023,Johns Hopkins Blue Jays,92,Koleton Marquis,"Marquis, Koleton",Koleton,Marquis,Fr,ATT,1,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2801481
 2023,Johns Hopkins Blue Jays,43,Jeremiah Reen,"Reen, Jeremiah",Jeremiah,Reen,So,SSDM,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2661526
+2023,Johns Hopkins Blue Jays,22,Brett Handsor,"Handsor, Brett",Brett,Handsor,Sr,SSDM,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2321701
 2023,LIU Sharks,32,Nick Colantonio,"Colantonio, Nick",Nick,Colantonio,So,M,10,5,10,5,5,5,10,27,0.185,13,0.481,0,0,0,2,11,1,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2661726
 2023,LIU Sharks,44,Tommy Ramsey,"Ramsey, Tommy",Tommy,Ramsey,Jr,M,10,2,10,2,1,2,3,3,0.333,2,0.667,0,0,0,20,6,5,0,0,0,5,210,0,0,,0,0,0,0,0,0,0,0,0,0,2495207
 2023,LIU Sharks,0,Sean Gillman,"Gillman, Sean",Sean,Gillman,Jr,GK,10,9,10,9,0,1,1,1,0,0,0,0,0,0,29,4,3,0,0,0,0,0,10,9,560:06,99,10.605,110,0.526,0,0,0,0,0,0,2495205
@@ -1160,34 +1160,34 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,LIU Sharks,29,Jake Gillis,"Gillis, Jake",Jake,Gillis,Sr,ATT,10,3,10,3,4,3,7,18,0.222,9,0.5,0,1,0,3,10,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2113479
 2023,LIU Sharks,31,Marcin Maleski,"Maleski, Marcin",Marcin,Maleski,Sr,M,10,7,10,7,10,1,11,43,0.233,27,0.628,0,0,0,6,10,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2113440
 2023,LIU Sharks,30,Owen Stefanko,"Stefanko, Owen",Owen,Stefanko,So,M,9,0,9,0,2,1,3,10,0.2,4,0.4,0,0,0,3,6,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2485582
-2023,LIU Sharks,45,Zander Hauck,"Hauck, Zander",Zander,Hauck,Jr,M,9,0,9,0,0,0,0,2,0,0,0,0,0,0,9,2,6,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2495206
-2023,LIU Sharks,16,Karl LaCalandra,"LaCalandra, Karl",Karl,LaCalandra,Sr,D,9,7,9,7,0,0,0,1,0,1,1,0,0,0,14,6,3,0,0,0,3,150,0,0,,0,0,0,0,0,0,0,0,0,0,2304271
-2023,LIU Sharks,36,Henry Flocco,"Flocco, Henry",Henry,Flocco,Sr,M,9,0,9,0,0,0,0,2,0,1,0.5,0,0,0,1,0,3,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2113477
 2023,LIU Sharks,56,AJ Volkmann,"Volkmann, AJ",AJ,Volkmann,So,D,9,2,9,2,0,0,0,0,0,0,0,0,0,0,4,3,1,1,9,0.111,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2661742
-2023,LIU Sharks,18,Nick Kasica,"Kasica, Nick",Nick,Kasica,So,D,9,1,9,1,0,0,0,1,0,1,1,0,0,0,18,2,3,1,4,0.25,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2661692
+2023,LIU Sharks,16,Karl LaCalandra,"LaCalandra, Karl",Karl,LaCalandra,Sr,D,9,7,9,7,0,0,0,1,0,1,1,0,0,0,14,6,3,0,0,0,3,150,0,0,,0,0,0,0,0,0,0,0,0,0,2304271
+2023,LIU Sharks,45,Zander Hauck,"Hauck, Zander",Zander,Hauck,Jr,M,9,0,9,0,0,0,0,2,0,0,0,0,0,0,9,2,6,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2495206
+2023,LIU Sharks,36,Henry Flocco,"Flocco, Henry",Henry,Flocco,Sr,M,9,0,9,0,0,0,0,2,0,1,0.5,0,0,0,1,0,3,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2113477
 2023,LIU Sharks,7,Matt Riveira,"Riveira, Matt",Matt,Riveira,Sr,D,9,6,9,6,1,0,1,2,0.5,1,0.5,0,0,0,12,5,6,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2113467
+2023,LIU Sharks,18,Nick Kasica,"Kasica, Nick",Nick,Kasica,So,D,9,1,9,1,0,0,0,1,0,1,1,0,0,0,18,2,3,1,4,0.25,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2661692
 2023,LIU Sharks,15,Brad Beck,"Beck, Brad",Brad,Beck,Sr,ATT,8,8,8,8,17,3,20,33,0.515,24,0.727,2,1,0,18,19,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2113468
 2023,LIU Sharks,77,Anthony DiMatteo,"DiMatteo, Anthony",Anthony,DiMatteo,Jr,FO,8,0,8,0,0,0,0,0,0,0,0,0,0,0,23,1,0,40,81,0.494,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2485596
 2023,LIU Sharks,91,Emerson Tyler,"Tyler, Emerson",Emerson,Tyler,Jr,FO,8,0,8,0,2,0,2,3,0.667,2,0.667,0,0,0,14,3,0,44,101,0.436,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2304383
-2023,LIU Sharks,8,Tyler Davide,"Davide, Tyler",Tyler,Davide,Fr,D,7,1,7,1,0,0,0,1,0,0,0,0,0,0,13,1,6,0,1,0,2,120,0,0,,0,0,0,0,0,0,0,0,0,0,2753693
 2023,LIU Sharks,34,Ryan Hunt,"Hunt, Ryan",Ryan,Hunt,Sr,M,7,0,7,0,0,0,0,1,0,0,0,0,0,0,4,2,2,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2304265
+2023,LIU Sharks,8,Tyler Davide,"Davide, Tyler",Tyler,Davide,Fr,D,7,1,7,1,0,0,0,1,0,0,0,0,0,0,13,1,6,0,1,0,2,120,0,0,,0,0,0,0,0,0,0,0,0,0,2753693
 2023,LIU Sharks,40,Matt Olbeter,"Olbeter, Matt",Matt,Olbeter,Sr,ATT,6,0,6,0,1,0,1,8,0.125,3,0.375,0,1,0,0,1,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2304354
 2023,LIU Sharks,5,Austin McMahon,"McMahon, Austin",Austin,McMahon,Fr,M,6,2,6,2,3,1,4,21,0.143,7,0.333,0,0,0,0,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2661682
 2023,LIU Sharks,14,Jacob Arato,"Arato, Jacob",Jacob,Arato,So,D,6,0,6,0,0,0,0,2,0,1,0.5,0,0,0,5,3,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2485577
-2023,LIU Sharks,6,Kyle Scandale,"Scandale, Kyle",Kyle,Scandale,Fr,M,5,0,5,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2753731
 2023,LIU Sharks,4,Shaun Hill,"Hill, Shaun",Shaun,Hill,Fr,FO,5,0,5,0,1,1,2,1,1,1,1,0,0,0,13,2,0,27,47,0.574,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2753703
+2023,LIU Sharks,6,Kyle Scandale,"Scandale, Kyle",Kyle,Scandale,Fr,M,5,0,5,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2753731
 2023,LIU Sharks,3,Cam Connolly,"Connolly, Cam",Cam,Connolly,Fr,ATT,4,1,4,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2753690
 2023,LIU Sharks,9,Sean Kennedy,"Kennedy, Sean",Sean,Kennedy,Sr,M,4,0,4,0,0,0,0,4,0,2,0.5,0,0,0,0,2,1,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2304268
 2023,LIU Sharks,99,Koen Block,"Block, Koen",Koen,Block,Fr,ATT,4,2,4,2,0,0,0,4,0,2,0.5,0,0,0,2,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2753686
 2023,LIU Sharks,2,Kevin Carron,"Carron, Kevin",Kevin,Carron,So,M,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2661679
 2023,LIU Sharks,41,Billy McHugh,"McHugh, Billy",Billy,McHugh,Fr,D,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2753715
 2023,LIU Sharks,21,Trevor Bell,"Bell, Trevor",Trevor,Bell,Sr,M,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2661741
-2023,LIU Sharks,51,Mark Maniet,"Maniet, Mark",Mark,Maniet,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2753712
-2023,LIU Sharks,37,Aidan Babnik,"Babnik, Aidan",Aidan,Babnik,So,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2485585
-2023,LIU Sharks,39,Sean Richard,"Richard, Sean",Sean,Richard,Jr,GK,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,38:17,12,18.807,7,0.368,0,0,0,0,0,0,2304978
-2023,LIU Sharks,26,Jonathan Vuono,"Vuono, Jonathan",Jonathan,Vuono,Sr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2304395
 2023,LIU Sharks,43,John Ruddick,"Ruddick, John",John,Ruddick,Sr,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1:37,0,0,1,1,0,0,0,0,0,0,2113480
+2023,LIU Sharks,39,Sean Richard,"Richard, Sean",Sean,Richard,Jr,GK,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,38:17,12,18.807,7,0.368,0,0,0,0,0,0,2304978
 2023,LIU Sharks,55,Ethan Hennessey,"Hennessey, Ethan",Ethan,Hennessey,Sr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2304251
+2023,LIU Sharks,51,Mark Maniet,"Maniet, Mark",Mark,Maniet,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2753712
+2023,LIU Sharks,26,Jonathan Vuono,"Vuono, Jonathan",Jonathan,Vuono,Sr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2304395
+2023,LIU Sharks,37,Aidan Babnik,"Babnik, Aidan",Aidan,Babnik,So,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2485585
 2023,Lafayette Leopards,2,Jack Irish,"Irish, Jack",Jack,Irish,Fr,M,11,11,11,11,6,3,9,28,0.214,15,0.536,0,0,0,5,6,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2816490
 2023,Lafayette Leopards,46,Liam Sargent,"Sargent, Liam",Liam,Sargent,So,M,11,11,11,11,6,5,11,36,0.167,16,0.444,0,0,0,12,11,1,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2669580
 2023,Lafayette Leopards,43,Cade Kilbride,"Kilbride, Cade",Cade,Kilbride,So,D,11,1,11,1,0,0,0,0,0,0,0,0,0,0,12,2,7,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2669569
@@ -1303,48 +1303,48 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,Lindenwood Lions,37,Jacob VanKleeck,"VanKleeck, Jacob",Jacob,VanKleeck,Sr,M,2,0,2,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2305040
 2023,Lindenwood Lions,22,Jony Major,"Major, Jony",Jony,Major,Sr,FO,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,18,0.167,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2305053
 2023,Lindenwood Lions,13,Nick George,"George, Nick",Nick,George,Jr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2466729
-2023,Loyola Maryland Greyhounds,55,Alex Bean,"Bean, Alex",Alex,Bean,Jr,D,9,9,9,9,0,0,0,0,0,0,0,0,0,0,22,1,4,0,0,0,3,180,0,0,,0,0,0,0,0,0,0,0,0,0,2474914
-2023,Loyola Maryland Greyhounds,27,Henry Haberman,"Haberman, Henry",Henry,Haberman,Fr,ATT,9,7,9,7,11,1,12,32,0.344,19,0.594,2,0,0,8,8,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813257
 2023,Loyola Maryland Greyhounds,24,Seth Higgins,"Higgins, Seth",Seth,Higgins,Jr,M,9,8,9,8,7,8,15,35,0.2,15,0.429,1,2,0,7,17,3,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2474909
-2023,Loyola Maryland Greyhounds,50,Matt Hughes,"Hughes, Matt",Matt,Hughes,Sr,D,9,9,9,9,0,1,1,0,0,0,0,0,0,0,31,4,15,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1978811
-2023,Loyola Maryland Greyhounds,6,Max McGillicuddy,"McGillicuddy, Max",Max,McGillicuddy,Jr,SSDM,9,0,9,0,1,2,3,3,0.333,1,0.333,0,0,0,6,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2474919
+2023,Loyola Maryland Greyhounds,51,Adam Poitras,"Poitras, Adam",Adam,Poitras,Sr,ATT,9,9,9,9,13,7,20,40,0.325,29,0.725,1,3,0,7,8,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,2309849
+2023,Loyola Maryland Greyhounds,27,Henry Haberman,"Haberman, Henry",Henry,Haberman,Fr,ATT,9,7,9,7,11,1,12,32,0.344,19,0.594,2,0,0,8,8,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813257
+2023,Loyola Maryland Greyhounds,55,Alex Bean,"Bean, Alex",Alex,Bean,Jr,D,9,9,9,9,0,0,0,0,0,0,0,0,0,0,22,1,4,0,0,0,3,180,0,0,,0,0,0,0,0,0,0,0,0,0,2474914
+2023,Loyola Maryland Greyhounds,7,Matthew Minicus,"Minicus, Matthew",Matthew,Minicus,Fr,ATT,9,9,9,9,23,6,29,53,0.434,38,0.717,0,2,0,21,15,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813255
 2023,Loyola Maryland Greyhounds,34,Payton Rezanka,"Rezanka, Payton",Payton,Rezanka,Sr,SSDM,9,0,9,0,1,4,5,4,0.25,3,0.75,0,0,0,10,1,13,0,0,0,6,300,0,0,,0,0,0,0,0,0,0,0,0,0,2120587
 2023,Loyola Maryland Greyhounds,4,Liam Bateman,"Bateman, Liam",Liam,Bateman,Sr,M,9,0,9,0,0,2,2,3,0,1,0.333,0,0,0,5,4,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2120605
-2023,Loyola Maryland Greyhounds,7,Matthew Minicus,"Minicus, Matthew",Matthew,Minicus,Fr,ATT,9,9,9,9,23,6,29,53,0.434,38,0.717,0,2,0,21,15,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813255
+2023,Loyola Maryland Greyhounds,28,Luke Murphy,"Murphy, Luke",Luke,Murphy,Fr,ATT,9,0,9,0,3,2,5,10,0.3,6,0.6,1,2,0,6,8,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813264
 2023,Loyola Maryland Greyhounds,44,Scott Middleton,"Middleton, Scott",Scott,Middleton,Sr,LSM,9,0,9,0,0,0,0,1,0,0,0,0,0,0,19,5,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2120610
 2023,Loyola Maryland Greyhounds,23,Mustang Sally,"Sally, Mustang",Mustang,Sally,Sr,SSDM,9,0,9,0,4,2,6,5,0.8,5,1,0,0,0,9,2,9,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2303864
 2023,Loyola Maryland Greyhounds,15,Eric Pacheco,"Pacheco, Eric",Eric,Pacheco,Sr,FO,9,0,9,0,1,3,4,5,0.2,4,0.8,0,0,0,55,5,0,82,185,0.443,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2309830
+2023,Loyola Maryland Greyhounds,16,Diego Roman,"Roman, Diego",Diego,Roman,So,LSM,9,0,9,0,0,0,0,1,0,1,1,0,0,0,14,0,7,0,0,0,2,120,0,0,,0,0,0,0,0,0,0,0,0,0,2653164
+2023,Loyola Maryland Greyhounds,6,Max McGillicuddy,"McGillicuddy, Max",Max,McGillicuddy,Jr,SSDM,9,0,9,0,1,2,3,3,0.333,1,0.333,0,0,0,6,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2474919
 2023,Loyola Maryland Greyhounds,20,Will Sherwood,"Sherwood, Will",Will,Sherwood,Sr,SSDM,9,0,9,0,0,0,0,1,0,1,1,0,0,0,2,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2309840
 2023,Loyola Maryland Greyhounds,8,Evan James,"James, Evan",Evan,James,Sr,M,9,9,9,9,12,4,16,47,0.255,29,0.617,0,0,0,7,4,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2309843
-2023,Loyola Maryland Greyhounds,16,Diego Roman,"Roman, Diego",Diego,Roman,So,LSM,9,0,9,0,0,0,0,1,0,1,1,0,0,0,14,0,7,0,0,0,2,120,0,0,,0,0,0,0,0,0,0,0,0,0,2653164
-2023,Loyola Maryland Greyhounds,51,Adam Poitras,"Poitras, Adam",Adam,Poitras,Sr,ATT,9,9,9,9,13,7,20,40,0.325,29,0.725,1,3,0,7,8,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,1,2309849
 2023,Loyola Maryland Greyhounds,57,Dylan Binney,"Binney, Dylan",Dylan,Binney,Jr,ATT,9,0,9,0,4,1,5,16,0.25,11,0.688,1,0,0,1,2,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2474916
-2023,Loyola Maryland Greyhounds,28,Luke Murphy,"Murphy, Luke",Luke,Murphy,Fr,ATT,9,0,9,0,3,2,5,10,0.3,6,0.6,1,2,0,6,8,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813264
+2023,Loyola Maryland Greyhounds,50,Matt Hughes,"Hughes, Matt",Matt,Hughes,Sr,D,9,9,9,9,0,1,1,0,0,0,0,0,0,0,31,4,15,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1978811
 2023,Loyola Maryland Greyhounds,21,Luke Staudt,"Staudt, Luke",Luke,Staudt,Jr,GK,8,8,8,8,0,1,1,0,0,0,0,0,0,0,11,2,2,0,0,0,0,0,8,8,470:23,82,10.46,110,0.573,0,0,0,0,0,0,2474908
-2023,Loyola Maryland Greyhounds,47,Will McCulloch,"McCulloch, Will",Will,McCulloch,Fr,ATT,8,1,8,1,3,3,6,9,0.333,6,0.667,0,0,0,3,4,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813270
+2023,Loyola Maryland Greyhounds,22,Davis Lindsey,"Lindsey, Davis",Davis,Lindsey,Jr,ATT,8,8,8,8,9,13,22,34,0.265,18,0.529,0,1,0,9,15,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2474906
 2023,Loyola Maryland Greyhounds,29,Chris Cottone,"Cottone, Chris",Chris,Cottone,Sr,FO,8,0,8,0,0,0,0,0,0,0,0,0,0,0,2,0,0,15,43,0.349,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2309842
 2023,Loyola Maryland Greyhounds,5,Cam Wyers,"Wyers, Cam",Cam,Wyers,Sr,D,8,8,8,8,1,0,1,5,0.2,2,0.4,0,0,0,16,6,14,0,0,0,3,150,0,0,,0,0,0,0,0,0,0,0,0,0,2120607
-2023,Loyola Maryland Greyhounds,22,Davis Lindsey,"Lindsey, Davis",Davis,Lindsey,Jr,ATT,8,8,8,8,9,13,22,34,0.265,18,0.529,0,1,0,9,15,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2474906
+2023,Loyola Maryland Greyhounds,47,Will McCulloch,"McCulloch, Will",Will,McCulloch,Fr,ATT,8,1,8,1,3,3,6,9,0.333,6,0.667,0,0,0,3,4,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813270
 2023,Loyola Maryland Greyhounds,77,Josh Fairey,"Fairey, Josh",Josh,Fairey,Jr,D,8,0,8,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2474921
 2023,Loyola Maryland Greyhounds,1,Austin Cote,"Cote, Austin",Austin,Cote,Fr,M,6,0,6,0,1,1,2,4,0.25,2,0.5,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813254
-2023,Loyola Maryland Greyhounds,2,Joe Houlihan,"Houlihan, Joe",Joe,Houlihan,So,D,6,1,6,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653149
 2023,Loyola Maryland Greyhounds,3,Joey Kamish,"Kamish, Joey",Joey,Kamish,Sr,ATT,6,2,6,2,6,3,9,25,0.24,13,0.52,0,1,0,5,6,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2309831
+2023,Loyola Maryland Greyhounds,2,Joe Houlihan,"Houlihan, Joe",Joe,Houlihan,So,D,6,1,6,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653149
 2023,Loyola Maryland Greyhounds,30,Billy Saffin,"Saffin, Billy",Billy,Saffin,Jr,SSDM,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2474917
 2023,Loyola Maryland Greyhounds,35,Cole Erickson,"Erickson, Cole",Cole,Erickson,Fr,M,5,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2478826
-2023,Loyola Maryland Greyhounds,13,Najee Taylor,"Taylor, Najee",Najee,Taylor,Sr,M,4,0,4,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2309854
 2023,Loyola Maryland Greyhounds,49,Brady West,"West, Brady",Brady,West,Fr,M,4,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813271
+2023,Loyola Maryland Greyhounds,13,Najee Taylor,"Taylor, Najee",Najee,Taylor,Sr,M,4,0,4,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2309854
 2023,Loyola Maryland Greyhounds,10,Freeman Whitaker,"Whitaker, Freeman",Freeman,Whitaker,Sr,GK,4,1,4,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,4,1,65:16,13,11.951,12,0.48,0,0,0,0,0,0,2120586
-2023,Loyola Maryland Greyhounds,19,Tyler Conklin,"Conklin, Tyler",Tyler,Conklin,So,ATT,3,0,3,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653168
-2023,Loyola Maryland Greyhounds,59,Gunnar Cheuvront,"Cheuvront, Gunnar",Gunnar,Cheuvront,Jr,DM,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2474920
 2023,Loyola Maryland Greyhounds,26,Matt Dixon,"Dixon, Matt",Matt,Dixon,So,M,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653148
+2023,Loyola Maryland Greyhounds,59,Gunnar Cheuvront,"Cheuvront, Gunnar",Gunnar,Cheuvront,Jr,DM,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2474920
+2023,Loyola Maryland Greyhounds,19,Tyler Conklin,"Conklin, Tyler",Tyler,Conklin,So,ATT,3,0,3,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653168
+2023,Loyola Maryland Greyhounds,37,Bobby Marlatt,"Marlatt, Bobby",Bobby,Marlatt,Fr,M,2,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813266
 2023,Loyola Maryland Greyhounds,42,Michael Callahan,"Callahan, Michael",Michael,Callahan,So,DM,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653151
 2023,Loyola Maryland Greyhounds,11,Matt Heuston,"Heuston, Matt",Matt,Heuston,Sr,M,2,1,2,1,1,1,2,7,0.143,3,0.429,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2309839
-2023,Loyola Maryland Greyhounds,37,Bobby Marlatt,"Marlatt, Bobby",Bobby,Marlatt,Fr,M,2,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813266
 2023,Loyola Maryland Greyhounds,12,Danny Scott,"Scott, Danny",Danny,Scott,Jr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2474910
-2023,Loyola Maryland Greyhounds,45,Matthew Everson,"Everson, Matthew",Matthew,Everson,Fr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813269
-2023,Loyola Maryland Greyhounds,43,Calder VandenHeuvel,"VandenHeuvel, Calder",Calder,VandenHeuvel,Sr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2309848
 2023,Loyola Maryland Greyhounds,36,Brett Daubert,"Daubert, Brett",Brett,Daubert,Jr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2474915
+2023,Loyola Maryland Greyhounds,43,Calder VandenHeuvel,"VandenHeuvel, Calder",Calder,VandenHeuvel,Sr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2309848
 2023,Loyola Maryland Greyhounds,25,Max Watkinson,"Watkinson, Max",Max,Watkinson,Fr,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5:42,0,0,1,1,0,0,0,0,0,0,2813256
+2023,Loyola Maryland Greyhounds,45,Matthew Everson,"Everson, Matthew",Matthew,Everson,Fr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813269
 2023,Manhattan Jaspers,19,Michael Schafer,"Schafer, Michael",Michael,Schafer,Fr,D,10,10,10,10,0,0,0,0,0,0,0,0,0,0,11,1,12,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2823712
 2023,Manhattan Jaspers,55,Scott O'Connor,"O'Connor, Scott",Scott,O'Connor,So,ATT,10,10,10,10,11,0,11,43,0.256,21,0.488,1,0,0,10,1,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2666306
 2023,Manhattan Jaspers,3,Hunter Newman,"Newman, Hunter",Hunter,Newman,So,D,10,10,10,10,0,0,0,0,0,0,0,0,0,0,17,3,5,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2666303
@@ -1593,11 +1593,10 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,Mercer Bears,50,DJ Batton,"Batton, DJ",DJ,Batton,So,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2814664
 2023,Mercer Bears,71,Ryan Brooks,"Brooks, Ryan",Ryan,Brooks,So,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2657116
 2023,Mercer Bears,12,Matthew Brian,"Brian, Matthew",Matthew,Brian,So,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2657102
-2023,Merrimack Warriors,36,KJ Delane,"Delane, KJ",KJ,Delane,Fr,M,9,1,9,1,9,2,11,19,0.474,15,0.789,1,0,0,1,3,0,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2819140
-2023,Merrimack Warriors,5,Kasey Mongillo,"Mongillo, Kasey",Kasey,Mongillo,Fr,M,9,9,9,9,14,3,17,52,0.269,32,0.615,0,2,0,5,11,1,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2819112
-2023,Merrimack Warriors,50,Brian Russell,"Russell, Brian",Brian,Russell,So,ATT,9,9,9,9,21,3,24,50,0.42,39,0.78,2,3,0,8,6,1,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2664784
 2023,Merrimack Warriors,46,Joe Conley,"Conley, Joe",Joe,Conley,So,D,9,2,9,2,0,0,0,0,0,0,0,0,0,0,8,6,9,0,0,0,3,180,0,0,,0,0,0,0,0,0,0,0,0,0,2664761
 2023,Merrimack Warriors,23,Trace Hogan,"Hogan, Trace",Trace,Hogan,So,M,9,9,9,9,6,15,21,23,0.261,13,0.565,1,2,0,9,12,3,0,0,0,3,180,0,0,,0,0,0,0,0,0,0,0,0,0,2664748
+2023,Merrimack Warriors,50,Brian Russell,"Russell, Brian",Brian,Russell,So,ATT,9,9,9,9,21,3,24,50,0.42,39,0.78,2,3,0,8,6,1,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2664784
+2023,Merrimack Warriors,5,Kasey Mongillo,"Mongillo, Kasey",Kasey,Mongillo,Fr,M,9,9,9,9,14,3,17,52,0.269,32,0.615,0,2,0,5,11,1,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2819112
 2023,Merrimack Warriors,20,Henry Vogt,"Vogt, Henry",Henry,Vogt,Jr,GK,9,9,9,9,0,0,0,0,0,0,0,0,0,0,30,10,2,0,0,0,0,0,9,9,518:21,96,11.112,121,0.558,0,0,0,0,0,0,2490332
 2023,Merrimack Warriors,3,Jack Rooney,"Rooney, Jack",Jack,Rooney,Sr,M,9,9,9,9,14,16,30,51,0.275,31,0.608,0,2,0,8,12,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2306239
 2023,Merrimack Warriors,35,Sam Walsh,"Walsh, Sam",Sam,Walsh,Sr,D,9,8,9,8,0,1,1,0,0,0,0,0,0,0,11,5,13,0,0,0,6,360,0,0,,0,0,0,0,0,0,0,0,0,0,2304228
@@ -1607,37 +1606,38 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,Merrimack Warriors,17,Nicholas Perez-Blanco,"Perez-Blanco, Nicholas",Nicholas,Perez-Blanco,Sr,D,9,9,9,9,0,0,0,0,0,0,0,0,0,0,12,6,5,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2136940
 2023,Merrimack Warriors,22,Thomas Rooney,"Rooney, Thomas",Thomas,Rooney,Sr,ATT,9,8,9,8,10,4,14,29,0.345,19,0.655,0,1,0,10,15,1,0,0,0,3,90,0,0,,0,0,0,0,0,0,0,0,0,0,2113423
 2023,Merrimack Warriors,34,Carlin Joyal,"Joyal, Carlin",Carlin,Joyal,Sr,D,9,8,9,8,0,0,0,1,0,0,0,0,0,0,15,4,8,0,0,0,5,240,0,0,,0,0,0,0,0,0,0,0,0,0,1996062
+2023,Merrimack Warriors,36,KJ Delane,"Delane, KJ",KJ,Delane,Fr,M,9,1,9,1,9,2,11,19,0.474,15,0.789,1,0,0,1,3,0,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2819140
+2023,Merrimack Warriors,8,Riley Reed,"Reed, Riley",Riley,Reed,Sr,D,8,0,8,0,0,1,1,0,0,0,0,0,0,0,7,2,6,0,0,0,4,210,0,0,,0,0,0,0,0,0,0,0,0,0,2304221
+2023,Merrimack Warriors,24,Ryan Cole,"Cole, Ryan",Ryan,Cole,So,D,8,0,8,0,0,1,1,1,0,0,0,0,0,0,6,1,1,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2664750
+2023,Merrimack Warriors,19,Brennan McInnis,"McInnis, Brennan",Brennan,McInnis,Sr,M,8,0,8,0,0,1,1,1,0,0,0,0,0,0,8,7,5,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2137062
 2023,Merrimack Warriors,45,Allyn French,"French, Allyn",Allyn,French,Sr,FO,8,0,8,0,1,0,1,3,0.333,2,0.667,0,0,0,32,5,0,58,149,0.389,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2304189
 2023,Merrimack Warriors,6,Casey Barnes,"Barnes, Casey",Casey,Barnes,Jr,D,8,0,8,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2490327
-2023,Merrimack Warriors,8,Riley Reed,"Reed, Riley",Riley,Reed,Sr,D,8,0,8,0,0,1,1,0,0,0,0,0,0,0,7,2,6,0,0,0,4,210,0,0,,0,0,0,0,0,0,0,0,0,0,2304221
-2023,Merrimack Warriors,19,Brennan McInnis,"McInnis, Brennan",Brennan,McInnis,Sr,M,8,0,8,0,0,1,1,1,0,0,0,0,0,0,8,7,5,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2137062
-2023,Merrimack Warriors,24,Ryan Cole,"Cole, Ryan",Ryan,Cole,So,D,8,0,8,0,0,1,1,1,0,0,0,0,0,0,6,1,1,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2664750
 2023,Merrimack Warriors,14,Lucas Gauch,"Gauch, Lucas",Lucas,Gauch,Sr,M,7,0,7,0,0,0,0,1,0,0,0,0,0,0,3,1,1,0,0,0,2,180,0,0,,0,0,0,0,0,0,0,0,0,0,2304191
-2023,Merrimack Warriors,44,Wyatt Carr,"Carr, Wyatt",Wyatt,Carr,Jr,ATT,7,0,7,0,1,0,1,3,0.333,1,0.333,0,0,0,11,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2490378
 2023,Merrimack Warriors,28,Brian Bouwman,"Bouwman, Brian",Brian,Bouwman,So,ATT,7,0,7,0,1,1,2,6,0.167,4,0.667,0,0,0,1,2,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2664752
+2023,Merrimack Warriors,44,Wyatt Carr,"Carr, Wyatt",Wyatt,Carr,Jr,ATT,7,0,7,0,1,0,1,3,0.333,1,0.333,0,0,0,11,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2490378
 2023,Merrimack Warriors,30,Andrew Williams,"Williams, Andrew",Andrew,Williams,Jr,ATT,6,1,6,1,2,1,3,4,0.5,3,0.75,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2490344
 2023,Merrimack Warriors,26,Grant Laman,"Laman, Grant",Grant,Laman,Jr,ATT,5,0,5,0,3,3,6,13,0.231,9,0.692,0,0,0,5,7,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2490337
 2023,Merrimack Warriors,25,Karl Sutter,"Sutter, Karl",Karl,Sutter,Jr,FO,5,0,5,0,0,0,0,1,0,0,0,0,0,0,18,0,1,27,62,0.435,3,150,0,0,,0,0,0,0,0,0,0,0,0,0,2490336
 2023,Merrimack Warriors,51,Scott Ehrenberg,"Ehrenberg, Scott",Scott,Ehrenberg,Sr,M,5,0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,16,0.125,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2145743
-2023,Merrimack Warriors,31,Mikey Kloepfer,"Kloepfer, Mikey",Mikey,Kloepfer,Fr,M,4,0,4,0,0,0,0,2,0,1,0.5,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819118
-2023,Merrimack Warriors,32,Joseph Jorgenson,"Jorgenson, Joseph",Joseph,Jorgenson,Jr,D,4,0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2490345
 2023,Merrimack Warriors,16,Aiden Glover,"Glover, Aiden",Aiden,Glover,Jr,ATT,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2490331
 2023,Merrimack Warriors,7,Andrew Jenet,"Jenet, Andrew",Andrew,Jenet,Sr,GK,4,0,4,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,0,0,4,0,21:39,3,8.314,7,0.7,0,0,0,0,0,0,2306211
-2023,Merrimack Warriors,18,Jack Richards,"Richards, Jack",Jack,Richards,Sr,M,4,0,4,0,1,0,1,3,0.333,2,0.667,0,0,0,1,0,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2304223
 2023,Merrimack Warriors,42,Kyle Muldoon,"Muldoon, Kyle",Kyle,Muldoon,Sr,M,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2664766
+2023,Merrimack Warriors,18,Jack Richards,"Richards, Jack",Jack,Richards,Sr,M,4,0,4,0,1,0,1,3,0.333,2,0.667,0,0,0,1,0,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2304223
+2023,Merrimack Warriors,32,Joseph Jorgenson,"Jorgenson, Joseph",Joseph,Jorgenson,Jr,D,4,0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2490345
+2023,Merrimack Warriors,31,Mikey Kloepfer,"Kloepfer, Mikey",Mikey,Kloepfer,Fr,M,4,0,4,0,0,0,0,2,0,1,0.5,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819118
 2023,Merrimack Warriors,39,Luke Szyluk,"Szyluk, Luke",Luke,Szyluk,Fr,ATT,4,0,4,0,0,0,0,3,0,1,0.333,0,0,0,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819142
-2023,Merrimack Warriors,15,Jack Kolbe,"Kolbe, Jack",Jack,Kolbe,Fr,ATT,3,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819114
 2023,Merrimack Warriors,38,Matthew Cranney,"Cranney, Matthew",Matthew,Cranney,So,D,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2664756
-2023,Merrimack Warriors,40,Jack Parker,"Parker, Jack",Jack,Parker,Fr,M,3,0,3,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819143
 2023,Merrimack Warriors,13,Joey Ford III,"Ford III, Joey",Joey,Ford III,Sr,ATT,3,0,3,0,2,0,2,5,0.4,2,0.4,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2304184
-2023,Merrimack Warriors,29,Drew Fleury,"Fleury, Drew",Drew,Fleury,Fr,ATT,2,0,2,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819116
+2023,Merrimack Warriors,40,Jack Parker,"Parker, Jack",Jack,Parker,Fr,M,3,0,3,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819143
+2023,Merrimack Warriors,15,Jack Kolbe,"Kolbe, Jack",Jack,Kolbe,Fr,ATT,3,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819114
 2023,Merrimack Warriors,37,Reid Betner,"Betner, Reid",Reid,Betner,Fr,D,2,0,2,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819141
 2023,Merrimack Warriors,55,Wyatt Fruland,"Fruland, Wyatt",Wyatt,Fruland,Sr,ATT,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2304536
-2023,Merrimack Warriors,52,Gavin Leary,"Leary, Gavin",Gavin,Leary,Fr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819145
-2023,Merrimack Warriors,21,Ethan Landry,"Landry, Ethan",Ethan,Landry,Fr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819115
+2023,Merrimack Warriors,29,Drew Fleury,"Fleury, Drew",Drew,Fleury,Fr,ATT,2,0,2,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819116
 2023,Merrimack Warriors,27,Rory Keverline,"Keverline, Rory",Rory,Keverline,So,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2664751
-2023,Merrimack Warriors,11,Brendan Wyka,"Wyka, Brendan",Brendan,Wyka,So,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2664746
+2023,Merrimack Warriors,21,Ethan Landry,"Landry, Ethan",Ethan,Landry,Fr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819115
+2023,Merrimack Warriors,52,Gavin Leary,"Leary, Gavin",Gavin,Leary,Fr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2819145
 2023,Merrimack Warriors,2,Andrew Caron,"Caron, Andrew",Andrew,Caron,Sr,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2304152
+2023,Merrimack Warriors,11,Brendan Wyka,"Wyka, Brendan",Brendan,Wyka,So,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2664746
 2023,Michigan Wolverines,5,Michael Boehm,"Boehm, Michael",Michael,Boehm,Jr,ATT,9,9,9,9,20,20,40,42,0.476,31,0.738,1,1,0,13,17,3,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2481821
 2023,Michigan Wolverines,1,Justin Brown,"Brown, Justin",Justin,Brown,Jr,M,9,4,9,4,0,0,0,20,0,6,0.3,0,0,0,1,0,0,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2481834
 2023,Michigan Wolverines,13,Bo Lockwood,"Lockwood, Bo",Bo,Lockwood,Fr,ATT,9,0,9,0,2,1,3,4,0.5,2,0.5,0,2,0,2,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2795623
@@ -1909,52 +1909,52 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,North Carolina Tar Heels,29,Ethan Larson,"Larson, Ethan",Ethan,Larson,Jr,D,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2480256
 2023,North Carolina Tar Heels,50,Troy Exum,"Exum, Troy",Troy,Exum,Sr,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4:50,0,0,1,1,0,0,0,0,0,0,2306939
 2023,North Carolina Tar Heels,51,Michael Lizzio,"Lizzio, Michael",Michael,Lizzio,Jr,M,1,0,1,0,1,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2480262
-2023,Notre Dame Fighting Irish,81,Will Donovan,"Donovan, Will",Will,Donovan,Fr,LSM,8,0,8,0,0,1,1,0,0,0,0,0,0,0,12,3,5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813667
-2023,Notre Dame Fighting Irish,24,Ben Ramsey,"Ramsey, Ben",Ben,Ramsey,So,SSDM,8,0,8,0,2,1,3,2,1,2,1,0,0,0,5,1,4,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2654275
-2023,Notre Dame Fighting Irish,0,Jeffery Ricciardelli,"Ricciardelli, Jeffery",Jeffery,Ricciardelli,So,ATT,8,6,8,6,7,4,11,20,0.35,13,0.65,0,1,0,6,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2654270
-2023,Notre Dame Fighting Irish,22,Will Lynch,"Lynch, Will",Will,Lynch,So,FO,8,0,8,0,0,0,0,4,0,2,0.5,0,0,0,49,1,3,85,172,0.494,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2654254
-2023,Notre Dame Fighting Irish,50,Chris Kavanagh,"Kavanagh, Chris",Chris,Kavanagh,So,ATT,8,8,8,8,26,9,35,57,0.456,41,0.719,3,5,0,20,9,2,0,0,0,4,210,0,0,,0,0,0,0,0,0,0,0,0,0,2654253
-2023,Notre Dame Fighting Irish,4,Colin Hagstrom,"Hagstrom, Colin",Colin,Hagstrom,Jr,FO,8,0,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,27,63,0.429,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2476786
-2023,Notre Dame Fighting Irish,27,Ross Burgmaster,"Burgmaster, Ross",Ross,Burgmaster,Jr,D,8,0,8,0,0,0,0,0,0,0,0,0,0,0,7,2,4,0,0,0,3,180,0,0,,0,0,0,0,0,0,0,0,0,0,2476781
 2023,Notre Dame Fighting Irish,21,Carter Parlette,"Parlette, Carter",Carter,Parlette,Jr,M,8,0,8,0,1,0,1,1,1,1,1,0,0,0,6,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2476780
 2023,Notre Dame Fighting Irish,8,Eric Dobson,"Dobson, Eric",Eric,Dobson,Jr,M,8,8,8,8,18,7,25,56,0.321,32,0.571,1,3,0,2,8,2,0,0,0,2,60,0,0,,0,0,0,0,0,0,0,0,0,0,2476778
-2023,Notre Dame Fighting Irish,5,Bryce Walker,"Walker, Bryce",Bryce,Walker,Jr,ATT,8,8,8,8,6,2,8,19,0.316,11,0.579,0,0,0,4,3,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2476776
-2023,Notre Dame Fighting Irish,51,Pat Kavanagh,"Kavanagh, Pat",Pat,Kavanagh,Sr,ATT,8,8,8,8,14,29,43,47,0.298,30,0.638,1,1,0,20,6,3,0,0,0,4,150,0,0,,0,0,0,0,0,0,0,0,0,1,2334519
-2023,Notre Dame Fighting Irish,30,Marco Napolitano,"Napolitano, Marco",Marco,Napolitano,Sr,D,8,8,8,8,0,0,0,0,0,0,0,0,0,0,9,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2334503
-2023,Notre Dame Fighting Irish,17,Reilly Gray,"Gray, Reilly",Reilly,Gray,Sr,M,8,0,8,0,11,1,12,20,0.55,15,0.75,0,0,0,3,6,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2334501
-2023,Notre Dame Fighting Irish,44,Liam Entenmann,"Entenmann, Liam",Liam,Entenmann,Sr,GK,8,8,8,8,0,0,0,2,0,1,0.5,0,0,0,13,2,3,0,0,0,0,0,8,8,464:10,70,9.048,89,0.56,0,0,0,0,0,0,2334495
-2023,Notre Dame Fighting Irish,77,Nick Harris,"Harris, Nick",Nick,Harris,Sr,SSDM,8,0,8,0,1,0,1,2,0.5,1,0.5,0,0,0,2,5,5,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2334494
-2023,Notre Dame Fighting Irish,20,Chris Conlin,"Conlin, Chris",Chris,Conlin,Sr,D,8,8,8,8,0,0,0,1,0,0,0,0,0,0,17,3,11,0,0,0,2,120,0,0,,0,0,0,0,0,0,0,0,0,0,2125783
-2023,Notre Dame Fighting Irish,46,Jose Boyer,"Boyer, Jose",Jose,Boyer,Sr,DM,8,0,8,0,1,0,1,1,1,1,1,0,0,0,20,3,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2120838
-2023,Notre Dame Fighting Irish,15,Quinn McCahon,"McCahon, Quinn",Quinn,McCahon,Sr,M,8,8,8,8,11,5,16,32,0.344,20,0.625,0,0,0,10,7,7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2120835
-2023,Notre Dame Fighting Irish,3,Jack Simmons,"Simmons, Jack",Jack,Simmons,Sr,M,8,0,8,0,8,3,11,27,0.296,14,0.519,0,0,0,5,8,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2120242
-2023,Notre Dame Fighting Irish,12,Brian Tevlin,"Tevlin, Brian",Brian,Tevlin,Sr,M,8,0,8,0,6,3,9,26,0.231,14,0.538,0,0,0,22,8,9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1978461
+2023,Notre Dame Fighting Irish,0,Jeffery Ricciardelli,"Ricciardelli, Jeffery",Jeffery,Ricciardelli,So,ATT,8,6,8,6,7,4,11,20,0.35,13,0.65,0,1,0,6,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2654270
 2023,Notre Dame Fighting Irish,7,Chris Fake,"Fake, Chris",Chris,Fake,Sr,D,8,8,8,8,0,0,0,2,0,0,0,0,0,0,15,2,5,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,1978456
+2023,Notre Dame Fighting Irish,12,Brian Tevlin,"Tevlin, Brian",Brian,Tevlin,Sr,M,8,0,8,0,6,3,9,26,0.231,14,0.538,0,0,0,22,8,9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,1978461
+2023,Notre Dame Fighting Irish,3,Jack Simmons,"Simmons, Jack",Jack,Simmons,Sr,M,8,0,8,0,8,3,11,27,0.296,14,0.519,0,0,0,5,8,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2120242
+2023,Notre Dame Fighting Irish,15,Quinn McCahon,"McCahon, Quinn",Quinn,McCahon,Sr,M,8,8,8,8,11,5,16,32,0.344,20,0.625,0,0,0,10,7,7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2120835
+2023,Notre Dame Fighting Irish,46,Jose Boyer,"Boyer, Jose",Jose,Boyer,Sr,DM,8,0,8,0,1,0,1,1,1,1,1,0,0,0,20,3,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2120838
+2023,Notre Dame Fighting Irish,81,Will Donovan,"Donovan, Will",Will,Donovan,Fr,LSM,8,0,8,0,0,1,1,0,0,0,0,0,0,0,12,3,5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813667
+2023,Notre Dame Fighting Irish,5,Bryce Walker,"Walker, Bryce",Bryce,Walker,Jr,ATT,8,8,8,8,6,2,8,19,0.316,11,0.579,0,0,0,4,3,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2476776
+2023,Notre Dame Fighting Irish,20,Chris Conlin,"Conlin, Chris",Chris,Conlin,Sr,D,8,8,8,8,0,0,0,1,0,0,0,0,0,0,17,3,11,0,0,0,2,120,0,0,,0,0,0,0,0,0,0,0,0,0,2125783
+2023,Notre Dame Fighting Irish,24,Ben Ramsey,"Ramsey, Ben",Ben,Ramsey,So,SSDM,8,0,8,0,2,1,3,2,1,2,1,0,0,0,5,1,4,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2654275
+2023,Notre Dame Fighting Irish,50,Chris Kavanagh,"Kavanagh, Chris",Chris,Kavanagh,So,ATT,8,8,8,8,26,9,35,57,0.456,41,0.719,3,5,0,20,9,2,0,0,0,4,210,0,0,,0,0,0,0,0,0,0,0,0,0,2654253
+2023,Notre Dame Fighting Irish,77,Nick Harris,"Harris, Nick",Nick,Harris,Sr,SSDM,8,0,8,0,1,0,1,2,0.5,1,0.5,0,0,0,2,5,5,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2334494
+2023,Notre Dame Fighting Irish,44,Liam Entenmann,"Entenmann, Liam",Liam,Entenmann,Sr,GK,8,8,8,8,0,0,0,2,0,1,0.5,0,0,0,13,2,3,0,0,0,0,0,8,8,464:10,70,9.048,89,0.56,0,0,0,0,0,0,2334495
+2023,Notre Dame Fighting Irish,4,Colin Hagstrom,"Hagstrom, Colin",Colin,Hagstrom,Jr,FO,8,0,8,0,0,0,0,0,0,0,0,0,0,0,8,0,0,27,63,0.429,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2476786
+2023,Notre Dame Fighting Irish,27,Ross Burgmaster,"Burgmaster, Ross",Ross,Burgmaster,Jr,D,8,0,8,0,0,0,0,0,0,0,0,0,0,0,7,2,4,0,0,0,3,180,0,0,,0,0,0,0,0,0,0,0,0,0,2476781
+2023,Notre Dame Fighting Irish,22,Will Lynch,"Lynch, Will",Will,Lynch,So,FO,8,0,8,0,0,0,0,4,0,2,0.5,0,0,0,49,1,3,85,172,0.494,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2654254
+2023,Notre Dame Fighting Irish,17,Reilly Gray,"Gray, Reilly",Reilly,Gray,Sr,M,8,0,8,0,11,1,12,20,0.55,15,0.75,0,0,0,3,6,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2334501
+2023,Notre Dame Fighting Irish,30,Marco Napolitano,"Napolitano, Marco",Marco,Napolitano,Sr,D,8,8,8,8,0,0,0,0,0,0,0,0,0,0,9,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2334503
+2023,Notre Dame Fighting Irish,51,Pat Kavanagh,"Kavanagh, Pat",Pat,Kavanagh,Sr,ATT,8,8,8,8,14,29,43,47,0.298,30,0.638,1,1,0,20,6,3,0,0,0,4,150,0,0,,0,0,0,0,0,0,0,0,0,1,2334519
 2023,Notre Dame Fighting Irish,31,Griffin Westlin,"Westlin, Griffin",Griffin,Westlin,Sr,ATT,7,0,7,0,4,3,7,7,0.571,6,0.857,1,2,0,4,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2120859
 2023,Notre Dame Fighting Irish,2,Fulton Bayman,"Bayman, Fulton",Fulton,Bayman,Sr,ATT,6,0,6,0,2,2,4,6,0.333,3,0.5,0,0,0,2,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2334521
-2023,Notre Dame Fighting Irish,55,Mason Wordelman,"Wordelman, Mason",Mason,Wordelman,So,D,5,0,5,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2654280
 2023,Notre Dame Fighting Irish,52,Alex Zepf,"Zepf, Alex",Alex,Zepf,So,GK,5,0,5,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,5,0,25:44,6,13.99,7,0.538,0,0,0,0,0,0,2654282
 2023,Notre Dame Fighting Irish,13,Jake Taylor,"Taylor, Jake",Jake,Taylor,Sr,ATT,5,2,5,2,9,0,9,20,0.45,14,0.7,0,1,0,1,1,0,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2334478
 2023,Notre Dame Fighting Irish,26,Jalen Seymour,"Seymour, Jalen",Jalen,Seymour,So,M,5,0,5,0,2,0,2,10,0.2,5,0.5,1,0,0,0,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2654273
+2023,Notre Dame Fighting Irish,55,Mason Wordelman,"Wordelman, Mason",Mason,Wordelman,So,D,5,0,5,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2654280
 2023,Notre Dame Fighting Irish,23,Max Busenkell,"Busenkell, Max",Max,Busenkell,Fr,M,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813645
 2023,Notre Dame Fighting Irish,6,Fisher Finley,"Finley, Fisher",Fisher,Finley,So,M,4,0,4,0,2,0,2,2,1,2,1,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2654284
+2023,Notre Dame Fighting Irish,19,Christian Alacqua,"Alacqua, Christian",Christian,Alacqua,Fr,M,3,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813637
 2023,Notre Dame Fighting Irish,48,Jonathan Ford,"Ford, Jonathan",Jonathan,Ford,Sr,LSM,3,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2334497
 2023,Notre Dame Fighting Irish,11,Ronan Doherty,"Doherty, Ronan",Ronan,Doherty,So,LSM,3,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2654276
 2023,Notre Dame Fighting Irish,9,Emmett Barger,"Barger, Emmett",Emmett,Barger,Sr,ATT,3,0,3,0,0,1,1,1,0,1,1,0,0,0,2,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2334492
-2023,Notre Dame Fighting Irish,19,Christian Alacqua,"Alacqua, Christian",Christian,Alacqua,Fr,M,3,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813637
-2023,Notre Dame Fighting Irish,10,Maximus Schalit,"Schalit, Maximus",Maximus,Schalit,Sr,D,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2334498
 2023,Notre Dame Fighting Irish,88,Conrad Delgado,"Delgado, Conrad",Conrad,Delgado,Jr,D,2,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2476785
-2023,Notre Dame Fighting Irish,18,Michael Lynch,"Lynch, Michael",Michael,Lynch,Jr,M,2,0,2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2476779
 2023,Notre Dame Fighting Irish,34,Jack Conroy,"Conroy, Jack",Jack,Conroy,Jr,M,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2476784
-2023,Notre Dame Fighting Irish,16,Maxim Manyak,"Manyak, Maxim",Maxim,Manyak,Sr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2334500
-2023,Notre Dame Fighting Irish,42,Christian Gallaher,"Gallaher, Christian",Christian,Gallaher,Fr,FO,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813663
-2023,Notre Dame Fighting Irish,1,Thomas Ricciardelli,"Ricciardelli, Thomas",Thomas,Ricciardelli,Fr,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813636
-2023,Notre Dame Fighting Irish,38,Declan Cooke,"Cooke, Declan",Declan,Cooke,Fr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813662
+2023,Notre Dame Fighting Irish,10,Maximus Schalit,"Schalit, Maximus",Maximus,Schalit,Sr,D,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2334498
+2023,Notre Dame Fighting Irish,18,Michael Lynch,"Lynch, Michael",Michael,Lynch,Jr,M,2,0,2,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2476779
 2023,Notre Dame Fighting Irish,43,Michael Ridgway,"Ridgway, Michael",Michael,Ridgway,So,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2654277
-2023,Notre Dame Fighting Irish,41,Mick Lee,"Lee, Mick",Mick,Lee,Jr,GK,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2476787
-2023,Notre Dame Fighting Irish,66,Patrick Eilers,"Eilers, Patrick",Patrick,Eilers,So,FO,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2654285
 2023,Notre Dame Fighting Irish,32,Ridge Johnson,"Johnson, Ridge",Ridge,Johnson,Jr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2476783
+2023,Notre Dame Fighting Irish,16,Maxim Manyak,"Manyak, Maxim",Maxim,Manyak,Sr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2334500
 2023,Notre Dame Fighting Irish,14,Kevin Lynch,"Lynch, Kevin",Kevin,Lynch,Sr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2334499
+2023,Notre Dame Fighting Irish,66,Patrick Eilers,"Eilers, Patrick",Patrick,Eilers,So,FO,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2654285
+2023,Notre Dame Fighting Irish,41,Mick Lee,"Lee, Mick",Mick,Lee,Jr,GK,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2476787
+2023,Notre Dame Fighting Irish,1,Thomas Ricciardelli,"Ricciardelli, Thomas",Thomas,Ricciardelli,Fr,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813636
+2023,Notre Dame Fighting Irish,42,Christian Gallaher,"Gallaher, Christian",Christian,Gallaher,Fr,FO,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813663
+2023,Notre Dame Fighting Irish,38,Declan Cooke,"Cooke, Declan",Declan,Cooke,Fr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2813662
 2023,Ohio St. Buckeyes,34,Blake Eiland,"Eiland, Blake",Blake,Eiland,Fr,M,10,1,10,1,2,2,4,10,0.2,5,0.5,0,0,0,11,5,2,2,5,0.4,2,60,0,0,,0,0,0,0,0,0,0,0,0,0,2807878
 2023,Ohio St. Buckeyes,42,Cullen Brown,"Brown, Cullen",Cullen,Brown,Fr,D,10,0,10,0,0,1,1,1,0,1,1,0,0,0,20,4,3,0,1,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2807874
 2023,Ohio St. Buckeyes,10,Ed Shean,"Shean, Ed",Ed,Shean,So,ATT,10,10,10,10,19,8,27,28,0.679,21,0.75,1,1,0,12,11,2,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2653214
@@ -2240,48 +2240,48 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,Quinnipiac Bobcats,20,TJ Rohach,"Rohach, TJ",TJ,Rohach,Sr,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2332716
 2023,Quinnipiac Bobcats,21,Griffin Fitzmaurice,"Fitzmaurice, Griffin",Griffin,Fitzmaurice,Sr,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2332717
 2023,Richmond Spiders,37,Joe Sheridan,"Sheridan, Joe",Joe,Sheridan,Fr,M,9,4,9,4,7,1,8,19,0.368,9,0.474,0,0,0,8,10,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809403
-2023,Richmond Spiders,23,Jared Chenoy,"Chenoy, Jared",Jared,Chenoy,So,FO,9,0,9,0,0,1,1,3,0,2,0.667,0,0,0,58,4,4,112,208,0.538,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2669443
-2023,Richmond Spiders,13,Henry Alpaugh,"Alpaugh, Henry",Henry,Alpaugh,So,M,9,1,9,1,7,2,9,27,0.259,12,0.444,0,4,0,2,6,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2669513
+2023,Richmond Spiders,6,Hunter Smith,"Smith, Hunter",Hunter,Smith,Fr,D,9,2,9,2,1,0,1,2,0.5,2,1,0,0,0,14,2,6,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2809391
+2023,Richmond Spiders,10,Brandon Smith,"Smith, Brandon",Brandon,Smith,Sr,M,9,0,9,0,0,0,0,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809389
+2023,Richmond Spiders,19,Jack Pilling,"Pilling, Jack",Jack,Pilling,Fr,M,9,0,9,0,0,0,0,0,0,0,0,0,0,0,8,0,7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809387
+2023,Richmond Spiders,5,Aidan O'Neil,"O'Neil, Aidan",Aidan,O'Neil,Fr,ATT,9,9,9,9,14,7,21,36,0.389,27,0.75,0,0,0,6,11,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809385
 2023,Richmond Spiders,42,Max Merklinger,"Merklinger, Max",Max,Merklinger,So,ATT,9,6,9,6,5,4,9,26,0.192,7,0.269,0,0,0,5,4,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2669520
+2023,Richmond Spiders,13,Henry Alpaugh,"Alpaugh, Henry",Henry,Alpaugh,So,M,9,1,9,1,7,2,9,27,0.259,12,0.444,0,4,0,2,6,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2669513
+2023,Richmond Spiders,23,Jared Chenoy,"Chenoy, Jared",Jared,Chenoy,So,FO,9,0,9,0,0,1,1,3,0,2,0.667,0,0,0,58,4,4,112,208,0.538,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2669443
 2023,Richmond Spiders,47,Zach Vigue,"Vigue, Zach",Zach,Vigue,Jr,GK,9,9,9,9,0,0,0,0,0,0,0,0,0,0,6,3,0,0,0,0,0,0,9,8,499:02,91,10.941,91,0.5,0,0,0,0,0,0,2462270
 2023,Richmond Spiders,7,Jeff Nugent,"Nugent, Jeff",Jeff,Nugent,Jr,M,9,0,9,0,2,1,3,11,0.182,9,0.818,0,0,0,7,4,6,0,0,0,5,240,0,0,,0,0,0,0,0,0,0,0,0,0,2462269
 2023,Richmond Spiders,2,Lance Madonna,"Madonna, Lance",Lance,Madonna,Jr,ATT,9,9,9,9,18,5,23,51,0.353,34,0.667,3,5,0,3,11,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2462262
-2023,Richmond Spiders,6,Hunter Smith,"Smith, Hunter",Hunter,Smith,Fr,D,9,2,9,2,1,0,1,2,0.5,2,1,0,0,0,14,2,6,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2809391
-2023,Richmond Spiders,45,Jake Saunders,"Saunders, Jake",Jake,Saunders,Sr,D,9,9,9,9,0,0,0,1,0,0,0,0,0,0,28,3,19,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2127575
-2023,Richmond Spiders,8,Derrek Madonna,"Madonna, Derrek",Derrek,Madonna,Sr,M,9,8,9,8,11,5,16,43,0.256,24,0.558,1,2,0,11,7,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2128735
-2023,Richmond Spiders,10,Brandon Smith,"Smith, Brandon",Brandon,Smith,Sr,M,9,0,9,0,0,0,0,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809389
-2023,Richmond Spiders,21,Dalton Young,"Young, Dalton",Dalton,Young,Sr,ATT,9,9,9,9,14,24,38,48,0.292,26,0.542,0,0,0,19,26,3,0,0,0,3,150,0,0,,0,0,0,0,0,0,0,0,0,0,2303843
-2023,Richmond Spiders,19,Jack Pilling,"Pilling, Jack",Jack,Pilling,Fr,M,9,0,9,0,0,0,0,0,0,0,0,0,0,0,8,0,7,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809387
-2023,Richmond Spiders,36,Joe Gooley,"Gooley, Joe",Joe,Gooley,Sr,M,9,0,9,0,0,1,1,0,0,0,0,0,0,0,11,5,0,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2303858
-2023,Richmond Spiders,41,Jake Kapp,"Kapp, Jake",Jake,Kapp,Sr,D,9,1,9,1,0,0,0,2,0,2,1,0,0,0,13,4,5,0,0,0,4,150,0,0,,0,0,0,0,0,0,0,0,0,0,2303861
-2023,Richmond Spiders,77,Jack Fabean,"Fabean, Jack",Jack,Fabean,Sr,D,9,9,9,9,0,0,0,0,0,0,0,0,0,0,11,1,4,0,0,0,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2303863
 2023,Richmond Spiders,14,Luke Grayum,"Grayum, Luke",Luke,Grayum,Jr,ATT,9,8,9,8,11,13,24,30,0.367,21,0.7,1,2,0,8,17,5,0,0,0,2,60,0,0,,0,0,0,0,0,0,0,0,0,0,2462250
-2023,Richmond Spiders,5,Aidan O'Neil,"O'Neil, Aidan",Aidan,O'Neil,Fr,ATT,9,9,9,9,14,7,21,36,0.389,27,0.75,0,0,0,6,11,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809385
-2023,Richmond Spiders,27,Anthony Romano,"Romano, Anthony",Anthony,Romano,So,D,8,6,8,6,0,0,0,0,0,0,0,0,0,0,8,2,6,0,0,0,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2669442
+2023,Richmond Spiders,77,Jack Fabean,"Fabean, Jack",Jack,Fabean,Sr,D,9,9,9,9,0,0,0,0,0,0,0,0,0,0,11,1,4,0,0,0,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2303863
+2023,Richmond Spiders,41,Jake Kapp,"Kapp, Jake",Jake,Kapp,Sr,D,9,1,9,1,0,0,0,2,0,2,1,0,0,0,13,4,5,0,0,0,4,150,0,0,,0,0,0,0,0,0,0,0,0,0,2303861
+2023,Richmond Spiders,36,Joe Gooley,"Gooley, Joe",Joe,Gooley,Sr,M,9,0,9,0,0,1,1,0,0,0,0,0,0,0,11,5,0,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2303858
+2023,Richmond Spiders,21,Dalton Young,"Young, Dalton",Dalton,Young,Sr,ATT,9,9,9,9,14,24,38,48,0.292,26,0.542,0,0,0,19,26,3,0,0,0,3,150,0,0,,0,0,0,0,0,0,0,0,0,0,2303843
+2023,Richmond Spiders,8,Derrek Madonna,"Madonna, Derrek",Derrek,Madonna,Sr,M,9,8,9,8,11,5,16,43,0.256,24,0.558,1,2,0,11,7,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2128735
+2023,Richmond Spiders,45,Jake Saunders,"Saunders, Jake",Jake,Saunders,Sr,D,9,9,9,9,0,0,0,1,0,0,0,0,0,0,28,3,19,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2127575
 2023,Richmond Spiders,15,Will Tazewell,"Tazewell, Will",Will,Tazewell,Jr,M,8,0,8,0,2,0,2,8,0.25,6,0.75,0,0,0,1,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2462254
+2023,Richmond Spiders,27,Anthony Romano,"Romano, Anthony",Anthony,Romano,So,D,8,6,8,6,0,0,0,0,0,0,0,0,0,0,8,2,6,0,0,0,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2669442
 2023,Richmond Spiders,40,Tommy Stull,"Stull, Tommy",Tommy,Stull,So,D,8,0,8,0,0,0,0,3,0,1,0.333,0,0,0,16,3,8,0,2,0,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2669444
 2023,Richmond Spiders,24,Lukas Olsson,"Olsson, Lukas",Lukas,Olsson,So,ATT,7,0,7,0,2,0,2,6,0.333,3,0.5,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2669516
 2023,Richmond Spiders,20,Mitch Pfeiffer,"Pfeiffer, Mitch",Mitch,Pfeiffer,Sr,M,7,0,7,0,0,0,0,5,0,2,0.4,0,0,0,1,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2303826
 2023,Richmond Spiders,4,Xander Welty,"Welty, Xander",Xander,Welty,So,M,7,0,7,0,2,0,2,7,0.286,6,0.857,0,0,0,2,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2669441
 2023,Richmond Spiders,48,Michael Farrell,"Farrell, Michael",Michael,Farrell,So,D,7,0,7,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2669521
-2023,Richmond Spiders,26,Ryan Thompson,"Thompson, Ryan",Ryan,Thompson,Fr,M,5,0,5,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809407
 2023,Richmond Spiders,11,Aidan Fairchild,"Fairchild, Aidan",Aidan,Fairchild,Fr,D,5,0,5,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809375
+2023,Richmond Spiders,26,Ryan Thompson,"Thompson, Ryan",Ryan,Thompson,Fr,M,5,0,5,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809407
 2023,Richmond Spiders,35,Trent Grainger,"Grainger, Trent",Trent,Grainger,So,FO,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,7,0.286,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2652534
-2023,Richmond Spiders,34,Anthony DiCenso,"DiCenso, Anthony",Anthony,DiCenso,Fr,FO,3,0,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,5,10,0.5,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809373
 2023,Richmond Spiders,30,Bo Brown,"Brown, Bo",Bo,Brown,So,GK,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0:48,1,75,0,0,0,0,0,0,0,0,2669518
-2023,Richmond Spiders,50,Jackson Carawan,"Carawan, Jackson",Jackson,Carawan,Fr,ATT,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809370
-2023,Richmond Spiders,22,Leo Caine,"Caine, Leo",Leo,Caine,Fr,ATT,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809367
-2023,Richmond Spiders,3,Brendan O'Berry,"O'Berry, Brendan",Brendan,O'Berry,Jr,D,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2462271
+2023,Richmond Spiders,34,Anthony DiCenso,"DiCenso, Anthony",Anthony,DiCenso,Fr,FO,3,0,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,5,10,0.5,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809373
 2023,Richmond Spiders,38,Brendan Murphy,"Murphy, Brendan",Brendan,Murphy,Jr,ATT,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2669519
 2023,Richmond Spiders,91,Matt Civitella,"Civitella, Matt",Matt,Civitella,Jr,M,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2303850
-2023,Richmond Spiders,18,Jack Averna,"Averna, Jack",Jack,Averna,Sr,M,2,0,2,0,0,0,0,2,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2133652
-2023,Richmond Spiders,16,Jack Ricciardi,"Ricciardi, Jack",Jack,Ricciardi,Fr,M,2,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809388
 2023,Richmond Spiders,32,Devin Craven,"Craven, Devin",Devin,Craven,Sr,GK,2,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,37:25,8,12.829,4,0.333,1,0,0,0,0,0,2303845
+2023,Richmond Spiders,22,Leo Caine,"Caine, Leo",Leo,Caine,Fr,ATT,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809367
 2023,Richmond Spiders,33,Braden McClure,"McClure, Braden",Braden,McClure,Jr,D,2,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2462253
-2023,Richmond Spiders,28,Drew Tenzer,"Tenzer, Drew",Drew,Tenzer,Fr,LSM,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809393
-2023,Richmond Spiders,31,Connor Knight,"Knight, Connor",Connor,Knight,Fr,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2:45,1,21.818,0,0,0,0,0,0,0,0,2809380
+2023,Richmond Spiders,50,Jackson Carawan,"Carawan, Jackson",Jackson,Carawan,Fr,ATT,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809370
+2023,Richmond Spiders,16,Jack Ricciardi,"Ricciardi, Jack",Jack,Ricciardi,Fr,M,2,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809388
+2023,Richmond Spiders,3,Brendan O'Berry,"O'Berry, Brendan",Brendan,O'Berry,Jr,D,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2462271
+2023,Richmond Spiders,18,Jack Averna,"Averna, Jack",Jack,Averna,Sr,M,2,0,2,0,0,0,0,2,0,1,0.5,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2133652
 2023,Richmond Spiders,1,Ryan Spilman,"Spilman, Ryan",Ryan,Spilman,So,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2669514
+2023,Richmond Spiders,31,Connor Knight,"Knight, Connor",Connor,Knight,Fr,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2:45,1,21.818,0,0,0,0,0,0,0,0,2809380
 2023,Richmond Spiders,25,Kieran Laurie,"Laurie, Kieran",Kieran,Laurie,Jr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2303832
+2023,Richmond Spiders,28,Drew Tenzer,"Tenzer, Drew",Drew,Tenzer,Fr,LSM,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2809393
 2023,Robert Morris Colonials,9,Ben Starkey,"Starkey, Ben",Ben,Starkey,Sr,ATT,9,0,9,0,8,3,11,26,0.308,15,0.577,0,0,0,8,7,3,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2308234
 2023,Robert Morris Colonials,51,Nick Pelletier,"Pelletier, Nick",Nick,Pelletier,So,M,9,6,9,6,8,2,10,11,0.727,11,1,0,2,0,9,11,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2669026
 2023,Robert Morris Colonials,18,Colton Lidstone,"Lidstone, Colton",Colton,Lidstone,Sr,M,9,4,9,4,5,6,11,13,0.385,7,0.538,0,3,0,3,4,2,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2115342
@@ -2373,39 +2373,39 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,Sacred Heart Pioneers,27,Alex Pazienza,"Pazienza, Alex",Alex,Pazienza,Jr,GK,10,10,10,10,0,1,1,0,0,0,0,0,0,0,30,15,7,0,0,0,0,0,10,10,591:50,121,12.267,139,0.535,0,0,0,0,0,0,2483399
 2023,Sacred Heart Pioneers,25,Carson Spooner,"Spooner, Carson",Carson,Spooner,Sr,ATT,10,0,10,0,14,5,19,45,0.311,22,0.489,1,0,0,10,17,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2303631
 2023,Sacred Heart Pioneers,24,Johnny Morgan,"Morgan, Johnny",Johnny,Morgan,Sr,ATT,10,0,10,0,7,4,11,38,0.184,22,0.579,0,0,0,6,16,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2303620
+2023,Sacred Heart Pioneers,20,Ben Palanchi,"Palanchi, Ben",Ben,Palanchi,Sr,D,10,6,10,6,0,0,0,1,0,1,1,0,0,0,17,5,7,3,7,0.429,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2303610
 2023,Sacred Heart Pioneers,10,Jack Carr,"Carr, Jack",Jack,Carr,Sr,D,10,10,10,10,0,0,0,0,0,0,0,0,0,0,10,4,0,0,0,0,2,180,0,0,,0,0,0,0,0,0,0,0,0,0,2303366
 2023,Sacred Heart Pioneers,35,Jake Garb,"Garb, Jake",Jake,Garb,Jr,ATT,10,9,10,9,13,9,22,30,0.433,22,0.733,0,2,0,12,11,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2302568
-2023,Sacred Heart Pioneers,20,Ben Palanchi,"Palanchi, Ben",Ben,Palanchi,Sr,D,10,6,10,6,0,0,0,1,0,1,1,0,0,0,17,5,7,3,7,0.429,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2303610
 2023,Sacred Heart Pioneers,2,Thomas Houlihan,"Houlihan, Thomas",Thomas,Houlihan,Sr,D,10,10,10,10,0,0,0,0,0,0,0,0,0,0,11,1,4,0,0,0,3,150,0,0,,0,0,0,0,0,0,0,0,0,0,2130687
 2023,Sacred Heart Pioneers,5,David Bartkus,"Bartkus, David",David,Bartkus,Sr,M,9,0,9,0,1,1,2,1,1,1,1,0,0,1,10,3,1,0,0,0,2,120,0,0,,0,0,0,0,0,0,0,0,0,0,2130716
-2023,Sacred Heart Pioneers,41,Ryan Stout,"Stout, Ryan",Ryan,Stout,Sr,ATT,9,1,9,1,2,1,3,13,0.154,5,0.385,0,0,0,12,5,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2303653
+2023,Sacred Heart Pioneers,44,Nick Handy,"Handy, Nick",Nick,Handy,Sr,M,9,0,9,0,0,1,1,0,0,0,0,0,0,0,8,2,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2303603
 2023,Sacred Heart Pioneers,81,Brandon Sweeney,"Sweeney, Brandon",Brandon,Sweeney,Jr,D,9,0,9,0,0,0,0,0,0,0,0,0,0,0,13,1,5,0,0,0,4,210,0,0,,0,0,0,0,0,0,0,0,0,0,2483407
 2023,Sacred Heart Pioneers,26,Michael Moreschi,"Moreschi, Michael",Michael,Moreschi,Fr,M,9,0,9,0,2,4,6,12,0.167,6,0.5,0,0,0,1,6,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2823105
-2023,Sacred Heart Pioneers,44,Nick Handy,"Handy, Nick",Nick,Handy,Sr,M,9,0,9,0,0,1,1,0,0,0,0,0,0,0,8,2,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2303603
+2023,Sacred Heart Pioneers,41,Ryan Stout,"Stout, Ryan",Ryan,Stout,Sr,ATT,9,1,9,1,2,1,3,13,0.154,5,0.385,0,0,0,12,5,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2303653
 2023,Sacred Heart Pioneers,45,Skyler Wilde,"Wilde, Skyler",Skyler,Wilde,Sr,ATT,8,0,8,0,6,2,8,22,0.273,12,0.545,0,0,0,2,6,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653368
 2023,Sacred Heart Pioneers,30,Cayden Brodnax,"Brodnax, Cayden",Cayden,Brodnax,Jr,M,6,0,6,0,1,0,1,1,1,1,1,0,0,0,1,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2483394
-2023,Sacred Heart Pioneers,22,Jack Dillon,"Dillon, Jack",Jack,Dillon,Sr,D,5,0,5,0,1,0,1,5,0.2,2,0.4,0,0,0,1,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2303602
 2023,Sacred Heart Pioneers,37,Tucker Spencer,"Spencer, Tucker",Tucker,Spencer,Jr,ATT,5,0,5,0,2,2,4,7,0.286,3,0.429,0,1,0,5,1,0,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2484980
 2023,Sacred Heart Pioneers,60,Will Moulton,"Moulton, Will",Will,Moulton,Fr,ATT,5,0,5,0,1,0,1,2,0.5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2823111
-2023,Sacred Heart Pioneers,48,Luke Catolico,"Catolico, Luke",Luke,Catolico,So,D,4,0,4,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653369
-2023,Sacred Heart Pioneers,3,Connor Callihan,"Callihan, Connor",Connor,Callihan,Sr,FO,4,0,4,0,0,0,0,0,0,0,0,0,0,0,2,0,0,11,26,0.423,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2303588
+2023,Sacred Heart Pioneers,22,Jack Dillon,"Dillon, Jack",Jack,Dillon,Sr,D,5,0,5,0,1,0,1,5,0.2,2,0.4,0,0,0,1,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2303602
 2023,Sacred Heart Pioneers,12,MP Thomas,"Thomas, MP",MP,Thomas,So,FO,4,0,4,0,0,0,0,0,0,0,0,0,0,0,11,1,0,16,31,0.516,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2653364
+2023,Sacred Heart Pioneers,3,Connor Callihan,"Callihan, Connor",Connor,Callihan,Sr,FO,4,0,4,0,0,0,0,0,0,0,0,0,0,0,2,0,0,11,26,0.423,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2303588
+2023,Sacred Heart Pioneers,48,Luke Catolico,"Catolico, Luke",Luke,Catolico,So,D,4,0,4,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653369
 2023,Sacred Heart Pioneers,40,Nicky LaBanca,"LaBanca, Nicky",Nicky,LaBanca,Sr,GK,4,0,4,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,8:10,1,7.347,2,0.667,0,0,0,0,0,0,2303606
-2023,Sacred Heart Pioneers,9,Morgan O'Reilly,"O'Reilly, Morgan",Morgan,O'Reilly,Jr,ATT,3,3,3,3,7,2,9,22,0.318,14,0.636,0,1,0,2,2,0,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2483382
 2023,Sacred Heart Pioneers,11,Drew Pritts,"Pritts, Drew",Drew,Pritts,Jr,M,3,0,3,0,0,0,0,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2483383
-2023,Sacred Heart Pioneers,39,Declan Curry,"Curry, Declan",Declan,Curry,N/A,M,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2140013
 2023,Sacred Heart Pioneers,4,David Creo,"Creo, David",David,Creo,Jr,M,3,0,3,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2483393
+2023,Sacred Heart Pioneers,39,Declan Curry,"Curry, Declan",Declan,Curry,N/A,M,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2140013
+2023,Sacred Heart Pioneers,9,Morgan O'Reilly,"O'Reilly, Morgan",Morgan,O'Reilly,Jr,ATT,3,3,3,3,7,2,9,22,0.318,14,0.636,0,1,0,2,2,0,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2483382
 2023,Sacred Heart Pioneers,13,Kavin Wood,"Wood, Kavin",Kavin,Wood,Fr,ATT,3,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2823098
 2023,Sacred Heart Pioneers,15,Tyler Basti,"Basti, Tyler",Tyler,Basti,So,M,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2823022
 2023,Sacred Heart Pioneers,18,Finn Hoey,"Hoey, Finn",Finn,Hoey,Fr,D,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2823103
-2023,Sacred Heart Pioneers,53,Thomas Ricciardi,"Ricciardi, Thomas",Thomas,Ricciardi,Fr,D,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2823110
-2023,Sacred Heart Pioneers,8,Carson Reeder,"Reeder, Carson",Carson,Reeder,So,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653349
-2023,Sacred Heart Pioneers,38,Cam Brown,"Brown, Cam",Cam,Brown,So,ATT,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653322
+2023,Sacred Heart Pioneers,17,Brayden Edwards,"Edwards, Brayden",Brayden,Edwards,Jr,ATT,1,0,1,0,1,0,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2483386
 2023,Sacred Heart Pioneers,36,Craig Daria,"Daria, Craig",Craig,Daria,Fr,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2823107
 2023,Sacred Heart Pioneers,7,Sam Blake,"Blake, Sam",Sam,Blake,So,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653318
 2023,Sacred Heart Pioneers,49,Mike Wieczorek,"Wieczorek, Mike",Mike,Wieczorek,Jr,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2483403
-2023,Sacred Heart Pioneers,17,Brayden Edwards,"Edwards, Brayden",Brayden,Edwards,Jr,ATT,1,0,1,0,1,0,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2483386
+2023,Sacred Heart Pioneers,53,Thomas Ricciardi,"Ricciardi, Thomas",Thomas,Ricciardi,Fr,D,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2823110
+2023,Sacred Heart Pioneers,38,Cam Brown,"Brown, Cam",Cam,Brown,So,ATT,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653322
 2023,Sacred Heart Pioneers,29,Chris Thomas,"Thomas, Chris",Chris,Thomas,Sr,FO,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2303639
+2023,Sacred Heart Pioneers,8,Carson Reeder,"Reeder, Carson",Carson,Reeder,So,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2653349
 2023,Saint Joseph's Hawks,4,Matt Bohmer,"Bohmer, Matt",Matt,Bohmer,Sr,ATT,10,10,10,10,15,12,27,51,0.294,31,0.608,0,1,0,12,17,3,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2311964
 2023,Saint Joseph's Hawks,3,Mac McLaughlin,"McLaughlin, Mac",Mac,McLaughlin,Sr,ATT,10,5,10,5,5,2,7,23,0.217,13,0.565,0,0,0,2,8,1,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2311921
 2023,Saint Joseph's Hawks,62,Carter Page,"Page, Carter",Carter,Page,Jr,ATT,10,10,10,10,33,4,37,75,0.44,48,0.64,1,4,0,16,9,5,0,0,0,7,300,0,0,,0,0,0,0,0,0,0,0,0,0,2472609
@@ -2830,17 +2830,15 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,UMass Lowell River Hawks,49,Ben Quinn,"Quinn, Ben",Ben,Quinn,So,FO,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,11,0.091,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2672184
 2023,UMass Lowell River Hawks,93,Nolan Perkins,"Perkins, Nolan",Nolan,Perkins,So,ATT,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2672187
 2023,UMass Lowell River Hawks,26,Conor Doherty,"Doherty, Conor",Conor,Doherty,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805974
-2023,Utah Utes,17,Tyler Schifko,"Schifko, Tyler",Tyler,Schifko,So,M,9,0,9,0,1,1,2,2,0.5,2,1,0,0,0,4,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2657836
 2023,Utah Utes,3,Cody Hart,"Hart, Cody",Cody,Hart,So,M,9,0,9,0,6,2,8,20,0.3,15,0.75,0,0,0,10,4,1,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2657833
 2023,Utah Utes,28,Colby Plotts,"Plotts, Colby",Colby,Plotts,So,D,9,0,9,0,5,7,12,15,0.333,10,0.667,0,0,0,16,4,7,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2657807
-2023,Utah Utes,11,Joey Boylston,"Boylston, Joey",Joey,Boylston,Jr,D,9,9,9,9,0,1,1,1,0,0,0,0,0,0,28,4,14,0,0,0,5,210,0,0,,0,0,0,0,0,0,0,0,0,0,2472855
-2023,Utah Utes,4,Jordan Hyde,"Hyde, Jordan",Jordan,Hyde,Jr,ATT,9,9,9,9,24,1,25,57,0.421,38,0.667,1,1,0,11,10,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2472801
-2023,Utah Utes,6,Ryan Stines,"Stines, Ryan",Ryan,Stines,Fr,ATT,9,9,9,9,23,2,25,54,0.426,37,0.685,0,3,0,13,10,3,0,0,0,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2657834
 2023,Utah Utes,25,Bryce Horton,"Horton, Bryce",Bryce,Horton,Fr,M,9,0,9,0,0,0,0,1,0,0,0,0,0,0,3,5,0,0,0,0,1,120,0,0,,0,0,0,0,0,0,0,0,0,0,2805023
 2023,Utah Utes,48,Zach Chandler,"Chandler, Zach",Zach,Chandler,Sr,M,9,0,9,0,2,2,4,13,0.154,7,0.538,0,0,0,4,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2009688
 2023,Utah Utes,19,Samuel Cambere,"Cambere, Samuel",Samuel,Cambere,Sr,D,9,8,9,8,2,6,8,10,0.2,3,0.3,0,0,0,22,5,9,0,1,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2116834
 2023,Utah Utes,50,Dominic Mata,"Mata, Dominic",Dominic,Mata,Sr,D,9,1,9,1,0,0,0,0,0,0,0,0,0,0,10,0,1,0,0,0,2,120,0,0,,0,0,0,0,0,0,0,0,0,0,2116843
 2023,Utah Utes,16,Colin Lenskold,"Lenskold, Colin",Colin,Lenskold,Fr,GK,9,9,9,9,0,1,1,0,0,0,0,0,0,0,17,2,1,0,0,0,0,0,9,9,527:16,115,13.086,108,0.484,0,0,0,0,0,0,2805008
+2023,Utah Utes,6,Ryan Stines,"Stines, Ryan",Ryan,Stines,Fr,ATT,9,9,9,9,23,2,25,54,0.426,37,0.685,0,3,0,13,10,3,0,0,0,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2657834
+2023,Utah Utes,17,Tyler Schifko,"Schifko, Tyler",Tyler,Schifko,So,M,9,0,9,0,1,1,2,2,0.5,2,1,0,0,0,4,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2657836
 2023,Utah Utes,7,Josh Rose,"Rose, Josh",Josh,Rose,Jr,M,9,0,9,0,3,7,10,13,0.231,5,0.385,0,0,0,29,7,5,0,0,0,2,120,0,0,,0,0,0,0,0,0,0,0,0,0,2315088
 2023,Utah Utes,22,MJ McMahon,"McMahon, MJ",MJ,McMahon,Jr,ATT,9,9,9,9,5,8,13,21,0.238,12,0.571,0,1,0,4,3,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2315090
 2023,Utah Utes,23,Tyler Bradbury,"Bradbury, Tyler",Tyler,Bradbury,Jr,ATT,9,9,9,9,17,14,31,49,0.347,31,0.633,1,1,0,15,8,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2315091
@@ -2850,23 +2848,25 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,Utah Utes,46,Nikko DiPonio,"DiPonio, Nikko",Nikko,DiPonio,Fr,D,9,9,9,9,0,0,0,0,0,0,0,0,0,0,19,3,6,0,0,0,2,180,0,0,,0,0,0,0,0,0,0,0,0,0,2804995
 2023,Utah Utes,45,Carson Moyer,"Moyer, Carson",Carson,Moyer,Jr,M,9,9,9,9,10,3,13,33,0.303,14,0.424,0,0,0,2,1,1,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2315653
 2023,Utah Utes,2,Jared Andreala,"Andreala, Jared",Jared,Andreala,Jr,M,9,9,9,9,12,2,14,50,0.24,27,0.54,2,0,1,18,12,1,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2472799
+2023,Utah Utes,4,Jordan Hyde,"Hyde, Jordan",Jordan,Hyde,Jr,ATT,9,9,9,9,24,1,25,57,0.421,38,0.667,1,1,0,11,10,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2472801
+2023,Utah Utes,11,Joey Boylston,"Boylston, Joey",Joey,Boylston,Jr,D,9,9,9,9,0,1,1,1,0,0,0,0,0,0,28,4,14,0,0,0,5,210,0,0,,0,0,0,0,0,0,0,0,0,0,2472855
 2023,Utah Utes,29,Will Overly,"Overly, Will",Will,Overly,Fr,ATT,8,0,8,0,1,1,2,4,0.25,2,0.5,0,0,0,2,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805031
-2023,Utah Utes,31,Ruben Santana,"Santana, Ruben",Ruben,Santana,Sr,M,6,0,6,0,1,1,2,7,0.143,2,0.286,0,0,0,4,2,2,0,0,0,4,180,0,0,,0,0,0,0,0,0,0,0,0,0,2116863
 2023,Utah Utes,37,Trey Akabane,"Akabane, Trey",Trey,Akabane,So,FO,6,0,6,0,0,0,0,0,0,0,0,0,0,0,3,0,0,6,16,0.375,1,120,0,0,,0,0,0,0,0,0,0,0,0,0,2657839
-2023,Utah Utes,9,Peter Hagan,"Hagan, Peter",Peter,Hagan,Jr,M,4,0,4,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2472869
+2023,Utah Utes,31,Ruben Santana,"Santana, Ruben",Ruben,Santana,Sr,M,6,0,6,0,1,1,2,7,0.143,2,0.286,0,0,0,4,2,2,0,0,0,4,180,0,0,,0,0,0,0,0,0,0,0,0,0,2116863
 2023,Utah Utes,12,Branden Wilson,"Wilson, Branden",Branden,Wilson,Sr,M,4,0,4,0,0,0,0,2,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2116869
 2023,Utah Utes,10,Will Potter,"Potter, Will",Will,Potter,Fr,D,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,15,0.067,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805034
-2023,Utah Utes,13,Luc Charbonnier,"Charbonnier, Luc",Luc,Charbonnier,So,ATT,3,0,3,0,1,0,1,2,0.5,2,1,0,0,0,3,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2657835
-2023,Utah Utes,21,Collin Ervin,"Ervin, Collin",Collin,Ervin,Jr,ATT,3,0,3,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2472872
+2023,Utah Utes,9,Peter Hagan,"Hagan, Peter",Peter,Hagan,Jr,M,4,0,4,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2472869
 2023,Utah Utes,20,Drew Wasserman,"Wasserman, Drew",Drew,Wasserman,Jr,ATT,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2472860
+2023,Utah Utes,13,Luc Charbonnier,"Charbonnier, Luc",Luc,Charbonnier,So,ATT,3,0,3,0,1,0,1,2,0.5,2,1,0,0,0,3,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2657835
 2023,Utah Utes,15,Justus Peterson,"Peterson, Justus",Justus,Peterson,Jr,M,3,0,3,0,1,0,1,3,0.333,2,0.667,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2472857
 2023,Utah Utes,49,Zachary White,"White, Zachary",Zachary,White,Fr,ATT,3,0,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805033
+2023,Utah Utes,21,Collin Ervin,"Ervin, Collin",Collin,Ervin,Jr,ATT,3,0,3,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2472872
 2023,Utah Utes,26,Zack Johns,"Johns, Zack",Zack,Johns,Sr,GK,2,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,8:16,1,7.258,3,0.75,0,0,0,0,0,0,2116851
 2023,Utah Utes,35,Seamus McCarthy,"McCarthy, Seamus",Seamus,McCarthy,Fr,D,2,0,2,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805013
-2023,Utah Utes,38,Luke Haley,"Haley, Luke",Luke,Haley,Fr,M,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2805020
 2023,Utah Utes,36,Tyler Kloeckl,"Kloeckl, Tyler",Tyler,Kloeckl,Fr,FO,2,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,4,0.25,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2805025
-2023,Utah Utes,27,Will Leese,"Leese, Will",Will,Leese,So,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2657842
+2023,Utah Utes,38,Luke Haley,"Haley, Luke",Luke,Haley,Fr,M,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2805020
 2023,Utah Utes,30,Brendan Belz,"Belz, Brendan",Brendan,Belz,So,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2657838
+2023,Utah Utes,27,Will Leese,"Leese, Will",Will,Leese,So,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2657842
 2023,Utah Utes,32,Connor Hollison,"Hollison, Connor",Connor,Hollison,Jr,GK,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,8:28,1,7.087,7,0.875,0,0,0,0,0,0,2315617
 2023,VMI Keydets,26,Adam Norris,"Norris, Adam",Adam,Norris,Fr,GK,11,11,11,11,0,0,0,0,0,0,0,0,0,0,22,6,5,0,0,0,0,0,11,11,648:15,144,13.328,145,0.502,0,0,0,0,0,0,2802151
 2023,VMI Keydets,13,Jack Rogers,"Rogers, Jack",Jack,Rogers,Fr,FO,11,0,11,0,2,0,2,6,0.333,4,0.667,0,0,0,54,6,4,122,249,0.49,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2802138
@@ -3027,28 +3027,28 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,Virginia Cavaliers,37,Max Wooten,"Wooten, Max",Max,Wooten,So,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2652614
 2023,Virginia Cavaliers,27,Jack Walshe,"Walshe, Jack",Jack,Walshe,Jr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2473497
 2023,Virginia Cavaliers,35,Burke McFarlane,"McFarlane, Burke",Burke,McFarlane,So,ATT,1,0,1,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2694176
-2023,Wagner Seahawks,38,Jake Mitchell,"Mitchell, Jake",Jake,Mitchell,Fr,ATT,10,9,10,9,7,4,11,29,0.241,18,0.621,0,0,0,5,12,1,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2812558
-2023,Wagner Seahawks,7,Conor Julich,"Julich, Conor",Conor,Julich,So,M,10,4,10,4,5,3,8,18,0.278,11,0.611,0,0,0,5,6,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2651971
 2023,Wagner Seahawks,4,CJ Sweitzer,"Sweitzer, CJ",CJ,Sweitzer,Sr,M,10,10,10,10,9,3,12,47,0.191,28,0.596,0,0,0,4,13,0,0,0,0,1,60,0,0,,0,0,0,0,0,0,0,0,0,0,2812537
+2023,Wagner Seahawks,40,Ethan Sieb,"Sieb, Ethan",Ethan,Sieb,So,ATT,10,10,10,10,6,7,13,21,0.286,12,0.571,0,0,0,12,12,1,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2651957
+2023,Wagner Seahawks,38,Jake Mitchell,"Mitchell, Jake",Jake,Mitchell,Fr,ATT,10,9,10,9,7,4,11,29,0.241,18,0.621,0,0,0,5,12,1,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2812558
 2023,Wagner Seahawks,14,Jack Brady,"Brady, Jack",Jack,Brady,Sr,ATT,10,9,10,9,12,6,18,60,0.2,26,0.433,1,1,0,5,10,0,0,0,0,1,180,0,0,,0,0,0,0,0,0,0,0,0,0,2123907
 2023,Wagner Seahawks,43,Tommy Scarpello,"Scarpello, Tommy",Tommy,Scarpello,Sr,D,10,10,10,10,0,0,0,0,0,0,0,0,0,0,12,7,13,0,0,0,4,210,0,0,,0,0,0,0,0,0,0,0,0,0,2123926
 2023,Wagner Seahawks,45,Matt Rueter,"Rueter, Matt",Matt,Rueter,Sr,FO,10,3,10,3,0,0,0,3,0,3,1,0,0,0,19,2,0,56,136,0.412,2,60,0,0,,0,0,0,0,0,0,0,0,0,0,2133486
 2023,Wagner Seahawks,21,Danny Brady,"Brady, Danny",Danny,Brady,Sr,GK,10,10,10,10,0,1,1,1,0,1,1,0,0,0,18,12,3,0,0,0,0,0,10,10,593:25,125,12.639,137,0.523,0,0,0,0,0,0,2302531
 2023,Wagner Seahawks,3,Eli Fisher,"Fisher, Eli",Eli,Fisher,Sr,M,10,0,10,0,1,1,2,9,0.111,4,0.444,0,0,0,18,9,9,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2302532
 2023,Wagner Seahawks,9,Nico Kross,"Kross, Nico",Nico,Kross,Fr,D,10,7,10,7,0,1,1,0,0,0,0,0,0,0,8,4,8,0,0,0,3,120,0,0,,0,0,0,0,0,0,0,0,0,0,2812475
+2023,Wagner Seahawks,2,Patrick Caldwell,"Caldwell, Patrick",Patrick,Caldwell,So,M,10,3,10,3,5,2,7,28,0.179,15,0.536,0,0,0,6,14,2,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2651943
 2023,Wagner Seahawks,42,Brendan Higgins,"Higgins, Brendan",Brendan,Higgins,Sr,D,10,3,10,3,1,1,2,6,0.167,3,0.5,0,0,0,29,10,15,1,4,0.25,2,60,0,0,,0,0,0,0,0,0,0,0,0,0,2302575
 2023,Wagner Seahawks,11,Benjamin Stewart,"Stewart, Benjamin",Benjamin,Stewart,Sr,M,10,10,10,10,19,2,21,87,0.218,50,0.575,1,3,0,12,18,1,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,1,2308265
+2023,Wagner Seahawks,7,Conor Julich,"Julich, Conor",Conor,Julich,So,M,10,4,10,4,5,3,8,18,0.278,11,0.611,0,0,0,5,6,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2651971
 2023,Wagner Seahawks,18,Giovanni Armocida,"Armocida, Giovanni",Giovanni,Armocida,Jr,D,10,8,10,8,0,0,0,1,0,0,0,0,0,0,15,3,2,0,0,0,6,360,0,0,,0,0,0,0,0,0,0,0,0,0,2488793
 2023,Wagner Seahawks,12,Quin Hoke,"Hoke, Quin",Quin,Hoke,So,M,10,0,10,0,2,0,2,7,0.286,5,0.714,0,0,0,18,4,1,0,0,0,2,60,0,0,,0,0,0,0,0,0,0,0,0,0,2651970
-2023,Wagner Seahawks,2,Patrick Caldwell,"Caldwell, Patrick",Patrick,Caldwell,So,M,10,3,10,3,5,2,7,28,0.179,15,0.536,0,0,0,6,14,2,0,0,0,1,30,0,0,,0,0,0,0,0,0,0,0,0,0,2651943
-2023,Wagner Seahawks,40,Ethan Sieb,"Sieb, Ethan",Ethan,Sieb,So,ATT,10,10,10,10,6,7,13,21,0.286,12,0.571,0,0,0,12,12,1,0,0,0,2,90,0,0,,0,0,0,0,0,0,0,0,0,0,2651957
-2023,Wagner Seahawks,13,Carson Skinner,"Skinner, Carson",Carson,Skinner,So,ATT,9,1,9,1,2,0,2,11,0.182,4,0.364,0,0,0,4,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2651979
 2023,Wagner Seahawks,28,Bobby Blewett,"Blewett, Bobby",Bobby,Blewett,Jr,FO,9,0,9,0,0,0,0,1,0,1,1,0,0,0,8,0,0,26,53,0.491,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2488797
-2023,Wagner Seahawks,41,Smith Callaghan,"Callaghan, Smith",Smith,Callaghan,Fr,ATT,7,0,7,0,1,0,1,8,0.125,1,0.125,0,1,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2812579
+2023,Wagner Seahawks,13,Carson Skinner,"Skinner, Carson",Carson,Skinner,So,ATT,9,1,9,1,2,0,2,11,0.182,4,0.364,0,0,0,4,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2651979
 2023,Wagner Seahawks,20,Chase Alber,"Alber, Chase",Chase,Alber,Fr,M,7,2,7,2,5,0,5,16,0.312,8,0.5,0,0,0,3,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2812546
 2023,Wagner Seahawks,30,James Rea,"Rea, James",James,Rea,So,M,7,0,7,0,1,0,1,12,0.083,5,0.417,0,0,0,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2651978
-2023,Wagner Seahawks,49,Dom DeRiso,"DeRiso, Dom",Dom,DeRiso,Jr,FO,6,0,6,0,0,0,0,0,0,0,0,0,0,0,6,3,0,13,36,0.361,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2462348
+2023,Wagner Seahawks,41,Smith Callaghan,"Callaghan, Smith",Smith,Callaghan,Fr,ATT,7,0,7,0,1,0,1,8,0.125,1,0.125,0,1,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2812579
 2023,Wagner Seahawks,23,Tommy Egan,"Egan, Tommy",Tommy,Egan,So,D,6,1,6,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2651964
+2023,Wagner Seahawks,49,Dom DeRiso,"DeRiso, Dom",Dom,DeRiso,Jr,FO,6,0,6,0,0,0,0,0,0,0,0,0,0,0,6,3,0,13,36,0.361,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2462348
 2023,Wagner Seahawks,26,Tristan McMahon,"McMahon, Tristan",Tristan,McMahon,Fr,D,6,0,6,0,0,1,1,0,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2812550
 2023,Wagner Seahawks,24,Noah Patterson,"Patterson, Noah",Noah,Patterson,Sr,M,5,0,5,0,0,0,0,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2302569
 2023,Wagner Seahawks,10,Jack Matuszewski,"Matuszewski, Jack",Jack,Matuszewski,Jr,D,5,0,5,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2812476
@@ -3059,11 +3059,11 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2023,Wagner Seahawks,6,Daniel Mercado,"Mercado, Daniel",Daniel,Mercado,So,FO,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2651976
 2023,Wagner Seahawks,17,Dylan Haase,"Haase, Dylan",Dylan,Haase,So,M,2,0,2,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2651967
 2023,Wagner Seahawks,37,Max Frissora,"Frissora, Max",Max,Frissora,Fr,ATT,2,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2812571
+2023,Wagner Seahawks,19,Dylan Festa,"Festa, Dylan",Dylan,Festa,So,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2651965
+2023,Wagner Seahawks,5,Cristian Mercado,"Mercado, Cristian",Cristian,Mercado,Jr,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2488809
+2023,Wagner Seahawks,16,Nick Azzopardi,"Azzopardi, Nick",Nick,Azzopardi,Sr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2302565
 2023,Wagner Seahawks,34,Athan Barmer,"Barmer, Athan",Athan,Barmer,Fr,M,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2812570
 2023,Wagner Seahawks,44,Xander Bauguess,"Bauguess, Xander",Xander,Bauguess,So,D,1,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2665495
-2023,Wagner Seahawks,16,Nick Azzopardi,"Azzopardi, Nick",Nick,Azzopardi,Sr,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2302565
-2023,Wagner Seahawks,5,Cristian Mercado,"Mercado, Cristian",Cristian,Mercado,Jr,ATT,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2488809
-2023,Wagner Seahawks,19,Dylan Festa,"Festa, Dylan",Dylan,Festa,So,D,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2651965
 2023,"Yale Elis, Bulldogs",44,Chris Lyons,"Lyons, Chris",Chris,Lyons,So,M,7,7,7,7,26,1,27,63,0.413,46,0.73,1,1,0,12,8,4,0,0,0,1,120,0,0,,0,0,0,0,0,0,0,0,0,0,2665085
 2023,"Yale Elis, Bulldogs",10,Jack Stuzin,"Stuzin, Jack",Jack,Stuzin,Jr,D,7,1,7,1,1,0,1,5,0.2,3,0.6,1,0,0,17,3,10,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2665074
 2023,"Yale Elis, Bulldogs",13,Brad Sharp,"Sharp, Brad",Brad,Sharp,So,ATT,7,7,7,7,6,4,10,23,0.261,11,0.478,0,0,0,5,5,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,2665071
