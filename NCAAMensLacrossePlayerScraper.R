@@ -73,6 +73,7 @@ for (i in urls){
    rename("Goalie Games Played" = "ggp") %>%
    rename("Goalie Games Started" = "ggs") %>%
    rename("Goalie Minutes" = "g_min") %>%
+   rename("Goals Allowed" = "goals_allowed"
    rename("GAA" = "gaa") %>% 
    rename("Saves" = "saves") %>% 
    rename("Save Percentage" = "save_pct") %>%
