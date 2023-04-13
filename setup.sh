@@ -66,48 +66,46 @@ sqlite-utils transform lacrosse.db matches --type defensive_clear_pct.y integer
 sqlite-utils transform lacrosse.db matches --type defensive_otg.y integer
 
 sqlite-utils insert lacrosse.db players data/ncaa_mens_lacrosse_playerstats_2023.csv --csv
-sqlite-utils transform lacrosse.db players --type season TEXT
-sqlite-utils transform lacrosse.db players --type team TEXT
-sqlite-utils transform lacrosse.db players --type jersey integer
-sqlite-utils transform lacrosse.db players --type full_name TEXT
-sqlite-utils transform lacrosse.db players --type roster_name TEXT
-sqlite-utils transform lacrosse.db players --type first_name TEXT
-sqlite-utils transform lacrosse.db players --type last_name TEXT
-sqlite-utils transform lacrosse.db players --type yr TEXT
-sqlite-utils transform lacrosse.db players --type pos TEXT
-sqlite-utils transform lacrosse.db players --type gp integer
-sqlite-utils transform lacrosse.db players --type gs integer
+sqlite-utils transform lacrosse.db players --type Season TEXT
+sqlite-utils transform lacrosse.db players --type Team TEXT
+sqlite-utils transform lacrosse.db players --type Jersey integer
+sqlite-utils transform lacrosse.db players --type "Full Name" TEXT
+sqlite-utils transform lacrosse.db players --type "Roster Name" TEXT
+sqlite-utils transform lacrosse.db players --type "First Name" TEXT
+sqlite-utils transform lacrosse.db players --type "Last Name" TEXT
+sqlite-utils transform lacrosse.db players --type Year TEXT
+sqlite-utils transform lacrosse.db players --type Position TEXT
+sqlite-utils transform lacrosse.db players --type "Games Played" integer
+sqlite-utils transform lacrosse.db players --type "Games Started" integer
 sqlite-utils transform lacrosse.db players --type g integer
 sqlite-utils transform lacrosse.db players --type gs_2 integer
-sqlite-utils transform lacrosse.db players --type goals integer
-sqlite-utils transform lacrosse.db players --type assists integer
-sqlite-utils transform lacrosse.db players --type points integer
-sqlite-utils transform lacrosse.db players --type shots integer
-sqlite-utils transform lacrosse.db players --type shot_pct integer
+sqlite-utils transform lacrosse.db players --type Goals integer
+sqlite-utils transform lacrosse.db players --type Assists integer
+sqlite-utils transform lacrosse.db players --type Points integer
+sqlite-utils transform lacrosse.db players --type Shots integer
+sqlite-utils transform lacrosse.db players --type "Shooting Percentage" integer
 sqlite-utils transform lacrosse.db players --type sog integer
 sqlite-utils transform lacrosse.db players --type sog_pct integer
-sqlite-utils transform lacrosse.db players --type gwg integer
-sqlite-utils transform lacrosse.db players --type man_up_g integer
-sqlite-utils transform lacrosse.db players --type to integer
-sqlite-utils transform lacrosse.db players --type ct integer
-sqlite-utils transform lacrosse.db players --type fo_won integer
-sqlite-utils transform lacrosse.db players --type f_os_taken integer
-sqlite-utils transform lacrosse.db players --type fo_pct integer
-sqlite-utils transform lacrosse.db players --type pen integer
-sqlite-utils transform lacrosse.db players --type pen_time integer
-sqlite-utils transform lacrosse.db players --type ggp integer
-sqlite-utils transform lacrosse.db players --type ggs integer
-sqlite-utils transform lacrosse.db players --type g_min integer
-sqlite-utils transform lacrosse.db players --type goals_allowed integer
-sqlite-utils transform lacrosse.db players --type gaa integer
-sqlite-utils transform lacrosse.db players --type saves integer
-sqlite-utils transform lacrosse.db players --type save_pct integer
+sqlite-utils transform lacrosse.db players --type "Game Winning Goals" integer
+sqlite-utils transform lacrosse.db players --type "Man Up Gaols" integer
+sqlite-utils transform lacrosse.db players --type Turnovers integer
+sqlite-utils transform lacrosse.db players --type "Caused Turnovers" integer
+sqlite-utils transform lacrosse.db players --type "Faceoffs Won" integer
+sqlite-utils transform lacrosse.db players --type "Faceoffs Taken" integer
+sqlite-utils transform lacrosse.db players --type "Faceoff Percentage" integer
+sqlite-utils transform lacrosse.db players --type Penalties integer
+sqlite-utils transform lacrosse.db players --type "Penalty Time" integer
+sqlite-utils transform lacrosse.db players --type "Goalie Games Played" integer
+sqlite-utils transform lacrosse.db players --type "Goalie Games Started" integer
+sqlite-utils transform lacrosse.db players --type "Goalie Minutes" integer
+sqlite-utils transform lacrosse.db players --type "Goals Allowed" integer
+sqlite-utils transform lacrosse.db players --type "GAA" integer
+sqlite-utils transform lacrosse.db players --type Saves integer
+sqlite-utils transform lacrosse.db players --type "Save Percentage" integer
 sqlite-utils transform lacrosse.db players --type rc integer
 sqlite-utils transform lacrosse.db players --type clears integer
 sqlite-utils transform lacrosse.db players --type att integer
 sqlite-utils transform lacrosse.db players --type clear_pct integer
 sqlite-utils transform lacrosse.db players --type otg integer
-sqlite-utils transform lacrosse.db players --type ncaa_id integer
+sqlite-utils transform lacrosse.db players --type "NCAA id" integer
 datasette serve lacrosse.db
-
-
