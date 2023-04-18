@@ -45,6 +45,8 @@ for (i in urls){
   Sys.sleep(2)
 }
 
+select(playerstats, -g, -gs_2, -roster_name, -rc, -yc, -clears, -att, -clear_pct, -otg)
+
 playerstatstibble <- playerstatstibble %>% remove_empty(which="rows")
 
 write_csv(playerstatstibble, playerstatsfilename)
