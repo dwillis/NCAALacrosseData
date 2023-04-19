@@ -87,7 +87,9 @@ sqlite-utils transform lacrosse.db players --type "Shooting Percentage" integer
 sqlite-utils transform lacrosse.db players --type "Shot on Goal" integer
 sqlite-utils transform lacrosse.db players --type "Shots on Goal Percentage" integer
 sqlite-utils transform lacrosse.db players --type "Game Winning Goals" integer
-sqlite-utils transform lacrosse.db players --type "Man Up Gaols" integer
+sqlite-utils transform lacrosse.db players --type "Powerplay Goals" integer
+sqlite-utils transform lacrosse.db players --type "Penalty Kill Goals" integer
+sqlite-utils transform lacrosse.db players --type "Ground Balls" integer
 sqlite-utils transform lacrosse.db players --type Turnovers integer
 sqlite-utils transform lacrosse.db players --type "Caused Turnovers" integer
 sqlite-utils transform lacrosse.db players --type "Faceoffs Won" integer
