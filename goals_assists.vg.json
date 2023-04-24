@@ -7,5 +7,4 @@
   "encoding": {
     "x": {"field": "Goals", "type": "quantitative"},
     "y": {"field": "Assists", "type": "quantitative"},
-    "format_type: 
 }
