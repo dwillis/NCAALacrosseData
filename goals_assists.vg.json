@@ -1,0 +1,10 @@
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A scatterplot showing horsepower and miles per gallons for various cars.",
+  "data": {"url": "https://ncaa-lacrosse.herokuapp.com/lacrosse/players.csv?_size=max"},
+  "mark": "point",
+  "encoding": {
+    "x": {"field": "Goals", "type": "quantitative"},
+    "y": {"field": "Assists", "type": "quantitative"},
+}
