@@ -73,7 +73,7 @@ for (i in urls){
    rename("Goalie Games Played" = "ggp") %>%
    rename("Goalie Games Started" = "ggs") %>%
    rename("Goalie Minutes" = "g_min") %>%
-   rename("Goals Allowed" = "goals_allowed"
+   rename("Goals Allowed" = "goals_allowed") %>% 
    rename("GAA" = "gaa") %>% 
    rename("Saves" = "saves") %>% 
    rename("Save Percentage" = "save_pct") %>%
@@ -87,7 +87,7 @@ for (i in urls){
   Sys.sleep(2)
 }
 
-select(playerstats, -g, -gs_2, -roster_name, -rc, -yc, -clears, -att, -clear_pct, -otg)
+#select(playerstats, -g, -gs_2, -`Roster Name`, -rc, -yc, -clears, -att, -clear_pct, -otg)
 
 playerstatstibble <- playerstatstibble %>% remove_empty(which="rows")
 

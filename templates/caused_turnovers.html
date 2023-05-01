@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" crossorigin="anonymous">
+    </head>
+    <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="/">NCAA Lacrosse Stats</a>
+    </nav>
+      <div class="jumbotron">
+        <div class="container">
+            <h1>Caused Turnovers for {{ team }}</h1>
+            <p></p>
+            <table>
+              <thead>
+                <th>Jersey</th>
+                <th>Name</th>
+                <th>Year</th>
+                <th>Position</th>
+                <th>Games Played/Started</th>
+                <th>Caused Turnovers</th>
+              </thead>
+              <tbody>
+                {% for row in results %}
+                <tr>
+                  <td>{{ row[2] }}</td>
+                  <td>{{ row[3] }}</td>
+                  <td>{{ row[4] }}</td>
+                  <td>{{ row[5] }}</td>
+                  <td>{{ row[6] }}/{{ row[7] }}</td>
+                  <td>{{ row[8] }}</td>
+                </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+        </div>
+     </div>
+    </body>
+</html>

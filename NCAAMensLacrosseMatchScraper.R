@@ -66,5 +66,59 @@ for (i in urls){
   Sys.sleep(2)
 }
 
+matchstatstibble <- matchstatstibble %>% 
+  rename("Date" = "date") %>% 
+  rename("Team" = "team") %>% 
+  rename("Opponent" = "opponent") %>% 
+  rename("Home / Away" = "home_away") %>%
+  rename("Result" = "result") %>%
+  rename("Home Score" = "home_score") %>%
+  rename("Visitor Score" = "visitor_score") %>%
+  rename("Overtime" = "overtime") %>% 
+  rename("Home Goals" = "goals") %>%
+  rename("Home Assists" = "assists") %>% 
+  rename("Home Points" = "points") %>%
+  rename("Home Shots" = "shots") %>%
+  rename("Home Shots on Goal" = "sog") %>%
+  rename("Home Man Up Goals" = "man_up_g") %>%
+  rename("Home Man Down Goals" = "man_down_g") %>% 
+  rename("Home Ground Balls" = "gb") %>% 
+  rename("Home Turnovers" = "to") %>% 
+  rename("Home Caused Turnovers" = "ct") %>% 
+  rename("Home Faceoffs Won" = "fo_won") %>% 
+  rename("Home Faceoffs Taken" = "f_os_taken") %>%
+  rename("Home Penalties" = "pen") %>% 
+  rename("Home Penalty Time" = "pen_time") %>% 
+  rename("Home Goals Allowed" = "goals_allowed") %>%
+  rename("Home Saves" = "saves") %>% 
+  rename("Home Successful Clears" = "clears") %>%
+  rename("Home Clear Attempts" = "att.x") %>% 
+  rename("Home Clear Percentage" = "clear_pct.x") %>% 
+  rename("Home OT Goals" = "otg.x") %>% 
+  rename("Away Goals" = "defensive_goals") %>% 
+  rename("Away Assists" = "defensive_assists") %>% 
+  rename("Away Points" = "defensive_points") %>% 
+  rename("Away Shots" = "defensive_shots") %>%
+  rename("Away Shots on Goal" = "defensive_sog") %>%
+  rename("Away Man Up Goals" = "defensive_man_up_g") %>% 
+  rename("Away Man Down Goals" = "defensive_man_down_g") %>% 
+  rename("Away Groundball's" = "defensive_gb") %>%
+  rename("Away  Turnovers" = "defensive_to") %>%
+  rename("Away  Caused Turnovers" = "defensive_ct") %>%
+  rename("Away  Faceoffs Taken" = "defensive_f_os_taken") %>%
+  rename("Away  Faceoffs Won" = "defensive_fo_won") %>% 
+  rename("Away Penalties" = "defensive_pen") %>%
+  rename("Away Penalty Time" = "defensive_pen_time") %>%
+  rename("Away Goals Allowed" = "defensive_goals_allowed") %>%
+  rename("Away Saves" = "defensive_saves") %>%
+  rename("Away Successful Clears" = "defensive_clears") %>%
+  rename("Away Clear Attempts" = "att.y") %>%
+  rename("Away Clear Percentage" = "clear_pct.y") %>%
+  rename("Away OT Goals" = "otg.y") 
+  
+  
+  matchstatstibble <- select(matchstatstibble, -c(g, g_min, w, l, t, rc, yc, defensive_g, defensive_w, defensive_l, defensive_t, defensive_rc, defensive_yc, defensive_g_min))
+  
+
 write_csv(matchstatstibble, matchstatsfilename)
 
