@@ -29,6 +29,16 @@ You can remove all of the columns from the Excel version of the HTML file except
 ### Scraper Details
 
 The four scrapers - two for men's and women's lacrosse - are R scripts, not notebooks, so they can be run in RStudio by highlighting the entire script and clicking the "Run" button or from the command line using `Rscript name_of_file.R`. All scripts iterate over the list of teams for a given year, which you set at the top of the script, and pause for 2 seconds between each team.
+  
+Using github actions, we were able to fairly easily automate the process of updating the scraper. One value of scraping college lacrosse data is that games are played on predictable days, primarily Saturday, Sunday, and Tuesday. By running the scraper on Sunday, Monday, and Wednesday mornings, it is possible to get an accurate and mostly up to date scraper working without having to pay for more powerful or frequent automations. 
+  
+## Displaying Results of the Scrape 
+  
+We ultimately used Datasette to display the results of our scrape, and hosted it using a heroku app. I found Datasette to be incredibly powerful, but it had certain drawbacks. For someone who is extremely curious, and somewhat familiar with data analysis, Datasette was very useful. It provided the basic goal of the scrape which was to be able to sort and filter. The problems with Datasette are that it is not overly compatible with mobile devices, and it can be overwhelming for first time users. 
+  
+With that in mind, I chose to focus the final weeks of the project on finding ways to visualize the data, to provide some initial insights to a first time or casual user. 
+  
+We added capability to the datasette app for the user to use the vega and vega-lite applications to make their own charts, but it was difficult to embed custom premade charts. We settled on using vega-lite within Observablehq.com. This provided a good option to handle significant amounts of data, and provide interesting scatter plots and other charts that were also easy to embed in wordpress and other similar sites. 
 
 ## Priorities of Scrape 
   
