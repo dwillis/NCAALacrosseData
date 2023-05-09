@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" crossorigin="anonymous">
+    </head>
+    <body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="/">NCAA Lacrosse Stats</a>
+    </nav>
+      <div class="jumbotron">
+        <div class="container">
+            <h1>Teams with Highest Caused Turnover Rate</h1>
+            <p></p>
+            <table>
+              <thead>
+                <th>Team</th>
+                <th>Caused Turnovers</th>
+                <th>Per Game</th>
+              </thead>
+              <tbody>
+                {% for row in results %}
+                <tr>
+                  <td><a href="/caused-turnovers/{{ row[0] }}">{{ row[0] }}</td>
+                  <td>{{ row[1] }}</td>
+                  <td>{{ row[2] }}</td>
+                </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+        </div>
+     </div>
+    </body>
+</html>
