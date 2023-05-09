@@ -7,7 +7,6 @@ The guiding principals of this scrape were really centered on two goals: to crea
 The website stats.ncaa.org does a great job of tracking every school and player, but does not give users the opportunity to compare players across the country. Our challenge was to take the data that existed on the website in predictable (repeatable) urls and pull it into a larger database. 
 
 That is the one strong value of the NCAA website. It is so predictable that we were able to adapt our code from NCAA soccer data. With relatively minor changes and updating url’s, it is relatively easy to adapt similar code across different sports. 
-![image](https://user-images.githubusercontent.com/91995846/236979460-d1eb4d18-f5c2-492a-98fc-49ff0f1b9764.png)
 
 
 ### Scraper Setup
