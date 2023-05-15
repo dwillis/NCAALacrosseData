@@ -4,40 +4,39 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" crossorigin="anonymous">
     </head>
     <body>
+      <style>
+        h1 {text-align: center;
+            font-size: 150%;
+            padding-top: 5px;}
+      </style>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <a class="navbar-brand" href="/">NCAA Lacrosse Stats</a>
     </nav>
       <div class="jumbotron">
         <div class="container">
-            <h1>Teams with Highest Caused Turnover Rate</h1>
-            <p></p>
-            <table>
-              <thead>
-                <th>Team</th>
-                <th>Caused Turnovers</th>
-                <th>Per Game</th>
-              </thead>
-              <tbody>
-                {% for row in results %}
-                <tr>
-                  <td><a href="/caused-turnovers/{{ row[0] }}">{{ row[0] }}</td>
-                  <td>{{ row[1] }}</td>
-                  <td>{{ row[2] }}</td>
-                </tr>
-                {% endfor %}
-              </tbody>
-            </table>
         <div class="GoalsXShots">
-     <p>Here is everything you need to know about goals:</p>
-<iframe width="100%" height="600" frameborder="0" src="https://observablehq.com/embed/3a1dfae188d222c1@108?cells=viewof+variousCharts"></iframe>
-</div>
-</div>
-</div>
-<div class="jumbotron">
-  <div class="container">
+     <h1> Shot Volume, Goals, Shooting Percentages </h1>
+     <iframe width="100%" height="642" frameborder="0"
+     src="https://observablehq.com/embed/3a1dfae188d222c1@123?cells=viewof+variousCharts"></iframe>
     <div class="Faceoffs">
- <p>Here is ebverything you need to know about Faceoffs</p>
-<iframe width="100%" height="400" frameborder="0" src="https://observablehq.com/embed/bc594124d2faf577@153?cells=viewof+variousCharts"></iframe>
+ <h1> Faceoffs, Ground Balls, Self Wins </h1>
+ <iframe width="100%" height="642" frameborder="0"
+ src="https://observablehq.com/embed/bc594124d2faf577@160?cells=viewof+variousCharts"></iframe>
+</div>
+<div class="Assists">
+  <h1> Assists, Turnovers </h1>
+  <iframe width="100%" height="642" frameborder="0"
+  src="https://observablehq.com/embed/27a0e9b6aead55fb@124?cells=viewof+variousCharts"></iframe>
+</div>
+<div class="by_year">
+  <h1> Scoring By Class</h1>
+  <iframe width="100%" height="642" frameborder="0"
+  src="https://observablehq.com/embed/af72c7362eac19e3@118?cells=viewof+variousCharts"></iframe>
+</div>
+<div class="Defense">
+  <h1> Defense </h1>
+  <iframe width="100%" height="642" frameborder="0"
+  src="https://observablehq.com/embed/d216799d25214159@154?cells=viewof+varriousCharts"></iframe>
 </div>
 </div>
 </div>
