@@ -87,7 +87,9 @@ for (i in urls){
   Sys.sleep(2)
 }
 
-#select(playerstats, -g, -gs_2, -`Roster Name`, -rc, -yc, -clears, -att, -clear_pct, -otg)
+
+playerstatstibble <- select(playerstatstibble, -c(g, gs_2, "Roster Name", rc, yc, clears, att, clear_pct))
+
 
 playerstatstibble <- playerstatstibble %>% remove_empty(which="rows")
 
