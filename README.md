@@ -8,7 +8,6 @@ The website stats.ncaa.org does a great job of tracking every school and player,
 
 That is the one strong value of the NCAA website. It is so predictable that we were able to adapt our code from NCAA soccer data. With relatively minor changes and updating url’s, it is relatively easy to adapt similar code across different sports. 
 
-
 ### Scraper Setup
 
 To scrape match and player stats for both men's and women's matches, we first need a canonical list of teams for each season and their NCAA stats urls, derived from [this page](https://stats.ncaa.org/rankings/institution_trends) for each sport. Those CSV files are stored in the `url_csvs` directory, one for each season. There's no simple way to automate building those files, since we need the HTML for urls and the NCAA stats site doesn't have permalinks for each season (it could be automated using a browser emulator such as Selenium, however). But copying and pasting probably works fine for something we need to update only occasionally.
@@ -34,13 +33,27 @@ Using github actions, we were able to fairly easily automate the process of upda
   
 ## Displaying Results of the Scrape 
   
-We ultimately used Datasette to display the results of our scrape, and hosted it using a heroku app. I found Datasette to be incredibly powerful, but it had certain drawbacks. For someone who is extremely curious, and somewhat familiar with data analysis, Datasette was very useful. It provided the basic goal of the scrape which was to be able to sort and filter. The problems with Datasette are that it is not overly compatible with mobile devices, and it can be overwhelming for first time users. 
+We ultimately used Datasette to display the results of our scrape, and hosted it using a heroku app. I found Datasette to be incredibly powerful, but it had certain drawbacks. For someone who is extremely curious, and somewhat familiar with data analysis, Datasette is very useful. It provided the basic goal of the scrape which was to be able to sort and filter. The problems with Datasette are that it is not overly compatible with mobile devices, and it can be overwhelming for first time users. 
+ 
+![Screen Shot 2023-05-16 at 10 37 47 PM](https://github.com/jhd33/NCAALacrosseData/assets/91995846/912b4c5f-f653-4b6a-a426-7d2b85b7a988)
+
+This is an example of our datasette, with the ability to clearly sort and filter at the top. As you can see, we did not devote much time to making the site visually polished. While this wont effect the functionality for experienced data junkies, it may scare off some more casual readers. A step-by-step guide to setting up a datasette application can be found here: https://first-datasette-app.readthedocs.io/en/latest/
+
+We created the datasette in github codespaces which was both easy and free. While imperfect, Datasette was extremely useful to us because of it's built in features to sort and filter data. 
   
 With that in mind, I chose to focus the final weeks of the project on finding ways to visualize the data, to provide some initial insights to a first time or casual user. 
   
-We added capability to the datasette app for the user to use the vega and vega-lite applications to make their own charts, but it was difficult to embed custom premade charts. We settled on using vega-lite within Observablehq.com. This provided a good option to handle significant amounts of data, and provide interesting scatter plots and other charts that were also easy to embed in wordpress and other similar sites. 
-
-## Priorities of Scrape 
+We added capability to the datasette app for the user to use the vega and vega-lite applications to make their own charts, but it was difficult to embed custom premade charts. We also had issues with the volume of the dataset, as users have to specifically edit the SQL query to change the limit to something which will include all of the data. 
+  
+ We settled on using vega-lite within Observablehq.com. This provided a good option to handle significant amounts of data, and provide interesting scatter plots and other charts that were also easy to embed in wordpress and other similar sites. 
+  
+The only significant disadvantage of Observable is that the free version does not allow you to use API's as data sources. Rather, we had to use a local csv file that needs to be manually updated. For the purposes of doing this at the end of the NCAA season, it was not a major hurdle, but users should make a different consideration when scraping data throughout the season. 
+  
+After creating several observable charts, we set up an index page to host the charts in a series of groups. The groups were by the type of data included in the plot, so there is a section for goals, assists etc. While these charts are not interactive in the sense that users can choose the inputs, they do have live tooltips so users can identify who the players are. 
+  
+A guide to using vegalite on observable can be found here: https://observablehq.com/@observablehq/vega-lite
+  
+## Strengths and Weaknesses of Lacrosse Analytic Sites 
   
   The app is best at giving the super curious user (for example a lacrosse media member) the tools to follow their own curiosity. It is less successful at showing a casual viewer (or even someone who is not super interested in stats) things they might find interesting. We have attempted to solve this problem by hosting interactive charts on a tangential web page to the datasette. 
 
@@ -62,10 +75,14 @@ However, there are huge benefits to these sites as well. Two prominent examples 
 
 That same argument holds true for award voting, which has long been greatly impacted by exposure, performance from recent years, and old-fashioned popularity. Making these stats more public will help create a smarter lacrosse consumer, and help build more transparent resumes that can be compared across the country. As an athlete, I experienced both sides of this (struggle to gain exposure and recognition, followed by over-recognition after a transfer) and it matters more than you may realize. Pro careers, resume builders in the transfer portal, an cache in the sport forever are all on the line. 
 
- ## Limits to overcome in future Analysis 
+ ## Next Steps 
 
-The main issue with the NCAA stats is that there are small differences in the ways that schools keep their stats, especially when it comes to play by play data. One of the goals that were failed to be accomplished was extracting information from play by play scripts. There are a few reasons why. 
+The main issue with the NCAA stats is that there are small differences in the ways that schools keep their stats, especially when it comes to play by play data. One of the goals that were failed to be accomplished was extracting information from play by play scripts. There are a few reasons why: 
 
-The first is that there was no consistency with the url’s used for pxp data. The division one men’s lacrosse games had unique id’s for pxp data and box score data, and the pxp id’s were not within a specific range, which meant that to extract url’s, the programmer would have to manually catalog the unique url (and game id) for every game across the country. 
+The first is that there was no consistency with the url’s used for pxp data. The division one men’s lacrosse games had unique id’s for pxp data and differeont ones for box score data, and the pxp id’s were not within a specific range, which meant that to extract url’s, the programmer would have to manually catalog the unique url (and game id) for every game across the country. 
 
-The second issue is that there is inconsistency with the ways that athletic departments catalog their games. For example, while Cornell uses the abbreviation “COR” in their pxp data, Hobart uses their full title, “Hobart.” Better yet, schools like Quinnipiac use the abbreviation “QUMLAX23.” Army West Point changes their abbreviation by game. One game they use ‘ARMYM”, another “ARMY”. So while theoretically possible to find individual play by play data and extract it, the messiness of the data make it nearly impossible to decode. Other sports like College Basketball, have their data cleaned by sites like ESPN, which make scraping the data much easier, which is part of the reason why there is so much data. 
+The second issue is that there is inconsistency with the ways that athletic departments catalog their games. For example, while Cornell uses the abbreviation “COR” in their pxp data, Hobart uses their full title, “Hobart.” Better yet, schools like Quinnipiac use the abbreviation “QUMLAX23.” Army West Point changes their abbreviation by game. One game they use "ARMYM”, another “ARMY”. So while theoretically possible to find individual play by play data and extract it, the messiness of the data make it nearly impossible to decode. Other sports like College Basketball, have their data cleaned by sites like ESPN, which make scraping the data much easier, which is part of the reason why there is so much data. 
+  
+Another issue that merits future exploration is how to make lacrosse data exploration more consumable on mobile devices. The initial goal of this scrape was to look at larger scale datasets and show data on a national scale. Many of the scatterplots that I created need to be viewed on larger scales to draw anything from them. Finding ways to condense that information, both literally (most responsive graphics) and theoretically (choosing data that is more interesting in a small scale) is crucial to making data analysis more widely read. 
+ 
+Lastly and most importantly, future users should seek to find new ways to present and contextualize the existing data in ways that have not been previously thought of. The goal of this project was to assemnble the data. Now what can we learn from it?
