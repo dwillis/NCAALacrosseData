@@ -111,3 +111,5 @@ sqlite-utils transform lacrosse.db players --type clear_pct integer
 sqlite-utils transform lacrosse.db players --type otg integer
 sqlite-utils transform lacrosse.db players --type "NCAA id" integer
 datasette serve lacrosse.db
+
+pip install datasette-vega
