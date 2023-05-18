@@ -95,4 +95,4 @@ Another issue that merits future exploration is how to make lacrosse data explor
  
 Lastly and most importantly, future users should seek to find new ways to present and contextualize the existing data in ways that have not been previously thought of. The goal of this project was to assemnble the data. Now what can we learn from it?
   
-  Please feel free to fork and contribute to this repository. Refer to the issues section of this repositories for ideas to overcome for future exploration. 
+  Please feel free to fork and contribute to this repository. Refer to the issues section of this repositorie for ideas to influence future exploration. 
