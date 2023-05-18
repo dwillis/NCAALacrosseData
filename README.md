@@ -1,12 +1,16 @@
-# NCAA Lacrosse Data
+# NCAA Lacrosse Data Overview 
 
-A repository of men's and women's lacrosse data scraped from stats.ncaa.org, plus the scrapers that did the work.
+Link to Lacrosse Datasette: https://ncaa-lacrosse.herokuapp.com/lacrosse/players
+
+Link to observable charts: https://observablehq.com/@ncaalacrosse?tab=notebooks
+
+This is a repository of men's and women's lacrosse data scraped from stats.ncaa.org, plus the scrapers that did the work. This is part of the Master's of Journalism Project by Jonathan Donville at the Philip Merrill College of Journalism at the University of Maryland. Jonathan was a team-member of the 2022 National Championship team at the University of Maryland, and currently plays professional lacrosse in both the NLL and PLL. 
 
 The guiding principals of this scrape were really centered on two goals: to create a database that includes every player in the country, and to give users to opportunity to sort and filter. NCAA stats are generally speaking pretty well kept. There certainly are exceptions to that rule, but for the most part the stats are well kept. The problem is that the stats live on separate school websites, usually in different formats. 
 
-The website stats.ncaa.org does a great job of tracking every school and player, but does not give users the opportunity to compare players across the country. Our challenge was to take the data that existed on the website in predictable (repeatable) urls and pull it into a larger database. 
+The website stats.ncaa.org does a great job of tracking every school and player, but does not give users the opportunity to compare players across the country. The challenge was to take the data that existed on the website in predictable (repeatable) urls and pull it into a larger database. 
 
-That is the one strong value of the NCAA website. It is so predictable that we were able to adapt our code from NCAA soccer data. With relatively minor changes and updating url’s, it is relatively easy to adapt similar code across different sports. 
+That is the value of the NCAA website. It is so predictable that we were able to adapt our code from NCAA soccer data. With relatively minor changes and updating url’s. In other words, it is relatively easy to adapt similar code across different sports, especially smaller sports like lacrosse. 
 
 ### Scraper Setup
 
@@ -33,9 +37,11 @@ Using github actions, we were able to fairly easily automate the process of upda
   
 ## Displaying Results of the Scrape 
   
-We ultimately used Datasette to display the results of our scrape, and hosted it using a heroku app. I found Datasette to be incredibly powerful, but it had certain drawbacks. For someone who is extremely curious, and somewhat familiar with data analysis, Datasette is very useful. It provided the basic goal of the scrape which was to be able to sort and filter. The problems with Datasette are that it is not overly compatible with mobile devices, and it can be overwhelming for first time users. 
- 
-![Screen Shot 2023-05-16 at 10 37 47 PM](https://github.com/jhd33/NCAALacrosseData/assets/91995846/912b4c5f-f653-4b6a-a426-7d2b85b7a988)
+We ultimately used Datasette to display the results of our scrape, and hosted it using a heroku app. Datasette is powerful, but it has certain drawbacks. For the extremely curious user who is somewhat familiar with data analysis, Datasette is very useful. It provided the basic goal of the scrape which was to be able to sort and filter. The problems with Datasette are that it is not overly compatible with mobile devices, and it can be overwhelming for first time users. 
+  
+<img width="753" alt="Screen Shot 2023-05-17 at 11 56 10 PM" src="https://github.com/jhd33/NCAALacrosseData/assets/91995846/b892589b-a960-4c70-a04f-0817aa3e8423">
+
+ The Datasette App can be found here: https://ncaa-lacrosse.herokuapp.com/lacrosse/players
 
 This is an example of our datasette, with the ability to clearly sort and filter at the top. As you can see, we did not devote much time to making the site visually polished. While this wont effect the functionality for experienced data junkies, it may scare off some more casual readers. A step-by-step guide to setting up a datasette application can be found here: https://first-datasette-app.readthedocs.io/en/latest/
 
@@ -52,16 +58,22 @@ The only significant disadvantage of Observable is that the free version does no
 After creating several observable charts, we set up an index page to host the charts in a series of groups. The groups were by the type of data included in the plot, so there is a section for goals, assists etc. While these charts are not interactive in the sense that users can choose the inputs, they do have live tooltips so users can identify who the players are. 
   
 A guide to using vegalite on observable can be found here: https://observablehq.com/@observablehq/vega-lite
+All of the charts made for this project are publicly available here: https://observablehq.com/@ncaalacrosse?tab=notebooks
   
 ## Strengths and Weaknesses of Lacrosse Analytic Sites 
   
   The app is best at giving the super curious user (for example a lacrosse media member) the tools to follow their own curiosity. It is less successful at showing a casual viewer (or even someone who is not super interested in stats) things they might find interesting. We have attempted to solve this problem by hosting interactive charts on a tangential web page to the datasette. 
+  
+A screenshot of that page is below:
+  
+![Screen Shot 2023-05-17 at 11 31 02 PM](https://github.com/jhd33/NCAALacrosseData/assets/91995846/2e9cc3f7-36c4-43df-a115-9d9e1844a0b3)
 
-However, this dilemma points at a larger question, which is choosing who to market the site towards. 
 
-Non-revenue sports have multiple issues. One is fluency. Will everyone who comes to the site know what every stat abbreviation is? The answer may not always be as simple as it seems, especially if personal social networks (like mine) are disproportionately filled by diehards of the sport. 
+However, this dilemma points at a larger question, which is choosing the user to market the site towards. 
 
-The next problem is balancing the interests of casual fans vs those who are very interested in data. Being on the forefront of data collection is exciting and potentially noteworthy, but it is also uphill sledding. If people have never had the data you are providing, they also won’t be adept or prepared to use it. The goal of the data provider should be to create something easy enough to use that beginners can find something useful from it. Datasette is better suited to the super interested observer who has some data fluency, which is something students should consider. 
+Non-revenue sports have multiple issues. One is fluency. Will everyone who comes to the site know what every stat abbreviation is? The answer may not always be as simple as it seems, especially if personal social networks (like mine) are disproportionately filled by diehards of the sport. For example, Caused Turnovers (CT's) are one of the only available defensive statistics. Will everyone reading the site know that CT's = Caused Turnovers? Or that Caused Turnovers is the same as steals in a sport like basketball? These potential gaps in communication can be frustrating and hard to overcome, and put a ceiling on the effectiveness and pervasiveness of these sites. 
+
+The next problem is balancing the interests of casual fans vs those who are very interested in data. Being on the forefront of data collection is exciting and potentially noteworthy, but it is also uphill sledding. If people have never had the data you are providing, they also won’t be adept or prepared to use it. The goal of the data provider should be to create something easy enough to use that beginners can find something useful from it. 
 
 The third and most important long-term issue is that limited data means limited value of the data. In NCAA lacrosse, the major gap in data comes from not knowing who is on the field at a given time. If we had lineup data, there would be a lot more interesting outcomes. For example, what percentage of the time does a team score with their first midfield line vs their second line? What defensive lineups are the most stingy? 
 
@@ -69,13 +81,13 @@ The point of data analysis is to show who the most impactful players are. Withou
 
 ## Market for Sites In Non-Revenue Sports
   
-This points to broader issues with these websites in general. To properly execute a useful website, it requires a significant amount of time. This often pushes creators into the common dilemma of using a subscription model vs offering the site for free. The problem is that site traffic for up and coming sports is unlikely to be sufficient to create real ad revenue, so a subscription model is a must. However, the lack of diehard fans makes the subscription model a difficult one too. So there are real issues with the creative side of these sites, which are systemic to their non-revenue sports. Simply, not enough people care enough to justify the workload. 
+To properly execute a useful website, it requires a significant amount of time. This often pushes creators into the common dilemma of using a subscription model vs offering the site for free. The problem is that site traffic for up and coming sports is unlikely to be sufficient to create real ad revenue, so a subscription model is a must. However, the lack of diehard fans makes the subscription model a difficult one too. So there are real issues with the creative side of these sites, which are systemic to their non-revenue sports. Simply, not enough people care enough to justify the workload. 
 
 However, there are huge benefits to these sites as well. Two prominent examples are in uncovering unheralded players from unheralded programs, and also in influencing award voting. Promotion for statistical excellence falls mostly on school’s themselves, and those with better or worse resources in their SID departments will have a better chance at getting their players into the popular conscience. These sites can help fans realize who the statistical performers, even if they don’t play on ESPN. 
 
-That same argument holds true for award voting, which has long been greatly impacted by exposure, performance from recent years, and old-fashioned popularity. Making these stats more public will help create a smarter lacrosse consumer, and help build more transparent resumes that can be compared across the country. As an athlete, I experienced both sides of this (struggle to gain exposure and recognition, followed by over-recognition after a transfer) and it matters more than you may realize. Pro careers, resume builders in the transfer portal, an cache in the sport forever are all on the line. 
+That same argument holds true for award voting, which has long been greatly impacted by exposure, performance from  years, and old-fashioned popularity. Making these stats more public will help create a smarter lacrosse consumer, and help build more transparent resumes that can be compared across the country. As an athlete, I experienced both sides of this (struggle to gain exposure and recognition, followed by over-recognition after a transfer) and it matters more than you may realize. Pro careers, resume builders in the transfer portal, an cache in the sport forever are all on the line. 
 
- ## Next Steps 
+ ## Next Steps
 
 The main issue with the NCAA stats is that there are small differences in the ways that schools keep their stats, especially when it comes to play by play data. One of the goals that were failed to be accomplished was extracting information from play by play scripts. There are a few reasons why: 
 
@@ -86,3 +98,5 @@ The second issue is that there is inconsistency with the ways that athletic depa
 Another issue that merits future exploration is how to make lacrosse data exploration more consumable on mobile devices. The initial goal of this scrape was to look at larger scale datasets and show data on a national scale. Many of the scatterplots that I created need to be viewed on larger scales to draw anything from them. Finding ways to condense that information, both literally (most responsive graphics) and theoretically (choosing data that is more interesting in a small scale) is crucial to making data analysis more widely read. 
  
 Lastly and most importantly, future users should seek to find new ways to present and contextualize the existing data in ways that have not been previously thought of. The goal of this project was to assemnble the data. Now what can we learn from it?
+  
+  Please feel free to fork and contribute to this repository. Refer to the issues section of the upstream repository for ideas to influence future exploration. 
