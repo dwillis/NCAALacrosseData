@@ -1,5 +1,9 @@
 # NCAA Lacrosse Data Overview 
 
+Link to Lacrosse Datasette: https://ncaa-lacrosse.herokuapp.com/lacrosse/players
+
+Link to observable charts: https://observablehq.com/@ncaalacrosse?tab=notebooks
+
 This is a repository of men's and women's lacrosse data scraped from stats.ncaa.org, plus the scrapers that did the work. This is part of the Master's of Journalism Project by Jonathan Donville at the Philip Merrill College of Journalism at the University of Maryland. Jonathan was a team-member of the 2022 National Championship team at the University of Maryland, and currently plays professional lacrosse in both the NLL and PLL. 
 
 The guiding principals of this scrape were really centered on two goals: to create a database that includes every player in the country, and to give users to opportunity to sort and filter. NCAA stats are generally speaking pretty well kept. There certainly are exceptions to that rule, but for the most part the stats are well kept. The problem is that the stats live on separate school websites, usually in different formats. 
