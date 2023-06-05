@@ -1243,7 +1243,6 @@ Season,Team,Jersey Number,Full Name,First Name,Last Name,Year,Position,Games Pla
 2023,LIU Sharks,41,Billy McHugh,Billy,McHugh,Fr,D,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2753715
 2023,LIU Sharks,43,John Ruddick,John,Ruddick,Sr,GK,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1:37,0,0,1,1,0,2113480
 2023,LIU Sharks,26,Jonathan Vuono,Jonathan,Vuono,Sr,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2304395
-2023,Lafayette Leopards,30,Joe Doherty,Joe,Doherty,Fr,GK,16,16,0,0,0,0,0,0,0,0,0,0,24,10,2,0,0,0,1,30,16,16,922:26,199,12.944,172,0.464,0,2816519
 2023,Lafayette Leopards,46,Liam Sargent,Liam,Sargent,So,M,16,14,9,6,15,48,0.188,23,0.479,1,0,0,13,14,1,0,0,0,2,90,0,0,,0,0,0,0,0,2669580
 2023,Lafayette Leopards,43,Cade Kilbride,Cade,Kilbride,So,D,16,2,1,0,1,2,0.5,1,0.5,0,0,0,18,3,8,0,0,0,4,240,0,0,,0,0,0,0,0,2669569
 2023,Lafayette Leopards,54,Nicco Jacimovic,Nicco,Jacimovic,Jr,D,16,13,0,0,0,0,0,0,0,0,0,0,23,9,10,0,0,0,0,0,0,0,,0,0,0,0,0,2507792
@@ -1255,37 +1254,38 @@ Season,Team,Jersey Number,Full Name,First Name,Last Name,Year,Position,Games Pla
 2023,Lafayette Leopards,29,Macklin Fitzpatrick,Macklin,Fitzpatrick,Sr,ATT,16,0,3,1,4,26,0.115,13,0.5,0,0,0,6,11,1,0,0,0,0,0,0,0,,0,0,0,0,0,2310387
 2023,Lafayette Leopards,7,Gunnar Bogorowski,Gunnar,Bogorowski,Sr,M,16,0,0,0,0,0,0,0,0,0,0,0,7,3,3,0,0,0,3,120,0,0,,0,0,0,0,0,2310374
 2023,Lafayette Leopards,37,Ryan Duncan,Ryan,Duncan,Sr,ATT,16,7,17,3,20,54,0.315,29,0.537,0,4,0,5,7,0,0,0,0,0,0,0,0,,0,0,0,0,0,2310372
-2023,Lafayette Leopards,55,John Galbraith,John,Galbraith,So,M,15,0,0,0,0,0,0,0,0,0,0,0,7,4,3,0,0,0,2,90,0,0,,0,0,0,0,0,2669570
+2023,Lafayette Leopards,30,Joe Doherty,Joe,Doherty,Fr,GK,16,16,0,0,0,0,0,0,0,0,0,0,24,10,2,0,0,0,1,30,16,16,922:26,199,12.944,172,0.464,0,2816519
 2023,Lafayette Leopards,2,Jack Irish,Jack,Irish,Fr,M,15,13,7,3,10,33,0.212,19,0.576,0,0,0,5,8,1,0,0,0,0,0,0,0,,0,0,0,0,0,2816490
-2023,Lafayette Leopards,22,Charlie Cunniffe,Charlie,Cunniffe,Jr,ATT,15,15,19,27,46,70,0.271,39,0.557,2,2,0,24,26,7,0,0,0,2,60,0,0,,0,0,0,0,0,2507777
-2023,Lafayette Leopards,11,Jacob Freeman,Jacob,Freeman,Jr,M,15,0,7,3,10,11,0.636,8,0.727,0,0,0,26,10,6,0,0,0,0,0,0,0,,0,0,0,0,0,2507782
+2023,Lafayette Leopards,55,John Galbraith,John,Galbraith,So,M,15,0,0,0,0,0,0,0,0,0,0,0,7,4,3,0,0,0,2,90,0,0,,0,0,0,0,0,2669570
 2023,Lafayette Leopards,21,Brian Collins,Brian,Collins,Sr,M,15,0,3,1,4,8,0.375,4,0.5,0,0,0,37,10,9,0,0,0,5,270,0,0,,0,0,0,0,0,2310382
-2023,Lafayette Leopards,5,Riley Sullivan,Riley,Sullivan,So,ATT,14,3,11,6,17,20,0.55,15,0.75,0,0,0,6,10,2,0,0,0,0,0,0,0,,0,0,0,0,0,2669533
+2023,Lafayette Leopards,11,Jacob Freeman,Jacob,Freeman,Jr,M,15,0,7,3,10,11,0.636,8,0.727,0,0,0,26,10,6,0,0,0,0,0,0,0,,0,0,0,0,0,2507782
+2023,Lafayette Leopards,22,Charlie Cunniffe,Charlie,Cunniffe,Jr,ATT,15,15,19,27,46,70,0.271,39,0.557,2,2,0,24,26,7,0,0,0,2,60,0,0,,0,0,0,0,0,2507777
 2023,Lafayette Leopards,25,Sean Rushton,Sean,Rushton,Sr,D,14,13,2,4,6,5,0.4,2,0.4,0,0,0,28,6,8,0,0,0,8,360,0,0,,0,0,0,0,0,2310384
+2023,Lafayette Leopards,5,Riley Sullivan,Riley,Sullivan,So,ATT,14,3,11,6,17,20,0.55,15,0.75,0,0,0,6,10,2,0,0,0,0,0,0,0,,0,0,0,0,0,2669533
 2023,Lafayette Leopards,1,Nick Muller,Nick,Muller,Fr,ATT,13,1,7,1,8,13,0.538,9,0.692,0,5,0,4,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,2816478
-2023,Lafayette Leopards,47,JP Robinson,JP,Robinson,Sr,D,12,6,0,0,0,0,0,0,0,0,0,0,5,1,2,0,0,0,1,60,0,0,,0,0,0,0,0,2310394
 2023,Lafayette Leopards,34,John Mathes,John,Mathes,Jr,M,12,12,18,4,22,73,0.247,48,0.658,0,2,0,5,11,1,0,0,0,1,60,0,0,,0,0,0,0,0,2507789
 2023,Lafayette Leopards,8,Nick Rossi,Nick,Rossi,So,ATT,12,0,2,4,6,7,0.286,5,0.714,1,0,0,4,5,0,0,0,0,0,0,0,0,,0,0,0,0,1,2669539
+2023,Lafayette Leopards,47,JP Robinson,JP,Robinson,Sr,D,12,6,0,0,0,0,0,0,0,0,0,0,5,1,2,0,0,0,1,60,0,0,,0,0,0,0,0,2310394
+2023,Lafayette Leopards,51,James Turco,James,Turco,Sr,M,11,0,0,0,0,0,0,0,0,0,0,0,38,3,1,88,180,0.489,2,90,0,0,,0,0,0,0,0,2310390
 2023,Lafayette Leopards,10,Connor Freeman,Connor,Freeman,Jr,M,11,0,2,2,4,9,0.222,4,0.444,0,0,0,10,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,2507781
 2023,Lafayette Leopards,26,Aidan Kelly,Aidan,Kelly,Jr,M,11,0,0,0,0,0,0,0,0,0,0,0,26,0,2,66,156,0.423,0,0,0,0,,0,0,0,0,0,2507793
-2023,Lafayette Leopards,51,James Turco,James,Turco,Sr,M,11,0,0,0,0,0,0,0,0,0,0,0,38,3,1,88,180,0.489,2,90,0,0,,0,0,0,0,0,2310390
 2023,Lafayette Leopards,24,Tighe Cummiskey,Tighe,Cummiskey,Fr,FO,7,0,0,0,0,2,0,1,0.5,0,0,0,2,0,0,5,28,0.179,2,90,0,0,,0,0,0,0,0,2816495
-2023,Lafayette Leopards,42,Patrick Tate,Patrick,Tate,So,D,5,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,2669578
 2023,Lafayette Leopards,6,Zach Zukowsky,Zach,Zukowsky,Fr,ATT,5,0,0,2,2,1,0,1,1,0,0,0,2,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,2816491
-2023,Lafayette Leopards,20,Aidan Best,Aidan,Best,Fr,ATT,4,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2816493
-2023,Lafayette Leopards,40,Gabe Cummins,Gabe,Cummins,So,GK,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,37:51,3,4.756,8,0.727,0,2669568
+2023,Lafayette Leopards,42,Patrick Tate,Patrick,Tate,So,D,5,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,2669578
 2023,Lafayette Leopards,45,Lucas Hucal,Lucas,Hucal,So,M,4,0,1,0,1,2,0.5,1,0.5,0,0,0,2,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2669579
 2023,Lafayette Leopards,27,Aidan Kopen,Aidan,Kopen,Fr,M,4,0,0,1,1,1,0,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,2816499
 2023,Lafayette Leopards,13,Liam DiFonzo,Liam,DiFonzo,Sr,M,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2310378
+2023,Lafayette Leopards,40,Gabe Cummins,Gabe,Cummins,So,GK,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,37:51,3,4.756,8,0.727,0,2669568
+2023,Lafayette Leopards,20,Aidan Best,Aidan,Best,Fr,ATT,4,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2816493
 2023,Lafayette Leopards,77,Evan Prince,Evan,Prince,So,FO,4,0,0,1,1,1,0,1,1,0,0,0,12,0,1,34,71,0.479,1,30,0,0,,0,0,0,0,0,2669591
-2023,Lafayette Leopards,32,Peyton McNeill,Peyton,McNeill,Sr,M,2,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2310388
 2023,Lafayette Leopards,17,Jake Jent,Jake,Jent,So,M,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2669543
-2023,Lafayette Leopards,16,Eric Ward,Eric,Ward,Fr,ATT,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2816497
+2023,Lafayette Leopards,32,Peyton McNeill,Peyton,McNeill,Sr,M,2,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2310388
+2023,Lafayette Leopards,53,Chris Yoler,Chris,Yoler,Jr,D,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2507786
 2023,Lafayette Leopards,33,Will Moran,Will,Moran,Sr,GK,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,7:09,3,25.175,2,0.4,0,2310389
-2023,Lafayette Leopards,18,Kristofer Huber,Kristofer,Huber,So,M,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2669530
 2023,Lafayette Leopards,41,Jeremy Koren,Jeremy,Koren,Fr,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2816496
 2023,Lafayette Leopards,4,Oneniotekowa Maracle,Oneniotekowa,Maracle,So,ATT,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2669526
-2023,Lafayette Leopards,53,Chris Yoler,Chris,Yoler,Jr,D,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2507786
+2023,Lafayette Leopards,18,Kristofer Huber,Kristofer,Huber,So,M,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2669530
+2023,Lafayette Leopards,16,Eric Ward,Eric,Ward,Fr,ATT,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2816497
 2023,Lehigh Mountain Hawks,15,Aidan Decker,Aidan,Decker,Jr,M,15,0,5,0,5,8,0.625,8,1,1,0,0,1,2,0,0,0,0,1,120,0,0,,0,0,0,0,0,2481263
 2023,Lehigh Mountain Hawks,50,Nick Pecora,Nick,Pecora,Jr,GK,15,14,0,0,0,1,0,0,0,0,0,0,30,13,7,0,0,0,0,0,15,14,876:30,166,11.363,175,0.513,0,2481264
 2023,Lehigh Mountain Hawks,22,Grant Rodny,Grant,Rodny,Fr,ATT,15,2,10,1,11,33,0.303,18,0.545,0,0,0,4,6,0,0,0,0,0,0,0,0,,0,0,0,0,0,2824283
@@ -2481,15 +2481,15 @@ Season,Team,Jersey Number,Full Name,First Name,Last Name,Year,Position,Games Pla
 2023,Sacred Heart Pioneers,10,Jack Carr,Jack,Carr,Sr,D,15,15,0,0,0,0,0,0,0,0,0,0,16,7,4,0,0,0,4,270,0,0,,0,0,0,0,0,2303366
 2023,Sacred Heart Pioneers,35,Jake Garb,Jake,Garb,Jr,ATT,15,14,20,14,34,53,0.377,37,0.698,1,2,0,22,16,2,0,0,0,0,0,0,0,,0,0,0,0,0,2302568
 2023,Sacred Heart Pioneers,2,Thomas Houlihan,Thomas,Houlihan,Sr,D,15,15,0,0,0,0,0,0,0,0,0,0,17,5,7,0,0,0,4,180,0,0,,0,0,0,0,0,2130687
-2023,Sacred Heart Pioneers,26,Michael Moreschi,Michael,Moreschi,Fr,M,14,0,6,8,14,20,0.3,11,0.55,0,0,0,1,10,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823105
 2023,Sacred Heart Pioneers,5,David Bartkus,David,Bartkus,Sr,M,14,0,3,2,5,3,1,3,1,0,0,1,16,4,3,0,0,0,2,120,0,0,,0,0,0,0,0,2130716
-2023,Sacred Heart Pioneers,41,Ryan Stout,Ryan,Stout,Sr,ATT,14,4,2,1,3,15,0.133,5,0.333,0,0,0,19,5,1,0,0,0,0,0,0,0,,0,0,0,0,0,2303653
 2023,Sacred Heart Pioneers,44,Nick Handy,Nick,Handy,Sr,M,14,0,0,1,1,0,0,0,0,0,0,0,15,3,1,0,0,0,2,90,0,0,,0,0,0,0,0,2303603
+2023,Sacred Heart Pioneers,26,Michael Moreschi,Michael,Moreschi,Fr,M,14,0,6,8,14,20,0.3,11,0.55,0,0,0,1,10,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823105
+2023,Sacred Heart Pioneers,41,Ryan Stout,Ryan,Stout,Sr,ATT,14,4,2,1,3,15,0.133,5,0.333,0,0,0,19,5,1,0,0,0,0,0,0,0,,0,0,0,0,0,2303653
+2023,Sacred Heart Pioneers,46,John Murray,John,Murray,Fr,M,13,6,1,3,4,21,0.048,8,0.381,0,0,0,16,6,6,0,0,0,1,30,0,0,,0,0,0,0,0,2823024
 2023,Sacred Heart Pioneers,45,Skyler Wilde,Skyler,Wilde,Sr,ATT,13,0,11,4,15,41,0.268,21,0.512,0,0,0,4,9,0,0,0,0,0,0,0,0,,0,0,0,0,0,2653368
 2023,Sacred Heart Pioneers,81,Brandon Sweeney,Brandon,Sweeney,Jr,D,13,1,0,0,0,1,0,1,1,0,0,0,16,2,7,0,0,0,4,210,0,0,,0,0,0,0,0,2483407
-2023,Sacred Heart Pioneers,46,John Murray,John,Murray,Fr,M,13,6,1,3,4,21,0.048,8,0.381,0,0,0,16,6,6,0,0,0,1,30,0,0,,0,0,0,0,0,2823024
-2023,Sacred Heart Pioneers,60,Will Moulton,Will,Moulton,Fr,ATT,10,0,4,4,8,8,0.5,7,0.875,0,0,0,0,5,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823111
 2023,Sacred Heart Pioneers,20,Ben Palanchi,Ben,Palanchi,Sr,D,10,6,0,0,0,1,0,1,1,0,0,0,17,5,7,3,7,0.429,0,0,0,0,,0,0,0,0,0,2303610
+2023,Sacred Heart Pioneers,60,Will Moulton,Will,Moulton,Fr,ATT,10,0,4,4,8,8,0.5,7,0.875,0,0,0,0,5,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823111
 2023,Sacred Heart Pioneers,9,Morgan O'Reilly,Morgan,O'Reilly,Jr,ATT,8,8,21,5,26,54,0.389,34,0.63,0,2,0,8,11,1,0,0,0,4,180,0,0,,0,0,0,0,0,2483382
 2023,Sacred Heart Pioneers,48,Luke Catolico,Luke,Catolico,So,D,8,0,0,0,0,0,0,0,0,0,0,0,8,3,3,0,0,0,0,0,0,0,,0,0,0,0,0,2653369
 2023,Sacred Heart Pioneers,30,Cayden Brodnax,Cayden,Brodnax,Jr,M,7,0,1,0,1,1,1,1,1,0,0,0,1,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,2483394
@@ -2498,27 +2498,27 @@ Season,Team,Jersey Number,Full Name,First Name,Last Name,Year,Position,Games Pla
 2023,Sacred Heart Pioneers,12,MP Thomas,MP,Thomas,So,FO,6,0,0,0,0,0,0,0,0,0,0,0,13,1,1,21,44,0.477,1,30,0,0,,0,0,0,0,0,2653364
 2023,Sacred Heart Pioneers,40,Nicky LaBanca,Nicky,LaBanca,Sr,GK,5,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,4,0,12:17,1,4.885,4,0.8,0,2303606
 2023,Sacred Heart Pioneers,37,Tucker Spencer,Tucker,Spencer,Jr,ATT,5,0,2,2,4,7,0.286,3,0.429,0,1,0,5,1,0,0,0,0,1,60,0,0,,0,0,0,0,0,2484980
-2023,Sacred Heart Pioneers,39,Declan Curry,Declan,Curry,N/A,M,4,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2140013
 2023,Sacred Heart Pioneers,11,Drew Pritts,Drew,Pritts,Jr,M,4,0,0,1,1,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,2483383
+2023,Sacred Heart Pioneers,39,Declan Curry,Declan,Curry,N/A,M,4,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2140013
 2023,Sacred Heart Pioneers,18,Finn Hoey,Finn,Hoey,Fr,D,3,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,1,60,0,0,,0,0,0,0,0,2823103
 2023,Sacred Heart Pioneers,13,Kavin Wood,Kavin,Wood,Fr,ATT,3,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823098
 2023,Sacred Heart Pioneers,4,David Creo,David,Creo,Jr,M,3,0,0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,2483393
-2023,Sacred Heart Pioneers,34,Zach Buffington,Zach,Buffington,Jr,D,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2333096
-2023,Sacred Heart Pioneers,7,Sam Blake,Sam,Blake,So,ATT,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2653318
 2023,Sacred Heart Pioneers,15,Tyler Basti,Tyler,Basti,So,M,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823022
-2023,Sacred Heart Pioneers,14,Connor Garrison,Connor,Garrison,Fr,M,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823101
-2023,Sacred Heart Pioneers,36,Craig Daria,Craig,Daria,Fr,GK,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823107
-2023,Sacred Heart Pioneers,8,Carson Reeder,Carson,Reeder,So,ATT,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2653349
-2023,Sacred Heart Pioneers,23,Ridjkaard Victor,Ridjkaard,Victor,Jr,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2483392
-2023,Sacred Heart Pioneers,17,Brayden Edwards,Brayden,Edwards,Jr,ATT,1,0,1,0,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2483386
-2023,Sacred Heart Pioneers,47,Forrester Bristol,Forrester,Bristol,Jr,M,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2483401
-2023,Sacred Heart Pioneers,16,Liam Keesser,Liam,Keesser,Fr,M,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823023
-2023,Sacred Heart Pioneers,38,Cam Brown,Cam,Brown,So,ATT,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2653322
-2023,Sacred Heart Pioneers,49,Mike Wieczorek,Mike,Wieczorek,Jr,ATT,1,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2483403
-2023,Sacred Heart Pioneers,29,Chris Thomas,Chris,Thomas,Sr,FO,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0,0,0,0,0,2303639
-2023,Sacred Heart Pioneers,59,Declan Wilkie,Declan,Wilkie,So,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823025
+2023,Sacred Heart Pioneers,7,Sam Blake,Sam,Blake,So,ATT,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2653318
+2023,Sacred Heart Pioneers,34,Zach Buffington,Zach,Buffington,Jr,D,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2333096
 2023,Sacred Heart Pioneers,33,Mark Hartman,Mark,Hartman,N/A,FO,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,0,0,0,0,0,2124764
 2023,Sacred Heart Pioneers,53,Thomas Ricciardi,Thomas,Ricciardi,Fr,D,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823110
+2023,Sacred Heart Pioneers,16,Liam Keesser,Liam,Keesser,Fr,M,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823023
+2023,Sacred Heart Pioneers,59,Declan Wilkie,Declan,Wilkie,So,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823025
+2023,Sacred Heart Pioneers,36,Craig Daria,Craig,Daria,Fr,GK,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823107
+2023,Sacred Heart Pioneers,8,Carson Reeder,Carson,Reeder,So,ATT,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2653349
+2023,Sacred Heart Pioneers,38,Cam Brown,Cam,Brown,So,ATT,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2653322
+2023,Sacred Heart Pioneers,29,Chris Thomas,Chris,Thomas,Sr,FO,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0,0,0,0,0,2303639
+2023,Sacred Heart Pioneers,49,Mike Wieczorek,Mike,Wieczorek,Jr,ATT,1,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2483403
+2023,Sacred Heart Pioneers,47,Forrester Bristol,Forrester,Bristol,Jr,M,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2483401
+2023,Sacred Heart Pioneers,14,Connor Garrison,Connor,Garrison,Fr,M,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823101
+2023,Sacred Heart Pioneers,17,Brayden Edwards,Brayden,Edwards,Jr,ATT,1,0,1,0,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2483386
+2023,Sacred Heart Pioneers,23,Ridjkaard Victor,Ridjkaard,Victor,Jr,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2483392
 2023,Saint Joseph's Hawks,7,Zach Cole,Zach,Cole,Sr,FO,15,0,6,4,10,19,0.316,12,0.632,0,0,0,171,12,1,255,411,0.62,0,0,0,0,,0,0,0,0,0,2113736
 2023,Saint Joseph's Hawks,1,Michael Gaughan,Michael,Gaughan,So,M,15,0,3,4,7,7,0.429,3,0.429,0,0,0,13,4,6,0,0,0,6,270,0,0,,0,0,0,0,0,2653092
 2023,Saint Joseph's Hawks,62,Carter Page,Carter,Page,Jr,ATT,15,15,47,5,52,110,0.427,74,0.673,2,5,0,19,15,7,0,0,0,7,300,0,0,,0,0,0,0,0,2472609
@@ -2736,28 +2736,28 @@ Season,Team,Jersey Number,Full Name,First Name,Last Name,Year,Position,Games Pla
 2023,Stony Brook Seawolves,30,Antoine Campbell,Antoine,Campbell,Jr,M,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2675786
 2023,Stony Brook Seawolves,19,Liam Ronan,Liam,Ronan,Sr,D,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,2314355
 2023,Stony Brook Seawolves,92,Gavin Takacs,Gavin,Takacs,Fr,M,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823806
-2023,Syracuse Orange,35,Billy Dwan,Billy,Dwan,Fr,D,15,8,1,0,1,3,0.333,1,0.333,0,0,0,9,2,6,1,1,1,4,240,0,0,,0,0,0,0,0,2809075
+2023,Syracuse Orange,42,Dylan Sageder,Dylan,Sageder,Fr,LSM,15,0,0,0,0,0,0,0,0,0,0,0,8,2,2,0,0,0,0,0,0,0,,0,0,0,0,0,2809182
+2023,Syracuse Orange,33,Caden Kol,Caden,Kol,So,D,15,15,0,0,0,0,0,0,0,0,0,0,24,1,13,0,0,0,6,270,0,0,,0,0,0,0,0,2474543
+2023,Syracuse Orange,8,Luke Rhoa,Luke,Rhoa,Fr,M,15,0,10,3,13,48,0.208,18,0.375,3,0,0,2,7,1,0,0,0,0,0,0,0,,0,0,0,0,0,2809181
+2023,Syracuse Orange,22,Joey Spallina,Joey,Spallina,Fr,ATT,15,15,36,32,68,106,0.34,75,0.708,1,10,0,16,18,8,0,0,0,5,210,0,0,,0,0,0,0,0,2809162
+2023,Syracuse Orange,16,Jake Murphy,Jake,Murphy,Sr,M,15,0,1,0,1,2,0.5,2,1,0,0,0,13,4,5,0,0,0,1,30,0,0,,0,0,0,0,0,2113438
+2023,Syracuse Orange,40,Cole Kirst,Cole,Kirst,Sr,M,15,11,26,11,37,72,0.361,46,0.639,0,0,0,9,14,1,0,0,0,1,30,0,0,,0,0,0,0,0,2120723
+2023,Syracuse Orange,19,Alex Simmons,Alex,Simmons,Sr,ATT,15,15,21,15,36,60,0.35,38,0.633,0,6,0,10,14,1,0,0,0,4,210,0,0,,0,0,0,0,0,2123582
+2023,Syracuse Orange,2,Griffin Cook,Griffin,Cook,Sr,M,15,0,11,3,14,35,0.314,22,0.629,1,0,0,7,10,0,0,0,0,0,0,0,0,,0,0,0,0,0,2133575
 2023,Syracuse Orange,23,Finn Thomson,Finn,Thomson,Fr,ATT,15,15,19,14,33,45,0.422,32,0.711,0,5,0,12,14,5,0,0,0,5,270,0,0,,0,0,0,0,0,2809161
-2023,Syracuse Orange,12,Carter Rice,Carter,Rice,So,SSDM,15,0,2,1,3,4,0.5,3,0.75,0,0,0,9,3,3,0,0,0,2,60,0,0,,0,0,0,0,0,2660404
+2023,Syracuse Orange,88,Will Mark,Will,Mark,Sr,GK,15,15,0,0,0,0,0,0,0,0,0,0,27,4,3,0,0,0,0,0,15,15,868:24,175,12.091,207,0.542,0,2304343
+2023,Syracuse Orange,7,Michael Leo,Michael,Leo,Fr,M,15,13,18,8,26,48,0.375,31,0.646,1,4,0,3,11,2,0,0,0,3,150,0,0,,0,0,0,0,0,2809156
+2023,Syracuse Orange,10,Max Rosa,Max,Rosa,Sr,DM,15,0,2,1,3,9,0.222,3,0.333,0,0,0,14,3,6,0,0,0,5,270,0,0,,0,0,0,0,0,2326057
+2023,Syracuse Orange,35,Billy Dwan,Billy,Dwan,Fr,D,15,8,1,0,1,3,0.333,1,0.333,0,0,0,9,2,6,1,1,1,4,240,0,0,,0,0,0,0,0,2809075
 2023,Syracuse Orange,28,Nick Caccamo,Nick,Caccamo,So,D,15,14,0,0,0,3,0,2,0.667,0,0,0,28,4,17,0,0,0,5,240,0,0,,0,0,0,0,0,2660407
+2023,Syracuse Orange,12,Carter Rice,Carter,Rice,So,SSDM,15,0,2,1,3,4,0.5,3,0.75,0,0,0,9,3,3,0,0,0,2,60,0,0,,0,0,0,0,0,2660404
 2023,Syracuse Orange,45,Johnny Richiusa,Johnny,Richiusa,So,FO,15,0,0,2,2,4,0,1,0.25,0,0,0,56,5,1,105,252,0.417,1,30,0,0,,0,0,0,0,0,2651985
 2023,Syracuse Orange,77,Owen Hiltz,Owen,Hiltz,Jr,ATT,15,15,24,29,53,80,0.3,45,0.562,0,3,0,25,17,4,0,0,0,2,90,0,0,,0,0,0,0,0,2474679
-2023,Syracuse Orange,19,Alex Simmons,Alex,Simmons,Sr,ATT,15,15,21,15,36,60,0.35,38,0.633,0,6,0,10,14,1,0,0,0,4,210,0,0,,0,0,0,0,0,2123582
-2023,Syracuse Orange,40,Cole Kirst,Cole,Kirst,Sr,M,15,11,26,11,37,72,0.361,46,0.639,0,0,0,9,14,1,0,0,0,1,30,0,0,,0,0,0,0,0,2120723
-2023,Syracuse Orange,22,Joey Spallina,Joey,Spallina,Fr,ATT,15,15,36,32,68,106,0.34,75,0.708,1,10,0,16,18,8,0,0,0,5,210,0,0,,0,0,0,0,0,2809162
-2023,Syracuse Orange,48,Saam Olexo,Saam,Olexo,Jr,LSM,15,0,4,2,6,12,0.333,5,0.417,0,0,0,53,11,26,0,0,0,9,510,0,0,,0,0,0,0,0,2474563
-2023,Syracuse Orange,16,Jake Murphy,Jake,Murphy,Sr,M,15,0,1,0,1,2,0.5,2,1,0,0,0,13,4,5,0,0,0,1,30,0,0,,0,0,0,0,0,2113438
-2023,Syracuse Orange,33,Caden Kol,Caden,Kol,So,D,15,15,0,0,0,0,0,0,0,0,0,0,24,1,13,0,0,0,6,270,0,0,,0,0,0,0,0,2474543
-2023,Syracuse Orange,7,Michael Leo,Michael,Leo,Fr,M,15,13,18,8,26,48,0.375,31,0.646,1,4,0,3,11,2,0,0,0,3,150,0,0,,0,0,0,0,0,2809156
-2023,Syracuse Orange,88,Will Mark,Will,Mark,Sr,GK,15,15,0,0,0,0,0,0,0,0,0,0,27,4,3,0,0,0,0,0,15,15,868:24,175,12.091,207,0.542,0,2304343
-2023,Syracuse Orange,2,Griffin Cook,Griffin,Cook,Sr,M,15,0,11,3,14,35,0.314,22,0.629,1,0,0,7,10,0,0,0,0,0,0,0,0,,0,0,0,0,0,2133575
-2023,Syracuse Orange,10,Max Rosa,Max,Rosa,Sr,DM,15,0,2,1,3,9,0.222,3,0.333,0,0,0,14,3,6,0,0,0,5,270,0,0,,0,0,0,0,0,2326057
-2023,Syracuse Orange,42,Dylan Sageder,Dylan,Sageder,Fr,LSM,15,0,0,0,0,0,0,0,0,0,0,0,8,2,2,0,0,0,0,0,0,0,,0,0,0,0,0,2809182
 2023,Syracuse Orange,9,Jackson Birtwistle,Jackson,Birtwistle,So,M,15,6,27,0,27,71,0.38,51,0.718,1,11,0,12,11,2,0,0,0,2,60,0,0,,0,0,0,0,0,2474504
-2023,Syracuse Orange,8,Luke Rhoa,Luke,Rhoa,Fr,M,15,0,10,3,13,48,0.208,18,0.375,3,0,0,2,7,1,0,0,0,0,0,0,0,,0,0,0,0,0,2809181
+2023,Syracuse Orange,48,Saam Olexo,Saam,Olexo,Jr,LSM,15,0,4,2,6,12,0.333,5,0.417,0,0,0,53,11,26,0,0,0,9,510,0,0,,0,0,0,0,0,2474563
 2023,Syracuse Orange,41,Jordan Beck,Jordan,Beck,Fr,D,13,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,2809145
-2023,Syracuse Orange,38,Jack Fine,Jack,Fine,So,FO,11,0,1,1,2,1,1,1,1,0,0,0,27,2,2,79,181,0.436,0,0,0,0,,0,0,0,0,0,2660392
 2023,Syracuse Orange,18,Vinnie Trujillo,Vinnie,Trujillo,Fr,SSDM,11,0,0,0,0,1,0,1,1,0,0,0,4,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,2809184
+2023,Syracuse Orange,38,Jack Fine,Jack,Fine,So,FO,11,0,1,1,2,1,1,1,1,0,0,0,27,2,2,79,181,0.436,0,0,0,0,,0,0,0,0,0,2660392
 2023,Syracuse Orange,30,Landon Clary,Landon,Clary,Jr,D,10,8,0,0,0,0,0,0,0,0,0,0,16,2,11,0,0,0,2,120,0,0,,0,0,0,0,0,2326302
 2023,Syracuse Orange,43,Brandon Aviles,Brandon,Aviles,Jr,SSDM,10,0,1,0,1,4,0.25,3,0.75,0,0,0,16,4,3,0,0,0,4,180,0,0,,0,0,0,0,0,2326305
 2023,Syracuse Orange,3,Carter Kempney,Carter,Kempney,Fr,M,6,0,2,0,2,5,0.4,3,0.6,0,0,0,2,4,0,0,0,0,0,0,0,0,,0,0,0,0,0,2809078
@@ -2768,23 +2768,23 @@ Season,Team,Jersey Number,Full Name,First Name,Last Name,Year,Position,Games Pla
 2023,Syracuse Orange,29,Tyler Cordes,Tyler,Cordes,So,M,4,0,2,1,3,3,0.667,2,0.667,1,0,0,3,0,0,0,0,0,1,30,0,0,,0,0,0,0,0,2660389
 2023,Syracuse Orange,21,Blake Borges,Blake,Borges,So,M,4,0,0,0,0,2,0,1,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2660387
 2023,Syracuse Orange,6,Kyle Gonsiorek,Kyle,Gonsiorek,So,LSM,4,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,120,0,0,,0,0,0,0,0,2660363
-2023,Syracuse Orange,24,Gavin Gibbs,Gavin,Gibbs,Fr,FO,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,0.2,0,0,0,0,,0,0,0,0,0,2809150
-2023,Syracuse Orange,83,Blake Erlbeck,Blake,Erlbeck,Jr,ATT,4,0,3,0,3,5,0.6,4,0.8,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2474675
-2023,Syracuse Orange,15,Caelin Lewis,Caelin,Lewis,So,M,4,0,0,1,1,4,0,2,0.5,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2474555
-2023,Syracuse Orange,32,Jack Witherspoon,Jack,Witherspoon,So,D,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2474524
-2023,Syracuse Orange,1,Harrison Thompson,Harrison,Thompson,Jr,GK,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,23:56,5,12.535,4,0.444,0,2326283
-2023,Syracuse Orange,27,Brett Tenaglia,Brett,Tenaglia,Jr,ATT,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,2306248
-2023,Syracuse Orange,13,Pete Fiorini,Pete,Fiorini,Sr,M,4,0,1,0,1,2,0.5,1,0.5,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2133593
 2023,Syracuse Orange,17,Tommy Drago,Tommy,Drago,Jr,LSM,4,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2474678
+2023,Syracuse Orange,15,Caelin Lewis,Caelin,Lewis,So,M,4,0,0,1,1,4,0,2,0.5,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2474555
+2023,Syracuse Orange,83,Blake Erlbeck,Blake,Erlbeck,Jr,ATT,4,0,3,0,3,5,0.6,4,0.8,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2474675
+2023,Syracuse Orange,32,Jack Witherspoon,Jack,Witherspoon,So,D,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2474524
+2023,Syracuse Orange,13,Pete Fiorini,Pete,Fiorini,Sr,M,4,0,1,0,1,2,0.5,1,0.5,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2133593
+2023,Syracuse Orange,27,Brett Tenaglia,Brett,Tenaglia,Jr,ATT,4,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,2306248
+2023,Syracuse Orange,24,Gavin Gibbs,Gavin,Gibbs,Fr,FO,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,0.2,0,0,0,0,,0,0,0,0,0,2809150
+2023,Syracuse Orange,1,Harrison Thompson,Harrison,Thompson,Jr,GK,4,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,23:56,5,12.535,4,0.444,0,2326283
 2023,Syracuse Orange,90,Jordan Vincent,Jordan,Vincent,Fr,LSM,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2809185
 2023,Syracuse Orange,44,Joe Bolea,Joe,Bolea,Sr,SSDM,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,1998940
-2023,Syracuse Orange,34,Nathan Levine,Nathan,Levine,So,M,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2660391
-2023,Syracuse Orange,5,Finn Kelly,Finn,Kelly,So,ATT,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2660362
-2023,Syracuse Orange,50,Patrick Duffy,Patrick,Duffy,Jr,GK,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5:02,1,11.921,1,0.5,0,2474565
-2023,Syracuse Orange,89,Kyle Rolley,Kyle,Rolley,So,GK,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5:44,1,10.465,3,0.75,0,2660396
 2023,Syracuse Orange,20,Paul Lamonaca,Paul,Lamonaca,So,FO,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,0,0,0,0,0,2809155
 2023,Syracuse Orange,47,Aidan Kelly,Aidan,Kelly,So,SSDM,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2660395
 2023,Syracuse Orange,14,Zach Mercado,Zach,Mercado,Fr,M,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2809179
+2023,Syracuse Orange,50,Patrick Duffy,Patrick,Duffy,Jr,GK,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5:02,1,11.921,1,0.5,0,2474565
+2023,Syracuse Orange,5,Finn Kelly,Finn,Kelly,So,ATT,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2660362
+2023,Syracuse Orange,89,Kyle Rolley,Kyle,Rolley,So,GK,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5:44,1,10.465,3,0.75,0,2660396
+2023,Syracuse Orange,34,Nathan Levine,Nathan,Levine,So,M,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2660391
 2023,Towson Tigers,30,Reece Potter,Reece,Potter,Sr,ATT,15,0,0,3,3,3,0,0,0,0,0,0,41,2,15,0,0,0,0,0,0,0,,0,0,0,0,0,2333400
 2023,Towson Tigers,51,Matt Constantinides,Matt,Constantinides,So,FO,15,0,3,4,7,13,0.231,7,0.538,0,0,0,116,14,4,207,369,0.561,1,30,0,0,,0,0,0,0,0,2671052
 2023,Towson Tigers,8,Kyle Berkeley,Kyle,Berkeley,Sr,M,15,15,31,16,47,106,0.292,52,0.491,1,0,0,16,31,3,0,0,0,4,210,0,0,,0,0,0,0,0,1975724
