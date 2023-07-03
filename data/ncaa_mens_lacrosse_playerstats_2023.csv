@@ -45,62 +45,64 @@ Season,Team,Jersey Number,Full Name,First Name,Last Name,Year,Position,Games Pla
 2023,Air Force Falcons,23,Jack Stewart,Jack,Stewart,Jr,SSDM,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2518907
 2023,Air Force Falcons,52,Mason Meagher,Mason,Meagher,Fr,D,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2810595
 2023,Air Force Falcons,54,Nolan Parlette,Nolan,Parlette,Fr,GK,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5:45,3,31.304,0,0,0,2810597
+2023,Army West Point Black Knights,4,Evan Plunkett,Evan,Plunkett,Fr,M,17,16,21,25,46,81,0.259,42,0.519,0,0,0,22,20,1,0,0,0,3,180,0,0,,0,0,0,0,0,2823891
+2023,Army West Point Black Knights,24,Reese Burek,Reese,Burek,Sr,M,17,17,35,26,61,121,0.289,70,0.579,1,1,0,36,29,10,0,0,0,2,90,0,0,,0,0,0,0,0,2333228
+2023,Army West Point Black Knights,90,Jacob Morin,Jacob,Morin,Jr,M,17,17,36,6,42,116,0.31,73,0.629,2,6,0,16,12,1,0,0,0,0,0,0,0,,0,0,0,0,0,2333344
+2023,Army West Point Black Knights,10,Will Coletti,Will,Coletti,So,FO,17,0,7,4,11,23,0.304,16,0.696,2,0,0,158,11,2,252,413,0.61,4,120,0,0,,0,0,0,0,0,2664445
 2023,Army West Point Black Knights,41,Gunnar Fellows,Gunnar,Fellows,Fr,ATT,17,17,23,6,29,72,0.319,41,0.569,2,3,1,20,17,3,0,0,0,4,150,0,0,,0,0,0,0,0,2823834
 2023,Army West Point Black Knights,33,Christian Fournier,Christian,Fournier,So,LSM,17,0,0,1,1,8,0,5,0.625,0,0,0,49,9,21,0,0,0,4,120,0,0,,0,0,0,0,0,2664459
-2023,Army West Point Black Knights,79,Ryan Nixon,Ryan,Nixon,So,M,17,0,0,0,0,2,0,1,0.5,0,0,0,20,4,10,0,0,0,2,60,0,0,,0,0,0,0,0,2664451
 2023,Army West Point Black Knights,20,AJ Pilate,AJ,Pilate,So,D,17,17,0,1,1,2,0,1,0.5,0,0,0,35,10,17,0,0,0,4,180,0,0,,0,0,0,0,0,2664449
-2023,Army West Point Black Knights,10,Will Coletti,Will,Coletti,So,FO,17,0,7,4,11,23,0.304,16,0.696,2,0,0,158,11,2,252,413,0.61,4,120,0,0,,0,0,0,0,0,2664445
 2023,Army West Point Black Knights,40,Eamon Murphy,Eamon,Murphy,Jr,DM,17,0,2,1,3,6,0.333,2,0.333,0,0,0,26,4,6,0,0,0,8,270,0,0,,0,0,0,0,0,2478850
-2023,Army West Point Black Knights,90,Jacob Morin,Jacob,Morin,Jr,M,17,17,36,6,42,116,0.31,73,0.629,2,6,0,16,12,1,0,0,0,0,0,0,0,,0,0,0,0,0,2333344
-2023,Army West Point Black Knights,24,Reese Burek,Reese,Burek,Sr,M,17,17,35,26,61,121,0.289,70,0.579,1,1,0,36,29,10,0,0,0,2,90,0,0,,0,0,0,0,0,2333228
-2023,Army West Point Black Knights,4,Evan Plunkett,Evan,Plunkett,Fr,M,17,16,21,25,46,81,0.259,42,0.519,0,0,0,22,20,1,0,0,0,3,180,0,0,,0,0,0,0,0,2823891
-2023,Army West Point Black Knights,98,Keagan Treacy,Keagan,Treacy,Fr,D,16,0,0,0,0,0,0,0,0,0,0,0,7,1,3,0,0,0,2,120,0,0,,0,0,0,0,0,2823890
+2023,Army West Point Black Knights,79,Ryan Nixon,Ryan,Nixon,So,M,17,0,0,0,0,2,0,1,0.5,0,0,0,20,4,10,0,0,0,2,60,0,0,,0,0,0,0,0,2664451
 2023,Army West Point Black Knights,99,John Sullivan,John,Sullivan,Fr,D,16,14,0,0,0,0,0,0,0,0,0,0,34,6,7,0,0,0,3,150,0,0,,0,0,0,0,0,2823837
-2023,Army West Point Black Knights,0,Bailey O'Connor,Bailey,O'Connor,Jr,M,16,12,16,6,22,42,0.381,28,0.667,1,0,0,5,11,0,0,0,0,0,0,0,0,,0,0,0,0,0,2478854
+2023,Army West Point Black Knights,35,Christian Mazur,Christian,Mazur,So,DM,16,0,1,0,1,7,0.143,3,0.429,0,0,0,26,11,6,0,0,0,1,30,0,0,,0,0,0,0,0,2664453
 2023,Army West Point Black Knights,7,Ryan Sposito,Ryan,Sposito,Sr,M,16,2,10,7,17,31,0.323,20,0.645,1,0,0,7,10,4,0,0,0,0,0,0,0,,0,0,0,0,0,2333234
 2023,Army West Point Black Knights,47,Andrew Kelly,Andrew,Kelly,Sr,M,16,1,5,1,6,16,0.312,8,0.5,0,0,0,4,7,1,0,0,0,1,30,0,0,,0,0,0,0,0,2333231
-2023,Army West Point Black Knights,35,Christian Mazur,Christian,Mazur,So,DM,16,0,1,0,1,7,0.143,3,0.429,0,0,0,26,11,6,0,0,0,1,30,0,0,,0,0,0,0,0,2664453
+2023,Army West Point Black Knights,98,Keagan Treacy,Keagan,Treacy,Fr,D,16,0,0,0,0,0,0,0,0,0,0,0,7,1,3,0,0,0,2,120,0,0,,0,0,0,0,0,2823890
+2023,Army West Point Black Knights,0,Bailey O'Connor,Bailey,O'Connor,Jr,M,16,12,16,6,22,42,0.381,28,0.667,1,0,0,5,11,0,0,0,0,0,0,0,0,,0,0,0,0,0,2478854
 2023,Army West Point Black Knights,22,Cal Lambert,Cal,Lambert,Fr,FO,15,0,8,2,10,12,0.667,11,0.917,0,5,0,5,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823886
-2023,Army West Point Black Knights,28,Paul Johnson,Paul,Johnson,Jr,ATT,15,15,28,14,42,78,0.359,52,0.667,3,0,0,22,21,1,0,0,0,0,0,0,0,,0,0,0,0,0,2333342
 2023,Army West Point Black Knights,2,Knox Dent,Knox,Dent,Sr,GK,15,15,0,0,0,2,0,0,0,0,0,0,33,9,5,0,0,0,0,0,15,15,845:19,134,9.511,153,0.533,0,2333229
+2023,Army West Point Black Knights,28,Paul Johnson,Paul,Johnson,Jr,ATT,15,15,28,14,42,78,0.359,52,0.667,3,0,0,22,21,1,0,0,0,0,0,0,0,,0,0,0,0,0,2333342
 2023,Army West Point Black Knights,36,Ned Lynch,Ned,Lynch,Jr,D,14,12,0,0,0,0,0,0,0,0,0,0,13,2,9,0,0,0,1,60,0,0,,0,0,0,0,0,2478839
 2023,Army West Point Black Knights,19,Johnny Devino,Johnny,Devino,So,M,12,0,0,0,0,4,0,3,0.75,0,0,0,10,0,4,0,0,0,1,60,0,0,,0,0,0,0,0,2664462
+2023,Army West Point Black Knights,25,Joey Stillings,Joey,Stillings,Jr,LSM,11,0,2,0,2,4,0.5,2,0.5,0,0,0,5,5,5,0,0,0,5,180,0,0,,0,0,0,0,0,2333235
 2023,Army West Point Black Knights,81,Dawson Clark,Dawson,Clark,Fr,ATT,11,0,5,2,7,19,0.263,13,0.684,0,2,0,3,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823889
 2023,Army West Point Black Knights,8,Deacon Donaldson,Deacon,Donaldson,Sr,D,11,8,0,0,0,2,0,0,0,0,0,0,19,3,6,0,0,0,4,210,0,0,,0,0,0,0,0,2333230
-2023,Army West Point Black Knights,25,Joey Stillings,Joey,Stillings,Jr,LSM,11,0,2,0,2,4,0.5,2,0.5,0,0,0,5,5,5,0,0,0,5,180,0,0,,0,0,0,0,0,2333235
 2023,Army West Point Black Knights,14,Avi Mehl,Avi,Mehl,Fr,ATT,10,0,3,3,6,13,0.231,7,0.538,1,3,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823833
 2023,Army West Point Black Knights,32,John Manero,John,Manero,So,M,10,0,2,3,5,8,0.25,5,0.625,0,0,0,4,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,2664454
 2023,Army West Point Black Knights,11,Alex Gekas,Alex,Gekas,Jr,M,8,0,0,1,1,11,0,3,0.273,0,0,0,1,9,0,0,0,0,0,0,0,0,,0,0,0,0,0,2478890
-2023,Army West Point Black Knights,21,Dylan D'Agostino,Dylan,D'Agostino,So,M,8,0,0,1,1,5,0,2,0.4,0,0,0,4,4,0,0,0,0,0,0,0,0,,0,0,0,0,0,2659264
 2023,Army West Point Black Knights,29,Finn McCullough,Finn,McCullough,So,ATT,8,2,7,1,8,17,0.412,10,0.588,0,0,0,2,5,2,0,0,0,0,0,0,0,,0,0,0,0,0,2664452
+2023,Army West Point Black Knights,21,Dylan D'Agostino,Dylan,D'Agostino,So,M,8,0,0,1,1,5,0,2,0.4,0,0,0,4,4,0,0,0,0,0,0,0,0,,0,0,0,0,0,2659264
 2023,Army West Point Black Knights,60,Matt Chess,Matt,Chess,Jr,GK,7,2,0,0,0,1,0,0,0,0,0,0,6,1,1,0,0,0,0,0,7,2,158:56,19,7.173,31,0.62,0,2478887
-2023,Army West Point Black Knights,17,Stevie Grabher,Stevie,Grabher,Sr,FO,6,0,0,0,0,0,0,0,0,0,0,0,6,1,0,10,15,0.667,0,0,0,0,,0,0,0,0,0,2333341
 2023,Army West Point Black Knights,26,Mike Tangredi,Mike,Tangredi,Jr,M,6,0,2,0,2,4,0.5,2,0.5,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2478874
-2023,Army West Point Black Knights,12,Trevor Kelly,Trevor,Kelly,Jr,M,4,0,1,0,1,2,0.5,2,1,0,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,2478668
+2023,Army West Point Black Knights,17,Stevie Grabher,Stevie,Grabher,Sr,FO,6,0,0,0,0,0,0,0,0,0,0,0,6,1,0,10,15,0.667,0,0,0,0,,0,0,0,0,0,2333341
 2023,Army West Point Black Knights,77,Ryan Sellew,Ryan,Sellew,So,ATT,4,3,3,1,4,6,0.5,6,1,0,1,0,0,4,0,0,0,0,0,0,0,0,,0,0,0,0,0,2664447
+2023,Army West Point Black Knights,12,Trevor Kelly,Trevor,Kelly,Jr,M,4,0,1,0,1,2,0.5,2,1,0,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,2478668
 2023,Army West Point Black Knights,27,Kyle Atherton,Kyle,Atherton,So,D,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,2659243
 2023,Army West Point Black Knights,30,Brian King,Brian,King,So,D,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2664455
-2023,Army West Point Black Knights,1,Sean Byrne,Sean,Byrne,Fr,GK,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,5:51,0,0,0,0,0,2823490
 2023,Army West Point Black Knights,43,Billy Adams,Billy,Adams,So,M,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,2659242
-2023,Army West Point Black Knights,54,Cole Biggins,Cole,Biggins,Jr,D,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2478881
 2023,Army West Point Black Knights,66,Mark Schroeder,Mark,Schroeder,So,D,3,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,2664448
-2023,Army West Point Black Knights,85,Patrick Dunleavy,Patrick,Dunleavy,So,M,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2664461
-2023,Army West Point Black Knights,23,Evan Richardson,Evan,Richardson,Fr,GK,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,6:43,2,17.866,2,0.5,0,2823887
-2023,Army West Point Black Knights,37,Alec Vaccaro,Alec,Vaccaro,So,FO,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,0,0,0,0,0,2664446
-2023,Army West Point Black Knights,48,Jack Szalankiewicz,Jack,Szalankiewicz,Jr,LSM,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2478871
-2023,Army West Point Black Knights,18,Alex Petrignani,Alex,Petrignani,Fr,M,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823885
-2023,Army West Point Black Knights,6,Brayden Duncan,Brayden,Duncan,Jr,ATT,2,0,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2478667
-2023,Army West Point Black Knights,16,Patrick Ferguson,Patrick,Ferguson,Fr,D,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,2823884
+2023,Army West Point Black Knights,54,Cole Biggins,Cole,Biggins,Jr,D,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2478881
+2023,Army West Point Black Knights,1,Sean Byrne,Sean,Byrne,Fr,GK,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,5:51,0,0,0,0,0,2823490
 2023,Army West Point Black Knights,31,Bennett Ong,Bennett,Ong,So,GK,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2:22,0,0,0,0,0,2664450
-2023,Army West Point Black Knights,91,Luke Stratton,Luke,Stratton,Fr,D,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823836
+2023,Army West Point Black Knights,85,Patrick Dunleavy,Patrick,Dunleavy,So,M,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2664461
 2023,Army West Point Black Knights,55,Hunter Mazur,Hunter,Mazur,Jr,FO,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,,0,0,0,0,0,2333232
-2023,Army West Point Black Knights,42,CJ Monturio,CJ,Monturio,Fr,M,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,0,0,,0,0,0,0,0,2823888
-2023,Army West Point Black Knights,58,Brandon Gibson,Brandon,Gibson,Jr,DM,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,2478882
-2023,Army West Point Black Knights,15,Mitch Gutgsell,Mitch,Gutgsell,So,GK,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2664457
-2023,Army West Point Black Knights,88,Casey Reynolds,Casey,Reynolds,So,M,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,2664432
+2023,Army West Point Black Knights,23,Evan Richardson,Evan,Richardson,Fr,GK,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,6:43,2,17.866,2,0.5,0,2823887
+2023,Army West Point Black Knights,18,Alex Petrignani,Alex,Petrignani,Fr,M,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823885
+2023,Army West Point Black Knights,16,Patrick Ferguson,Patrick,Ferguson,Fr,D,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,2823884
+2023,Army West Point Black Knights,6,Brayden Duncan,Brayden,Duncan,Jr,ATT,2,0,1,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2478667
+2023,Army West Point Black Knights,91,Luke Stratton,Luke,Stratton,Fr,D,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2823836
+2023,Army West Point Black Knights,48,Jack Szalankiewicz,Jack,Szalankiewicz,Jr,LSM,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2478871
+2023,Army West Point Black Knights,37,Alec Vaccaro,Alec,Vaccaro,So,FO,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,,0,0,0,0,0,2664446
 2023,Army West Point Black Knights,34,Austin Groce,Austin,Groce,So,D,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2664458
 2023,Army West Point Black Knights,13,Jackson Tyler,Jackson,Tyler,Sr,M,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2333346
+2023,Army West Point Black Knights,15,Mitch Gutgsell,Mitch,Gutgsell,So,GK,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2664457
+2023,Army West Point Black Knights,42,CJ Monturio,CJ,Monturio,Fr,M,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,0,0,,0,0,0,0,0,2823888
 2023,Army West Point Black Knights,45,Tim Johnson,Tim,Johnson,So,D,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2664456
+2023,Army West Point Black Knights,58,Brandon Gibson,Brandon,Gibson,Jr,DM,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,2478882
+2023,Army West Point Black Knights,88,Casey Reynolds,Casey,Reynolds,So,M,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,2664432
+2023,Bellarmine Knights,33,Christopher Reynolds,Christopher,Reynolds,Fr,D,17,0,0,0,0,1,0,0,0,0,0,0,13,4,5,0,0,0,5,210,0,0,,0,0,0,0,0,2802817
+2023,Bellarmine Knights,49,Grant Guthrie,Grant,Guthrie,Fr,FO,17,0,1,1,2,7,0.143,3,0.429,0,0,0,75,8,1,127,270,0.47,1,30,0,0,,0,0,0,0,0,2802810
 2023,Bellarmine Knights,99,Brady Long,Brady,Long,So,D,17,17,1,1,2,4,0.25,2,0.5,0,0,0,31,8,10,0,0,0,10,540,0,0,,0,0,0,0,0,2653818
 2023,Bellarmine Knights,10,Justin Wescoat,Justin,Wescoat,So,M,17,7,12,7,19,66,0.182,31,0.47,0,0,0,11,23,2,0,0,0,0,0,0,0,,0,0,0,0,0,2653802
 2023,Bellarmine Knights,2,Nicholas Sheremetta,Nicholas,Sheremetta,So,D,17,17,0,0,0,1,0,1,1,0,0,0,19,3,8,0,0,0,7,450,0,0,,0,0,0,0,0,2653800
@@ -112,41 +114,39 @@ Season,Team,Jersey Number,Full Name,First Name,Last Name,Year,Position,Games Pla
 2023,Bellarmine Knights,66,Pat Anderson,Pat,Anderson,Sr,M,17,0,11,15,26,43,0.256,26,0.605,0,0,0,10,13,1,0,0,0,0,0,0,0,,0,0,0,0,0,2333368
 2023,Bellarmine Knights,77,Jesse Roth,Jesse,Roth,Sr,M,17,4,13,7,20,44,0.295,22,0.5,1,0,1,14,16,4,0,0,0,2,120,0,0,,0,0,0,0,0,2332062
 2023,Bellarmine Knights,22,Benny O'Rourk,Benny,O'Rourk,Sr,M,17,17,40,20,60,119,0.336,76,0.639,3,2,0,30,20,8,0,0,0,4,180,0,0,,0,0,0,0,0,2332059
-2023,Bellarmine Knights,49,Grant Guthrie,Grant,Guthrie,Fr,FO,17,0,1,1,2,7,0.143,3,0.429,0,0,0,75,8,1,127,270,0.47,1,30,0,0,,0,0,0,0,0,2802810
 2023,Bellarmine Knights,35,Bobby Gabriel,Bobby,Gabriel,Sr,D,17,0,0,0,0,0,0,0,0,0,0,0,14,4,8,0,0,0,0,0,0,0,,0,0,0,0,0,2332036
-2023,Bellarmine Knights,33,Christopher Reynolds,Christopher,Reynolds,Fr,D,17,0,0,0,0,1,0,0,0,0,0,0,13,4,5,0,0,0,5,210,0,0,,0,0,0,0,0,2802817
 2023,Bellarmine Knights,16,Jacob Berggren,Jacob,Berggren,Sr,M,17,16,1,0,1,11,0.091,2,0.182,0,0,0,62,12,23,0,0,0,5,270,0,0,,0,0,0,0,0,1998882
+2023,Bellarmine Knights,45,JC Higginbotham,JC,Higginbotham,Sr,GK,16,14,0,0,0,1,0,0,0,0,0,0,19,7,6,0,0,0,0,0,16,14,788:27,150,11.415,157,0.511,0,2332038
 2023,Bellarmine Knights,19,Brennan McDermott,Brennan,McDermott,So,M,16,0,2,0,2,3,0.667,3,1,0,0,0,14,1,2,0,0,0,4,180,0,0,,0,0,0,0,0,2653809
 2023,Bellarmine Knights,47,Tommy Fialkowski,Tommy,Fialkowski,Jr,D,16,0,0,0,0,0,0,0,0,0,0,0,7,0,5,0,0,0,3,180,0,0,,0,0,0,0,0,2481123
-2023,Bellarmine Knights,45,JC Higginbotham,JC,Higginbotham,Sr,GK,16,14,0,0,0,1,0,0,0,0,0,0,19,7,6,0,0,0,0,0,16,14,788:27,150,11.415,157,0.511,0,2332038
 2023,Bellarmine Knights,21,Denton Macdonald,Denton,Macdonald,Jr,M,16,16,12,4,16,24,0.5,19,0.792,0,0,0,42,11,15,0,0,0,4,300,0,0,,0,0,0,0,0,2481128
 2023,Bellarmine Knights,51,Lukas Sinon,Lukas,Sinon,Jr,M,15,0,9,3,12,22,0.409,15,0.682,3,1,0,5,12,1,0,0,0,0,0,0,0,,0,0,0,0,0,2481122
 2023,Bellarmine Knights,23,John Alie,John,Alie,Fr,ATT,14,0,10,2,12,24,0.417,18,0.75,0,1,2,5,3,1,0,0,0,1,30,0,0,,0,0,0,0,0,2802776
-2023,Bellarmine Knights,27,Jack Love,Jack,Love,Fr,LSM,12,0,0,1,1,0,0,0,0,0,0,0,4,0,1,0,0,0,1,180,0,0,,0,0,0,0,0,2802816
-2023,Bellarmine Knights,40,Kevin Lambe,Kevin,Lambe,Sr,M,12,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,1,30,0,0,,0,0,0,0,0,2128325
 2023,Bellarmine Knights,3,Harrison Pate,Harrison,Pate,Sr,M,12,8,1,1,2,1,1,1,1,0,0,0,12,2,5,0,0,0,1,60,0,0,,0,0,0,0,0,2332061
-2023,Bellarmine Knights,37,Aidan Fearn,Aidan,Fearn,So,FO,10,0,1,2,3,5,0.2,3,0.6,0,0,0,24,5,0,54,102,0.529,2,60,0,0,,0,0,0,0,0,2653790
+2023,Bellarmine Knights,40,Kevin Lambe,Kevin,Lambe,Sr,M,12,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,1,30,0,0,,0,0,0,0,0,2128325
+2023,Bellarmine Knights,27,Jack Love,Jack,Love,Fr,LSM,12,0,0,1,1,0,0,0,0,0,0,0,4,0,1,0,0,0,1,180,0,0,,0,0,0,0,0,2802816
 2023,Bellarmine Knights,12,Cole Messick,Cole,Messick,So,FO,10,0,2,0,2,3,0.667,2,0.667,0,0,0,24,2,0,49,104,0.471,0,0,0,0,,0,0,0,0,0,2653807
+2023,Bellarmine Knights,37,Aidan Fearn,Aidan,Fearn,So,FO,10,0,1,2,3,5,0.2,3,0.6,0,0,0,24,5,0,54,102,0.529,2,60,0,0,,0,0,0,0,0,2653790
 2023,Bellarmine Knights,53,Michael Blaymires,Michael,Blaymires,Fr,M,9,0,2,1,3,6,0.333,3,0.5,0,1,0,0,1,1,0,0,0,1,60,0,0,,0,0,0,0,0,2802778
-2023,Bellarmine Knights,34,Nick Ferge,Nick,Ferge,Fr,LSM,8,0,0,0,0,2,0,1,0.5,0,0,0,1,1,0,0,0,0,1,60,0,0,,0,0,0,0,0,2802807
 2023,Bellarmine Knights,7,Jack Cunningham,Jack,Cunningham,Jr,M,8,0,0,0,0,3,0,2,0.667,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2488121
+2023,Bellarmine Knights,34,Nick Ferge,Nick,Ferge,Fr,LSM,8,0,0,0,0,2,0,1,0.5,0,0,0,1,1,0,0,0,0,1,60,0,0,,0,0,0,0,0,2802807
 2023,Bellarmine Knights,30,Josh Healy,Josh,Healy,Jr,M,7,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,2480957
 2023,Bellarmine Knights,1,Dante Batista,Dante,Batista,So,GK,6,3,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,1,60,6,3,217:44,39,10.747,44,0.53,0,2653803
-2023,Bellarmine Knights,8,Jaden Wilkins,Jaden,Wilkins,So,M,6,0,2,0,2,4,0.5,4,1,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2653804
 2023,Bellarmine Knights,13,Brandon Boyle,Brandon,Boyle,Fr,ATT,6,0,0,2,2,2,0,1,0.5,0,0,0,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,2802799
-2023,Bellarmine Knights,38,Shane Dzwilewski,Shane,Dzwilewski,So,D,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2653817
-2023,Bellarmine Knights,6,John Imperato,John,Imperato,So,M,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2653813
-2023,Bellarmine Knights,11,Parker Freiberg,Parker,Freiberg,Sr,M,5,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,60,0,0,,0,0,0,0,0,2332035
-2023,Bellarmine Knights,50,Jackson Hammersley,Jackson,Hammersley,Jr,M,5,0,1,0,1,1,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2481129
+2023,Bellarmine Knights,8,Jaden Wilkins,Jaden,Wilkins,So,M,6,0,2,0,2,4,0.5,4,1,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2653804
 2023,Bellarmine Knights,42,Nate Committee,Nate,Committee,Fr,D,5,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,2802800
+2023,Bellarmine Knights,6,John Imperato,John,Imperato,So,M,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2653813
+2023,Bellarmine Knights,50,Jackson Hammersley,Jackson,Hammersley,Jr,M,5,0,1,0,1,1,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2481129
+2023,Bellarmine Knights,38,Shane Dzwilewski,Shane,Dzwilewski,So,D,5,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2653817
+2023,Bellarmine Knights,11,Parker Freiberg,Parker,Freiberg,Sr,M,5,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,60,0,0,,0,0,0,0,0,2332035
 2023,Bellarmine Knights,15,Preston Winner,Preston,Winner,Sr,M,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2332064
 2023,Bellarmine Knights,55,Jayden Smith,Jayden,Smith,So,LSM,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,60,0,0,,0,0,0,0,0,2653828
-2023,Bellarmine Knights,43,Brendan Lehrer,Brendan,Lehrer,Fr,M,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2802845
-2023,Bellarmine Knights,24,Josh Seipp,Josh,Seipp,Fr,ATT,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2802842
 2023,Bellarmine Knights,9,Matt Ury,Matt,Ury,Sr,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2332066
 2023,Bellarmine Knights,4,Jack Bozik,Jack,Bozik,Sr,GK,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,6:29,4,37.018,2,0.333,0,2332044
+2023,Bellarmine Knights,24,Josh Seipp,Josh,Seipp,Fr,ATT,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2802842
 2023,Bellarmine Knights,20,Ethan Tunucci,Ethan,Tunucci,Fr,ATT,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2802844
 2023,Bellarmine Knights,17,Ziggy Iannessa,Ziggy,Iannessa,Fr,M,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2802821
+2023,Bellarmine Knights,43,Brendan Lehrer,Brendan,Lehrer,Fr,M,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2802845
 2023,Binghamton Bearcats,30,Connor Winters,Connor,Winters,So,GK,14,14,1,0,1,3,0.333,1,0.333,0,0,0,34,30,4,0,0,0,1,30,14,14,839:26,164,11.722,194,0.542,0,2664849
 2023,Binghamton Bearcats,44,Christian Hanko,Christian,Hanko,So,D,14,14,0,0,0,0,0,0,0,0,0,0,17,10,12,0,0,0,7,330,0,0,,0,0,0,0,0,2664842
 2023,Binghamton Bearcats,31,Matthew Keegan,Matthew,Keegan,So,ATT,14,14,47,13,60,123,0.382,83,0.675,3,8,1,24,17,1,0,0,0,3,150,0,0,,0,0,0,0,1,2664840
@@ -322,45 +322,45 @@ Season,Team,Jersey Number,Full Name,First Name,Last Name,Year,Position,Games Pla
 2023,Bryant Bulldogs,49,Connor Ruppert,Connor,Ruppert,Fr,M,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2805099
 2023,Bryant Bulldogs,43,Austin Daigneault,Austin,Daigneault,Fr,M,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2805097
 2023,Bryant Bulldogs,44,Jackson Degner,Jackson,Degner,Fr,D,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2805098
-2023,Bucknell Bison,25,John Young,John,Young,Fr,LSM,13,0,1,0,1,4,0.25,2,0.5,0,0,0,24,3,9,0,0,0,4,180,0,0,,0,0,0,0,0,2807966
-2023,Bucknell Bison,15,Brendan Coyle,Brendan,Coyle,Jr,FO,13,0,3,0,3,5,0.6,3,0.6,0,0,0,29,2,4,87,217,0.401,1,30,0,0,,0,0,0,0,0,2467385
 2023,Bucknell Bison,55,Will Hopkins,Will,Hopkins,Fr,M,13,13,17,12,29,58,0.293,37,0.638,1,2,0,16,12,4,0,0,0,1,30,0,0,,0,0,0,0,0,2807957
-2023,Bucknell Bison,16,Will Pickering,Will,Pickering,Fr,D,13,11,0,0,0,0,0,0,0,0,0,0,20,10,7,0,0,0,1,60,0,0,,0,0,0,0,0,2807965
-2023,Bucknell Bison,12,Conor McCusker,Conor,McCusker,Sr,FO,13,0,0,0,0,0,0,0,0,0,0,0,4,2,0,37,94,0.394,1,30,0,0,,0,0,0,0,0,2304847
-2023,Bucknell Bison,66,Danny Striano,Danny,Striano,Sr,M,13,0,0,2,2,10,0,3,0.3,0,0,0,60,6,7,0,0,0,6,240,0,0,,0,0,0,0,0,2304314
-2023,Bucknell Bison,4,Ethan Gyllenhaal,Ethan,Gyllenhaal,Jr,M,13,0,2,3,5,6,0.333,5,0.833,0,0,0,6,5,7,0,0,0,1,30,0,0,,0,0,0,0,0,2467387
-2023,Bucknell Bison,42,Jaz Zanelli,Jaz,Zanelli,Fr,GK,13,13,0,0,0,1,0,1,1,0,0,0,22,9,4,0,0,0,0,0,13,13,703:52,147,12.531,139,0.486,0,2807969
-2023,Bucknell Bison,34,Hank Bethel,Hank,Bethel,Sr,D,13,13,0,0,0,1,0,0,0,0,0,0,22,7,22,0,0,0,10,600,0,0,,0,0,0,0,0,2304883
-2023,Bucknell Bison,37,C.J. Baroni,C.J.,Baroni,Sr,M,13,0,1,1,2,13,0.077,7,0.538,0,0,0,5,5,1,0,0,0,1,30,0,0,,0,0,0,0,0,2304894
 2023,Bucknell Bison,17,Cam Doolan,Cam,Doolan,So,M,13,12,19,8,27,61,0.311,35,0.574,0,4,0,10,18,2,0,0,0,1,30,0,0,,0,0,0,0,0,2659281
 2023,Bucknell Bison,5,Richie Striano,Richie,Striano,Jr,M,13,0,2,2,4,13,0.154,5,0.385,0,0,0,24,10,7,0,0,0,6,420,0,0,,0,0,0,0,0,2467393
+2023,Bucknell Bison,4,Ethan Gyllenhaal,Ethan,Gyllenhaal,Jr,M,13,0,2,3,5,6,0.333,5,0.833,0,0,0,6,5,7,0,0,0,1,30,0,0,,0,0,0,0,0,2467387
+2023,Bucknell Bison,15,Brendan Coyle,Brendan,Coyle,Jr,FO,13,0,3,0,3,5,0.6,3,0.6,0,0,0,29,2,4,87,217,0.401,1,30,0,0,,0,0,0,0,0,2467385
+2023,Bucknell Bison,16,Will Pickering,Will,Pickering,Fr,D,13,11,0,0,0,0,0,0,0,0,0,0,20,10,7,0,0,0,1,60,0,0,,0,0,0,0,0,2807965
+2023,Bucknell Bison,37,C.J. Baroni,C.J.,Baroni,Sr,M,13,0,1,1,2,13,0.077,7,0.538,0,0,0,5,5,1,0,0,0,1,30,0,0,,0,0,0,0,0,2304894
+2023,Bucknell Bison,25,John Young,John,Young,Fr,LSM,13,0,1,0,1,4,0.25,2,0.5,0,0,0,24,3,9,0,0,0,4,180,0,0,,0,0,0,0,0,2807966
+2023,Bucknell Bison,34,Hank Bethel,Hank,Bethel,Sr,D,13,13,0,0,0,1,0,0,0,0,0,0,22,7,22,0,0,0,10,600,0,0,,0,0,0,0,0,2304883
+2023,Bucknell Bison,42,Jaz Zanelli,Jaz,Zanelli,Fr,GK,13,13,0,0,0,1,0,1,1,0,0,0,22,9,4,0,0,0,0,0,13,13,703:52,147,12.531,139,0.486,0,2807969
+2023,Bucknell Bison,66,Danny Striano,Danny,Striano,Sr,M,13,0,0,2,2,10,0,3,0.3,0,0,0,60,6,7,0,0,0,6,240,0,0,,0,0,0,0,0,2304314
+2023,Bucknell Bison,12,Conor McCusker,Conor,McCusker,Sr,FO,13,0,0,0,0,0,0,0,0,0,0,0,4,2,0,37,94,0.394,1,30,0,0,,0,0,0,0,0,2304847
 2023,Bucknell Bison,13,Andrew Stanzel,Andrew,Stanzel,Sr,D,13,13,0,1,1,2,0,0,0,0,0,0,35,10,27,0,0,0,5,300,0,0,,0,0,0,0,0,2304877
-2023,Bucknell Bison,36,Dutch Furlong,Dutch,Furlong,Jr,M,12,12,21,35,56,66,0.318,35,0.53,0,2,0,10,31,8,0,0,0,1,60,0,0,,0,0,0,0,0,2467386
-2023,Bucknell Bison,9,Patrick Reilly,Patrick,Reilly,Fr,M,12,2,0,0,0,3,0,2,0.667,0,0,0,5,2,0,1,6,0.167,1,60,0,0,,0,0,0,0,0,2807964
-2023,Bucknell Bison,1,Michael Meyer,Michael,Meyer,Fr,ATT,12,10,13,12,25,58,0.224,33,0.569,1,6,0,11,17,2,0,0,0,2,60,0,0,,0,0,0,0,0,2807962
-2023,Bucknell Bison,8,Jack Feda,Jack,Feda,Sr,ATT,12,10,24,1,25,63,0.381,44,0.698,0,3,0,10,5,4,0,0,0,3,270,0,0,,0,0,0,0,0,2304846
 2023,Bucknell Bison,32,Duncan Hill,Duncan,Hill,Jr,D,12,2,0,0,0,1,0,1,1,0,0,0,15,9,9,0,0,0,2,90,0,0,,0,0,0,0,0,2467388
+2023,Bucknell Bison,8,Jack Feda,Jack,Feda,Sr,ATT,12,10,24,1,25,63,0.381,44,0.698,0,3,0,10,5,4,0,0,0,3,270,0,0,,0,0,0,0,0,2304846
+2023,Bucknell Bison,1,Michael Meyer,Michael,Meyer,Fr,ATT,12,10,13,12,25,58,0.224,33,0.569,1,6,0,11,17,2,0,0,0,2,60,0,0,,0,0,0,0,0,2807962
+2023,Bucknell Bison,9,Patrick Reilly,Patrick,Reilly,Fr,M,12,2,0,0,0,3,0,2,0.667,0,0,0,5,2,0,1,6,0.167,1,60,0,0,,0,0,0,0,0,2807964
+2023,Bucknell Bison,36,Dutch Furlong,Dutch,Furlong,Jr,M,12,12,21,35,56,66,0.318,35,0.53,0,2,0,10,31,8,0,0,0,1,60,0,0,,0,0,0,0,0,2467386
+2023,Bucknell Bison,6,Tanner Germain,Tanner,Germain,Sr,M,11,4,4,3,7,26,0.154,14,0.538,0,0,0,4,7,0,0,0,0,0,0,0,0,,0,0,0,0,0,2807954
 2023,Bucknell Bison,44,Jack Dudas,Jack,Dudas,So,M,11,3,10,2,12,40,0.25,23,0.575,0,2,0,3,9,2,0,0,0,3,150,0,0,,0,0,0,0,0,2659367
 2023,Bucknell Bison,23,Joe Scattareggia,Joe,Scattareggia,Sr,DM,11,0,1,2,3,3,0.333,1,0.333,0,0,0,14,6,10,0,0,0,3,120,0,0,,0,0,0,0,0,2304897
-2023,Bucknell Bison,6,Tanner Germain,Tanner,Germain,Sr,M,11,4,4,3,7,26,0.154,14,0.538,0,0,0,4,7,0,0,0,0,0,0,0,0,,0,0,0,0,0,2807954
 2023,Bucknell Bison,45,Connor Davis,Connor,Davis,So,ATT,10,10,25,5,30,92,0.272,63,0.685,1,5,0,18,11,6,0,0,0,3,90,0,0,,0,0,0,0,0,2659363
 2023,Bucknell Bison,41,Chris Begier,Chris,Begier,Fr,M,9,1,2,1,3,4,0.5,3,0.75,0,0,0,2,4,1,0,0,0,1,30,0,0,,0,0,0,0,0,2807968
 2023,Bucknell Bison,11,Griffin Shaffer,Griffin,Shaffer,Fr,FO,7,0,0,0,0,1,0,0,0,0,0,0,5,0,0,15,34,0.441,0,0,0,0,,0,0,0,0,0,2807955
 2023,Bucknell Bison,2,Ben Bonafede,Ben,Bonafede,So,M,6,0,0,0,0,0,0,0,0,0,0,0,2,1,3,0,0,0,1,60,0,0,,0,0,0,0,0,2659361
-2023,Bucknell Bison,40,Max Nolan,Max,Nolan,So,GK,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,35:16,7,11.909,4,0.364,0,2659366
 2023,Bucknell Bison,14,Jack Billitier,Jack,Billitier,Sr,ATT,5,1,0,1,1,3,0,1,0.333,0,0,0,1,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,2304896
+2023,Bucknell Bison,40,Max Nolan,Max,Nolan,So,GK,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,35:16,7,11.909,4,0.364,0,2659366
 2023,Bucknell Bison,3,Patrick Ciquera,Patrick,Ciquera,Jr,ATT,4,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2467384
 2023,Bucknell Bison,28,Jack Morvillo,Jack,Morvillo,Fr,LSM,3,0,0,0,0,1,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,2807967
+2023,Bucknell Bison,10,Brett Callahan,Brett,Callahan,Jr,M,2,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2659280
+2023,Bucknell Bison,27,Grant Malas,Grant,Malas,So,ATT,2,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,,0,0,0,0,0,2659283
 2023,Bucknell Bison,18,George Talarico,George,Talarico,So,D,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2659362
 2023,Bucknell Bison,24,Rich O'Halloran,Rich,O'Halloran,So,GK,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,44:08,7,9.517,3,0.3,0,2659360
 2023,Bucknell Bison,77,Owen Kovacs,Owen,Kovacs,Fr,ATT,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2807972
-2023,Bucknell Bison,10,Brett Callahan,Brett,Callahan,Jr,M,2,0,1,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2659280
-2023,Bucknell Bison,31,Daniel Parson,Daniel,Parson,Sr,GK,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0:35,0,0,0,0,0,2304885
 2023,Bucknell Bison,20,Brian Miller,Brian,Miller,Sr,ATT,2,0,1,0,1,2,0.5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2304881
-2023,Bucknell Bison,27,Grant Malas,Grant,Malas,So,ATT,2,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,,0,0,0,0,0,2659283
-2023,Bucknell Bison,30,Louie Germain,Louie,Germain,Fr,D,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,2807956
-2023,Bucknell Bison,29,Tommy Armstrong,Tommy,Armstrong,So,ATT,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2659364
+2023,Bucknell Bison,31,Daniel Parson,Daniel,Parson,Sr,GK,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0:35,0,0,0,0,0,2304885
 2023,Bucknell Bison,47,Charlie Keating,Charlie,Keating,Fr,M,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,2807971
+2023,Bucknell Bison,29,Tommy Armstrong,Tommy,Armstrong,So,ATT,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,2659364
+2023,Bucknell Bison,30,Louie Germain,Louie,Germain,Fr,D,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,2807956
 2023,Bucknell Bison,7,Will Mangel,Will,Mangel,Fr,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,2807963
 2023,Canisius Golden Griffins,48,Micah Hanson,Micah,Hanson,Fr,FO,15,0,1,5,6,9,0.111,6,0.667,0,0,0,132,16,2,194,399,0.486,2,60,0,0,,0,0,0,0,0,2799612
 2023,Canisius Golden Griffins,22,Alexis Simard,Alexis,Simard,Fr,LSM,15,0,1,4,5,3,0.333,2,0.667,0,0,0,20,6,12,0,0,0,6,300,0,0,,0,0,0,0,0,2799602
