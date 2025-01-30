@@ -28,8 +28,6 @@ for (i in urls){
   
   print(message)
   
-#  schoolpage %>% html_nodes(xpath = '/html/body/div[2]/fieldset[1]/legend/a[1]') %>% html_text()
-  
   matches <- schoolpage %>% html_nodes(xpath = '//*[@id="game_breakdown_div"]/table') %>% html_table()
   
   # doesn't handle postponed games right now (Hobart has one)
@@ -61,6 +59,8 @@ for (i in urls){
   
   opponentside <- matches %>% filter(opponent == "Defensive Totals") %>% select(-opponent, -home_away) %>% rename_with(.cols = 7:17, function(x){paste0("defensive_", x)}) |>  select(-result)
   
+  joinedmatches <- inner_join(teamside, opponentside, by = c("date", "team", "home_score", "visitor_score", "overtime"))
+  
   
   ### get goalie stats
   
@@ -89,18 +89,15 @@ for (i in urls){
   g_teamside <- g_matches %>% filter(opponent != "Defensive Totals")
   g_opponentside <- g_matches %>% filter(opponent == "Defensive Totals") %>% select(-opponent, -home_away) %>% rename_with(.cols = 6:8, function(x){paste0("defensive_", x)})
   
-  
   g_joinedmatches <- inner_join(g_teamside, g_opponentside, by = c("date", "team", "home_score", "visitor_score", "overtime"))
   
+  all_joined_matches <- joinedmatches |> inner_join(g_joinedmatches, by = c("date", "team", "opponent", "home_away", "home_score", "visitor_score", "overtime"))
   
-  
-  tryCatch(matchstatstibble <- bind_rows(matchstatstibble, joinedmatches),
+  tryCatch(matchstatstibble <- bind_rows(matchstatstibble, all_joined_matches),
            error = function(e){NA})
-  
   
   Sys.sleep(2)
 }
-
 
 
 matchstatstibble <- matchstatstibble %>% 
@@ -126,8 +123,8 @@ matchstatstibble <- matchstatstibble %>%
   rename("Home Faceoffs Taken" = "f_os_taken") %>%
 #  rename("Home Penalties" = "pen") %>% 
 #  rename("Home Penalty Time" = "pen_time") %>% 
-#  rename("Home Goals Allowed" = "goals_allowed") %>%
-#  rename("Home Saves" = "saves") %>% 
+  rename("Home Goals Allowed" = "goals_allowed") %>%
+  rename("Home Saves" = "saves") %>% 
 #  rename("Home Successful Clears" = "clears") %>%
 #  rename("Home Clear Attempts" = "att.x") %>% 
 #  rename("Home Clear Percentage" = "clear_pct.x") %>% 
@@ -146,14 +143,14 @@ matchstatstibble <- matchstatstibble %>%
   rename("Away  Faceoffs Won" = "defensive_fo_won")
 #  rename("Away Penalties" = "defensive_pen") %>%
 #  rename("Away Penalty Time" = "defensive_pen_time") %>%
-#  rename("Away Goals Allowed" = "defensive_goals_allowed") %>%
-#  rename("Away Saves" = "defensive_saves") %>%
+  rename("Away Goals Allowed" = "defensive_goals_allowed") %>%
+  rename("Away Saves" = "defensive_saves") %>%
 #  rename("Away Successful Clears" = "defensive_clears") %>%
 #  rename("Away Clear Attempts" = "att.y") %>%
 #  rename("Away Clear Percentage" = "clear_pct.y") %>%
 #  rename("Away OT Goals" = "otg.y") 
   
-  matchstatstibble <- select(matchstatstibble, -c(g, g_min, w, l, t, rc, yc, defensive_g, defensive_w, defensive_l, defensive_t, defensive_rc, defensive_yc, defensive_g_min))
+  matchstatstibble <- select(matchstatstibble, -c(g, g_min, defensive_g, defensive_g_min))
   
 
 write_csv(matchstatstibble, matchstatsfilename)
