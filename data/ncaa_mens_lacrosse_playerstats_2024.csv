@@ -1,4 +1,4 @@
-Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Position,number,Games Played,Games Started,Goals,Assists,Points,Shots,Shots on Goal,Ground Balls,Turnovers,Caused Turnovers,Faceoffs Won,Faceoffs Taken,NCAA id
+Season,Team,jersey,Full Name,Roster Name,First Name,Last Name,Year,Position,Jersey Number,Games Played,Games Started,Goals,Assists,Points,Shots,Shots on Goal,Ground Balls,Turnovers,Caused Turnovers,Faceoffs Won,Faceoffs Taken,NCAA id
 2024,Air Force,43,Mana Wilhelm,Mana Wilhelm,Mana,Wilhelm,Fr,M,43,15,2,7,5,12,28,19,6,7,1,0,0,8455247
 2024,Air Force,0,Turner Ashby,Turner Ashby,Turner,Ashby,Fr,ATT,0,15,15,29,14,43,63,44,21,17,8,0,0,8455239
 2024,Air Force,14,Luke Vrsansky,Luke Vrsansky,Luke,Vrsansky,So,M,14,15,12,3,6,9,30,15,8,8,1,0,0,8211678
@@ -1620,96 +1620,96 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,Michigan,43,Thomas Lowman,Thomas Lowman,Thomas,Lowman,Jr,D,43,1,0,0,0,0,0,0,1,0,0,0,0,8203091
 2024,Michigan,43,Kevin  Kearns,Kevin  Kearns,Kevin,,Fr,D,43,1,0,0,0,0,0,0,1,0,0,0,0,8416242
 2024,Michigan,00,Alex  Lobel,Alex  Lobel,Alex,,Fr,ATT,0,1,0,1,0,1,2,2,0,0,0,0,0,8416231
-2024,Monmouth,1,Luke Cole,Luke Cole,Luke,Cole,Jr,M,1,13,6,13,6,19,46,24,6,13,0,0,0,8205990
-2024,Monmouth,7,Miles Fang,Miles Fang,Miles,Fang,N/A,,7,13,0,0,0,0,0,0,8,1,4,0,0,8589634
-2024,Monmouth,5,Ethan Cronk,Ethan Cronk,Ethan,Cronk,Jr,FO,5,13,5,1,1,2,5,4,56,4,1,134,265,8418490
-2024,Monmouth,48,Jake Schneider,Jake Schneider,Jake,Schneider,Jr,M,48,13,2,7,5,12,27,13,10,5,0,0,0,8418539
-2024,Monmouth,17,Terrance Lacewell,Terrance Lacewell,Terrance,Lacewell,Jr,M,17,13,4,0,0,0,1,1,28,6,6,0,1,8208101
 2024,Monmouth,10,Brendan Dundas,Brendan Dundas,Brendan,Dundas,Fr,ATT,10,13,13,22,10,32,77,43,21,31,1,0,0,8418500
-2024,Monmouth,4,Michael Quigg,Michael Quigg,Michael,Quigg,Sr,D,4,13,13,0,1,1,1,0,10,4,13,0,0,8418486
-2024,Monmouth,19,Connor Macrae,Connor Macrae,Connor,Macrae,Sr,ATT,19,13,12,20,11,31,76,49,20,16,3,0,0,8418504
 2024,Monmouth,2,Matthew Dollive,Matthew Dollive,Matthew,Dollive,So,M,2,13,6,7,4,11,32,11,5,11,1,0,0,8418475
-2024,Monmouth,36,Jack Gertie,Jack Gertie,Jack,Gertie,Sr,D,36,13,6,0,0,0,0,0,32,4,4,0,0,8418531
 2024,Monmouth,24,Connor Gorman,Connor Gorman,Connor,Gorman,So,ATT,24,13,13,23,9,32,70,44,15,22,0,0,0,8418520
-2024,Monmouth,30,Tommy Heller,Tommy Heller,Tommy,Heller,Sr,GK,30,13,13,0,0,0,1,0,29,14,3,0,0,8418523
 2024,Monmouth,46,Hayden Chester,Hayden Chester,Hayden,Chester,So,LSM,46,13,0,0,3,3,2,1,21,5,5,0,0,8207926
 2024,Monmouth,26,Brandon Rispoli,Brandon Rispoli,Brandon,Rispoli,So,M,26,13,1,0,0,0,0,0,18,10,9,0,0,8201406
 2024,Monmouth,22,Miles Edmiston,Miles Edmiston,Miles,Edmiston,So,D,22,13,12,0,0,0,0,0,21,6,8,0,0,8201392
+2024,Monmouth,48,Jake Schneider,Jake Schneider,Jake,Schneider,Jr,M,48,13,2,7,5,12,27,13,10,5,0,0,0,8418539
+2024,Monmouth,5,Ethan Cronk,Ethan Cronk,Ethan,Cronk,Jr,FO,5,13,5,1,1,2,5,4,56,4,1,134,265,8418490
+2024,Monmouth,17,Terrance Lacewell,Terrance Lacewell,Terrance,Lacewell,Jr,M,17,13,4,0,0,0,1,1,28,6,6,0,1,8208101
+2024,Monmouth,1,Luke Cole,Luke Cole,Luke,Cole,Jr,M,1,13,6,13,6,19,46,24,6,13,0,0,0,8205990
 2024,Monmouth,11,Sean Ketchen,Sean Ketchen,Sean,Ketchen,Sr,ATT,11,13,6,9,5,14,29,19,11,4,3,0,0,8201546
+2024,Monmouth,30,Tommy Heller,Tommy Heller,Tommy,Heller,Sr,GK,30,13,13,0,0,0,1,0,29,14,3,0,0,8418523
+2024,Monmouth,36,Jack Gertie,Jack Gertie,Jack,Gertie,Sr,D,36,13,6,0,0,0,0,0,32,4,4,0,0,8418531
+2024,Monmouth,19,Connor Macrae,Connor Macrae,Connor,Macrae,Sr,ATT,19,13,12,20,11,31,76,49,20,16,3,0,0,8418504
+2024,Monmouth,4,Michael Quigg,Michael Quigg,Michael,Quigg,Sr,D,4,13,13,0,1,1,1,0,10,4,13,0,0,8418486
+2024,Monmouth,7,Miles Fang,Miles Fang,Miles,Fang,N/A,,7,13,0,0,0,0,0,0,8,1,4,0,0,8589634
 2024,Monmouth,9,Nick Teets,Nick Teets,Nick,Teets,Jr,M,9,12,1,6,3,9,36,21,10,11,0,0,0,8209611
 2024,Monmouth,34,Thomas Gray,Thomas Gray,Thomas,Gray,Sr,D,34,12,0,0,0,0,0,0,8,4,7,0,0,8418529
-2024,Monmouth,0,Caden Kesselring,Caden Kesselring,Caden,Kesselring,So,ATT,0,11,0,3,1,4,15,8,8,8,0,0,0,8207932
 2024,Monmouth,99,Gabe Bowen-Slott,Gabe Bowen-Slott,Gabe,Bowen-Slott,Jr,D,99,11,11,0,0,0,1,0,11,0,15,0,0,8418550
+2024,Monmouth,0,Caden Kesselring,Caden Kesselring,Caden,Kesselring,So,ATT,0,11,0,3,1,4,15,8,8,8,0,0,0,8207932
 2024,Monmouth,15,Carter Malone,Carter Malone,Carter,Malone,Fr,M,15,11,0,2,0,2,3,2,5,1,1,0,0,8418503
 2024,Monmouth,43,Lance Martineau,Lance Martineau,Lance,Martineau,Jr,D,43,9,2,0,0,0,0,0,4,0,5,0,0,8213119
-2024,Monmouth,32,Will Hohn Jr.,Will Hohn Jr.,Will,Hohn,Fr,FO,32,7,0,0,1,1,0,0,3,0,0,10,36,8418525
 2024,Monmouth,14,Riley Chester,Riley Chester,Riley,Chester,So,M,14,7,0,2,1,3,6,3,1,2,0,0,0,8201240
 2024,Monmouth,33,Burke Webb,Burke Webb,Burke,Webb,Sr,ATT,33,7,0,1,0,1,3,2,0,4,0,0,0,8418527
+2024,Monmouth,32,Will Hohn Jr.,Will Hohn Jr.,Will,Hohn,Fr,FO,32,7,0,0,1,1,0,0,3,0,0,10,36,8418525
 2024,Monmouth,29,Patrick Orapello,Patrick Orapello,Patrick,Orapello,Sr,M,29,5,0,0,0,0,1,1,4,1,1,0,0,8203404
 2024,Monmouth,44,Ty Caffarelli,Ty Caffarelli,Ty,Caffarelli,So,ATT,44,3,3,6,0,6,19,11,5,4,2,0,0,8208579
 2024,Monmouth,45,Mitch Boudreau,Mitch Boudreau,Mitch,Boudreau,Sr,FO,45,3,0,0,0,0,0,0,2,0,0,3,8,8418537
-2024,Monmouth,77,Greg Clark,Greg Clark,Greg,Clark,Sr,D,77,2,0,0,0,0,1,0,2,1,0,0,0,8202270
-2024,Monmouth,3,Max Sullivan,Max Sullivan,Max,Sullivan,Sr,M,3,2,0,1,1,2,5,2,0,0,0,0,0,8202284
-2024,Monmouth,51,Tommy Manley,Tommy Manley,Tommy,Manley,Fr,M,51,2,0,0,1,1,2,1,0,0,0,0,0,8211984
 2024,Monmouth,27,Will Brimhall,Will Brimhall,Will,Brimhall,Jr,M,27,2,0,0,0,0,1,1,1,0,0,0,0,8202927
+2024,Monmouth,51,Tommy Manley,Tommy Manley,Tommy,Manley,Fr,M,51,2,0,0,1,1,2,1,0,0,0,0,0,8211984
+2024,Monmouth,3,Max Sullivan,Max Sullivan,Max,Sullivan,Sr,M,3,2,0,1,1,2,5,2,0,0,0,0,0,8202284
 2024,Monmouth,18,Andrew Kuhlman,Andrew Kuhlman,Andrew,Kuhlman,Sr,GK,18,2,0,0,0,0,0,0,0,1,0,0,0,8208606
-2024,Monmouth,6,Ryan O'Rourke,Ryan O'Rourke,Ryan,O'Rourke,So,M,6,1,1,0,2,2,3,0,0,2,0,0,0,8213045
+2024,Monmouth,77,Greg Clark,Greg Clark,Greg,Clark,Sr,D,77,2,0,0,0,0,1,0,2,1,0,0,0,8202270
 2024,Monmouth,41,Alex DeBenedictis,Alex DeBenedictis,Alex,DeBenedictis,Sr,ATT,41,1,0,1,0,1,1,1,1,1,0,0,0,8201493
-2024,Monmouth,16,Danny Boyer,Danny Boyer,Danny,Boyer,Jr,ATT,16,1,0,0,0,0,1,0,0,0,0,0,0,8206122
 2024,Monmouth,49,Kade  Hoogstraten,Kade  Hoogstraten,Kade,,Fr,ATT,49,1,0,0,0,0,0,0,0,1,0,0,0,8418540
-2024,Mount St. Mary's,51,Ethan Holobinko,Ethan Holobinko,Ethan,Holobinko,Sr,M,51,15,6,1,2,3,4,2,56,12,0,144,309,8212862
-2024,Mount St. Mary's,12,Will McKay,Will McKay,Will,McKay,So,M,12,15,11,12,2,14,22,17,8,7,4,0,0,8453909
+2024,Monmouth,16,Danny Boyer,Danny Boyer,Danny,Boyer,Jr,ATT,16,1,0,0,0,0,1,0,0,0,0,0,0,8206122
+2024,Monmouth,6,Ryan O'Rourke,Ryan O'Rourke,Ryan,O'Rourke,So,M,6,1,1,0,2,2,3,0,0,2,0,0,0,8213045
+2024,Mount St. Mary's,14,Brody Atkinson,Brody Atkinson,Brody,Atkinson,Fr,ATT,14,15,15,30,13,43,72,51,17,24,1,0,0,8453900
 2024,Mount St. Mary's,6,Ben Schuster,Ben Schuster,Ben,Schuster,Fr,M,6,15,6,7,2,9,45,15,11,13,1,0,0,8453897
 2024,Mount St. Mary's,28,Jacob Coldwell,Jacob Coldwell,Jacob,Coldwell,So,LSM,28,15,0,0,0,0,1,0,8,3,1,0,0,8205817
 2024,Mount St. Mary's,40,"Kevin Whitty, Jr.","Kevin Whitty, Jr.",Kevin,"Whitty,",So,ATT,40,15,13,11,14,25,48,28,23,19,0,0,0,8211703
-2024,Mount St. Mary's,30,Ben Ward,Ben Ward,Ben,Ward,Sr,D,30,15,14,0,2,2,3,1,18,6,14,0,0,8453910
-2024,Mount St. Mary's,1,Cormac Giblin,Cormac Giblin,Cormac,Giblin,Sr,ATT,1,15,15,27,3,30,124,54,16,17,2,0,0,8453895
-2024,Mount St. Mary's,14,Brody Atkinson,Brody Atkinson,Brody,Atkinson,Fr,ATT,14,15,15,30,13,43,72,51,17,24,1,0,0,8453900
 2024,Mount St. Mary's,36,Nathan Merchant,Nathan Merchant,Nathan,Merchant,Jr,M,36,15,0,1,2,3,7,2,13,3,0,0,0,8202141
-2024,Mount St. Mary's,17,Mitchell Dunham,Mitchell Dunham,Mitchell,Dunham,Sr,D,17,15,15,0,4,4,4,1,69,5,30,0,0,8208203
-2024,Mount St. Mary's,19,Jackson Phillips,Jackson Phillips,Jackson,Phillips,Sr,D,19,15,15,0,0,0,1,0,25,5,22,0,0,8213080
 2024,Mount St. Mary's,9,Caden Cote,Caden Cote,Caden,Cote,Sr,M,9,15,2,0,1,1,7,3,35,2,11,0,0,8453908
 2024,Mount St. Mary's,41,Mekai Nelson,Mekai Nelson,Mekai,Nelson,Jr,M,41,15,2,0,0,0,4,1,14,9,7,0,0,8205628
+2024,Mount St. Mary's,12,Will McKay,Will McKay,Will,McKay,So,M,12,15,11,12,2,14,22,17,8,7,4,0,0,8453909
+2024,Mount St. Mary's,51,Ethan Holobinko,Ethan Holobinko,Ethan,Holobinko,Sr,M,51,15,6,1,2,3,4,2,56,12,0,144,309,8212862
 2024,Mount St. Mary's,22,Kyle Cullen,Kyle Cullen,Kyle,Cullen,Sr,M,22,15,10,4,7,11,34,16,15,19,1,0,0,8202601
+2024,Mount St. Mary's,19,Jackson Phillips,Jackson Phillips,Jackson,Phillips,Sr,D,19,15,15,0,0,0,1,0,25,5,22,0,0,8213080
+2024,Mount St. Mary's,17,Mitchell Dunham,Mitchell Dunham,Mitchell,Dunham,Sr,D,17,15,15,0,4,4,4,1,69,5,30,0,0,8208203
+2024,Mount St. Mary's,1,Cormac Giblin,Cormac Giblin,Cormac,Giblin,Sr,ATT,1,15,15,27,3,30,124,54,16,17,2,0,0,8453895
+2024,Mount St. Mary's,30,Ben Ward,Ben Ward,Ben,Ward,Sr,D,30,15,14,0,2,2,3,1,18,6,14,0,0,8453910
 2024,Mount St. Mary's,37,Winston Chodnicki,Winston Chodnicki,Winston,Chodnicki,Sr,FO,37,14,0,0,0,0,1,1,5,2,1,15,54,8453913
 2024,Mount St. Mary's,49,Noah Persing,Noah Persing,Noah,Persing,Sr,ATT,49,14,0,6,7,13,34,18,3,9,1,0,0,8453914
 2024,Mount St. Mary's,11,Brian Bradley,Brian Bradley,Brian,Bradley,Jr,M,11,14,0,1,2,3,4,4,21,3,5,0,0,8205523
-2024,Mount St. Mary's,55,Owen  Peters,Owen  Peters,Owen,,So,GK,55,13,13,0,0,0,0,0,38,10,0,0,0,8205736
-2024,Mount St. Mary's,45,Isaac Prantera,Isaac Prantera,Isaac,Prantera,Fr,D,45,13,2,0,1,1,3,2,11,2,7,0,0,8453906
 2024,Mount St. Mary's,8,Gavin Schaffer,Gavin Schaffer,Gavin,Schaffer,So,M,8,13,0,1,0,1,6,4,4,10,0,0,0,8207022
+2024,Mount St. Mary's,45,Isaac Prantera,Isaac Prantera,Isaac,Prantera,Fr,D,45,13,2,0,1,1,3,2,11,2,7,0,0,8453906
+2024,Mount St. Mary's,55,Owen  Peters,Owen  Peters,Owen,,So,GK,55,13,13,0,0,0,0,0,38,10,0,0,0,8205736
 2024,Mount St. Mary's,31,Dan Bradley,Dan Bradley,Dan,Bradley,Sr,M,31,13,2,5,2,7,18,8,20,7,12,0,0,8453911
 2024,Mount St. Mary's,34,William Pippen,William Pippen,William,Pippen,Sr,D,34,11,3,0,0,0,0,0,13,3,1,0,0,8210270
 2024,Mount St. Mary's,25,Tom Niehaus,Tom Niehaus,Tom,Niehaus,Jr,M,25,11,1,4,3,7,21,11,8,7,0,0,0,8205414
 2024,Mount St. Mary's,47,Ian Plott,Ian Plott,Ian,Plott,So,ATT,47,10,0,4,2,6,17,10,4,6,0,0,0,8203442
 2024,Mount St. Mary's,3,Connor Barrett,Connor Barrett,Connor,Barrett,Jr,M,3,8,3,4,2,6,31,15,7,8,0,0,0,8204898
-2024,Mount St. Mary's,29,Armond Beausoleil,Armond Beausoleil,Armond,Beausoleil,Sr,M,29,6,0,0,1,1,3,1,0,1,0,0,0,8211141
 2024,Mount St. Mary's,26,Sean Connelly,Sean Connelly,Sean,Connelly,So,D,26,6,0,0,0,0,1,1,6,0,1,0,0,8204409
+2024,Mount St. Mary's,29,Armond Beausoleil,Armond Beausoleil,Armond,Beausoleil,Sr,M,29,6,0,0,1,1,3,1,0,1,0,0,0,8211141
 2024,Mount St. Mary's,44,Bennett Wright,Bennett Wright,Bennett,Wright,Fr,GK,44,5,2,0,0,0,0,0,9,7,0,0,0,8453905
 2024,Mount St. Mary's,2,Wil Vandegrift,Wil Vandegrift,Wil,Vandegrift,Sr,M,2,4,0,0,0,0,0,0,0,4,0,0,0,8206494
 2024,Mount St. Mary's,43,Grant Catello,Grant Catello,Grant,Catello,So,D,43,4,0,0,0,0,0,0,4,0,1,0,0,8210557
-2024,Mount St. Mary's,42,Klaus Anger,Klaus Anger,Klaus,Anger,So,FO,42,3,0,0,0,0,0,0,0,0,0,4,8,8208558
 2024,Mount St. Mary's,13,Jack Pilla,Jack Pilla,Jack,Pilla,So,ATT,13,3,0,0,0,0,0,0,0,1,0,0,0,8210340
+2024,Mount St. Mary's,42,Klaus Anger,Klaus Anger,Klaus,Anger,So,FO,42,3,0,0,0,0,0,0,0,0,0,4,8,8208558
 2024,Mount St. Mary's,39,Casey Domanski,Casey Domanski,Casey,Domanski,Sr,M,39,2,0,0,0,0,0,0,0,2,0,0,0,8204734
 2024,Mount St. Mary's,5,John Miller IV,John Miller IV,John,Miller,Jr,ATT,5,1,0,0,0,0,0,0,1,0,0,0,0,8201236
-2024,Mount St. Mary's,53,Kyle Baxter,Kyle Baxter,Kyle,Baxter,So,D,53,1,0,0,0,0,0,0,1,0,0,0,0,8207934
 2024,Mount St. Mary's,4,Noah Fox,Noah Fox,Noah,Fox,Fr,M,4,1,0,0,1,1,1,1,0,0,0,0,0,8453896
+2024,Mount St. Mary's,53,Kyle Baxter,Kyle Baxter,Kyle,Baxter,So,D,53,1,0,0,0,0,0,0,1,0,0,0,0,8207934
 2024,NJIT,17,Arthur Miller,Arthur Miller,Arthur,Miller,Sr,ATT,17,14,14,25,9,34,70,45,16,27,5,0,0,8210143
-2024,NJIT,23,Ben Roberts,Ben Roberts,Ben,Roberts,So,M,23,14,5,13,7,20,38,25,9,11,0,0,0,8448036
-2024,NJIT,33,Darren Romaine,Darren Romaine,Darren,Romaine,Jr,M,33,14,0,0,1,1,2,2,12,5,2,0,0,8203425
-2024,NJIT,51,Devon Ford,Devon Ford,Devon,Ford,Sr,M,51,14,0,0,0,0,0,0,4,3,1,0,0,8204281
+2024,NJIT,91,Charlie Robbins,Charlie Robbins,Charlie,Robbins,Jr,D,91,14,12,0,0,0,1,1,15,8,7,0,0,8207380
+2024,NJIT,15,Ryan Sininsky,Ryan Sininsky,Ryan,Sininsky,So,M,15,14,14,14,13,27,45,28,4,15,2,0,0,8213074
 2024,NJIT,43,Josh Failla,Josh Failla,Josh,Failla,Sr,D,43,14,0,1,0,1,7,2,27,8,6,0,0,8208273
 2024,NJIT,32,Teddy Grimley,Teddy Grimley,Teddy,Grimley,Sr,D,32,14,14,2,2,4,12,7,28,15,21,0,0,8209801
-2024,NJIT,31,Myles Hickey,Myles Hickey,Myles,Hickey,Sr,M,31,14,0,1,2,3,3,1,5,0,4,0,0,8203166
-2024,NJIT,18,Garrett Muscatella,Garrett Muscatella,Garrett,Muscatella,Sr,ATT,18,14,14,29,16,45,71,49,20,29,3,0,0,8207220
-2024,NJIT,91,Charlie Robbins,Charlie Robbins,Charlie,Robbins,Jr,D,91,14,12,0,0,0,1,1,15,8,7,0,0,8207380
-2024,NJIT,55,Sullivan O'Brien,Sullivan O'Brien,Sullivan,O'Brien,Fr,D,55,14,3,0,0,0,4,2,21,8,7,0,0,8452376
 2024,NJIT,19,Keegan Ford,Keegan Ford,Keegan,Ford,Sr,M,19,14,0,0,2,2,4,2,8,7,2,0,0,8448033
 2024,NJIT,6,Liam Brown,Liam Brown,Liam,Brown,Sr,GK,6,14,14,0,1,1,1,0,41,10,8,0,0,8448032
 2024,NJIT,40,Billy Kroeger,Billy Kroeger,Billy,Kroeger,Sr,FO,40,14,0,2,3,5,9,5,124,12,2,206,348,8207590
 2024,NJIT,9,Beck Gozdenovich,Beck Gozdenovich,Beck,Gozdenovich,Sr,M,9,14,0,4,3,7,8,7,20,4,6,0,0,8448035
 2024,NJIT,56,Hank Bethel,Hank Bethel,Hank,Bethel,Sr,D,56,14,14,2,0,2,6,5,30,5,30,0,0,8448031
+2024,NJIT,23,Ben Roberts,Ben Roberts,Ben,Roberts,So,M,23,14,5,13,7,20,38,25,9,11,0,0,0,8448036
 2024,NJIT,2,Logan	 Hone,Logan	 Hone,Logan,Hone,Sr,M,2,14,1,3,2,5,31,14,5,3,0,0,0,8210490
-2024,NJIT,15,Ryan Sininsky,Ryan Sininsky,Ryan,Sininsky,So,M,15,14,14,14,13,27,45,28,4,15,2,0,0,8213074
+2024,NJIT,55,Sullivan O'Brien,Sullivan O'Brien,Sullivan,O'Brien,Fr,D,55,14,3,0,0,0,4,2,21,8,7,0,0,8452376
+2024,NJIT,33,Darren Romaine,Darren Romaine,Darren,Romaine,Jr,M,33,14,0,0,1,1,2,2,12,5,2,0,0,8203425
+2024,NJIT,51,Devon Ford,Devon Ford,Devon,Ford,Sr,M,51,14,0,0,0,0,0,0,4,3,1,0,0,8204281
+2024,NJIT,18,Garrett Muscatella,Garrett Muscatella,Garrett,Muscatella,Sr,ATT,18,14,14,29,16,45,71,49,20,29,3,0,0,8207220
+2024,NJIT,31,Myles Hickey,Myles Hickey,Myles,Hickey,Sr,M,31,14,0,1,2,3,3,1,5,0,4,0,0,8203166
 2024,NJIT,50,Brandon Wasitowski,Brandon Wasitowski,Brandon,Wasitowski,Sr,ATT,50,13,0,4,2,6,25,11,6,5,0,0,0,8207864
 2024,NJIT,13,Jack Bowie,Jack Bowie,Jack,Bowie,Sr,ATT,13,13,13,21,10,31,68,43,16,19,5,0,0,8210969
 2024,NJIT,22,Michael Rettberg,Michael Rettberg,Michael,Rettberg,Fr,M,22,13,0,5,3,8,22,9,1,8,0,0,0,8452395
@@ -1717,20 +1717,20 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,NJIT,4,Jack Mahony,Jack Mahony,Jack,Mahony,Sr,LSM,4,11,0,0,1,1,1,1,1,0,0,0,0,8211180
 2024,NJIT,8,Adyn Cover,Adyn Cover,Adyn,Cover,Fr,M,8,11,3,6,5,11,15,10,3,7,0,0,0,8452246
 2024,NJIT,7,Owen Mercado,Owen Mercado,Owen,Mercado,So,M,7,9,0,0,1,1,1,1,2,2,4,0,0,8211488
-2024,NJIT,66,Jesse Roth,Jesse Roth,Jesse,Roth,Sr,M,66,8,8,14,7,21,35,23,3,15,0,0,0,8448037
 2024,NJIT,20,Thomas Schutta,Thomas Schutta,Thomas,Schutta,Fr,M,20,8,0,0,1,1,3,1,0,2,0,0,0,8206444
+2024,NJIT,66,Jesse Roth,Jesse Roth,Jesse,Roth,Sr,M,66,8,8,14,7,21,35,23,3,15,0,0,0,8448037
 2024,NJIT,5,Gabe Thompson,Gabe Thompson,Gabe,Thompson,Fr,M,5,7,0,2,2,4,9,6,3,1,1,0,0,8452441
 2024,NJIT,25,Steven Pepe,Steven Pepe,Steven,Pepe,Fr,FO,25,4,0,0,0,0,0,0,3,0,0,5,11,8204648
 2024,NJIT,1,Nate Paulo,Nate Paulo,Nate,Paulo,Fr,ATT,1,3,0,2,1,3,2,2,1,0,0,0,0,8211583
+2024,NJIT,10,Tyler Sininsky,Tyler Sininsky,Tyler,Sininsky,Fr,GK,10,2,0,0,0,0,0,0,0,0,0,0,0,8206056
 2024,NJIT,3,Nick O'Melia,Nick O'Melia,Nick,O'Melia,Sr,LSM,3,2,0,0,0,0,0,0,0,0,0,0,0,8212108
 2024,NJIT,99,Alystair Hemberger,Alystair Hemberger,Alystair,Hemberger,So,ATT,99,2,0,0,0,0,2,2,0,1,0,0,0,8201405
-2024,NJIT,10,Tyler Sininsky,Tyler Sininsky,Tyler,Sininsky,Fr,GK,10,2,0,0,0,0,0,0,0,0,0,0,0,8206056
 2024,NJIT,16,Colton Jones,Colton Jones,Colton,Jones,Jr,D,16,2,0,0,0,0,0,0,0,1,0,0,0,8205362
-2024,NJIT,36,Amadeo Miller,Amadeo Miller,Amadeo,Miller,Fr,ATT,36,1,0,0,0,0,0,0,1,1,0,0,0,8452344
-2024,NJIT,24,Charlie Schmitt,Charlie Schmitt,Charlie,Schmitt,Fr,GK,24,1,0,0,0,0,0,0,0,0,0,0,0,8203558
 2024,NJIT,14,Kenny McGoldrick,Kenny McGoldrick,Kenny,McGoldrick,Fr,D,14,1,0,0,0,0,0,0,0,0,0,0,0,8452274
-2024,NJIT,11,Cayston Conover,Cayston Conover,Cayston,Conover,Fr,D,11,1,0,0,0,0,0,0,0,0,0,0,0,8213112
 2024,NJIT,27,Jack Moxcey,Jack Moxcey,Jack,Moxcey,Fr,M,27,1,0,0,0,0,0,0,0,0,0,0,0,8452351
+2024,NJIT,36,Amadeo Miller,Amadeo Miller,Amadeo,Miller,Fr,ATT,36,1,0,0,0,0,0,0,1,1,0,0,0,8452344
+2024,NJIT,11,Cayston Conover,Cayston Conover,Cayston,Conover,Fr,D,11,1,0,0,0,0,0,0,0,0,0,0,0,8213112
+2024,NJIT,24,Charlie Schmitt,Charlie Schmitt,Charlie,Schmitt,Fr,GK,24,1,0,0,0,0,0,0,0,0,0,0,0,8203558
 2024,Navy,20,Zach Hayashi,Zach Hayashi,Zach,Hayashi,Fr,FO,20,16,0,2,2,4,3,2,105,12,2,214,372,8413950
 2024,Navy,32,Jack Flaherty,Jack Flaherty,Jack,Flaherty,So,M,32,16,0,6,7,13,27,17,13,7,3,0,0,8207314
 2024,Navy,1,Dan Daly,Dan Daly,Dan,Daly,So,GK,1,16,16,0,0,0,1,0,34,8,1,0,0,8212383
@@ -1788,6 +1788,7 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,Navy,21,Taylor LaFar,Taylor LaFar,Taylor,LaFar,Jr,M,21,1,0,0,0,0,0,0,0,1,0,0,0,8203047
 2024,Navy,63,David Graham,David Graham,David,Graham,Jr,FO,63,1,0,0,0,0,0,0,0,0,0,0,1,8529431
 2024,Navy,5,J.P. Underwood,J.P. Underwood,J.P.,Underwood,Fr,LSM,5,1,0,0,0,0,0,0,0,0,0,0,0,8413968
+2024,North Carolina,22,Brady Wambach,Brady Wambach,Brady,Wambach,Fr,FO,22,14,0,4,4,8,11,8,85,7,1,146,239,8413063
 2024,North Carolina,5,Peter Thomann,Peter Thomann,Peter,Thomann,Fr,D,5,14,14,0,0,0,3,3,28,8,21,0,0,8413062
 2024,North Carolina,18,Andrew Preis,Andrew Preis,Andrew,Preis,Fr,M,18,14,4,4,1,5,17,9,0,9,1,0,0,8413061
 2024,North Carolina,33,Kai Prohaszka,Kai Prohaszka,Kai,Prohaszka,So,D,33,14,0,0,1,1,1,1,12,2,2,0,0,8207718
@@ -1804,36 +1805,36 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,North Carolina,31,Danny Striano,Danny Striano,Danny,Striano,Sr,SSDM,31,14,0,3,2,5,10,7,31,3,5,0,0,8413075
 2024,North Carolina,1,Logan McGovern,Logan McGovern,Logan,McGovern,Sr,ATT,1,14,14,25,29,54,72,51,21,20,2,0,0,8413069
 2024,North Carolina,9,Andrew Geppert,Andrew Geppert,Andrew,Geppert,Sr,D,9,14,14,0,0,0,1,1,27,2,13,0,0,8413067
-2024,North Carolina,22,Brady Wambach,Brady Wambach,Brady,Wambach,Fr,FO,22,14,0,4,4,8,11,8,85,7,1,146,239,8413063
 2024,North Carolina,88,Alex Breschi,Alex Breschi,Alex,Breschi,Sr,DM,88,13,0,1,0,1,1,1,4,3,0,0,0,8413066
+2024,North Carolina,12,Trevor Deubner,Trevor Deubner,Trevor,Deubner,Sr,ATT,12,12,2,8,2,10,19,14,3,3,0,0,0,8203080
 2024,North Carolina,6,Johnny Schwarz,Johnny Schwarz,Johnny,Schwarz,Jr,M,6,12,0,5,5,10,16,10,7,8,3,0,0,8208926
 2024,North Carolina,21,Dewey Egan,Dewey Egan,Dewey,Egan,Jr,ATT,21,12,9,5,0,5,30,14,1,7,0,0,0,8209410
-2024,North Carolina,12,Trevor Deubner,Trevor Deubner,Trevor,Deubner,Sr,ATT,12,12,2,8,2,10,19,14,3,3,0,0,0,8203080
-2024,North Carolina,8,Owen Duffy,Owen Duffy,Owen,Duffy,Fr,ATT,8,12,12,32,22,54,128,68,14,33,5,0,0,8413053
 2024,North Carolina,43,Tyler Schwarz,Tyler Schwarz,Tyler,Schwarz,Jr,D,43,12,0,0,1,1,0,0,10,2,6,0,0,8202280
-2024,North Carolina,37,Matt Wrede,Matt Wrede,Matt,Wrede,So,ATT,37,11,2,8,1,9,13,10,4,4,0,0,0,8204820
+2024,North Carolina,8,Owen Duffy,Owen Duffy,Owen,Duffy,Fr,ATT,8,12,12,32,22,54,128,68,14,33,5,0,0,8413053
 2024,North Carolina,24,Paul Barton,Paul Barton,Paul,Barton,Jr,D,24,11,11,2,0,2,4,3,14,0,14,0,0,8213201
+2024,North Carolina,37,Matt Wrede,Matt Wrede,Matt,Wrede,So,ATT,37,11,2,8,1,9,13,10,4,4,0,0,0,8204820
 2024,North Carolina,34,Brett Koopman,Brett Koopman,Brett,Koopman,Fr,D,34,9,0,0,1,1,1,1,7,4,2,0,0,8413057
-2024,North Carolina,4,Harry Wellford,Harry Wellford,Harry,Wellford,Sr,M,4,8,1,2,1,3,12,6,2,5,0,0,0,8413079
 2024,North Carolina,15,Antonio DeMarco,Antonio DeMarco,Antonio,DeMarco,Jr,M,15,8,2,5,3,8,22,10,5,5,1,0,0,8202092
+2024,North Carolina,4,Harry Wellford,Harry Wellford,Harry,Wellford,Sr,M,4,8,1,2,1,3,12,6,2,5,0,0,0,8413079
 2024,North Carolina,44,P.J. Zinsner,P.J. Zinsner,P.J.,Zinsner,Sr,M,44,8,0,0,1,1,2,1,1,2,0,0,0,8413080
 2024,North Carolina,25,Tayden Bultman,Tayden Bultman,Tayden,Bultman,So,M,25,8,0,0,0,0,1,0,1,2,0,0,0,8205985
-2024,North Carolina,90,Blake Gable,Blake Gable,Blake,Gable,Sr,D,90,7,0,0,0,0,0,0,1,0,0,0,0,8202764
 2024,North Carolina,28,Caden Whaling,Caden Whaling,Caden,Whaling,So,M,28,7,0,0,0,0,1,1,0,1,0,0,0,8210892
-2024,North Carolina,36,Niko Karetsos,Niko Karetsos,Niko,Karetsos,Fr,ATT,36,5,0,1,0,1,3,1,1,1,0,0,0,8413055
+2024,North Carolina,90,Blake Gable,Blake Gable,Blake,Gable,Sr,D,90,7,0,0,0,0,0,0,1,0,0,0,0,8202764
 2024,North Carolina,38,Hartley Jordan,Hartley Jordan,Hartley,Jordan,Sr,M,38,5,0,0,0,0,1,0,2,3,0,0,0,8413068
+2024,North Carolina,36,Niko Karetsos,Niko Karetsos,Niko,Karetsos,Fr,ATT,36,5,0,1,0,1,3,1,1,1,0,0,0,8413055
 2024,North Carolina,17,Teddy Gabrielian,Teddy Gabrielian,Teddy,Gabrielian,Fr,M,17,4,0,0,0,0,1,1,2,0,0,0,0,8413054
-2024,North Carolina,2,Kent Goode,Kent Goode,Kent,Goode,So,GK,2,4,0,0,0,0,0,0,5,1,0,0,0,8209793
 2024,North Carolina,42,George  Kalos,George  Kalos,George,,So,FO,42,4,0,0,0,0,0,0,4,0,0,7,9,8203372
+2024,North Carolina,2,Kent Goode,Kent Goode,Kent,Goode,So,GK,2,4,0,0,0,0,0,0,5,1,0,0,0,8209793
 2024,North Carolina,20,Owen Dixon,Owen Dixon,Owen,Dixon,Fr,ATT,20,3,0,0,1,1,2,2,0,0,0,0,0,8413052
 2024,North Carolina,46,Alec Levy,Alec Levy,Alec,Levy,Fr,ATT,46,3,0,0,0,0,1,1,1,1,0,0,0,8413058
-2024,North Carolina,35,Ryan O'Leary,Ryan O'Leary,Ryan,O'Leary,Sr,DM,35,2,0,0,0,0,0,0,0,1,0,0,0,8413071
 2024,North Carolina,51,Michael Lizzio,Michael Lizzio,Michael,Lizzio,Sr,M,51,2,0,0,0,0,1,0,0,1,0,0,0,8209375
-2024,North Carolina,16,Edwin Shy,Edwin Shy,Edwin,Shy,Jr,M,16,2,0,1,0,1,2,1,0,0,0,0,0,8208875
+2024,North Carolina,35,Ryan O'Leary,Ryan O'Leary,Ryan,O'Leary,Sr,DM,35,2,0,0,0,0,0,0,0,1,0,0,0,8413071
 2024,North Carolina,98,Hayden Downs,Hayden Downs,Hayden,Downs,So,D,98,2,0,0,0,0,0,0,0,0,1,0,0,8207985
+2024,North Carolina,16,Edwin Shy,Edwin Shy,Edwin,Shy,Jr,M,16,2,0,1,0,1,2,1,0,0,0,0,0,8208875
+2024,North Carolina,99,Colin Hannigan,Colin Hannigan,Colin,Hannigan,So,FO,99,1,0,0,0,0,0,0,0,0,0,1,1,8205789
 2024,North Carolina,49,Alec Riddle,Alec Riddle,Alec,Riddle,So,D,49,1,0,0,0,0,0,0,1,0,0,0,0,8204007
 2024,North Carolina,40,Will Pettit,Will Pettit,Will,Pettit,Sr,GK,40,1,0,0,0,0,0,0,0,0,0,1,1,8413072
-2024,North Carolina,99,Colin Hannigan,Colin Hannigan,Colin,Hannigan,So,FO,99,1,0,0,0,0,0,0,0,0,0,1,1,8205789
+2024,Notre Dame,90,Shawn Lyght,Shawn Lyght,Shawn,Lyght,Fr,D,90,17,17,0,0,0,0,0,19,1,6,0,0,8422342
 2024,Notre Dame,14,Jordan Faison,Jordan Faison,Jordan,Faison,So,M,14,17,17,22,8,30,59,35,17,15,6,0,0,8422326
 2024,Notre Dame,81,Will Donovan,Will Donovan,Will,Donovan,So,LSM,81,17,0,2,0,2,2,2,33,4,21,0,0,8205538
 2024,Notre Dame,24,Ben Ramsey,Ben Ramsey,Ben,Ramsey,Jr,SSDM,24,17,0,2,2,4,5,2,39,11,13,0,0,8204241
@@ -1849,24 +1850,23 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,Notre Dame,13,Jake Taylor,Jake Taylor,Jake,Taylor,Sr,ATT,13,17,17,41,4,45,83,55,14,11,2,0,0,8421498
 2024,Notre Dame,29,Devon McLane,Devon McLane,Devon,McLane,Sr,ATT,29,17,17,37,8,45,80,57,11,9,2,0,0,8422331
 2024,Notre Dame,20,Chris Conlin,Chris Conlin,Chris,Conlin,Sr,D,20,17,17,1,1,2,1,1,41,9,18,0,0,8421490
-2024,Notre Dame,90,Shawn Lyght,Shawn Lyght,Shawn,Lyght,Fr,D,90,17,17,0,0,0,0,0,19,1,6,0,0,8422342
-2024,Notre Dame,10,Will Angrick,Will Angrick,Will,Angrick,Jr,M,10,16,0,8,6,14,35,15,8,11,0,0,0,8202506
 2024,Notre Dame,77,Nick Harris,Nick Harris,Nick,Harris,Sr,SSDM,77,16,0,3,1,4,7,6,8,5,6,0,0,8421494
 2024,Notre Dame,22,Will Lynch,Will Lynch,Will,Lynch,Jr,FO,22,16,0,4,1,5,10,7,113,4,2,202,330,8203466
 2024,Notre Dame,4,Colin Hagstrom,Colin Hagstrom,Colin,Hagstrom,Sr,FO,4,16,0,0,1,1,2,1,22,7,1,50,107,8203060
-2024,Notre Dame,5,Bryce Walker,Bryce Walker,Bryce,Walker,Sr,ATT,5,15,0,5,2,7,15,12,0,6,0,0,0,8207966
+2024,Notre Dame,10,Will Angrick,Will Angrick,Will,Angrick,Jr,M,10,16,0,8,6,14,35,15,8,11,0,0,0,8202506
 2024,Notre Dame,23,Max Busenkell,Max Busenkell,Max,Busenkell,So,M,23,15,0,11,8,19,20,15,5,7,2,0,0,8205164
+2024,Notre Dame,5,Bryce Walker,Bryce Walker,Bryce,Walker,Sr,ATT,5,15,0,5,2,7,15,12,0,6,0,0,0,8207966
 2024,Notre Dame,19,Christian Alacqua,Christian Alacqua,Christian,Alacqua,So,M,19,14,0,0,0,0,0,0,2,0,2,0,1,8205075
-2024,Notre Dame,2,Fulton Bayman,Fulton Bayman,Fulton,Bayman,Sr,ATT,2,13,0,4,4,8,13,8,1,2,0,0,0,8421491
 2024,Notre Dame,26,Jalen Seymour,Jalen Seymour,Jalen,Seymour,Jr,M,26,13,0,4,2,6,15,7,3,4,0,0,0,8211916
+2024,Notre Dame,2,Fulton Bayman,Fulton Bayman,Fulton,Bayman,Sr,ATT,2,13,0,4,4,8,13,8,1,2,0,0,0,8421491
 2024,Notre Dame,6,Fisher Finley,Fisher Finley,Fisher,Finley,Jr,M,6,11,0,2,1,3,7,4,0,2,0,0,0,8203158
 2024,Notre Dame,12,Tyler Buchner,Tyler Buchner,Tyler,Buchner,Jr,M,12,11,0,0,1,1,3,1,3,2,3,0,0,8422325
 2024,Notre Dame,36,Brock Behrman,Brock Behrman,Brock,Behrman,Fr,ATT,36,10,0,1,0,1,1,1,0,0,0,0,0,8422335
 2024,Notre Dame,47,Will Gallagher,Will Gallagher,Will,Gallagher,So,D,47,9,2,0,0,0,0,0,5,0,1,0,0,8209152
 2024,Notre Dame,37,Nate Schwitzenberg,Nate Schwitzenberg,Nate,Schwitzenberg,Fr,D,37,9,0,0,0,0,0,0,2,0,1,0,0,8422336
 2024,Notre Dame,15,Andrew Greenspan,Andrew Greenspan,Andrew,Greenspan,Fr,FO,15,7,0,0,0,0,0,0,9,1,0,0,0,8422328
-2024,Notre Dame,31,BJ Burlace,BJ Burlace,BJ,Burlace,Sr,D,31,6,0,0,0,0,0,0,1,0,0,0,0,8422332
 2024,Notre Dame,52,Alex Zepf,Alex Zepf,Alex,Zepf,Jr,GK,52,6,0,0,0,0,0,0,1,0,0,0,0,8213117
+2024,Notre Dame,31,BJ Burlace,BJ Burlace,BJ,Burlace,Sr,D,31,6,0,0,0,0,0,0,1,0,0,0,0,8422332
 2024,Notre Dame,7,Danny Parker,Danny Parker,Danny,Parker,Sr,M,7,5,0,0,0,0,0,0,6,1,0,0,0,8422322
 2024,Notre Dame,25,Will Maheras,Will Maheras,Will,Maheras,So,ATT,25,4,0,1,1,2,4,3,2,1,1,0,0,8213032
 2024,Notre Dame,80,Jake Bonomi,Jake Bonomi,Jake,Bonomi,Sr,M,80,4,0,0,0,0,1,0,0,1,0,0,0,8422340
@@ -1874,28 +1874,28 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,Notre Dame,3,Declan Cooke,Declan Cooke,Declan,Cooke,So,D,3,2,0,0,0,0,0,0,2,0,0,0,0,8210389
 2024,Notre Dame,33,Sam Assaf,Sam Assaf,Sam,Assaf,Sr,D,33,1,0,0,0,0,0,0,1,0,1,0,0,8421489
 2024,Notre Dame,9,Logan Gutzwiller,Logan Gutzwiller,Logan,Gutzwiller,Jr,M,9,1,0,0,0,0,0,0,1,0,0,0,0,8209180
-2024,Notre Dame,91,Griffin Grant,Griffin Grant,Griffin,Grant,So,ATT,91,1,0,1,1,2,1,1,2,0,0,0,0,8204870
 2024,Notre Dame,45,Ryan Sforzo,Ryan Sforzo,Ryan,Sforzo,So,M,45,1,0,1,0,1,1,1,0,0,0,0,0,8207106
+2024,Notre Dame,91,Griffin Grant,Griffin Grant,Griffin,Grant,So,ATT,91,1,0,1,1,2,1,1,2,0,0,0,0,8204870
+2024,Ohio St.,20,Jonny Cool,Jonny Cool,Jonny,Cool,So,D,20,15,0,0,0,0,0,0,13,0,10,0,0,8205517
+2024,Ohio St.,42,Cullen Brown,Cullen Brown,Cullen,Brown,So,D,42,15,15,0,1,1,2,0,52,9,17,0,0,8202731
+2024,Ohio St.,4,Ben Mayer,Ben Mayer,Ben,Mayer,Jr,ATT,4,15,5,18,6,24,61,25,13,11,0,0,0,8424493
 2024,Ohio St.,27,Jack McKenna,Jack McKenna,Jack,McKenna,Jr,ATT,27,15,12,21,9,30,71,45,15,23,2,0,0,8424504
+2024,Ohio St.,10,Ed Shean,Ed Shean,Ed,Shean,Jr,ATT,10,15,10,17,11,28,51,31,27,19,2,0,0,8211414
 2024,Ohio St.,45,Alex Marinier,Alex Marinier,Alex,Marinier,Jr,D,45,15,11,28,2,30,95,57,12,10,3,0,0,8205637
 2024,Ohio St.,3,Ari Allen,Ari Allen,Ari,Allen,Jr,M,3,15,0,5,3,8,23,12,4,7,0,0,0,8210723
-2024,Ohio St.,4,Ben Mayer,Ben Mayer,Ben,Mayer,Jr,ATT,4,15,5,18,6,24,61,25,13,11,0,0,0,8424493
-2024,Ohio St.,42,Cullen Brown,Cullen Brown,Cullen,Brown,So,D,42,15,15,0,1,1,2,0,52,9,17,0,0,8202731
 2024,Ohio St.,24,Gannon Matthews,Gannon Matthews,Gannon,Matthews,Jr,ATT,24,15,15,19,7,26,86,48,13,24,1,0,0,8424503
 2024,Ohio St.,38,Greg Langermeier,Greg Langermeier,Greg,Langermeier,Sr,M,38,15,0,1,2,3,10,4,20,7,8,0,0,8212030
 2024,Ohio St.,18,Trent DiCicco,Trent DiCicco,Trent,DiCicco,Sr,M,18,15,1,0,2,2,2,0,16,5,4,0,0,8202024
 2024,Ohio St.,52,Jacob Snyder,Jacob Snyder,Jacob,Snyder,Sr,D,52,15,12,0,0,0,1,0,16,1,15,0,0,8424505
-2024,Ohio St.,10,Ed Shean,Ed Shean,Ed,Shean,Jr,ATT,10,15,10,17,11,28,51,31,27,19,2,0,0,8211414
-2024,Ohio St.,11,Marcus Hudgins,Marcus Hudgins,Marcus,Hudgins,Sr,D,11,15,15,1,3,4,1,1,48,2,22,0,0,8424481
-2024,Ohio St.,20,Jonny Cool,Jonny Cool,Jonny,Cool,So,D,20,15,0,0,0,0,0,0,13,0,10,0,0,8205517
 2024,Ohio St.,6,Eli Fisher,Eli Fisher,Eli,Fisher,Sr,M,6,15,0,0,3,3,0,0,7,3,6,0,0,8424496
-2024,Ohio St.,34,Blake Eiland,Blake Eiland,Blake,Eiland,So,M,34,14,6,12,2,14,36,21,9,9,4,0,0,8201830
-2024,Ohio St.,1,Caleb Fyock,Caleb Fyock,Caleb,Fyock,Fr,GK,1,14,14,0,0,0,4,1,24,8,3,0,0,8424424
-2024,Ohio St.,37,Justin Sherrer,Justin Sherrer,Justin,Sherrer,Sr,D,37,14,2,2,1,3,2,2,8,2,11,0,0,8424508
-2024,Ohio St.,31,Matt Caputo,Matt Caputo,Matt,Caputo,So,ATT,31,14,6,10,5,15,37,20,22,12,1,0,0,8208110
+2024,Ohio St.,11,Marcus Hudgins,Marcus Hudgins,Marcus,Hudgins,Sr,D,11,15,15,1,3,4,1,1,48,2,22,0,0,8424481
 2024,Ohio St.,8,Connor Cmiel,Connor Cmiel,Connor,Cmiel,Sr,M,8,14,0,0,1,1,11,5,24,4,16,0,0,8210284
-2024,Ohio St.,30,Kurt Bruun,Kurt Bruun,Kurt,Bruun,Sr,ATT,30,14,3,9,4,13,21,13,6,2,3,0,0,8424509
+2024,Ohio St.,34,Blake Eiland,Blake Eiland,Blake,Eiland,So,M,34,14,6,12,2,14,36,21,9,9,4,0,0,8201830
 2024,Ohio St.,43,Dillon Magee,Dillon Magee,Dillon,Magee,So,M,43,14,9,5,1,6,25,11,9,7,0,0,0,8208869
+2024,Ohio St.,30,Kurt Bruun,Kurt Bruun,Kurt,Bruun,Sr,ATT,30,14,3,9,4,13,21,13,6,2,3,0,0,8424509
+2024,Ohio St.,37,Justin Sherrer,Justin Sherrer,Justin,Sherrer,Sr,D,37,14,2,2,1,3,2,2,8,2,11,0,0,8424508
+2024,Ohio St.,1,Caleb Fyock,Caleb Fyock,Caleb,Fyock,Fr,GK,1,14,14,0,0,0,4,1,24,8,3,0,0,8424424
+2024,Ohio St.,31,Matt Caputo,Matt Caputo,Matt,Caputo,So,ATT,31,14,6,10,5,15,37,20,22,12,1,0,0,8208110
 2024,Ohio St.,17,Jack Oldman,Jack Oldman,Jack,Oldman,Fr,FO,17,13,0,1,3,4,2,1,54,6,1,70,135,8424440
 2024,Ohio St.,2,Thomas Greenblatt,Thomas Greenblatt,Thomas,Greenblatt,Sr,M,2,13,6,4,3,7,19,10,5,1,0,0,0,8424492
 2024,Ohio St.,9,Tommy Burke,Tommy Burke,Tommy,Burke,Sr,FO,9,13,0,0,1,1,0,0,62,7,1,117,213,8424497
@@ -1904,49 +1904,49 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,Ohio St.,14,Brett Gladstone,Brett Gladstone,Brett,Gladstone,Sr,M,14,10,2,1,0,1,11,6,2,3,0,0,0,8424499
 2024,Ohio St.,32,Tate Jones,Tate Jones,Tate,Jones,So,M,32,6,0,0,1,1,5,1,2,3,0,0,0,8211145
 2024,Ohio St.,47,Sam Burns,Sam Burns,Sam,Burns,So,M,47,6,0,1,0,1,3,1,1,2,0,0,0,8204673
-2024,Ohio St.,5,Mitchell Sandberg,Mitchell Sandberg,Mitchell,Sandberg,Sr,ATT,5,4,1,0,1,1,2,1,0,0,0,0,0,8208239
 2024,Ohio St.,15,Zack Antoniou,Zack Antoniou,Zack,Antoniou,Jr,D,15,4,0,0,0,0,0,0,1,0,1,0,0,8424502
+2024,Ohio St.,5,Mitchell Sandberg,Mitchell Sandberg,Mitchell,Sandberg,Sr,ATT,5,4,1,0,1,1,2,1,0,0,0,0,0,8208239
 2024,Ohio St.,51,Garrett Haas,Garrett Haas,Garrett,Haas,Fr,ATT,51,4,0,1,0,1,5,3,3,4,1,0,0,8424461
 2024,Ohio St.,33,Coleman Kraske,Coleman Kraske,Coleman,Kraske,So,FO,33,4,0,0,0,0,0,0,5,1,0,10,16,8210147
-2024,Ohio St.,50,Danny Brady,Danny Brady,Danny,Brady,Sr,GK,50,3,0,0,0,0,0,0,2,4,1,0,0,8424506
 2024,Ohio St.,44,Bobby Van Buren,Bobby Van Buren,Bobby,Van,Jr,D,44,3,2,0,0,0,1,0,3,1,0,0,0,8206699
+2024,Ohio St.,50,Danny Brady,Danny Brady,Danny,Brady,Sr,GK,50,3,0,0,0,0,0,0,2,4,1,0,0,8424506
 2024,Ohio St.,7,Henry Blake,Henry Blake,Henry,Blake,Jr,GK,7,2,1,0,0,0,0,0,2,0,0,0,0,8213114
 2024,Ohio St.,35,Ellis McDonald,Ellis McDonald,Ellis,McDonald,Fr,D,35,2,0,0,0,0,0,0,1,1,0,0,0,8424453
-2024,Penn,50,Leo Hoffman,Leo Hoffman,Leo,Hoffman,Fr,ATT,50,15,7,7,6,13,23,13,5,8,0,0,0,8420541
-2024,Penn,43,Ryan McLaughlin,Ryan McLaughlin,Ryan,McLaughlin,So,LSM,43,15,0,0,0,0,1,1,25,4,9,0,0,8203082
 2024,Penn,38,Griffin Scane,Griffin Scane,Griffin,Scane,So,M,38,15,4,16,10,26,44,30,7,12,2,0,0,8207405
-2024,Penn,20,Tyler Kuehl,Tyler Kuehl,Tyler,Kuehl,Jr,D,20,15,1,1,0,1,1,1,13,0,6,0,0,8202780
+2024,Penn,43,Ryan McLaughlin,Ryan McLaughlin,Ryan,McLaughlin,So,LSM,43,15,0,0,0,0,1,1,25,4,9,0,0,8203082
 2024,Penn,45,Ethan Till,Ethan Till,Ethan,Till,Jr,D,45,15,15,0,0,0,0,0,12,3,13,0,0,8204739
 2024,Penn,24,Ben Smith,Ben Smith,Ben,Smith,Jr,ATT,24,15,15,28,9,37,85,54,17,22,3,0,0,8209603
 2024,Penn,22,Emmet Carroll,Emmet Carroll,Emmet,Carroll,Sr,GK,22,15,15,0,2,2,0,0,37,11,6,0,0,8211490
 2024,Penn,46,Brendan Lavelle,Brendan Lavelle,Brendan,Lavelle,Sr,D,46,15,15,1,0,1,2,1,49,10,18,0,0,8208531
-2024,Penn,12,Cam Rubin,Cam Rubin,Cam,Rubin,Sr,ATT,12,15,6,31,4,35,86,51,10,8,0,0,0,8211956
-2024,Penn,27,Connell Kumar,Connell Kumar,Connell,Kumar,Jr,M,27,15,2,5,3,8,21,12,2,7,0,0,0,8420546
-2024,Penn,3,Robert Schain,Robert Schain,Robert,Schain,Sr,ATT,3,15,1,2,2,4,15,9,8,12,0,0,0,8420519
-2024,Penn,19,James Shipley,James Shipley,James,Shipley,Sr,M,19,15,13,13,13,26,58,35,12,17,3,0,0,8420520
+2024,Penn,20,Tyler Kuehl,Tyler Kuehl,Tyler,Kuehl,Jr,D,20,15,1,1,0,1,1,1,13,0,6,0,0,8202780
 2024,Penn,41,Peter Blake,Peter Blake,Peter,Blake,Sr,D,41,15,15,0,0,0,0,0,29,8,11,0,0,8420513
+2024,Penn,19,James Shipley,James Shipley,James,Shipley,Sr,M,19,15,13,13,13,26,58,35,12,17,3,0,0,8420520
+2024,Penn,50,Leo Hoffman,Leo Hoffman,Leo,Hoffman,Fr,ATT,50,15,7,7,6,13,23,13,5,8,0,0,0,8420541
+2024,Penn,3,Robert Schain,Robert Schain,Robert,Schain,Sr,ATT,3,15,1,2,2,4,15,9,8,12,0,0,0,8420519
+2024,Penn,27,Connell Kumar,Connell Kumar,Connell,Kumar,Jr,M,27,15,2,5,3,8,21,12,2,7,0,0,0,8420546
+2024,Penn,12,Cam Rubin,Cam Rubin,Cam,Rubin,Sr,ATT,12,15,6,31,4,35,86,51,10,8,0,0,0,8211956
 2024,Penn,6,Luke DiNola,Luke DiNola,Luke,DiNola,Jr,ATT,6,14,14,15,9,24,39,29,17,11,2,0,0,8210949
+2024,Penn,51,Matt Palazzi,Matt Palazzi,Matt,Palazzi,Sr,M,51,14,2,1,0,1,2,2,12,3,4,0,0,8420518
 2024,Penn,54,Anthony McMullan,Anthony McMullan,Anthony,McMullan,Fr,M,54,14,0,3,1,4,7,5,14,11,6,0,0,8420542
 2024,Penn,39,Jacob Pacheco,Jacob Pacheco,Jacob,Pacheco,Fr,M,39,14,0,0,1,1,2,0,12,3,0,0,0,8420537
 2024,Penn,60,Tynan Walsh,Tynan Walsh,Tynan,Walsh,Jr,ATT,60,14,14,23,22,45,51,38,20,18,1,0,0,8210416
-2024,Penn,51,Matt Palazzi,Matt Palazzi,Matt,Palazzi,Sr,M,51,14,2,1,0,1,2,2,12,3,4,0,0,8420518
-2024,Penn,14,Chris Canet,Chris Canet,Chris,Canet,Jr,M,14,13,0,1,1,2,6,4,2,8,0,0,0,8204655
 2024,Penn,33,Chris Arceri,Chris Arceri,Chris,Arceri,Sr,FO,33,13,1,0,1,1,1,1,18,2,0,51,116,8209223
-2024,Penn,48,Casey Mulligan,Casey Mulligan,Casey,Mulligan,Jr,M,48,12,2,2,8,10,16,6,2,6,1,0,0,8202674
+2024,Penn,14,Chris Canet,Chris Canet,Chris,Canet,Jr,M,14,13,0,1,1,2,6,4,2,8,0,0,0,8204655
 2024,Penn,4,Edward Arnold,Edward Arnold,Edward,Arnold,Sr,D,4,12,1,0,1,1,1,1,12,3,2,0,0,8420512
+2024,Penn,48,Casey Mulligan,Casey Mulligan,Casey,Mulligan,Jr,M,48,12,2,2,8,10,16,6,2,6,1,0,0,8202674
 2024,Penn,49,Mac Eldridge,Mac Eldridge,Mac,Eldridge,So,FO,49,12,0,0,0,0,0,0,29,7,0,63,131,8420543
-2024,Penn,49,Ethan Costanzo,Ethan Costanzo,Ethan,Costanzo,So,FO,49,9,1,1,0,1,8,4,33,4,0,61,133,8211733
 2024,Penn,48,Matthew Till,Matthew Till,Matthew,Till,Fr,LSM,48,9,0,0,0,0,1,1,3,1,1,0,0,8420540
-2024,Penn,38,Davis Provost,Davis Provost,Davis,Provost,Fr,ATT,38,8,1,7,1,8,26,14,7,4,1,0,0,8420536
-2024,Penn,9,Gabe Furey,Gabe Furey,Gabe,Furey,Sr,M,9,8,5,6,3,9,34,19,6,5,2,0,0,8420515
+2024,Penn,49,Ethan Costanzo,Ethan Costanzo,Ethan,Costanzo,So,FO,49,9,1,1,0,1,8,4,33,4,0,61,133,8211733
 2024,Penn,17,Ben Beacham,Ben Beacham,Ben,Beacham,Fr,M,17,8,0,0,0,0,1,1,0,1,0,0,0,8420530
+2024,Penn,9,Gabe Furey,Gabe Furey,Gabe,Furey,Sr,M,9,8,5,6,3,9,34,19,6,5,2,0,0,8420515
+2024,Penn,38,Davis Provost,Davis Provost,Davis,Provost,Fr,ATT,38,8,1,7,1,8,26,14,7,4,1,0,0,8420536
 2024,Penn,15,PJ McKeigue,PJ McKeigue,PJ,McKeigue,So,D,15,7,0,0,0,0,0,0,4,1,0,0,0,8205137
 2024,Penn,21,Isaac Korus,Isaac Korus,Isaac,Korus,So,M,21,7,0,0,0,0,0,0,1,1,0,0,0,8212220
-2024,Penn,42,Ryan Sullivan,Ryan Sullivan,Ryan,Sullivan,So,D,42,4,0,0,0,0,1,0,0,0,0,0,0,8208269
 2024,Penn,32,Hugh Mullane,Hugh Mullane,Hugh,Mullane,Jr,M,32,4,0,0,2,2,4,2,1,2,0,0,0,8206220
+2024,Penn,42,Ryan Sullivan,Ryan Sullivan,Ryan,Sullivan,So,D,42,4,0,0,0,0,1,0,0,0,0,0,0,8208269
 2024,Penn,8,Pasha Hakimi,Pasha Hakimi,Pasha,Hakimi,Fr,LSM,8,2,0,0,0,0,0,0,0,0,0,0,1,8420526
-2024,Penn,7,Paul Fortino,Paul Fortino,Paul,Fortino,So,M,7,1,0,0,0,0,0,0,0,0,0,1,1,8212834
 2024,Penn,29,Grayson McClements,Grayson McClements,Grayson,McClements,Fr,ATT,29,1,0,0,0,0,0,0,0,1,0,0,0,8420532
+2024,Penn,7,Paul Fortino,Paul Fortino,Paul,Fortino,So,M,7,1,0,0,0,0,0,0,0,0,0,1,1,8212834
 2024,Penn,40,Will Roberts,Will Roberts,Will,Roberts,Fr,FO,40,1,0,0,0,0,0,0,0,0,0,1,2,8420538
 2024,Penn,18,Travis Smith,Travis Smith,Travis,Smith,So,M,18,1,0,0,0,0,1,0,1,0,0,0,0,8209443
 2024,Penn St.,49,Brendan Leary,Brendan Leary,Brendan,Leary,Fr,M,49,16,0,0,0,0,3,2,3,3,2,0,0,8410763
@@ -1978,40 +1978,40 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,Penn St.,5,Sean Donnelly,Sean Donnelly,Sean,Donnelly,Sr,ATT,5,9,0,3,3,6,8,6,3,3,0,0,0,8410750
 2024,Penn St.,55,Kevin Parnham,Kevin Parnham,Kevin,Parnham,Jr,D,55,8,7,0,0,0,0,0,12,1,6,0,0,8205388
 2024,Penn St.,11,Jack Posey,Jack Posey,Jack,Posey,Sr,D,11,7,1,0,0,0,0,0,5,2,0,0,0,8410752
-2024,Penn St.,15,James Dalimonte,James Dalimonte,James,Dalimonte,Sr,M,15,4,0,1,0,1,1,1,1,0,0,0,0,8410753
 2024,Penn St.,10,Garrett Glatz,Garrett Glatz,Garrett,Glatz,Jr,ATT,10,4,0,0,0,0,1,1,1,0,0,0,0,8212366
+2024,Penn St.,15,James Dalimonte,James Dalimonte,James,Dalimonte,Sr,M,15,4,0,1,0,1,1,1,1,0,0,0,0,8410753
 2024,Penn St.,54,Ben Johnson,Ben Johnson,Ben,Johnson,Fr,GK,54,3,0,0,0,0,0,0,1,0,0,0,0,8410767
 2024,Penn St.,47,Matt Lazzaro,Matt Lazzaro,Matt,Lazzaro,So,ATT,47,2,0,0,0,0,0,0,1,0,0,0,0,8208501
-2024,Penn St.,31,Hudson Bohn,Hudson Bohn,Hudson,Bohn,Sr,FO,31,2,0,0,0,0,0,0,0,0,0,1,2,8203233
-2024,Penn St.,37,Mac Hobbs,Mac Hobbs,Mac,Hobbs,So,ATT,37,2,0,0,0,0,1,0,0,0,0,0,0,8207935
 2024,Penn St.,1,Finn Scanlon,Finn Scanlon,Finn,Scanlon,Jr,D,1,2,0,0,0,0,0,0,1,0,0,0,0,8205866
-2024,Penn St.,52,Richie Hughson,Richie Hughson,Richie,Hughson,Jr,FO,52,1,0,0,0,0,0,0,0,0,0,0,1,8202373
+2024,Penn St.,37,Mac Hobbs,Mac Hobbs,Mac,Hobbs,So,ATT,37,2,0,0,0,0,1,0,0,0,0,0,0,8207935
+2024,Penn St.,31,Hudson Bohn,Hudson Bohn,Hudson,Bohn,Sr,FO,31,2,0,0,0,0,0,0,0,0,0,1,2,8203233
 2024,Penn St.,48,Dillon Torggler,Dillon Torggler,Dillon,Torggler,Fr,D,48,1,0,0,0,0,0,0,1,1,0,0,0,8410762
+2024,Penn St.,52,Richie Hughson,Richie Hughson,Richie,Hughson,Jr,FO,52,1,0,0,0,0,0,0,0,0,0,0,1,8202373
 2024,Princeton,19,Tucker Wade,Tucker Wade,Tucker,Wade,Fr,M,19,16,11,17,5,22,64,38,7,9,0,0,0,8419926
-2024,Princeton,66,Cooper Mueller,Cooper Mueller,Cooper,Mueller,Fr,SSDM,66,16,0,0,0,0,1,1,9,3,8,0,0,8419913
-2024,Princeton,2,Nate Kabiri,Nate Kabiri,Nate,Kabiri,Fr,ATT,2,16,16,32,25,57,106,68,23,22,2,0,0,8419911
-2024,Princeton,0,Colin Burns,Colin Burns,Colin,Burns,Fr,ATT,0,16,16,26,9,35,64,44,13,19,4,0,0,8419909
-2024,Princeton,88,Cooper Kistler,Cooper Kistler,Cooper,Kistler,So,D,88,16,16,0,1,1,1,1,33,9,14,0,0,8211837
-2024,Princeton,48,John Dunphey,John Dunphey,John,Dunphey,So,M,48,16,5,12,6,18,48,29,9,8,1,0,0,8208647
-2024,Princeton,20,Quinn Krammer,Quinn Krammer,Quinn,Krammer,So,ATT,20,16,2,7,4,11,33,17,1,8,1,0,0,8211745
 2024,Princeton,10,Chad Palumbo,Chad Palumbo,Chad,Palumbo,So,ATT,10,16,16,26,11,37,72,48,13,16,0,0,0,8204841
 2024,Princeton,32,Andrew McMeekin,Andrew McMeekin,Andrew,McMeekin,So,FO,32,16,0,8,2,10,15,8,132,7,10,199,361,8204145
 2024,Princeton,9,Nick Crowley,Nick Crowley,Nick,Crowley,So,LSM,9,16,0,0,1,1,4,0,22,3,13,0,0,8206877
 2024,Princeton,91,Coulter Mackesy,Coulter Mackesy,Coulter,Mackesy,Jr,M,91,16,16,40,24,64,155,94,36,35,6,0,0,8208710
+2024,Princeton,20,Quinn Krammer,Quinn Krammer,Quinn,Krammer,So,ATT,20,16,2,7,4,11,33,17,1,8,1,0,0,8211745
 2024,Princeton,17,Michael Bath,Michael Bath,Michael,Bath,Jr,D,17,16,16,0,0,0,0,0,39,9,25,0,0,8209990
 2024,Princeton,50,Liam Fairback,Liam Fairback,Liam,Fairback,Jr,M,50,16,0,0,0,0,2,0,22,3,6,0,0,8210201
+2024,Princeton,48,John Dunphey,John Dunphey,John,Dunphey,So,M,48,16,5,12,6,18,48,29,9,8,1,0,0,8208647
 2024,Princeton,25,Michael Kelly,Michael Kelly,Michael,Kelly,Jr,M,25,16,0,1,0,1,6,3,26,4,6,0,0,8209226
-2024,Princeton,43,Colin Mulshine,Colin Mulshine,Colin,Mulshine,Jr,D,43,16,16,1,0,1,1,1,23,3,13,0,0,8201583
-2024,Princeton,24,Marquez White,Marquez White,Marquez,White,Sr,DM,24,16,0,1,0,1,1,1,17,6,6,0,0,8201992
-2024,Princeton,3,Pace Billings,Pace Billings,Pace,Billings,Sr,D,3,16,0,3,0,3,8,7,31,3,19,0,0,8209457
-2024,Princeton,27,Michael Gianforcaro,Michael Gianforcaro,Michael,Gianforcaro,Sr,GK,27,16,16,1,1,2,4,4,25,18,2,0,0,8211578
-2024,Princeton,11,Sean Cameron,Sean Cameron,Sean,Cameron,Jr,M,11,16,11,18,3,21,72,38,15,7,0,0,0,8204555
 2024,Princeton,21,Tommy Barnds,Tommy Barnds,Tommy,Barnds,Sr,M,21,16,3,11,2,13,38,25,5,2,1,0,0,8212505
-2024,Princeton,7,Zach Friedman,Zach Friedman,Zach,Friedman,So,D,7,14,0,0,0,0,0,0,4,1,0,0,0,8208554
+2024,Princeton,66,Cooper Mueller,Cooper Mueller,Cooper,Mueller,Fr,SSDM,66,16,0,0,0,0,1,1,9,3,8,0,0,8419913
+2024,Princeton,2,Nate Kabiri,Nate Kabiri,Nate,Kabiri,Fr,ATT,2,16,16,32,25,57,106,68,23,22,2,0,0,8419911
+2024,Princeton,11,Sean Cameron,Sean Cameron,Sean,Cameron,Jr,M,11,16,11,18,3,21,72,38,15,7,0,0,0,8204555
+2024,Princeton,27,Michael Gianforcaro,Michael Gianforcaro,Michael,Gianforcaro,Sr,GK,27,16,16,1,1,2,4,4,25,18,2,0,0,8211578
+2024,Princeton,3,Pace Billings,Pace Billings,Pace,Billings,Sr,D,3,16,0,3,0,3,8,7,31,3,19,0,0,8209457
+2024,Princeton,0,Colin Burns,Colin Burns,Colin,Burns,Fr,ATT,0,16,16,26,9,35,64,44,13,19,4,0,0,8419909
+2024,Princeton,24,Marquez White,Marquez White,Marquez,White,Sr,DM,24,16,0,1,0,1,1,1,17,6,6,0,0,8201992
+2024,Princeton,88,Cooper Kistler,Cooper Kistler,Cooper,Kistler,So,D,88,16,16,0,1,1,1,1,33,9,14,0,0,8211837
+2024,Princeton,43,Colin Mulshine,Colin Mulshine,Colin,Mulshine,Jr,D,43,16,16,1,0,1,1,1,23,3,13,0,0,8201583
 2024,Princeton,36,Braedon Saris,Braedon Saris,Braedon,Saris,Jr,ATT,36,14,0,1,7,8,4,2,1,2,1,0,0,8201542
+2024,Princeton,7,Zach Friedman,Zach Friedman,Zach,Friedman,So,D,7,14,0,0,0,0,0,0,4,1,0,0,0,8208554
 2024,Princeton,29,Lukas Stanat,Lukas Stanat,Lukas,Stanat,Sr,ATT,29,13,0,6,7,13,19,12,5,2,0,0,0,8208923
-2024,Princeton,31,Jackson Green,Jackson Green,Jackson,Green,Fr,,31,11,0,0,0,0,2,1,3,1,1,0,0,8593167
 2024,Princeton,35,Tyler Sandoval,Tyler Sandoval,Tyler,Sandoval,Sr,FO,35,11,0,0,0,0,0,0,8,0,2,18,57,8210184
+2024,Princeton,31,Jackson Green,Jackson Green,Jackson,Green,Fr,,31,11,0,0,0,0,2,1,3,1,1,0,0,8593167
 2024,Princeton,77,Colin Freer,Colin Freer,Colin,Freer,Sr,D,77,10,0,0,0,0,0,0,1,1,1,0,0,8208444
 2024,Princeton,8,McKnight Pederson,McKnight Pederson,McKnight,Pederson,Jr,DM,8,10,0,0,0,0,1,0,1,0,2,0,0,8206446
 2024,Princeton,55,Jackson Kane,Jackson Kane,Jackson,Kane,So,ATT,55,8,0,0,0,0,3,2,0,1,1,0,0,8205255
@@ -2027,31 +2027,31 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,Princeton,1,Mark Marino,Mark Marino,Mark,Marino,Fr,M,1,2,0,0,0,0,1,0,1,0,0,0,0,8419910
 2024,Princeton,44,Bear Lockshin,Bear Lockshin,Bear,Lockshin,Sr,M,44,2,0,0,0,0,1,1,0,0,0,0,0,8204541
 2024,Princeton,52,David Smythe,David Smythe,David,Smythe,So,M,52,1,0,0,0,0,0,0,1,0,0,0,0,8212437
-2024,Providence,14,Dean Metzger,Dean Metzger,Dean,Metzger,So,M,14,15,0,0,0,0,2,0,15,1,4,0,0,8202621
+2024,Providence,5,Rhett Chambers,Rhett Chambers,Rhett,Chambers,Fr,ATT,5,15,0,7,7,14,39,21,5,13,0,0,0,8422808
 2024,Providence,9,Richie Joseph,Richie Joseph,Richie,Joseph,So,ATT,9,15,15,41,12,53,84,57,21,19,7,0,0,8207832
+2024,Providence,14,Dean Metzger,Dean Metzger,Dean,Metzger,So,M,14,15,0,0,0,0,2,0,15,1,4,0,0,8202621
+2024,Providence,27,Parker Kennedy,Parker Kennedy,Parker,Kennedy,Fr,M,27,15,0,4,1,5,9,6,1,4,0,0,0,8422831
+2024,Providence,13,James Corasaniti,James Corasaniti,James,Corasaniti,Sr,GK,13,15,15,1,1,2,6,2,28,10,6,0,0,8422773
 2024,Providence,52,Albert Paniccia,Albert Paniccia,Albert,Paniccia,Jr,M,52,15,0,4,0,4,6,5,19,3,5,0,0,8211596
 2024,Providence,20,Gregg Dennison,Gregg Dennison,Gregg,Dennison,Jr,D,20,15,15,0,1,1,2,1,35,7,10,0,0,8201742
 2024,Providence,18,Jack Horrigan,Jack Horrigan,Jack,Horrigan,Jr,ATT,18,15,15,26,6,32,81,45,17,9,1,0,0,8201281
 2024,Providence,15,Ryan Bell,Ryan Bell,Ryan,Bell,Jr,M,15,15,15,21,45,66,79,51,14,41,2,0,0,8205226
-2024,Providence,34,Owen Finetto,Owen Finetto,Owen,Finetto,So,M,34,15,0,1,1,2,6,2,24,8,5,0,0,8211552
-2024,Providence,22,Ian Olenik,Ian Olenik,Ian,Olenik,So,LSM,22,15,15,1,1,2,3,1,34,8,23,0,1,8201345
-2024,Providence,5,Rhett Chambers,Rhett Chambers,Rhett,Chambers,Fr,ATT,5,15,0,7,7,14,39,21,5,13,0,0,0,8422808
 2024,Providence,12,Michael Chabra,Michael Chabra,Michael,Chabra,Sr,M,12,15,15,20,4,24,83,43,11,15,0,0,0,8208099
-2024,Providence,37,Luca Meola,Luca Meola,Luca,Meola,Fr,D,37,15,0,0,0,0,1,0,16,2,2,1,6,8422838
-2024,Providence,13,James Corasaniti,James Corasaniti,James,Corasaniti,Sr,GK,13,15,15,1,1,2,6,2,28,10,6,0,0,8422773
-2024,Providence,25,Grant Latimer,Grant Latimer,Grant,Latimer,Sr,D,25,15,15,1,0,1,1,1,37,2,15,0,0,8422790
-2024,Providence,27,Parker Kennedy,Parker Kennedy,Parker,Kennedy,Fr,M,27,15,0,4,1,5,9,6,1,4,0,0,0,8422831
-2024,Providence,48,Luke Jaber,Luke Jaber,Luke,Jaber,Sr,ATT,48,15,15,16,5,21,35,21,9,8,1,0,0,8422800
 2024,Providence,3,Chris Cusolito,Chris Cusolito,Chris,Cusolito,Sr,M,3,15,15,18,15,33,79,46,8,25,1,0,0,8210802
-2024,Providence,4,Drew Clift,Drew Clift,Drew,Clift,Fr,D,4,14,0,0,0,0,1,0,3,1,2,0,0,8422810
+2024,Providence,37,Luca Meola,Luca Meola,Luca,Meola,Fr,D,37,15,0,0,0,0,1,0,16,2,2,1,6,8422838
+2024,Providence,22,Ian Olenik,Ian Olenik,Ian,Olenik,So,LSM,22,15,15,1,1,2,3,1,34,8,23,0,1,8201345
+2024,Providence,25,Grant Latimer,Grant Latimer,Grant,Latimer,Sr,D,25,15,15,1,0,1,1,1,37,2,15,0,0,8422790
+2024,Providence,34,Owen Finetto,Owen Finetto,Owen,Finetto,So,M,34,15,0,1,1,2,6,2,24,8,5,0,0,8211552
+2024,Providence,48,Luke Jaber,Luke Jaber,Luke,Jaber,Sr,ATT,48,15,15,16,5,21,35,21,9,8,1,0,0,8422800
 2024,Providence,8,Quinn McConnaughey,Quinn McConnaughey,Quinn,McConnaughey,Jr,FO,8,14,0,1,1,2,6,4,47,4,2,106,226,8205300
 2024,Providence,32,Patrick McAleavey,Patrick McAleavey,Patrick,McAleavey,Jr,ATT,32,14,0,8,0,8,21,13,3,3,0,0,0,8207151
 2024,Providence,42,Scott Westrick,Scott Westrick,Scott,Westrick,Fr,M,42,14,0,0,0,0,0,0,7,2,4,0,0,8422850
+2024,Providence,4,Drew Clift,Drew Clift,Drew,Clift,Fr,D,4,14,0,0,0,0,1,0,3,1,2,0,0,8422810
 2024,Providence,46,Tom Fegley,Tom Fegley,Tom,Fegley,Sr,FO,46,13,0,1,0,1,3,2,39,5,2,77,178,8208402
 2024,Providence,28,Jackson Coutu,Jackson Coutu,Jackson,Coutu,So,M,28,12,0,0,0,0,0,0,3,1,1,0,0,8208777
 2024,Providence,33,Chris Simonton,Chris Simonton,Chris,Simonton,Jr,ATT,33,11,0,1,0,1,1,1,1,3,0,0,0,8205559
-2024,Providence,7,Carter Smith,Carter Smith,Carter,Smith,Fr,D,7,10,0,0,0,0,0,0,2,1,0,0,0,8422811
 2024,Providence,10,Tyler Flynn,Tyler Flynn,Tyler,Flynn,So,M,10,10,0,0,0,0,3,1,1,1,0,0,0,8212008
+2024,Providence,7,Carter Smith,Carter Smith,Carter,Smith,Fr,D,7,10,0,0,0,0,0,0,2,1,0,0,0,8422811
 2024,Providence,21,Will Ferraro,Will Ferraro,Will,Ferraro,Jr,M,21,9,0,0,0,0,4,2,0,2,0,0,0,8208171
 2024,Providence,19,John Hufnagel,John Hufnagel,John,Hufnagel,Sr,LSM,19,8,0,0,0,0,1,1,11,3,4,0,0,8422788
 2024,Providence,51,Hunter Bisbee,Hunter Bisbee,Hunter,Bisbee,Fr,M,51,8,0,0,1,1,7,2,1,4,0,0,0,8422863
@@ -2061,50 +2061,50 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,Providence,41,Will Collins,Will Collins,Will,Collins,Sr,GK,41,4,0,0,0,0,0,0,1,0,0,0,0,8204989
 2024,Providence,31,Ryan Reilly,Ryan Reilly,Ryan,Reilly,Sr,M,31,4,0,0,0,0,0,0,0,2,0,0,0,8422794
 2024,Providence,55,Stephen Markowski,Stephen Markowski,Stephen,Markowski,Jr,ATT,55,3,0,0,0,0,0,0,0,2,0,0,0,8210091
-2024,Providence,1,Pierce Gregory,Pierce Gregory,Pierce,Gregory,Jr,ATT,1,3,0,0,0,0,0,0,0,3,0,0,0,8207131
-2024,Providence,30,Ricky Amorim,Ricky Amorim,Ricky,Amorim,Sr,D,30,3,0,0,0,0,0,0,1,1,1,0,0,8209043
 2024,Providence,45,Kevin Beatty,Kevin Beatty,Kevin,Beatty,Sr,LSM,45,3,0,0,0,0,0,0,1,0,0,0,0,8202483
+2024,Providence,30,Ricky Amorim,Ricky Amorim,Ricky,Amorim,Sr,D,30,3,0,0,0,0,0,0,1,1,1,0,0,8209043
+2024,Providence,1,Pierce Gregory,Pierce Gregory,Pierce,Gregory,Jr,ATT,1,3,0,0,0,0,0,0,0,3,0,0,0,8207131
 2024,Providence,47,Michael Spaziano,Michael Spaziano,Michael,Spaziano,Fr,D,47,2,0,0,0,0,0,0,2,0,0,0,0,8422856
+2024,Providence,39,Eric Webb,Eric Webb,Eric,Webb,So,D,39,2,0,0,0,0,0,0,1,1,1,0,0,8212831
 2024,Providence,17,Leo Sequenzia,Leo Sequenzia,Leo,Sequenzia,Fr,M,17,2,0,1,0,1,2,2,0,1,0,0,0,8422821
 2024,Providence,26,Spencer Liston,Spencer Liston,Spencer,Liston,Fr,FO,26,2,0,0,0,0,0,0,0,0,0,4,12,8422825
-2024,Providence,39,Eric Webb,Eric Webb,Eric,Webb,So,D,39,2,0,0,0,0,0,0,1,1,1,0,0,8212831
 2024,Providence,11,Ty Thureson,Ty Thureson,Ty,Thureson,Sr,M,11,1,0,1,0,1,1,1,1,0,0,0,0,8213121
-2024,Queens (NC),9,Grant Isika,Grant Isika,Grant,Isika,So,FO,9,13,0,1,1,2,6,5,50,7,0,100,221,8454639
-2024,Queens (NC),15,Ryan McDaniel,Ryan McDaniel,Ryan,McDaniel,Fr,ATT,15,13,5,7,10,17,39,21,4,17,0,0,0,8454555
-2024,Queens (NC),8,Ethan Scaffidi,Ethan Scaffidi,Ethan,Scaffidi,Fr,M,8,13,7,10,4,14,52,25,8,10,2,0,0,8454545
-2024,Queens (NC),36,Lawson Jones,Lawson Jones,Lawson,Jones,Fr,ATT,36,13,9,8,1,9,29,16,6,10,2,0,0,8454592
 2024,Queens (NC),17,Michael White,Michael White,Michael,White,So,ATT,17,13,0,0,2,2,3,1,14,3,7,0,0,8207696
 2024,Queens (NC),18,Jacob Schreck,Jacob Schreck,Jacob,Schreck,Jr,DM,18,13,13,0,0,0,2,0,36,11,22,0,0,8204668
 2024,Queens (NC),34,Jack Royer,Jack Royer,Jack,Royer,Jr,M,34,13,13,20,4,24,66,44,13,15,2,0,0,8209254
-2024,Queens (NC),54,Colby Suglia,Colby Suglia,Colby,Suglia,Sr,D,54,13,13,1,0,1,2,2,21,13,14,0,0,8202454
 2024,Queens (NC),7,Deacon Adams,Deacon Adams,Deacon,Adams,Fr,LSM,7,13,0,1,2,3,5,4,25,5,11,0,0,8454540
-2024,Queens (NC),30,Connor Clarke,Connor Clarke,Connor,Clarke,Sr,DM,30,12,0,0,1,1,3,1,9,4,2,0,0,8209077
-2024,Queens (NC),5,Wesley Wheat,Wesley Wheat,Wesley,Wheat,Sr,GK,5,12,11,0,0,0,0,0,37,4,0,0,0,8210788
-2024,Queens (NC),56,Sam Strother,Sam Strother,Sam,Strother,Fr,ATT,56,12,0,2,6,8,14,8,3,7,0,0,0,8454619
+2024,Queens (NC),9,Grant Isika,Grant Isika,Grant,Isika,So,FO,9,13,0,1,1,2,6,5,50,7,0,100,221,8454639
+2024,Queens (NC),54,Colby Suglia,Colby Suglia,Colby,Suglia,Sr,D,54,13,13,1,0,1,2,2,21,13,14,0,0,8202454
+2024,Queens (NC),8,Ethan Scaffidi,Ethan Scaffidi,Ethan,Scaffidi,Fr,M,8,13,7,10,4,14,52,25,8,10,2,0,0,8454545
+2024,Queens (NC),15,Ryan McDaniel,Ryan McDaniel,Ryan,McDaniel,Fr,ATT,15,13,5,7,10,17,39,21,4,17,0,0,0,8454555
+2024,Queens (NC),36,Lawson Jones,Lawson Jones,Lawson,Jones,Fr,ATT,36,13,9,8,1,9,29,16,6,10,2,0,0,8454592
 2024,Queens (NC),50,Mannie Smith,Mannie Smith,Mannie,Smith,Fr,M,50,12,0,0,2,2,1,0,7,5,9,0,0,8454611
-2024,Queens (NC),45,Will Brown,Will Brown,Will,Brown,Fr,LSM,45,12,2,0,1,1,0,0,15,1,0,0,0,8454606
+2024,Queens (NC),30,Connor Clarke,Connor Clarke,Connor,Clarke,Sr,DM,30,12,0,0,1,1,3,1,9,4,2,0,0,8209077
 2024,Queens (NC),22,Dylan Behnke,Dylan Behnke,Dylan,Behnke,Fr,M,22,12,8,6,1,7,53,28,2,12,0,0,0,8454568
+2024,Queens (NC),56,Sam Strother,Sam Strother,Sam,Strother,Fr,ATT,56,12,0,2,6,8,14,8,3,7,0,0,0,8454619
 2024,Queens (NC),27,Brendan Nace,Brendan Nace,Brendan,Nace,So,M,27,12,12,20,8,28,73,45,6,21,2,0,0,8203055
-2024,Queens (NC),52,Ty Schreck,Ty Schreck,Ty,Schreck,Fr,M,52,11,0,0,0,0,0,0,4,2,2,0,0,8454615
+2024,Queens (NC),5,Wesley Wheat,Wesley Wheat,Wesley,Wheat,Sr,GK,5,12,11,0,0,0,0,0,37,4,0,0,0,8210788
+2024,Queens (NC),45,Will Brown,Will Brown,Will,Brown,Fr,LSM,45,12,2,0,1,1,0,0,15,1,0,0,0,8454606
 2024,Queens (NC),77,Logan Murray,Logan Murray,Logan,Murray,Jr,DM,77,11,4,0,1,1,0,0,7,4,2,0,0,8211011
+2024,Queens (NC),52,Ty Schreck,Ty Schreck,Ty,Schreck,Fr,M,52,11,0,0,0,0,0,0,4,2,2,0,0,8454615
 2024,Queens (NC),26,Chase  Black,Chase  Black,Chase,,Fr,M,26,11,3,3,1,4,17,12,5,4,0,0,0,8454572
-2024,Queens (NC),39,Hayden Thompson,Hayden Thompson,Hayden,Thompson,Jr,D,39,10,7,0,0,0,0,0,8,0,4,0,0,8208296
 2024,Queens (NC),20,Carter Petersen,Carter Petersen,Carter,Petersen,Fr,M,20,10,2,1,0,1,6,3,1,9,1,0,0,8454566
 2024,Queens (NC),73,Callin Harris,Callin Harris,Callin,Harris,Sr,M,73,10,9,17,7,24,58,34,13,21,2,0,0,8207663
+2024,Queens (NC),39,Hayden Thompson,Hayden Thompson,Hayden,Thompson,Jr,D,39,10,7,0,0,0,0,0,8,0,4,0,0,8208296
 2024,Queens (NC),66,Aidan Chambers,Aidan Chambers,Aidan,Chambers,Fr,SSDM,66,9,0,0,0,0,0,0,1,1,0,0,0,8454622
 2024,Queens (NC),12,Ryan Lightsey,Ryan Lightsey,Ryan,Lightsey,Jr,ATT,12,9,9,10,6,16,24,18,1,13,0,0,0,8211250
 2024,Queens (NC),4,Jacob Martin,Jacob Martin,Jacob,Martin,Sr,FO,4,8,0,0,0,0,1,0,12,3,0,45,98,8204961
+2024,Queens (NC),23,Alex Lemieux,Alex Lemieux,Alex,Lemieux,So,M,23,7,0,0,0,0,2,0,5,2,1,0,0,8205838
 2024,Queens (NC),29,Zachary Miller,Zachary Miller,Zachary,Miller,So,ATT,29,7,0,1,2,3,1,1,3,7,1,0,0,8205598
 2024,Queens (NC),32,Braden McNamara,Braden McNamara,Braden,McNamara,Fr,ATT,32,7,1,2,1,3,10,8,3,2,1,0,0,8454581
-2024,Queens (NC),23,Alex Lemieux,Alex Lemieux,Alex,Lemieux,So,M,23,7,0,0,0,0,2,0,5,2,1,0,0,8205838
 2024,Queens (NC),37,Hunter Meyer,Hunter Meyer,Hunter,Meyer,Sr,M,37,4,0,2,0,2,7,4,0,8,1,0,0,8210228
 2024,Queens (NC),28,Wynn Stang,Wynn Stang,Wynn,Stang,Fr,M,28,3,0,0,0,0,3,1,1,2,0,0,0,8454575
 2024,Queens (NC),48,Nicky West,Nicky West,Nicky,West,Fr,GK,48,3,1,0,0,0,0,0,3,2,0,0,0,8454608
-2024,Queens (NC),13,Tate Farmer,Tate Farmer,Tate,Farmer,Fr,D,13,2,0,0,0,0,0,0,0,0,1,0,0,8454550
 2024,Queens (NC),24,Wills Kelly,Wills Kelly,Wills,Kelly,Fr,FO,24,2,0,0,0,0,0,0,0,1,0,0,5,8454569
+2024,Queens (NC),13,Tate Farmer,Tate Farmer,Tate,Farmer,Fr,D,13,2,0,0,0,0,0,0,0,0,1,0,0,8454550
 2024,Queens (NC),35,Reid Moore,Reid Moore,Reid,Moore,Jr,D,35,2,0,0,0,0,0,0,0,0,1,0,0,8210935
-2024,Queens (NC),19,Will Corbett,Will Corbett,Will,Corbett,So,M,19,1,0,0,0,0,0,0,1,1,0,0,0,8206148
 2024,Queens (NC),1,Josh Marr,Josh Marr,Josh,Marr,Jr,ATT,1,1,0,0,0,0,0,0,1,1,0,0,0,8209993
+2024,Queens (NC),19,Will Corbett,Will Corbett,Will,Corbett,So,M,19,1,0,0,0,0,0,0,1,1,0,0,0,8206148
 2024,Quinnipiac,41,Colin Redmond,Colin Redmond,Colin,Redmond,Fr,D,41,14,14,0,0,0,3,1,18,6,9,0,0,8453223
 2024,Quinnipiac,4,Justin Robbert,Justin Robbert,Justin,Robbert,So,ATT,4,14,1,4,11,15,16,8,2,8,0,0,0,8212680
 2024,Quinnipiac,29,Ryan Downing,Ryan Downing,Ryan,Downing,So,LSM,29,14,0,1,0,1,5,2,21,2,10,0,0,8208793
@@ -2118,148 +2118,148 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,Quinnipiac,22,Jarrod Davis,Jarrod Davis,Jarrod,Davis,Sr,M,22,14,0,0,1,1,0,0,10,1,6,4,10,8453195
 2024,Quinnipiac,16,Jake Tellers,Jake Tellers,Jake,Tellers,Sr,ATT,16,14,13,16,8,24,58,35,7,14,1,0,0,8453172
 2024,Quinnipiac,10,John DeLucia,John DeLucia,John,DeLucia,Sr,ATT,10,14,14,30,9,39,72,51,24,18,3,0,0,8453165
-2024,Quinnipiac,33,Trevor Douglas,Trevor Douglas,Trevor,Douglas,Sr,M,33,13,0,19,2,21,42,28,6,9,0,0,0,8207366
 2024,Quinnipiac,20,Nick Meoni,Nick Meoni,Nick,Meoni,Fr,M,20,13,0,3,0,3,5,4,12,1,5,0,0,8453184
+2024,Quinnipiac,33,Trevor Douglas,Trevor Douglas,Trevor,Douglas,Sr,M,33,13,0,19,2,21,42,28,6,9,0,0,0,8207366
+2024,Quinnipiac,36,Frank Mousa,Frank Mousa,Frank,Mousa,Fr,M,36,12,0,0,0,0,0,0,19,5,0,32,101,8453219
 2024,Quinnipiac,15,Trey Gehen,Trey Gehen,Trey,Gehen,Sr,ATT,15,12,1,3,0,3,10,7,1,1,0,0,0,8208071
 2024,Quinnipiac,38,Luca Cutolo,Luca Cutolo,Luca,Cutolo,So,D,38,12,0,0,0,0,1,1,18,3,4,0,0,8207915
-2024,Quinnipiac,36,Frank Mousa,Frank Mousa,Frank,Mousa,Fr,M,36,12,0,0,0,0,0,0,19,5,0,32,101,8453219
 2024,Quinnipiac,9,Evan Perry,Evan Perry,Evan,Perry,Sr,M,9,11,5,13,4,17,44,26,2,12,1,0,0,8212211
 2024,Quinnipiac,45,Connor McCormick,Connor McCormick,Connor,McCormick,Jr,DM,45,10,0,0,0,0,0,0,4,2,1,0,0,8207370
 2024,Quinnipiac,1,Cole Marsala,Cole Marsala,Cole,Marsala,Fr,ATT,1,10,9,5,1,6,20,12,6,6,0,0,0,8453156
 2024,Quinnipiac,17,Kyle Connor,Kyle Connor,Kyle,Connor,Sr,D,17,9,0,0,0,0,0,0,2,0,1,0,0,8204909
 2024,Quinnipiac,48,Thomas Andria,Thomas Andria,Thomas,Andria,So,LSM,48,8,0,1,0,1,2,1,12,1,1,0,0,8204119
-2024,Quinnipiac,43,Jack LaBanca,Jack LaBanca,Jack,LaBanca,So,FO,43,8,0,0,0,0,1,0,28,2,0,61,129,8453227
 2024,Quinnipiac,35,Max Pauwels,Max Pauwels,Max,Pauwels,So,FO,35,8,0,0,0,0,5,4,39,3,1,64,142,8201896
+2024,Quinnipiac,43,Jack LaBanca,Jack LaBanca,Jack,LaBanca,So,FO,43,8,0,0,0,0,1,0,28,2,0,61,129,8453227
 2024,Quinnipiac,14,Luke Hendricks,Luke Hendricks,Luke,Hendricks,So,M,14,7,0,1,0,1,3,2,0,2,0,0,0,8211262
 2024,Quinnipiac,6,Owen Murray,Owen Murray,Owen,Murray,Jr,ATT,6,5,0,1,0,1,4,2,1,1,0,0,0,8209997
 2024,Quinnipiac,42,Tommy Andruzzi,Tommy Andruzzi,Tommy,Andruzzi,So,LSM,42,5,0,0,0,0,1,1,8,1,3,0,0,8206703
 2024,Quinnipiac,44,Chase Young,Chase Young,Chase,Young,So,M,44,2,0,0,0,0,0,0,0,0,2,0,0,8204400
 2024,Quinnipiac,27,Adam Woodcock,Adam Woodcock,Adam,Woodcock,Sr,M,27,1,0,0,0,0,0,0,1,1,0,0,0,8213292
-2024,Quinnipiac,32,Ryan Goodman,Ryan Goodman,Ryan,Goodman,Fr,M,32,1,0,0,0,0,0,0,0,0,1,0,0,8453210
 2024,Quinnipiac,28,Evan Miner,Evan Miner,Evan,Miner,So,GK,28,1,0,0,0,0,0,0,0,0,1,0,0,8201827
-2024,Richmond,5,Aidan O'Neil,Aidan O'Neil,Aidan,O'Neil,So,ATT,5,16,16,31,20,51,97,65,15,30,3,0,0,8207312
-2024,Richmond,19,Jack Pilling,Jack Pilling,Jack,Pilling,So,M,19,16,0,2,1,3,3,3,31,3,12,0,0,8211727
+2024,Quinnipiac,32,Ryan Goodman,Ryan Goodman,Ryan,Goodman,Fr,M,32,1,0,0,0,0,0,0,0,0,1,0,0,8453210
 2024,Richmond,42,Max Merklinger,Max Merklinger,Max,Merklinger,Jr,ATT,42,16,8,9,3,12,35,18,12,9,2,0,0,8212368
-2024,Richmond,6,Hunter Smith,Hunter Smith,Hunter,Smith,So,D,6,16,16,1,1,2,5,1,31,6,16,0,0,8205019
-2024,Richmond,26,Ryan Thompson,Ryan Thompson,Ryan,Thompson,So,M,26,16,0,2,0,2,3,3,13,5,5,0,0,8205987
 2024,Richmond,23,Jared Chenoy,Jared Chenoy,Jared,Chenoy,Jr,FO,23,16,0,1,4,5,9,7,83,9,1,166,319,8207353
-2024,Richmond,7,Jeff Nugent,Jeff Nugent,Jeff,Nugent,Sr,M,7,16,0,3,3,6,6,4,18,10,7,0,0,8204577
-2024,Richmond,2,Lance Madonna,Lance Madonna,Lance,Madonna,Sr,ATT,2,16,16,26,13,39,93,44,13,19,1,0,0,8206831
-2024,Richmond,33,Braden McClure,Braden McClure,Braden,McClure,Sr,D,33,16,16,2,2,4,4,2,29,6,18,0,1,8212560
-2024,Richmond,14,Luke Grayum,Luke Grayum,Luke,Grayum,Sr,ATT,14,16,15,37,10,47,80,60,17,18,7,0,0,8203433
-2024,Richmond,77,Jack Fabean,Jack Fabean,Jack,Fabean,Sr,D,77,16,16,0,0,0,1,1,21,4,13,0,0,8423765
-2024,Richmond,41,Jake Kapp,Jake Kapp,Jake,Kapp,Sr,D,41,16,0,3,3,6,9,6,29,4,10,0,0,8423775
-2024,Richmond,8,Charlie Packard,Charlie Packard,Charlie,Packard,Fr,M,8,16,0,7,2,9,23,14,2,6,1,0,0,8423782
+2024,Richmond,6,Hunter Smith,Hunter Smith,Hunter,Smith,So,D,6,16,16,1,1,2,5,1,31,6,16,0,0,8205019
 2024,Richmond,21,Dalton Young,Dalton Young,Dalton,Young,Sr,ATT,21,16,16,36,39,75,107,68,31,38,1,0,0,8423773
 2024,Richmond,36,Joe Gooley,Joe Gooley,Joe,Gooley,Sr,M,36,16,0,1,1,2,1,1,32,2,9,0,0,8423770
+2024,Richmond,41,Jake Kapp,Jake Kapp,Jake,Kapp,Sr,D,41,16,0,3,3,6,9,6,29,4,10,0,0,8423775
+2024,Richmond,77,Jack Fabean,Jack Fabean,Jack,Fabean,Sr,D,77,16,16,0,0,0,1,1,21,4,13,0,0,8423765
+2024,Richmond,14,Luke Grayum,Luke Grayum,Luke,Grayum,Sr,ATT,14,16,15,37,10,47,80,60,17,18,7,0,0,8203433
+2024,Richmond,33,Braden McClure,Braden McClure,Braden,McClure,Sr,D,33,16,16,2,2,4,4,2,29,6,18,0,1,8212560
+2024,Richmond,19,Jack Pilling,Jack Pilling,Jack,Pilling,So,M,19,16,0,2,1,3,3,3,31,3,12,0,0,8211727
+2024,Richmond,2,Lance Madonna,Lance Madonna,Lance,Madonna,Sr,ATT,2,16,16,26,13,39,93,44,13,19,1,0,0,8206831
+2024,Richmond,7,Jeff Nugent,Jeff Nugent,Jeff,Nugent,Sr,M,7,16,0,3,3,6,6,4,18,10,7,0,0,8204577
+2024,Richmond,8,Charlie Packard,Charlie Packard,Charlie,Packard,Fr,M,8,16,0,7,2,9,23,14,2,6,1,0,0,8423782
+2024,Richmond,5,Aidan O'Neil,Aidan O'Neil,Aidan,O'Neil,So,ATT,5,16,16,31,20,51,97,65,15,30,3,0,0,8207312
+2024,Richmond,26,Ryan Thompson,Ryan Thompson,Ryan,Thompson,So,M,26,16,0,2,0,2,3,3,13,5,5,0,0,8205987
 2024,Richmond,47,Zach Vigue,Zach Vigue,Zach,Vigue,Sr,GK,47,15,15,0,0,0,1,1,31,5,3,0,0,8211283
+2024,Richmond,10,Gavin Creo,Gavin Creo,Gavin,Creo,Fr,ATT,10,15,0,8,4,12,19,13,8,4,1,0,0,8423763
 2024,Richmond,37,Joe Sheridan,Joe Sheridan,Joe,Sheridan,So,M,37,15,15,7,4,11,37,22,8,14,1,0,0,8206076
 2024,Richmond,24,Lukas Olsson,Lukas Olsson,Lukas,Olsson,Jr,ATT,24,15,0,11,1,12,29,24,3,5,0,0,0,8207212
-2024,Richmond,10,Gavin Creo,Gavin Creo,Gavin,Creo,Fr,ATT,10,15,0,8,4,12,19,13,8,4,1,0,0,8423763
 2024,Richmond,45,Nate Murphy,Nate Murphy,Nate,Murphy,Fr,D,45,14,0,0,1,1,0,0,9,1,8,0,0,8423779
-2024,Richmond,13,Henry Alpaugh,Henry Alpaugh,Henry,Alpaugh,Jr,M,13,13,9,12,2,14,54,27,3,6,0,0,0,8210745
 2024,Richmond,40,Tommy Stull,Tommy Stull,Tommy,Stull,Jr,D,40,13,0,1,0,1,4,1,30,7,16,0,3,8209992
-2024,Richmond,48,Michael Farrell,Michael Farrell,Michael,Farrell,Jr,D,48,12,0,0,0,0,0,0,4,0,1,0,0,8212233
+2024,Richmond,13,Henry Alpaugh,Henry Alpaugh,Henry,Alpaugh,Jr,M,13,13,9,12,2,14,54,27,3,6,0,0,0,8210745
 2024,Richmond,27,Lucas Littlejohn,Lucas Littlejohn,Lucas,Littlejohn,Fr,ATT,27,12,1,10,0,10,17,13,7,4,2,0,0,8423777
-2024,Richmond,16,Jack Ricciardi,Jack Ricciardi,Jack,Ricciardi,So,M,16,11,0,4,4,8,11,5,2,4,0,0,0,8209287
+2024,Richmond,48,Michael Farrell,Michael Farrell,Michael,Farrell,Jr,D,48,12,0,0,0,0,0,0,4,0,1,0,0,8212233
 2024,Richmond,15,Will Tazewell,Will Tazewell,Will,Tazewell,Sr,M,15,11,0,1,2,3,3,1,1,4,0,0,0,8208310
+2024,Richmond,16,Jack Ricciardi,Jack Ricciardi,Jack,Ricciardi,So,M,16,11,0,4,4,8,11,5,2,4,0,0,0,8209287
 2024,Richmond,44,Jackson Strickland,Jackson Strickland,Jackson,Strickland,Fr,FO,44,11,0,0,1,1,0,0,10,2,1,15,42,8423797
 2024,Richmond,34,Anthony DiCenso,Anthony DiCenso,Anthony,DiCenso,So,FO,34,10,0,0,0,0,0,0,13,0,0,23,59,8210987
-2024,Richmond,17,Connor Kelly,Connor Kelly,Connor,Kelly,So,D,17,8,0,0,0,0,1,0,3,2,5,0,0,8202654
 2024,Richmond,43,Lucas Slate,Lucas Slate,Lucas,Slate,Fr,ATT,43,8,0,1,0,1,1,1,0,2,0,0,0,8423793
+2024,Richmond,17,Connor Kelly,Connor Kelly,Connor,Kelly,So,D,17,8,0,0,0,0,1,0,3,2,5,0,0,8202654
+2024,Richmond,31,Connor Knight,Connor Knight,Connor,Knight,So,GK,31,7,1,0,0,0,0,0,6,1,0,0,0,8211277
 2024,Richmond,50,Jackson Carawan,Jackson Carawan,Jackson,Carawan,So,M,50,7,0,0,0,0,1,1,1,1,1,0,0,8203445
 2024,Richmond,4,Xander Welty,Xander Welty,Xander,Welty,Jr,M,4,7,0,0,0,0,1,1,5,0,1,0,0,8206072
-2024,Richmond,38,Brendan Murphy,Brendan Murphy,Brendan,Murphy,Sr,ATT,38,7,0,2,2,4,6,5,0,1,0,0,0,8201986
 2024,Richmond,17,Luke Meyer,Luke Meyer,Luke,Meyer,Fr,ATT,17,7,0,0,0,0,3,0,0,0,0,0,0,8423804
-2024,Richmond,31,Connor Knight,Connor Knight,Connor,Knight,So,GK,31,7,1,0,0,0,0,0,6,1,0,0,0,8211277
-2024,Richmond,9,Tye Steenhuis,Tye Steenhuis,Tye,Steenhuis,Fr,M,9,6,0,0,0,0,4,3,0,1,0,0,0,8423795
-2024,Richmond,30,Bo Brown,Bo Brown,Bo,Brown,Jr,LSM,30,6,0,0,0,0,1,0,3,0,2,0,0,8205686
+2024,Richmond,38,Brendan Murphy,Brendan Murphy,Brendan,Murphy,Sr,ATT,38,7,0,2,2,4,6,5,0,1,0,0,0,8201986
 2024,Richmond,46,Samson Axe,Samson Axe,Samson,Axe,So,M,46,6,0,0,0,0,0,0,1,0,0,0,0,8205367
+2024,Richmond,30,Bo Brown,Bo Brown,Bo,Brown,Jr,LSM,30,6,0,0,0,0,1,0,3,0,2,0,0,8205686
 2024,Richmond,18,Aidan Wooley,Aidan Wooley,Aidan,Wooley,Fr,M,18,6,0,0,0,0,0,0,1,0,0,0,0,8423801
 2024,Richmond,91,Brayden Penafeather-Stevenson,Brayden Penafeather-Stevenson,Brayden,Penafeather-Stevenson,Fr,LSM,91,6,0,0,0,0,0,0,3,0,1,0,0,8423785
+2024,Richmond,9,Tye Steenhuis,Tye Steenhuis,Tye,Steenhuis,Fr,M,9,6,0,0,0,0,4,3,0,1,0,0,0,8423795
 2024,Richmond,29,Sean Siegel,Sean Siegel,Sean,Siegel,Fr,LSM,29,5,0,0,0,0,1,0,1,0,1,0,0,8423791
 2024,Richmond,22,Leo Caine,Leo Caine,Leo,Caine,So,ATT,22,3,0,0,0,0,1,0,0,1,0,0,0,8201590
 2024,Richmond,3,Brendan O'Berry,Brendan O'Berry,Brendan,O'Berry,Sr,D,3,3,0,0,0,0,0,0,1,0,0,0,0,8202429
 2024,Richmond,1,Ryan Spilman,Ryan Spilman,Ryan,Spilman,Jr,M,1,1,0,0,0,0,0,0,0,1,0,0,0,8206513
-2024,Robert Morris,16,Will MacLeod,Will MacLeod,Will,MacLeod,So,ATT,16,15,9,10,4,14,32,18,6,9,1,0,0,8204676
-2024,Robert Morris,7,Ethan Hecht,Ethan Hecht,Ethan,Hecht,So,D,7,15,15,1,1,2,2,2,19,5,11,0,0,8201419
 2024,Robert Morris,19,Nate Fechter,Nate Fechter,Nate,Fechter,Fr,GK,19,15,15,0,0,0,1,0,27,5,2,0,0,8452367
-2024,Robert Morris,48,Liam Blakely,Liam Blakely,Liam,Blakely,So,D,48,15,15,2,1,3,6,6,30,12,13,0,0,8207789
-2024,Robert Morris,35,Eric Swagerty,Eric Swagerty,Eric,Swagerty,Sr,ATT,35,15,9,8,8,16,32,18,6,12,5,0,0,8205963
-2024,Robert Morris,31,Elliot Holden,Elliot Holden,Elliot,Holden,Sr,ATT,31,15,15,29,28,57,92,57,28,30,1,0,0,8448038
-2024,Robert Morris,39,James Leary,James Leary,James,Leary,Sr,D,39,15,8,2,2,4,15,12,47,13,29,0,0,8448039
-2024,Robert Morris,25,Owen Tapper,Owen Tapper,Owen,Tapper,Fr,D,25,15,7,1,0,1,4,3,38,11,14,0,0,8452337
 2024,Robert Morris,47,David Burr,David Burr,David,Burr,Jr,ATT,47,15,15,34,12,46,111,74,15,22,5,0,0,8206406
 2024,Robert Morris,24,Steven DelleMonache,Steven DelleMonache,Steven,DelleMonache,Sr,FO,24,15,0,0,2,2,4,3,55,3,1,101,186,8210907
+2024,Robert Morris,35,Eric Swagerty,Eric Swagerty,Eric,Swagerty,Sr,ATT,35,15,9,8,8,16,32,18,6,12,5,0,0,8205963
+2024,Robert Morris,7,Ethan Hecht,Ethan Hecht,Ethan,Hecht,So,D,7,15,15,1,1,2,2,2,19,5,11,0,0,8201419
+2024,Robert Morris,25,Owen Tapper,Owen Tapper,Owen,Tapper,Fr,D,25,15,7,1,0,1,4,3,38,11,14,0,0,8452337
 2024,Robert Morris,9,Ben Starkey,Ben Starkey,Ben,Starkey,Sr,ATT,9,15,15,26,2,28,82,54,12,29,6,0,0,8448043
-2024,Robert Morris,37,Colin Davis,Colin Davis,Colin,Davis,Fr,ATT,37,14,0,2,2,4,4,3,11,2,1,0,0,8452362
-2024,Robert Morris,6,Brendan Cina,Brendan Cina,Brendan,Cina,Jr,M,6,14,0,1,0,1,5,3,16,6,8,0,0,8201980
-2024,Robert Morris,0,Gavin Pedone,Gavin Pedone,Gavin,Pedone,Fr,M,0,14,7,3,2,5,30,11,20,7,5,0,0,8452315
+2024,Robert Morris,31,Elliot Holden,Elliot Holden,Elliot,Holden,Sr,ATT,31,15,15,29,28,57,92,57,28,30,1,0,0,8448038
+2024,Robert Morris,39,James Leary,James Leary,James,Leary,Sr,D,39,15,8,2,2,4,15,12,47,13,29,0,0,8448039
+2024,Robert Morris,48,Liam Blakely,Liam Blakely,Liam,Blakely,So,D,48,15,15,2,1,3,6,6,30,12,13,0,0,8207789
+2024,Robert Morris,16,Will MacLeod,Will MacLeod,Will,MacLeod,So,ATT,16,15,9,10,4,14,32,18,6,9,1,0,0,8204676
 2024,Robert Morris,44,Kean Moon,Kean Moon,Kean,Moon,Jr,M,44,14,0,12,7,19,41,23,2,16,3,0,0,8212817
+2024,Robert Morris,0,Gavin Pedone,Gavin Pedone,Gavin,Pedone,Fr,M,0,14,7,3,2,5,30,11,20,7,5,0,0,8452315
+2024,Robert Morris,6,Brendan Cina,Brendan Cina,Brendan,Cina,Jr,M,6,14,0,1,0,1,5,3,16,6,8,0,0,8201980
+2024,Robert Morris,37,Colin Davis,Colin Davis,Colin,Davis,Fr,ATT,37,14,0,2,2,4,4,3,11,2,1,0,0,8452362
 2024,Robert Morris,12,Bo Columbus,Bo Columbus,Bo,Columbus,Jr,FO,12,14,0,0,2,2,4,4,51,6,1,110,202,8211467
-2024,Robert Morris,51,Nick Pelletier,Nick Pelletier,Nick,Pelletier,Jr,M,51,13,1,3,1,4,7,6,4,9,1,0,0,8206043
-2024,Robert Morris,41,Joel McCormick,Joel McCormick,Joel,McCormick,So,M,41,13,0,7,2,9,14,10,5,2,1,0,0,8448040
 2024,Robert Morris,5,River Oudemool,River Oudemool,River,Oudemool,Fr,ATT,5,13,9,6,1,7,19,12,5,9,0,0,0,8452319
+2024,Robert Morris,41,Joel McCormick,Joel McCormick,Joel,McCormick,So,M,41,13,0,7,2,9,14,10,5,2,1,0,0,8448040
+2024,Robert Morris,51,Nick Pelletier,Nick Pelletier,Nick,Pelletier,Jr,M,51,13,1,3,1,4,7,6,4,9,1,0,0,8206043
 2024,Robert Morris,14,Brian Simmons,Brian Simmons,Brian,Simmons,Sr,GK,14,12,0,1,0,1,2,2,10,2,5,0,0,8211698
 2024,Robert Morris,33,Elijah Edwards,Elijah Edwards,Elijah,Edwards,Fr,D,33,12,0,0,0,0,3,2,16,2,3,0,1,8452341
 2024,Robert Morris,52,Matt King,Matt King,Matt,King,So,M,52,12,0,0,0,0,2,0,7,6,1,0,0,8210554
 2024,Robert Morris,32,Kyle McMillan,Kyle McMillan,Kyle,McMillan,So,M,32,11,0,0,0,0,0,0,3,1,0,0,0,8202401
+2024,Robert Morris,28,Bobby Reaume,Bobby Reaume,Bobby,Reaume,Jr,M,28,10,1,3,1,4,11,5,2,10,0,0,0,8210631
 2024,Robert Morris,18,Ben Eck,Ben Eck,Ben,Eck,Fr,M,18,10,0,0,0,0,4,2,3,3,0,0,0,8452327
 2024,Robert Morris,20,Tommy Mullikin,Tommy Mullikin,Tommy,Mullikin,Fr,D,20,10,0,1,1,2,6,1,2,4,0,0,0,8452357
-2024,Robert Morris,28,Bobby Reaume,Bobby Reaume,Bobby,Reaume,Jr,M,28,10,1,3,1,4,11,5,2,10,0,0,0,8210631
-2024,Robert Morris,40,Reed Greco,Reed Greco,Reed,Greco,Sr,D,40,9,0,0,0,0,1,1,0,0,1,0,0,8211156
 2024,Robert Morris,8,Dylan Wragg,Dylan Wragg,Dylan,Wragg,Fr,M,8,9,0,1,0,1,3,2,1,1,0,0,0,8452322
+2024,Robert Morris,40,Reed Greco,Reed Greco,Reed,Greco,Sr,D,40,9,0,0,0,0,1,1,0,0,1,0,0,8211156
 2024,Robert Morris,21,Aidan Greco,Aidan Greco,Aidan,Greco,Fr,ATT,21,9,8,2,1,3,16,10,9,3,0,0,0,8452355
+2024,Robert Morris,27,Calum Brennan,Calum Brennan,Calum,Brennan,Fr,D,27,8,0,1,0,1,3,1,1,1,1,0,0,8452361
 2024,Robert Morris,36,Connor Boss,Connor Boss,Connor,Boss,Sr,M,36,8,0,0,2,2,14,8,0,3,0,0,0,8207443
 2024,Robert Morris,45,Riley DeLill,Riley DeLill,Riley,DeLill,Sr,D,45,8,0,0,0,0,0,0,4,0,2,0,0,8207273
-2024,Robert Morris,27,Calum Brennan,Calum Brennan,Calum,Brennan,Fr,D,27,8,0,1,0,1,3,1,1,1,1,0,0,8452361
-2024,Robert Morris,2,Liam Rosenthal,Liam Rosenthal,Liam,Rosenthal,Sr,GK,2,7,0,0,0,0,0,0,2,0,0,0,0,8448042
 2024,Robert Morris,11,Casey Sodolski,Casey Sodolski,Casey,Sodolski,Fr,ATT,11,7,0,0,0,0,0,0,2,0,0,0,0,8452353
+2024,Robert Morris,2,Liam Rosenthal,Liam Rosenthal,Liam,Rosenthal,Sr,GK,2,7,0,0,0,0,0,0,2,0,0,0,0,8448042
 2024,Robert Morris,3,Torin Neal,Torin Neal,Torin,Neal,Sr,ATT,3,6,1,0,0,0,4,1,1,1,0,0,0,8448041
-2024,Robert Morris,22,Graeme MacLennan,Graeme MacLennan,Graeme,MacLennan,So,ATT,22,5,0,0,1,1,4,2,0,2,0,0,0,8207701
 2024,Robert Morris,17,Zach Seppi,Zach Seppi,Zach,Seppi,Jr,FO,17,5,0,0,1,1,1,1,2,2,0,4,15,8202907
+2024,Robert Morris,22,Graeme MacLennan,Graeme MacLennan,Graeme,MacLennan,So,ATT,22,5,0,0,1,1,4,2,0,2,0,0,0,8207701
 2024,Robert Morris,23,Rowan Hynes,Rowan Hynes,Rowan,Hynes,So,D,23,4,0,0,0,0,1,0,0,0,0,0,0,8201312
 2024,Robert Morris,38,Sam Colon,Sam Colon,Sam,Colon,So,M,38,3,0,0,0,0,0,0,1,0,0,0,0,8210610
 2024,Robert Morris,4,Nate Randall,Nate Randall,Nate,Randall,Jr,GK,4,2,0,0,0,0,0,0,0,0,0,1,1,8203361
 2024,Robert Morris,13,Parker Piwinski,Parker Piwinski,Parker,Piwinski,Jr,ATT,13,1,0,0,0,0,0,0,0,1,0,0,0,8211854
-2024,Rutgers,12,Nick Teresky,Nick Teresky,Nick,Teresky,Sr,M,12,14,0,4,2,6,18,8,3,5,0,0,0,8208152
-2024,Rutgers,27,Shane Knobloch,Shane Knobloch,Shane,Knobloch,Sr,M,27,14,14,29,11,40,117,66,16,20,4,0,0,8206007
-2024,Rutgers,28,Tommy Mendyke,Tommy Mendyke,Tommy,Mendyke,Jr,D,28,14,14,0,0,0,0,0,20,1,12,0,0,8207678
-2024,Rutgers,55,Tanyr Krummenacher,Tanyr Krummenacher,Tanyr,Krummenacher,Sr,ATT,55,14,8,9,3,12,26,19,12,5,1,0,0,8416360
+2024,Rutgers,88,Colin Kurdyla,Colin Kurdyla,Colin,Kurdyla,Fr,M,88,14,11,20,10,30,77,46,12,15,0,0,0,8416361
+2024,Rutgers,92,Cardin Stoller,Cardin Stoller,Cardin,Stoller,So,GK,92,14,14,0,0,0,1,0,22,8,3,0,0,8206523
+2024,Rutgers,23,Andrew Macheca,Andrew Macheca,Andrew,Macheca,So,M,23,14,0,0,0,0,1,0,16,4,2,0,0,8208893
+2024,Rutgers,19,Ben McKelvy,Ben McKelvy,Ben,McKelvy,Jr,D,19,14,14,0,0,0,1,0,11,4,9,0,0,8202399
 2024,Rutgers,1,Dante Kulas,Dante Kulas,Dante,Kulas,Jr,ATT,1,14,12,16,9,25,46,32,14,7,1,0,0,8204327
+2024,Rutgers,28,Tommy Mendyke,Tommy Mendyke,Tommy,Mendyke,Jr,D,28,14,14,0,0,0,0,0,20,1,12,0,0,8207678
+2024,Rutgers,27,Shane Knobloch,Shane Knobloch,Shane,Knobloch,Sr,M,27,14,14,29,11,40,117,66,16,20,4,0,0,8206007
+2024,Rutgers,12,Nick Teresky,Nick Teresky,Nick,Teresky,Sr,M,12,14,0,4,2,6,18,8,3,5,0,0,0,8208152
+2024,Rutgers,55,Tanyr Krummenacher,Tanyr Krummenacher,Tanyr,Krummenacher,Sr,ATT,55,14,8,9,3,12,26,19,12,5,1,0,0,8416360
 2024,Rutgers,43,Donnie Howard,Donnie Howard,Donnie,Howard,Sr,M,43,14,0,0,0,0,4,2,8,2,5,0,0,8416356
 2024,Rutgers,29,John Sidorski,John Sidorski,John,Sidorski,Sr,M,29,14,3,8,4,12,13,9,3,7,0,0,0,8416369
 2024,Rutgers,5,Ross Scott,Ross Scott,Ross,Scott,Sr,ATT,5,14,14,20,25,45,80,43,13,19,0,0,0,8416259
-2024,Rutgers,19,Ben McKelvy,Ben McKelvy,Ben,McKelvy,Jr,D,19,14,14,0,0,0,1,0,11,4,9,0,0,8202399
-2024,Rutgers,92,Cardin Stoller,Cardin Stoller,Cardin,Stoller,So,GK,92,14,14,0,0,0,1,0,22,8,3,0,0,8206523
-2024,Rutgers,88,Colin Kurdyla,Colin Kurdyla,Colin,Kurdyla,Fr,M,88,14,11,20,10,30,77,46,12,15,0,0,0,8416361
-2024,Rutgers,23,Andrew Macheca,Andrew Macheca,Andrew,Macheca,So,M,23,14,0,0,0,0,1,0,16,4,2,0,0,8208893
 2024,Rutgers,24,Cole Brams,Cole Brams,Cole,Brams,Sr,FO,24,14,0,2,0,2,8,6,64,6,1,126,243,8416249
+2024,Rutgers,17,Ryan Splaine,Ryan Splaine,Ryan,Splaine,So,LSM,17,13,0,3,0,3,5,4,40,5,16,0,0,8210648
 2024,Rutgers,22,Brandon Hund,Brandon Hund,Brandon,Hund,Sr,M,22,13,0,1,3,4,6,4,20,4,2,0,0,8416358
 2024,Rutgers,31,James Ringer,James Ringer,James,Ringer,Sr,M,31,13,2,4,0,4,16,12,4,4,0,0,0,8416260
-2024,Rutgers,17,Ryan Splaine,Ryan Splaine,Ryan,Splaine,So,LSM,17,13,0,3,0,3,5,4,40,5,16,0,0,8210648
-2024,Rutgers,33,Jack Aimone,Jack Aimone,Jack,Aimone,Sr,M,33,12,12,20,0,20,82,47,7,10,3,0,0,8206894
 2024,Rutgers,0,Matt Soutar,Matt Soutar,Matt,Soutar,Sr,FO,0,12,0,0,0,0,0,0,26,3,0,53,96,8416372
 2024,Rutgers,34,Conor Udovich,Conor Udovich,Conor,Udovich,So,D,34,12,4,0,0,0,0,0,13,1,5,0,0,8208407
+2024,Rutgers,33,Jack Aimone,Jack Aimone,Jack,Aimone,Sr,M,33,12,12,20,0,20,82,47,7,10,3,0,0,8206894
 2024,Rutgers,77,LaJhon Jones,LaJhon Jones,LaJhon,Jones,Sr,D,77,11,0,0,0,0,1,0,11,1,4,0,0,8202573
 2024,Rutgers,7,Logan  Peters,Logan  Peters,Logan,,Jr,M,7,11,6,3,1,4,15,7,4,9,0,0,0,8203312
 2024,Rutgers,82,Tim Sommer,Tim Sommer,Tim,Sommer,Sr,M,82,10,0,1,0,1,11,5,0,2,0,0,0,8416371
-2024,Rutgers,41,Mason Rickens,Mason Rickens,Mason,Rickens,Sr,M,41,10,2,0,0,0,0,0,2,1,2,0,0,8201210
 2024,Rutgers,91,Tanner Germain,Tanner Germain,Tanner,Germain,Sr,M,91,10,0,1,0,1,12,6,3,2,0,0,0,8416352
-2024,Rutgers,10,Mason Edwards,Mason Edwards,Mason,Edwards,Sr,M,10,9,0,0,1,1,1,1,8,2,3,0,0,8416257
+2024,Rutgers,41,Mason Rickens,Mason Rickens,Mason,Rickens,Sr,M,41,10,2,0,0,0,0,0,2,1,2,0,0,8201210
 2024,Rutgers,42,Harris Hubbard,Harris Hubbard,Harris,Hubbard,Sr,D,42,9,7,0,0,0,0,0,6,0,6,0,0,8416357
+2024,Rutgers,10,Mason Edwards,Mason Edwards,Mason,Edwards,Sr,M,10,9,0,0,1,1,1,1,8,2,3,0,0,8416257
 2024,Rutgers,51,Zak Conley,Zak Conley,Zak,Conley,Sr,D,51,8,0,0,0,0,1,0,7,0,2,0,0,8208466
 2024,Rutgers,6,Jon Miller,Jon Miller,Jon,Miller,Jr,M,6,7,0,0,0,0,1,0,0,0,1,0,0,8212795
 2024,Rutgers,50,Colin Zeller,Colin Zeller,Colin,Zeller,Fr,M,50,6,0,0,0,0,0,0,6,2,3,0,0,8416375
 2024,Rutgers,81,Seamus Fagan,Seamus Fagan,Seamus,Fagan,Sr,GK,81,4,0,0,0,0,0,0,2,1,0,0,0,8416351
+2024,Rutgers,21,Duke Richman II,Duke Richman II,Duke,Richman,Fr,M,21,3,0,0,2,2,1,1,2,0,0,0,0,8416365
 2024,Rutgers,32,Brock Desmarais,Brock Desmarais,Brock,Desmarais,Fr,FO,32,3,0,0,0,0,0,0,4,0,0,5,14,8416256
 2024,Rutgers,26,Dean Scalamandre,Dean Scalamandre,Dean,Scalamandre,Fr,M,26,3,0,0,0,0,0,0,2,0,0,0,0,8416368
-2024,Rutgers,21,Duke Richman II,Duke Richman II,Duke,Richman,Fr,M,21,3,0,0,2,2,1,1,2,0,0,0,0,8416365
+2024,Rutgers,11,David Carroll,David Carroll,David,Carroll,Fr,ATT,11,2,0,1,0,1,2,1,2,1,0,0,0,8416250
+2024,Rutgers,99,Connor McDonough,Connor McDonough,Connor,McDonough,Sr,ATT,99,2,0,2,0,2,3,3,0,0,0,0,0,8416363
 2024,Rutgers,2,Colin Kelly,Colin Kelly,Colin,Kelly,Sr,ATT,2,2,2,1,0,1,11,7,0,1,0,0,0,8416359
 2024,Rutgers,15,Peter Rizzotti,Peter Rizzotti,Peter,Rizzotti,Sr,M,15,2,1,0,1,1,0,0,4,0,2,0,0,8416366
-2024,Rutgers,99,Connor McDonough,Connor McDonough,Connor,McDonough,Sr,ATT,99,2,0,2,0,2,3,3,0,0,0,0,0,8416363
 2024,Rutgers,49,Charles Eischens,Charles Eischens,Charles,Eischens,Fr,D,49,2,0,0,0,0,0,0,1,1,0,0,0,8416258
-2024,Rutgers,11,David Carroll,David Carroll,David,Carroll,Fr,ATT,11,2,0,1,0,1,2,1,2,1,0,0,0,8416250
 2024,Rutgers,44,Zach Walsh,Zach Walsh,Zach,Walsh,So,ATT,44,1,0,1,0,1,2,1,0,0,0,0,0,8205391
 2024,Rutgers,74,Clint Gourdeau,Clint Gourdeau,Clint,Gourdeau,Sr,D,74,1,0,0,0,0,0,0,1,0,0,0,0,8416354
 2024,Rutgers,13,Jack Crosby,Jack Crosby,Jack,Crosby,Sr,LSM,13,1,0,0,0,0,0,0,1,0,0,0,0,8207615
@@ -2280,37 +2280,37 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,Sacred Heart,34,Zach Buffington,Zach Buffington,Zach,Buffington,Sr,D,34,18,17,1,1,2,5,2,49,5,16,0,0,8206184
 2024,Sacred Heart,25,Carson Spooner,Carson Spooner,Carson,Spooner,Sr,ATT,25,18,1,24,21,45,102,56,20,29,2,0,0,8454745
 2024,Sacred Heart,36,Garrett Mangels,Garrett Mangels,Garrett,Mangels,Fr,SSDM,36,17,0,0,2,2,3,2,19,3,3,0,0,8454770
-2024,Sacred Heart,24,Johnny Morgan,Johnny Morgan,Johnny,Morgan,Sr,ATT,24,16,0,4,3,7,37,18,6,10,0,0,0,8454744
 2024,Sacred Heart,4,David Creo,David Creo,David,Creo,Sr,M,4,16,0,1,0,1,2,1,13,1,4,0,0,8207000
-2024,Sacred Heart,20,Ben Palanchi,Ben Palanchi,Ben,Palanchi,Sr,D,20,14,0,0,0,0,2,0,8,0,6,0,0,8454740
+2024,Sacred Heart,24,Johnny Morgan,Johnny Morgan,Johnny,Morgan,Sr,ATT,24,16,0,4,3,7,37,18,6,10,0,0,0,8454744
 2024,Sacred Heart,12,MP Thomas,MP Thomas,MP,Thomas,Jr,FO,12,14,0,0,0,0,4,2,29,0,0,56,105,8204485
+2024,Sacred Heart,20,Ben Palanchi,Ben Palanchi,Ben,Palanchi,Sr,D,20,14,0,0,0,0,2,0,8,0,6,0,0,8454740
 2024,Sacred Heart,10,Jack Carr,Jack Carr,Jack,Carr,Sr,D,10,14,0,0,0,0,0,0,13,0,2,0,0,8454737
 2024,Sacred Heart,44,James Moran,James Moran,James,Moran,Fr,M,44,13,0,16,1,17,49,27,8,11,3,0,0,8454777
 2024,Sacred Heart,46,John Murray,John Murray,John,Murray,So,M,46,12,0,5,1,6,20,9,4,6,1,0,0,8207221
 2024,Sacred Heart,11,Drew Pritts,Drew Pritts,Drew,Pritts,Sr,M,11,11,0,1,1,2,7,1,2,2,0,0,0,8206573
-2024,Sacred Heart,6,Nicky Casano,Nicky Casano,Nicky,Casano,Jr,FO,6,9,0,0,0,0,0,0,7,1,0,21,57,8205506
 2024,Sacred Heart,1,Sal Miccio,Sal Miccio,Sal,Miccio,Sr,ATT,1,9,1,14,17,31,43,27,6,15,1,0,0,8212161
+2024,Sacred Heart,6,Nicky Casano,Nicky Casano,Nicky,Casano,Jr,FO,6,9,0,0,0,0,0,0,7,1,0,21,57,8205506
+2024,Sacred Heart,30,Cayden Brodnax,Cayden Brodnax,Cayden,Brodnax,Sr,M,30,8,0,1,0,1,8,3,1,1,0,0,0,8205001
 2024,Sacred Heart,33,Ethan  Greenlee,Ethan  Greenlee,Ethan,,Fr,D,33,8,0,0,0,0,0,0,2,0,0,0,0,8454769
 2024,Sacred Heart,88,Tim Kiely,Tim Kiely,Tim,Kiely,Fr,M,88,8,0,1,0,1,7,2,0,2,1,0,0,8454787
-2024,Sacred Heart,30,Cayden Brodnax,Cayden Brodnax,Cayden,Brodnax,Sr,M,30,8,0,1,0,1,8,3,1,1,0,0,0,8205001
 2024,Sacred Heart,14,Connor Garrison,Connor Garrison,Connor,Garrison,So,M,14,8,0,0,0,0,2,2,3,1,0,0,0,8207436
 2024,Sacred Heart,55,Matt Gruters,Matt Gruters,Matt,Gruters,Jr,GK,55,7,0,0,0,0,0,0,1,0,0,0,0,8206662
 2024,Sacred Heart,5,Cam Brown,Cam Brown,Cam,Brown,Jr,ATT,5,7,0,2,2,4,10,4,2,1,0,0,0,8205267
 2024,Sacred Heart,81,Brandon Sweeney,Brandon Sweeney,Brandon,Sweeney,Sr,D,81,6,0,0,0,0,0,0,1,2,1,0,0,8203178
 2024,Sacred Heart,49,Mike Wieczorek,Mike Wieczorek,Mike,Wieczorek,Sr,ATT,49,5,0,0,1,1,2,2,1,2,0,0,0,8213154
 2024,Sacred Heart,31,Zach Frank,Zach Frank,Zach,Frank,Sr,M,31,5,0,0,0,0,0,0,0,1,0,0,0,8207304
-2024,Sacred Heart,32,Aidan Burke,Aidan Burke,Aidan,Burke,Sr,ATT,32,4,0,1,0,1,4,2,2,1,0,0,0,8205652
-2024,Sacred Heart,17,Brayden Edwards,Brayden Edwards,Brayden,Edwards,Sr,ATT,17,4,0,0,0,0,1,1,0,1,0,0,0,8210211
-2024,Sacred Heart,13,Kavin Wood,Kavin Wood,Kavin,Wood,So,ATT,13,4,0,0,0,0,1,1,0,0,0,0,0,8205565
 2024,Sacred Heart,18,Finn Hoey,Finn Hoey,Finn,Hoey,So,D,18,4,0,0,0,0,0,0,2,0,0,0,0,8206676
-2024,Sacred Heart,38,Graham Kelly,Graham Kelly,Graham,Kelly,Fr,D,38,4,0,0,0,0,0,0,1,0,0,0,0,8454790
+2024,Sacred Heart,17,Brayden Edwards,Brayden Edwards,Brayden,Edwards,Sr,ATT,17,4,0,0,0,0,1,1,0,1,0,0,0,8210211
+2024,Sacred Heart,32,Aidan Burke,Aidan Burke,Aidan,Burke,Sr,ATT,32,4,0,1,0,1,4,2,2,1,0,0,0,8205652
 2024,Sacred Heart,16,Liam Keesser,Liam Keesser,Liam,Keesser,So,M,16,4,0,0,0,0,0,0,0,1,0,0,0,8202915
+2024,Sacred Heart,38,Graham Kelly,Graham Kelly,Graham,Kelly,Fr,D,38,4,0,0,0,0,0,0,1,0,0,0,0,8454790
+2024,Sacred Heart,13,Kavin Wood,Kavin Wood,Kavin,Wood,So,ATT,13,4,0,0,0,0,1,1,0,0,0,0,0,8205565
 2024,Sacred Heart,15,Tyler Basti,Tyler Basti,Tyler,Basti,Jr,M,15,3,0,0,0,0,0,0,0,0,1,0,0,8211516
 2024,Sacred Heart,59,Declan Wilkie,Declan Wilkie,Declan,Wilkie,Jr,D,59,2,0,0,1,1,1,1,0,0,0,0,0,8206929
+2024,Sacred Heart,53,Thomas Ricciardi,Thomas Ricciardi,Thomas,Ricciardi,So,D,53,1,0,0,0,0,0,0,1,1,0,0,0,8203213
 2024,Sacred Heart,50,Joel Palasz,Joel Palasz,Joel,Palasz,Fr,ATT,50,1,0,0,0,0,1,0,0,1,0,0,0,8454778
 2024,Sacred Heart,8,Carson Reeder,Carson Reeder,Carson,Reeder,Jr,ATT,8,1,0,0,0,0,0,0,0,1,0,0,0,8205412
-2024,Sacred Heart,53,Thomas Ricciardi,Thomas Ricciardi,Thomas,Ricciardi,So,D,53,1,0,0,0,0,0,0,1,1,0,0,0,8203213
-2024,Saint Joseph's,17,Mark Watters,Mark Watters,Mark,Watters,So,ATT,17,16,1,10,2,12,33,24,2,6,0,0,0,8211636
+2024,Saint Joseph's,62,Carter Page,Carter Page,Carter,Page,Sr,ATT,62,16,16,44,6,50,114,66,32,13,5,0,0,8210335
 2024,Saint Joseph's,55,Liam Quinn,Liam Quinn,Liam,Quinn,So,D,55,16,16,0,0,0,0,0,13,2,4,0,0,8211937
 2024,Saint Joseph's,28,Jesse Jason,Jesse Jason,Jesse,Jason,So,M,28,16,14,21,11,32,77,46,15,17,2,0,0,8202098
 2024,Saint Joseph's,14,Christian Marchini,Christian Marchini,Christian,Marchini,So,M,14,16,0,0,1,1,2,1,9,6,3,0,0,8207854
@@ -2318,22 +2318,22 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,Saint Joseph's,37,Ryan Bradley,Ryan Bradley,Ryan,Bradley,Jr,M,37,16,0,0,2,2,6,3,15,4,17,0,0,8203722
 2024,Saint Joseph's,35,Griffin  Mallory,Griffin  Mallory,Griffin,,Jr,M,35,16,1,7,7,14,33,18,7,9,2,0,0,8201957
 2024,Saint Joseph's,32,Jack McGorry,Jack McGorry,Jack,McGorry,Jr,M,32,16,1,0,0,0,6,1,5,4,1,0,0,8208431
-2024,Saint Joseph's,62,Carter Page,Carter Page,Carter,Page,Sr,ATT,62,16,16,44,6,50,114,66,32,13,5,0,0,8210335
+2024,Saint Joseph's,17,Mark Watters,Mark Watters,Mark,Watters,So,ATT,17,16,1,10,2,12,33,24,2,6,0,0,0,8211636
 2024,Saint Joseph's,63,Toron Eccleston,Toron Eccleston,Toron,Eccleston,Sr,ATT,63,16,16,24,9,33,85,51,15,17,2,0,0,8419851
 2024,Saint Joseph's,7,Gavin Tygh,Gavin Tygh,Gavin,Tygh,Jr,FO,7,16,0,1,2,3,5,2,93,7,1,181,357,8419855
 2024,Saint Joseph's,52,Colin Reich,Colin Reich,Colin,Reich,Sr,M,52,16,16,10,8,18,66,26,8,8,2,0,0,8419850
 2024,Saint Joseph's,45,Patrick Clemens,Patrick Clemens,Patrick,Clemens,Sr,D,45,16,16,0,2,2,1,1,43,6,19,0,0,8419848
 2024,Saint Joseph's,51,Alex Keener,Alex Keener,Alex,Keener,Sr,D,51,16,0,2,0,2,5,2,28,10,18,0,0,8419849
 2024,Saint Joseph's,4,Matt Bohmer,Matt Bohmer,Matt,Bohmer,Sr,ATT,4,16,16,37,13,50,90,67,23,29,5,0,0,8419846
-2024,Saint Joseph's,50,Gunnar Bogorowski,Gunnar Bogorowski,Gunnar,Bogorowski,Sr,M,50,16,0,0,0,0,0,0,4,3,10,0,0,8419853
 2024,Saint Joseph's,8,Levi Anderson,Levi Anderson,Levi,Anderson,Sr,ATT,8,16,16,33,24,57,122,73,27,38,4,0,0,8419845
-2024,Saint Joseph's,34,Tommy Gross,Tommy Gross,Tommy,Gross,So,GK,34,15,12,0,0,0,1,0,21,7,5,0,0,8205579
+2024,Saint Joseph's,50,Gunnar Bogorowski,Gunnar Bogorowski,Gunnar,Bogorowski,Sr,M,50,16,0,0,0,0,0,0,4,3,10,0,0,8419853
 2024,Saint Joseph's,46,Danny Gaalaas,Danny Gaalaas,Danny,Gaalaas,So,LSM,46,15,0,1,1,2,4,3,15,0,6,0,0,8202223
+2024,Saint Joseph's,34,Tommy Gross,Tommy Gross,Tommy,Gross,So,GK,34,15,12,0,0,0,1,0,21,7,5,0,0,8205579
 2024,Saint Joseph's,31,Patrick Bronander,Patrick Bronander,Patrick,Bronander,Sr,M,31,14,0,0,0,0,1,1,9,3,6,0,0,8211405
 2024,Saint Joseph's,21,Trae Ika,Trae Ika,Trae,Ika,Jr,ATT,21,12,0,2,1,3,11,5,1,1,0,0,0,8208176
-2024,Saint Joseph's,1,Michael Gaughan,Michael Gaughan,Michael,Gaughan,Jr,M,1,11,0,3,0,3,4,3,12,7,3,0,0,8203301
 2024,Saint Joseph's,5,Collin Campbell,Collin Campbell,Collin,Campbell,So,ATT,5,11,0,2,3,5,11,4,10,6,0,0,0,8207292
 2024,Saint Joseph's,38,Harrison Oehler,Harrison Oehler,Harrison,Oehler,Sr,D,38,11,0,1,0,1,1,1,3,0,2,0,0,8211064
+2024,Saint Joseph's,1,Michael Gaughan,Michael Gaughan,Michael,Gaughan,Jr,M,1,11,0,3,0,3,4,3,12,7,3,0,0,8203301
 2024,Saint Joseph's,20,William King,William King,William,King,Sr,ATT,20,8,0,2,1,3,5,4,4,0,0,0,0,8206671
 2024,Saint Joseph's,49,Conor Trant,Conor Trant,Conor,Trant,So,FO,49,8,0,0,3,3,1,1,11,1,1,23,51,8204719
 2024,Saint Joseph's,6,Casey Herod,Casey Herod,Casey,Herod,Jr,M,6,7,0,2,0,2,6,5,0,1,0,0,0,8206233
@@ -2341,38 +2341,38 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,Saint Joseph's,22,Samuel Forte,Samuel Forte,Samuel,Forte,Jr,M,22,6,0,0,1,1,0,0,5,0,0,0,0,8210737
 2024,Saint Joseph's,23,Colin Zyck,Colin Zyck,Colin,Zyck,Jr,ATT,23,5,0,1,0,1,1,1,0,1,0,0,0,8210576
 2024,Saint Joseph's,39,Robbie Seeley,Robbie Seeley,Robbie,Seeley,Sr,GK,39,4,0,0,0,0,0,0,3,0,0,0,0,8419847
-2024,Saint Joseph's,29,Shayne Ryan,Shayne Ryan,Shayne,Ryan,Jr,GK,29,3,3,0,0,0,0,0,3,0,0,0,0,8208787
 2024,Saint Joseph's,24,Owen Mehok,Owen Mehok,Owen,Mehok,Jr,ATT,24,3,0,0,0,0,0,0,1,2,0,0,0,8208109
-2024,Saint Joseph's,58,Liam Ferris,Liam Ferris,Liam,Ferris,Sr,M,58,2,0,2,1,3,3,3,3,1,0,0,0,8210484
-2024,Saint Joseph's,44,Matthew Akers,Matthew Akers,Matthew,Akers,Jr,D,44,2,0,0,0,0,1,0,2,0,2,0,0,8203224
+2024,Saint Joseph's,29,Shayne Ryan,Shayne Ryan,Shayne,Ryan,Jr,GK,29,3,3,0,0,0,0,0,3,0,0,0,0,8208787
 2024,Saint Joseph's,61,David Shew,David Shew,David,Shew,Sr,ATT,61,2,0,0,0,0,0,0,1,0,0,0,0,8201155
+2024,Saint Joseph's,58,Liam Ferris,Liam Ferris,Liam,Ferris,Sr,M,58,2,0,2,1,3,3,3,3,1,0,0,0,8210484
 2024,Saint Joseph's,53,Giuseppe Morici,Giuseppe Morici,Giuseppe,Morici,So,FO,53,2,0,0,0,0,0,0,2,0,0,5,9,8203139
 2024,Saint Joseph's,65,Brennan Catania,Brennan Catania,Brennan,Catania,So,D,65,2,0,0,0,0,0,0,1,0,0,0,0,8207776
-2024,Saint Joseph's,25,Evan Curry,Evan Curry,Evan,Curry,Fr,M,25,1,0,0,0,0,0,0,0,1,0,0,0,8419862
+2024,Saint Joseph's,44,Matthew Akers,Matthew Akers,Matthew,Akers,Jr,D,44,2,0,0,0,0,1,0,2,0,2,0,0,8203224
 2024,Saint Joseph's,59,Michael Zima,Michael Zima,Michael,Zima,Sr,M,59,1,0,0,0,0,0,0,1,0,0,0,0,8419852
+2024,Saint Joseph's,25,Evan Curry,Evan Curry,Evan,Curry,Fr,M,25,1,0,0,0,0,0,0,0,1,0,0,0,8419862
 2024,Saint Joseph's,15,Gavin Harmon,Gavin Harmon,Gavin,Harmon,Sr,ATT,15,1,0,2,1,3,4,3,0,0,0,0,0,8209874
-2024,Siena,26,Travis Fry,Travis Fry,Travis,Fry,So,ATT,26,16,0,24,7,31,85,54,11,11,0,0,0,8209396
 2024,Siena,33,R.J. Ihlefeld,R.J. Ihlefeld,R.J.,Ihlefeld,So,LSM,33,16,14,1,0,1,2,2,34,9,13,0,1,8212993
+2024,Siena,17,Liam Lennon,Liam Lennon,Liam,Lennon,So,M,17,16,3,0,2,2,9,3,14,7,5,0,0,8209202
 2024,Siena,19,Liam Hassett,Liam Hassett,Liam,Hassett,Jr,M,19,16,0,4,1,5,5,4,8,3,5,0,0,8205107
 2024,Siena,30,Ryan McCarthy,Ryan McCarthy,Ryan,McCarthy,Jr,ATT,30,16,16,7,36,43,44,24,15,23,1,0,0,8203048
 2024,Siena,27,Andrew Rooney,Andrew Rooney,Andrew,Rooney,Jr,D,27,16,16,0,0,0,1,0,47,9,15,0,0,8202697
 2024,Siena,20,Pratt Reynolds,Pratt Reynolds,Pratt,Reynolds,Jr,ATT,20,16,16,45,4,49,140,83,17,15,2,0,0,8211039
-2024,Siena,17,Liam Lennon,Liam Lennon,Liam,Lennon,So,M,17,16,3,0,2,2,9,3,14,7,5,0,0,8209202
 2024,Siena,4,Caden  Olmstead,Caden  Olmstead,Caden,,So,ATT,4,16,16,41,12,53,124,70,20,35,4,0,0,8210215
-2024,Siena,36,Rocco Barbero,Rocco Barbero,Rocco,Barbero,Sr,ATT,36,16,0,9,0,9,25,14,1,3,0,0,0,8204370
-2024,Siena,15,Brian Mack,Brian Mack,Brian,Mack,Sr,D,15,16,15,1,2,3,5,2,35,4,30,0,0,8206510
 2024,Siena,14,Patrick Radomski,Patrick Radomski,Patrick,Radomski,Fr,M,14,16,2,23,12,35,83,45,12,14,2,0,0,8417387
+2024,Siena,36,Rocco Barbero,Rocco Barbero,Rocco,Barbero,Sr,ATT,36,16,0,9,0,9,25,14,1,3,0,0,0,8204370
+2024,Siena,26,Travis Fry,Travis Fry,Travis,Fry,So,ATT,26,16,0,24,7,31,85,54,11,11,0,0,0,8209396
 2024,Siena,22,Colin Gleason,Colin Gleason,Colin,Gleason,Sr,ATT,22,16,1,2,3,5,20,12,5,11,0,0,0,8417370
 2024,Siena,49,Will Edell,Will Edell,Will,Edell,Sr,ATT,49,16,0,4,3,7,18,12,4,11,1,0,0,8210448
 2024,Siena,13,Trevor Marsala,Trevor Marsala,Trevor,Marsala,Sr,D,13,16,16,0,1,1,2,1,33,3,27,0,0,8201316
 2024,Siena,21,Andrew Arcuri,Andrew Arcuri,Andrew,Arcuri,Sr,GK,21,16,16,0,1,1,1,1,33,10,7,0,0,8206361
 2024,Siena,40,Jack Cavioli,Jack Cavioli,Jack,Cavioli,Sr,M,40,16,2,14,14,28,45,27,10,8,2,0,0,8206337
+2024,Siena,15,Brian Mack,Brian Mack,Brian,Mack,Sr,D,15,16,15,1,2,3,5,2,35,4,30,0,0,8206510
 2024,Siena,23,Mark Cummins,Mark Cummins,Mark,Cummins,Jr,D,23,15,1,1,2,3,1,1,16,3,10,0,1,8205483
-2024,Siena,5,Jack Erb,Jack Erb,Jack,Erb,Sr,M,5,14,11,1,4,5,1,1,12,4,2,0,0,8209329
 2024,Siena,11,Conor Hufnagel,Conor Hufnagel,Conor,Hufnagel,Jr,ATT,11,14,2,2,4,6,15,12,8,11,2,0,0,8417436
+2024,Siena,5,Jack Erb,Jack Erb,Jack,Erb,Sr,M,5,14,11,1,4,5,1,1,12,4,2,0,0,8209329
 2024,Siena,24,Colby LeBlanc,Colby LeBlanc,Colby,LeBlanc,So,M,24,14,0,6,5,11,22,12,6,7,0,0,0,8209163
-2024,Siena,18,Carter Fort,Carter Fort,Carter,Fort,Fr,M,18,13,0,1,0,1,3,1,10,4,4,0,0,8417391
 2024,Siena,3,Dylan Pape,Dylan Pape,Dylan,Pape,Sr,FO,3,13,12,1,0,1,4,4,70,8,2,161,295,8417376
+2024,Siena,18,Carter Fort,Carter Fort,Carter,Fort,Fr,M,18,13,0,1,0,1,3,1,10,4,4,0,0,8417391
 2024,Siena,1,Patrick Linton,Patrick Linton,Patrick,Linton,So,M,1,12,0,5,2,7,10,8,9,3,5,0,0,8202590
 2024,Siena,31,Ethan Eckert,Ethan Eckert,Ethan,Eckert,Sr,D,31,11,0,0,0,0,0,0,2,3,1,0,0,8202782
 2024,Siena,88,Sean Jeffrey,Sean Jeffrey,Sean,Jeffrey,Sr,D,88,9,0,0,0,0,2,0,12,2,1,0,0,8207643
@@ -2384,8 +2384,8 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,Siena,12,Caden Kramer,Caden Kramer,Caden,Kramer,So,LSM,12,5,0,0,0,0,0,0,1,1,0,0,0,8204397
 2024,Siena,10,Brandon Blenk,Brandon Blenk,Brandon,Blenk,Fr,M,10,4,0,0,0,0,1,1,0,0,0,0,0,8417386
 2024,Siena,7,Jack Clifford,Jack Clifford,Jack,Clifford,Jr,M,7,3,0,0,0,0,1,0,0,0,0,0,0,8204976
-2024,Siena,2,Gavin Blenk,Gavin Blenk,Gavin,Blenk,So,M,2,2,0,0,0,0,1,1,0,0,0,0,0,8212174
 2024,Siena,8,Evan Beland,Evan Beland,Evan,Beland,Jr,GK,8,2,0,0,0,0,0,0,0,0,0,1,1,8204882
+2024,Siena,2,Gavin Blenk,Gavin Blenk,Gavin,Blenk,So,M,2,2,0,0,0,0,1,1,0,0,0,0,0,8212174
 2024,Siena,25,Michael Micena,Michael Micena,Michael,Micena,Fr,ATT,25,1,0,0,0,0,1,1,0,0,0,0,0,8417393
 2024,Siena,34,Caden Padelford,Caden Padelford,Caden,Padelford,So,ATT,34,1,0,0,0,0,0,0,0,0,1,0,0,8417439
 2024,St. Bonaventure,50,Jake Kucinski,Jake Kucinski,Jake,Kucinski,Fr,ATT,50,12,11,17,8,25,52,32,11,12,3,0,0,8425438
@@ -2402,48 +2402,48 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,St. Bonaventure,91,Ben Garcia,Ben Garcia,Ben,Garcia,Sr,M,91,12,0,0,0,0,0,0,3,1,2,0,0,8425446
 2024,St. Bonaventure,72,Mark Belles,Mark Belles,Mark,Belles,Sr,ATT,72,12,7,2,6,8,14,5,2,11,0,0,0,8425455
 2024,St. Bonaventure,48,Oneniotekowa Maracle,Oneniotekowa Maracle,Oneniotekowa,Maracle,Jr,ATT,48,11,1,3,1,4,22,8,3,9,1,0,0,8425436
-2024,St. Bonaventure,7,Cristofero Cucciuffo,Cristofero Cucciuffo,Cristofero,Cucciuffo,So,GK,7,11,10,0,0,0,0,0,23,8,1,0,0,8206192
-2024,St. Bonaventure,33,Kyle  Pepper,Kyle  Pepper,Kyle,,Jr,M,33,11,4,6,3,9,27,15,3,15,4,0,0,8203114
-2024,St. Bonaventure,3,Quinn Nolan,Quinn Nolan,Quinn,Nolan,So,M,3,11,0,0,0,0,0,0,24,4,2,43,102,8212802
 2024,St. Bonaventure,8,Adam Shank,Adam Shank,Adam,Shank,Sr,M,8,11,0,0,0,0,0,0,4,2,6,0,0,8425449
+2024,St. Bonaventure,7,Cristofero Cucciuffo,Cristofero Cucciuffo,Cristofero,Cucciuffo,So,GK,7,11,10,0,0,0,0,0,23,8,1,0,0,8206192
+2024,St. Bonaventure,3,Quinn Nolan,Quinn Nolan,Quinn,Nolan,So,M,3,11,0,0,0,0,0,0,24,4,2,43,102,8212802
 2024,St. Bonaventure,34,Caleb Barnard,Caleb Barnard,Caleb,Barnard,Jr,M,34,11,0,0,0,0,1,0,12,2,8,0,0,8210033
-2024,St. Bonaventure,44,Alex Polisoto,Alex Polisoto,Alex,Polisoto,So,D,44,10,4,0,0,0,1,0,3,3,4,0,0,8201821
+2024,St. Bonaventure,33,Kyle  Pepper,Kyle  Pepper,Kyle,,Jr,M,33,11,4,6,3,9,27,15,3,15,4,0,0,8203114
 2024,St. Bonaventure,17,Patrick Carpenter,Patrick Carpenter,Patrick,Carpenter,So,M,17,10,4,4,4,8,16,9,1,7,0,0,0,8212769
-2024,St. Bonaventure,21,Jake Rosa,Jake Rosa,Jake,Rosa,Sr,M,21,10,9,4,2,6,21,10,8,14,1,0,0,8425448
 2024,St. Bonaventure,77,Aiden MacDonell,Aiden MacDonell,Aiden,MacDonell,Jr,D,77,10,10,0,2,2,1,1,14,5,8,0,0,8210948
 2024,St. Bonaventure,13,Josh Rosa,Josh Rosa,Josh,Rosa,Jr,ATT,13,10,0,4,0,4,5,4,0,4,0,0,0,8210578
+2024,St. Bonaventure,44,Alex Polisoto,Alex Polisoto,Alex,Polisoto,So,D,44,10,4,0,0,0,1,0,3,3,4,0,0,8201821
+2024,St. Bonaventure,21,Jake Rosa,Jake Rosa,Jake,Rosa,Sr,M,21,10,9,4,2,6,21,10,8,14,1,0,0,8425448
 2024,St. Bonaventure,15,Drew Kenney,Drew Kenney,Drew,Kenney,Jr,ATT,15,9,4,4,4,8,20,15,2,5,0,0,0,8211964
 2024,St. Bonaventure,30,Cam Germain,Cam Germain,Cam,Germain,Sr,D,30,9,4,1,0,1,1,1,8,5,4,0,0,8206511
-2024,St. Bonaventure,11,Blayze Becker,Blayze Becker,Blayze,Becker,Fr,M,11,8,0,0,0,0,1,0,2,0,1,0,0,8425422
-2024,St. Bonaventure,32,Atkin Dwyer,Atkin Dwyer,Atkin,Dwyer,Jr,D,32,8,7,0,0,0,0,0,4,2,4,0,0,8207954
 2024,St. Bonaventure,14,Owen Spring,Owen Spring,Owen,Spring,So,M,14,8,0,0,1,1,0,0,3,2,1,0,0,8203740
+2024,St. Bonaventure,32,Atkin Dwyer,Atkin Dwyer,Atkin,Dwyer,Jr,D,32,8,7,0,0,0,0,0,4,2,4,0,0,8207954
+2024,St. Bonaventure,11,Blayze Becker,Blayze Becker,Blayze,Becker,Fr,M,11,8,0,0,0,0,1,0,2,0,1,0,0,8425422
 2024,St. Bonaventure,9,Jake Argue,Jake Argue,Jake,Argue,Fr,SSDM,9,7,0,1,1,2,1,1,9,8,2,0,0,8425421
 2024,St. Bonaventure,82,Joey Paterno,Joey Paterno,Joey,Paterno,Sr,ATT,82,6,0,3,1,4,12,7,0,3,0,0,0,8425447
 2024,St. Bonaventure,18,Tom  Fox,Tom  Fox,Tom,,Jr,M,18,5,0,0,0,0,0,0,0,0,0,1,15,8209112
-2024,St. Bonaventure,29,Jaxon Dillon,Jaxon Dillon,Jaxon,Dillon,Fr,ATT,29,4,0,0,0,0,2,1,0,0,0,0,0,8425428
 2024,St. Bonaventure,40,Connor Robinson,Connor Robinson,Connor,Robinson,Jr,GK,40,4,2,0,0,0,0,0,3,3,0,0,0,8206269
-2024,St. Bonaventure,0,Evan Gallo,Evan Gallo,Evan,Gallo,Fr,GK,0,3,0,0,0,0,0,0,1,0,0,0,0,8425419
+2024,St. Bonaventure,29,Jaxon Dillon,Jaxon Dillon,Jaxon,Dillon,Fr,ATT,29,4,0,0,0,0,2,1,0,0,0,0,0,8425428
 2024,St. Bonaventure,28,Aidan Sheehan,Aidan Sheehan,Aidan,Sheehan,Jr,GK,28,3,0,0,0,0,0,0,6,0,2,0,0,8205305
+2024,St. Bonaventure,0,Evan Gallo,Evan Gallo,Evan,Gallo,Fr,GK,0,3,0,0,0,0,0,0,1,0,0,0,0,8425419
 2024,St. Bonaventure,37,Jake Emmick,Jake Emmick,Jake,Emmick,Sr,ATT,37,3,0,1,0,1,2,1,1,1,0,0,0,8425445
 2024,St. Bonaventure,52,Nolan Wilde,Nolan Wilde,Nolan,Wilde,Fr,M,52,2,0,0,0,0,1,1,0,0,0,0,0,8425439
 2024,St. Bonaventure,24,Doryn LeClair,Doryn LeClair,Doryn,LeClair,Fr,ATT,24,2,0,0,0,0,0,0,1,0,0,0,0,8425427
-2024,St. Bonaventure,35,Henry Coke,Henry Coke,Henry,Coke,Fr,M,35,1,0,0,0,0,0,0,0,1,0,0,0,8425431
 2024,St. Bonaventure,22,Owen Tasse,Owen Tasse,Owen,Tasse,So,LSM,22,1,0,0,0,0,0,0,2,0,1,0,0,8203037
-2024,St. John's (NY),3,Dylan Lee,Dylan Lee,Dylan,Lee,Fr,LSM,3,15,0,2,2,4,7,5,24,4,8,0,0,8418069
-2024,St. John's (NY),47,Braeden Pratt,Braeden Pratt,Braeden,Pratt,Jr,D,47,15,15,0,1,1,2,2,15,6,6,0,0,8204641
-2024,St. John's (NY),2,Harry Noel,Harry Noel,Harry,Noel,So,D,2,15,14,0,1,1,4,2,22,8,7,0,0,8209322
+2024,St. Bonaventure,35,Henry Coke,Henry Coke,Henry,Coke,Fr,M,35,1,0,0,0,0,0,0,0,1,0,0,0,8425431
 2024,St. John's (NY),18,Ryder Ochoa,Ryder Ochoa,Ryder,Ochoa,Fr,M,18,15,0,0,1,1,4,2,3,5,1,0,0,8422175
+2024,St. John's (NY),47,Braeden Pratt,Braeden Pratt,Braeden,Pratt,Jr,D,47,15,15,0,1,1,2,2,15,6,6,0,0,8204641
 2024,St. John's (NY),37,Bobby  Seel,Bobby  Seel,Bobby,,Jr,M,37,15,15,25,16,41,107,60,29,24,8,0,0,8422157
 2024,St. John's (NY),30,Brian Kelly,Brian Kelly,Brian,Kelly,Jr,ATT,30,15,14,29,15,44,116,70,21,40,4,0,0,8208693
 2024,St. John's (NY),33,Jack  McCarthy,Jack  McCarthy,Jack,,Sr,D,33,15,1,0,0,0,2,2,17,2,7,0,0,8202735
-2024,St. John's (NY),10,Richie Reid,Richie Reid,Richie,Reid,Fr,M,10,15,7,6,0,6,30,17,4,7,0,0,0,8418098
+2024,St. John's (NY),2,Harry Noel,Harry Noel,Harry,Noel,So,D,2,15,14,0,1,1,4,2,22,8,7,0,0,8209322
 2024,St. John's (NY),27,Jack Schirtzer,Jack Schirtzer,Jack,Schirtzer,Jr,D,27,15,14,0,0,0,0,0,20,11,19,0,0,8206140
 2024,St. John's (NY),6,Caleb Zuhoski,Caleb Zuhoski,Caleb,Zuhoski,Sr,ATT,6,15,14,20,4,24,54,35,10,15,0,0,0,8210858
-2024,St. John's (NY),23,Jackson Klein,Jackson Klein,Jackson,Klein,Sr,D,23,15,1,0,0,0,1,0,24,3,6,0,0,8212489
+2024,St. John's (NY),3,Dylan Lee,Dylan Lee,Dylan,Lee,Fr,LSM,3,15,0,2,2,4,7,5,24,4,8,0,0,8418069
+2024,St. John's (NY),10,Richie Reid,Richie Reid,Richie,Reid,Fr,M,10,15,7,6,0,6,30,17,4,7,0,0,0,8418098
 2024,St. John's (NY),7,Sean Duffy,Sean Duffy,Sean,Duffy,Sr,M,7,15,3,7,6,13,38,17,4,13,0,0,0,8418093
 2024,St. John's (NY),26,Kyle Wasilewski,Kyle Wasilewski,Kyle,Wasilewski,Sr,M,26,15,0,0,1,1,5,1,13,6,4,0,0,8418272
 2024,St. John's (NY),5,Jordan Hayes,Jordan Hayes,Jordan,Hayes,Sr,M,5,15,0,0,1,1,2,1,20,5,10,0,0,8418088
 2024,St. John's (NY),20,Drew Wasserman,Drew Wasserman,Drew,Wasserman,Jr,ATT,20,15,1,5,2,7,23,15,2,8,0,0,0,8418266
+2024,St. John's (NY),23,Jackson Klein,Jackson Klein,Jackson,Klein,Sr,D,23,15,1,0,0,0,1,0,24,3,6,0,0,8212489
 2024,St. John's (NY),19,Caiden  Vlasimsky,Caiden  Vlasimsky,Caiden,,Jr,M,19,14,14,12,7,19,47,23,11,16,1,0,0,8204762
 2024,St. John's (NY),43,Jack Skarren,Jack Skarren,Jack,Skarren,Fr,D,43,14,0,0,0,0,0,0,2,1,1,0,0,8422161
 2024,St. John's (NY),8,Jack Lutfi,Jack Lutfi,Jack,Lutfi,Sr,M,8,13,4,0,1,1,12,7,16,4,3,0,0,8202738
@@ -2451,21 +2451,21 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,St. John's (NY),17,Jake Wright,Jake Wright,Jake,Wright,So,ATT,17,12,8,14,7,21,33,23,13,5,0,0,0,8208494
 2024,St. John's (NY),12,Dane Armstrong,Dane Armstrong,Dane,Armstrong,Sr,FO,12,11,0,2,0,2,6,5,61,10,1,117,233,8418100
 2024,St. John's (NY),99,Luke  Mangan,Luke  Mangan,Luke,,Jr,ATT,99,11,3,2,2,4,19,13,2,4,0,0,0,8204566
-2024,St. John's (NY),22,Danielo Parkinson,Danielo Parkinson,Danielo,Parkinson,Sr,M,22,10,0,0,0,0,0,0,4,0,3,0,0,8207121
 2024,St. John's (NY),31,Adam Dembicki,Adam Dembicki,Adam,Dembicki,Fr,FO,31,10,0,0,0,0,2,1,23,1,0,61,132,8418273
+2024,St. John's (NY),22,Danielo Parkinson,Danielo Parkinson,Danielo,Parkinson,Sr,M,22,10,0,0,0,0,0,0,4,0,3,0,0,8207121
 2024,St. John's (NY),49,Ryan Farron,Ryan Farron,Ryan,Farron,Fr,LSM,49,8,0,0,0,0,0,0,0,0,1,0,0,8422164
 2024,St. John's (NY),28,Adrian Nowak,Adrian Nowak,Adrian,Nowak,Fr,ATT,28,7,6,9,1,10,25,16,3,5,1,0,0,8206911
-2024,St. John's (NY),9,Pat Reilly,Pat Reilly,Pat,Reilly,Sr,ATT,9,6,1,2,0,2,13,8,3,2,1,0,0,8418097
-2024,St. John's (NY),32,Ronald Durante,Ronald Durante,Ronald,Durante,Sr,GK,32,6,0,0,0,0,1,0,1,2,0,0,0,8208898
 2024,St. John's (NY),42,Jake Oemcke,Jake Oemcke,Jake,Oemcke,Sr,M,42,6,0,1,0,1,3,2,6,0,0,5,19,8207785
+2024,St. John's (NY),9,Pat Reilly,Pat Reilly,Pat,Reilly,Sr,ATT,9,6,1,2,0,2,13,8,3,2,1,0,0,8418097
 2024,St. John's (NY),55,Brady Rauner,Brady Rauner,Brady,Rauner,Jr,M,55,6,0,0,1,1,1,1,2,0,0,0,0,8422166
-2024,St. John's (NY),50,Evan Stowe,Evan Stowe,Evan,Stowe,Jr,M,50,5,0,1,0,1,1,1,0,0,0,0,0,8210524
+2024,St. John's (NY),32,Ronald Durante,Ronald Durante,Ronald,Durante,Sr,GK,32,6,0,0,0,0,1,0,1,2,0,0,0,8208898
 2024,St. John's (NY),24,Danny Seaman,Danny Seaman,Danny,Seaman,So,GK,24,5,2,0,0,0,0,0,4,0,0,0,0,8203021
 2024,St. John's (NY),4,Sean  Rice,Sean  Rice,Sean,,Jr,ATT,4,5,0,0,0,0,2,1,0,0,0,0,0,8202829
+2024,St. John's (NY),50,Evan Stowe,Evan Stowe,Evan,Stowe,Jr,M,50,5,0,1,0,1,1,1,0,0,0,0,0,8210524
 2024,St. John's (NY),21,Dan Koban,Dan Koban,Dan,Koban,Jr,M,21,5,0,0,0,0,2,1,0,0,0,0,0,8209736
 2024,St. John's (NY),46,Julian Freeman,Julian Freeman,Julian,Freeman,Sr,LSM,46,4,0,0,0,0,0,0,1,0,0,0,0,8201350
-2024,St. John's (NY),41,Thomas Flavin,Thomas Flavin,Thomas,Flavin,Jr,M,41,4,0,0,0,0,0,0,1,0,0,0,0,8203302
 2024,St. John's (NY),11,James Easton,James Easton,James,Easton,Fr,M,11,4,0,0,0,0,1,1,0,2,0,0,0,8418099
+2024,St. John's (NY),41,Thomas Flavin,Thomas Flavin,Thomas,Flavin,Jr,M,41,4,0,0,0,0,0,0,1,0,0,0,0,8203302
 2024,St. John's (NY),66,Joey Asterino,Joey Asterino,Joey,Asterino,Fr,M,66,3,0,0,0,0,0,0,0,1,0,0,0,8422171
 2024,St. John's (NY),39,Corbin Minard,Corbin Minard,Corbin,Minard,So,FO,39,3,0,0,0,0,0,0,1,1,0,5,17,8422160
 2024,St. John's (NY),15,Joshua Peluse,Joshua Peluse,Joshua,Peluse,Fr,D,15,1,0,0,0,0,0,0,1,0,0,0,0,8422173
@@ -2575,8 +2575,8 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,Towson,26,Joaquin Villagomez,Joaquin Villagomez,Joaquin,Villagomez,So,ATT,26,16,16,33,12,45,108,59,23,22,5,0,0,8210582
 2024,Towson,15,James Azbill,James Azbill,James,Azbill,So,LSM,15,15,0,0,0,0,1,0,6,0,3,0,0,8209170
 2024,Towson,5,Evan Boswell,Evan Boswell,Evan,Boswell,So,M,5,12,0,1,0,1,5,3,10,0,1,0,0,8207867
-2024,Towson,55,Ray Glass,Ray Glass,Ray,Glass,Sr,DM,55,12,0,0,0,0,0,0,6,0,3,0,0,8203461
 2024,Towson,52,Rocco Mareno,Rocco Mareno,Rocco,Mareno,So,FO,52,12,0,0,0,0,2,1,26,3,2,47,86,8207501
+2024,Towson,55,Ray Glass,Ray Glass,Ray,Glass,Sr,DM,55,12,0,0,0,0,0,0,6,0,3,0,0,8203461
 2024,Towson,6,Alex Vieni,Alex Vieni,Alex,Vieni,So,ATT,6,9,0,7,4,11,9,8,1,3,0,0,0,8205278
 2024,Towson,14,Ryder Mattingly,Ryder Mattingly,Ryder,Mattingly,So,D,14,9,0,0,0,0,0,0,2,4,1,0,0,8203937
 2024,Towson,3,Chuck Matusek,Chuck Matusek,Chuck,Matusek,Jr,ATT,3,7,0,0,0,0,3,1,1,0,0,0,0,8209475
@@ -2588,55 +2588,55 @@ Season,Team,Jersey Number,Full Name,Roster Name,First Name,Last Name,Year,Positi
 2024,Towson,35,Jake Law,Jake Law,Jake,Law,Fr,D,35,5,0,0,0,0,0,0,1,0,0,0,0,8412254
 2024,Towson,24,Matt Burnam,Matt Burnam,Matt,Burnam,Fr,ATT,24,4,0,5,0,5,7,6,1,0,1,0,0,8412249
 2024,Towson,27,Nick Hauman,Nick Hauman,Nick,Hauman,So,M,27,3,0,1,1,2,1,1,1,2,1,0,0,8209446
-2024,Towson,25,Austin Welch,Austin Welch,Austin,Welch,So,SSDM,25,2,0,0,0,0,0,0,1,0,0,4,9,8412263
 2024,Towson,57,Ben Ellis,Ben Ellis,Ben,Ellis,Fr,SSDM,57,2,0,0,0,0,0,0,2,0,1,0,0,8412252
-2024,UAlbany,19,Alex Pfeiffer,Alex Pfeiffer,Alex,Pfeiffer,So,M,19,18,13,17,7,24,73,43,16,14,2,0,0,8208267
+2024,Towson,25,Austin Welch,Austin Welch,Austin,Welch,So,SSDM,25,2,0,0,0,0,0,0,1,0,0,4,9,8412263
 2024,UAlbany,3,Landon Whitney,Landon Whitney,Landon,Whitney,Fr,GK,3,18,18,0,0,0,0,0,26,10,1,0,0,8417536
 2024,UAlbany,14,Jackson Palumb,Jackson Palumb,Jackson,Palumb,Fr,ATT,14,18,5,19,5,24,57,37,13,12,1,0,0,8417551
+2024,UAlbany,19,Alex Pfeiffer,Alex Pfeiffer,Alex,Pfeiffer,So,M,19,18,13,17,7,24,73,43,16,14,2,0,0,8208267
 2024,UAlbany,26,Wil Pepe,Wil Pepe,Wil,Pepe,Sr,D,26,18,2,1,0,1,2,2,25,3,9,0,0,8417564
 2024,UAlbany,6,Regan Endres,Regan Endres,Regan,Endres,Sr,FO,6,18,2,4,0,4,16,10,148,14,1,263,456,8209554
 2024,UAlbany,45,Graydon Hogg,Graydon Hogg,Graydon,Hogg,Sr,ATT,45,18,18,27,15,42,78,51,13,22,4,0,0,8417574
 2024,UAlbany,11,Tyler Shook,Tyler Shook,Tyler,Shook,Sr,M,11,18,0,0,0,0,0,0,10,1,3,0,0,8211176
 2024,UAlbany,88,Jake Piseno,Jake Piseno,Jake,Piseno,Sr,LSM,88,18,18,13,6,19,32,21,79,12,44,0,2,8417578
-2024,UAlbany,15,Silas Richmond,Silas Richmond,Silas,Richmond,So,ATT,15,18,18,46,27,73,142,78,17,32,1,0,0,8210623
 2024,UAlbany,44,Max Neeson,Max Neeson,Max,Neeson,So,D,44,18,18,0,0,0,1,1,41,17,16,0,0,8207547
+2024,UAlbany,15,Silas Richmond,Silas Richmond,Silas,Richmond,So,ATT,15,18,18,46,27,73,142,78,17,32,1,0,0,8210623
 2024,UAlbany,23,Conner Fingar,Conner Fingar,Conner,Fingar,Sr,M,23,18,2,3,3,6,9,5,30,6,11,0,0,8417561
-2024,UAlbany,99,Sam Stratton,Sam Stratton,Sam,Stratton,Sr,D,99,17,13,0,0,0,0,0,12,5,2,0,0,8208017
-2024,UAlbany,1,Ryan Doherty,Ryan Doherty,Ryan,Doherty,Fr,ATT,1,17,17,37,13,50,98,64,32,25,4,0,0,8417535
 2024,UAlbany,12,Darien LaPietro,Darien LaPietro,Darien,LaPietro,Sr,M,12,17,0,1,0,1,5,3,10,2,3,0,0,8417548
-2024,UAlbany,77,Jacob Smith,Jacob Smith,Jacob,Smith,Fr,LSM,77,16,0,2,1,3,4,2,20,2,3,0,0,8417577
+2024,UAlbany,1,Ryan Doherty,Ryan Doherty,Ryan,Doherty,Fr,ATT,1,17,17,37,13,50,98,64,32,25,4,0,0,8417535
+2024,UAlbany,99,Sam Stratton,Sam Stratton,Sam,Stratton,Sr,D,99,17,13,0,0,0,0,0,12,5,2,0,0,8208017
+2024,UAlbany,2,Amos Whitcomb,Amos Whitcomb,Amos,Whitcomb,Jr,ATT,2,16,10,13,10,23,38,27,19,13,3,0,0,8203531
 2024,UAlbany,33,Cade Galko,Cade Galko,Cade,Galko,Fr,D,33,16,5,0,0,0,1,0,12,1,10,0,0,8417571
+2024,UAlbany,77,Jacob Smith,Jacob Smith,Jacob,Smith,Fr,LSM,77,16,0,2,1,3,4,2,20,2,3,0,0,8417577
 2024,UAlbany,32,Luke Grove,Luke Grove,Luke,Grove,So,M,32,16,0,2,2,4,4,3,4,3,2,0,0,8205430
 2024,UAlbany,7,Daniel Kesselring,Daniel Kesselring,Daniel,Kesselring,So,ATT,7,16,0,13,12,25,49,28,12,17,0,0,0,8204075
-2024,UAlbany,2,Amos Whitcomb,Amos Whitcomb,Amos,Whitcomb,Jr,ATT,2,16,10,13,10,23,38,27,19,13,3,0,0,8203531
 2024,UAlbany,0,Ben Wimmer,Ben Wimmer,Ben,Wimmer,So,ATT,0,15,12,7,7,14,27,17,7,6,1,0,0,8212585
 2024,UAlbany,25,Parker Emmett,Parker Emmett,Parker,Emmett,Jr,M,25,15,2,7,3,10,15,11,8,5,1,0,0,8202619
-2024,UAlbany,18,Caeden LaPietro,Caeden LaPietro,Caeden,LaPietro,Jr,M,18,13,0,1,1,2,2,1,7,4,1,0,0,8211817
 2024,UAlbany,21,Will Hardy,Will Hardy,Will,Hardy,Jr,M,21,13,0,2,3,5,6,3,3,4,0,0,0,8427175
 2024,UAlbany,28,Justin Lee,Justin Lee,Justin,Lee,So,LSM,28,13,0,1,1,2,1,1,5,2,0,0,0,8208042
+2024,UAlbany,18,Caeden LaPietro,Caeden LaPietro,Caeden,LaPietro,Jr,M,18,13,0,1,1,2,2,1,7,4,1,0,0,8211817
 2024,UAlbany,36,Joey Carino,Joey Carino,Joey,Carino,Jr,M,36,12,0,4,4,8,16,10,2,4,1,0,0,8208368
 2024,UAlbany,24,James Reid,James Reid,James,Reid,Fr,M,24,11,0,2,1,3,7,5,2,4,0,0,0,8417562
 2024,UAlbany,42,Connor Fundis,Connor Fundis,Connor,Fundis,Jr,D,42,11,0,0,0,0,1,0,0,0,0,0,0,8204761
-2024,UAlbany,27,Jezayd Hall,Jezayd Hall,Jezayd,Hall,Jr,FO,27,9,0,0,0,0,2,1,5,0,0,10,28,8208548
-2024,UAlbany,22,Jacob Moran,Jacob Moran,Jacob,Moran,Jr,M,22,9,0,0,0,0,6,3,3,2,0,0,0,8213237
 2024,UAlbany,13,Kevin Carney,Kevin Carney,Kevin,Carney,So,ATT,13,9,1,2,2,4,13,6,4,0,0,0,0,8417549
+2024,UAlbany,27,Jezayd Hall,Jezayd Hall,Jezayd,Hall,Jr,FO,27,9,0,0,0,0,2,1,5,0,0,10,28,8208548
 2024,UAlbany,30,Christopher Crapanzano,Christopher Crapanzano,Christopher,Crapanzano,Jr,M,30,9,6,6,4,10,33,17,11,6,1,0,0,8417566
+2024,UAlbany,22,Jacob Moran,Jacob Moran,Jacob,Moran,Jr,M,22,9,0,0,0,0,6,3,3,2,0,0,0,8213237
 2024,UAlbany,39,Blake Runkle,Blake Runkle,Blake,Runkle,Sr,D,39,8,0,0,0,0,0,0,1,0,0,0,0,8417572
 2024,UAlbany,41,Parker Winkky,Parker Winkky,Parker,Winkky,Jr,ATT,41,6,0,0,0,0,3,2,1,3,0,0,0,8205205
-2024,UAlbany,5,Adam Thistlethwaite,Adam Thistlethwaite,Adam,Thistlethwaite,Jr,M,5,5,0,0,0,0,1,1,0,0,0,0,0,8202253
 2024,UAlbany,46,Connor Gerlach,Connor Gerlach,Connor,Gerlach,So,D,46,5,0,0,0,0,0,0,1,0,1,0,0,8202584
+2024,UAlbany,5,Adam Thistlethwaite,Adam Thistlethwaite,Adam,Thistlethwaite,Jr,M,5,5,0,0,0,0,1,1,0,0,0,0,0,8202253
 2024,UAlbany,8,Jack VanValkenburgh,Jack VanValkenburgh,Jack,VanValkenburgh,Sr,GK,8,4,0,0,0,0,1,0,0,0,0,0,0,8208281
-2024,UAlbany,29,Michael Leschinsky,Michael Leschinsky,Michael,Leschinsky,Sr,M,29,4,0,0,0,0,2,0,1,2,0,0,0,8208458
 2024,UAlbany,20,Thomas Decker,Thomas Decker,Thomas,Decker,Jr,M,20,4,0,0,0,0,3,0,1,0,0,0,0,8427184
-2024,UAlbany,34,Austin Oppenheim,Austin Oppenheim,Austin,Oppenheim,So,FO,34,3,0,0,0,0,0,0,0,0,0,0,2,8207505
+2024,UAlbany,29,Michael Leschinsky,Michael Leschinsky,Michael,Leschinsky,Sr,M,29,4,0,0,0,0,2,0,1,2,0,0,0,8208458
 2024,UAlbany,43,Patrick Mai,Patrick Mai,Patrick,Mai,Sr,M,43,3,0,0,0,0,1,1,0,0,0,0,0,8208585
+2024,UAlbany,34,Austin Oppenheim,Austin Oppenheim,Austin,Oppenheim,So,FO,34,3,0,0,0,0,0,0,0,0,0,0,2,8207505
 2024,UAlbany,17,Nolan Gilmartin,Nolan Gilmartin,Nolan,Gilmartin,Fr,ATT,17,2,0,0,0,0,0,0,0,0,1,0,0,8417556
-2024,UAlbany,48,Conlon Crowley,Conlon Crowley,Conlon,Crowley,Jr,D,48,2,0,0,0,0,0,0,0,0,0,0,0,8211316
 2024,UAlbany,4,T.J. McNicholas,T.J. McNicholas,T.J.,McNicholas,Sr,LSM,4,2,0,0,0,0,0,0,1,0,0,0,0,8213308
+2024,UAlbany,48,Conlon Crowley,Conlon Crowley,Conlon,Crowley,Jr,D,48,2,0,0,0,0,0,0,0,0,0,0,0,8211316
 2024,UAlbany,9,CJ Schwarz,CJ Schwarz,CJ,Schwarz,Fr,FO,9,1,0,0,0,0,0,0,0,0,0,0,0,8417543
 2024,UAlbany,16,Peter Salit,Peter Salit,Peter,Salit,Sr,ATT,16,1,0,0,0,0,0,0,0,0,0,0,0,8207616
-2024,UAlbany,10,Ben Coghill,Ben Coghill,Ben,Coghill,So,M,10,1,0,0,0,0,0,0,0,0,0,0,0,8208186
 2024,UAlbany,31,Danny Coleman,Danny Coleman,Danny,Coleman,So,GK,31,1,0,0,0,0,0,0,0,0,0,0,0,8417569
+2024,UAlbany,10,Ben Coghill,Ben Coghill,Ben,Coghill,So,M,10,1,0,0,0,0,0,0,0,0,0,0,0,8208186
 2024,UAlbany,91,Jack Hadden,Jack Hadden,Jack,Hadden,Fr,D,91,1,0,0,0,0,0,0,0,0,0,0,0,8417580
 2024,UAlbany,55,Dillon Mehta,Dillon Mehta,Dillon,Mehta,Fr,M,55,1,0,0,0,0,0,0,0,1,0,0,0,8417576
 2024,UMBC,20,Dante Marinello,Dante Marinello,Dante,Marinello,So,LSM,20,12,12,0,0,0,2,0,20,4,10,0,0,8206600
