@@ -83,7 +83,7 @@ However, there are huge benefits to these sites as well. Two prominent examples 
 
 That same argument holds true for award voting, which has long been greatly impacted by exposure, performance from  years, and old-fashioned popularity. Making these stats more public will help create a smarter lacrosse consumer, and help build more transparent resumes that can be compared across the country. As an athlete, I experienced both sides of this (struggle to gain exposure and recognition, followed by over-recognition after a transfer) and it matters more than you may realize. Pro careers, resume builders in the transfer portal, an cache in the sport forever are all on the line. 
 
- ## Next Steps
+## Next Steps
 
 The main issue with the NCAA stats is that there are small differences in the ways that schools keep their stats, especially when it comes to play by play data. One of the goals that were failed to be accomplished was extracting information from play by play scripts. There are a few reasons why: 
 
