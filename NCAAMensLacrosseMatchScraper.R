@@ -3,9 +3,9 @@ library(lubridate)
 library(rvest)
 library(janitor)
 
-urls <- read_csv("url_csvs/ncaa_mens_lacrosse_teamurls_2024.csv") %>% pull(3)
+urls <- read_csv("url_csvs/ncaa_mens_lacrosse_teamurls_2025.csv") %>% pull(3)
 
-season = "2024"
+season = "2025"
 
 root_url <- "https://stats.ncaa.org"
 
@@ -64,7 +64,7 @@ for (i in urls){
 
   ### get goalie stats
 
-  goalie_url <- str_c(i, "&year_stat_category_id=15167")
+  goalie_url <- str_c(i, "&year_stat_category_id=15650")
   goalie_page <- goalie_url |> read_html()
   g_matches <- goalie_page %>% html_nodes(xpath = '//*[@id="game_breakdown_div"]/table') %>% html_table()
 
