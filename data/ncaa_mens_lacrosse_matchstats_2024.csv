@@ -1,4 +1,4 @@
-Date,Team,Opponent,Home / Away,Result,Home Score,Visitor Score,Overtime,Home Goals,Home Assists,Home Points,Home Shots,Home Shots on Goal,Home Ground Balls,Home Turnovers,Home Caused Turnovers,Home Faceoffs Won,Home Faceoffs Taken,Away Goals,Away Assists,Away Points,Away Shots,Away Shots on Goal,Away Groundball's,Away  Turnovers,Away  Caused Turnovers,Away  Faceoffs Won,Away  Faceoffs Taken,Home Goals Allowed,Home Saves,defensive_goals_allowed,defensive_saves
+date,team,opponent,home_away,result,home_score,visitor_score,overtime,goals,assists,points,shots,sog,gb,to,ct,fo_won,f_os_taken,defensive_goals,defensive_assists,defensive_points,defensive_shots,defensive_sog,defensive_gb,defensive_to,defensive_ct,defensive_fo_won,defensive_f_os_taken,goals_allowed,saves,defensive_goals_allowed,defensive_saves
 2024-02-03,Air Force,Marquette,Home,W,6,12,NA,6,6,12,36,18,31,16,13,6,22,12,5,17,40,23,28,16,8,16,22,12,11,6,12
 2024-02-10,Air Force,Denver,Away,L,9,11,NA,9,5,14,33,23,32,21,18,7,24,11,7,18,31,21,35,28,14,17,24,11,10,9,14
 2024-02-17,Air Force,Ohio St.,Home,W,4,12,NA,4,4,8,26,13,17,16,8,8,20,12,4,16,36,19,29,17,10,12,20,12,7,4,9
