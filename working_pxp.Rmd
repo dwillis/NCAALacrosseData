@@ -1,0 +1,140 @@
+---
+title: "pxp_attempt"
+author: "Jon Donville"
+date: '2023-04-12'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+```{r}
+library(tidyverse)
+library(lubridate)
+library(rvest)
+library(janitor)
+library(dplyr)
+library(stringr)
+```
+
+```{r}
+sample_pxp_url <- "https://stats.ncaa.org/game/play_by_play/5422181"
+```
+
+```{r}
+# read in the html and extract all the tables
+pxp_script <- sample_pxp_url %>%
+  read_html() %>%
+  html_table()
+
+# show the dataframe
+
+resultsq1 <- pxp_script[[6]]
+resultsq2 <- pxp_script[[8]]
+resultsq3 <- pxp_script[[10]]
+resultsq4 <- pxp_script[[12]]
+
+resultsq1
+resultsq2
+resultsq3
+resultsq4
+
+```
+
+```{r}
+## Clean q1 results to slice top row, add in quarter number
+
+first_quarter <- resultsq1 %>% 
+  slice(-1) %>% 
+  mutate("Quarter" = "1")
+
+```
+
+```{r}
+## Clean q2 results to slice top row, add in quarter number
+
+second_quarter <- resultsq2 %>% 
+  slice(-1) %>% 
+  mutate("Quarter" = "2")
+
+```
+
+```{r}
+## Clean q1 results to slice top row, add in quarter number
+
+third_quarter <- resultsq3 %>% 
+  slice(-1) %>% 
+  mutate("Quarter" = "3")
+
+```
+
+```{r}
+## Clean q1 results to slice top row, add in quarter number
+
+fourth_quarter <- resultsq4 %>% 
+  slice(-1) %>% 
+  mutate("Quarter" = "4")
+
+```
+
+```{r}
+
+## Combine quarters to return whole rows. Learn how to use paste function for the team names
+
+whole_game <- bind_rows(list(first_quarter, second_quarter, third_quarter, fourth_quarter)) %>% 
+  rename("Time in Quarter" = X1, "Cornell" = X2, "Score" = X3, "Hobart" = X4)
+
+```
+
+```{r}
+## Cornell Draw Controls - Note**** THIS CODE WAS ADAPTED FROM CHAT GPT
+
+# Subset the data frame to only include faceoff events
+fo_events_cornell <- whole_game[grep("Faceoff", whole_game$Cornell), ]
+
+# Extract the player who picked up the ground ball for each faceoff event
+draw_controls_cornell <- gsub(".*Ground ball pickup by COR (\\w+),\\s(\\w+)\\b.*", "\\2 \\1", fo_events_cornell$Cornell)
+
+## Make data frame 
+draw_controls_player_cornell <- as.data.frame(table(draw_controls_cornell))
+```
+
+```{r}
+## Draw Controls Hobart 
+
+# Subset the data frame to only include faceoff events
+fo_events_hobart <- whole_game[grep("Faceoff", whole_game$Hobart), ]
+
+# Extract the player who picked up the ground ball for each faceoff event
+draw_controls_hobart <- gsub(".*Ground ball pickup by HOBART (\\w+)\\s(\\w+)\\b.*", "\\1 \\2", fo_events_hobart$Hobart)
+
+## Make data frame 
+draw_controls_player_hobart <- as.data.frame(table(draw_controls_hobart))
+
+```
+
+```{r}
+total_draw_controls <- bind_rows(list(draw_controls_player_cornell, draw_controls_player_hobart)) 
+```

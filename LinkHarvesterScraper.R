@@ -3,9 +3,9 @@ library(lubridate)
 library(rvest)
 library(janitor)
 
-urls <- read_csv("url_csvs/NCAA Women's Soccer - 2017.csv") %>% pull(1) # change this to the year you need
+urls <- read_csv("url_csvs/NCAA Men's Lacrosse - 2023.csv") %>% pull(1) # change this to the year you need
 
-season = "2017" # change this to match the year you are scraping
+season = "2023" # change this to match the year you are scraping
 
 root_url <- "https://stats.ncaa.org"
 
@@ -15,7 +15,7 @@ urltibble <- tibble(
   matchstatsurl = character()
 )
 
-urlfilename <- paste0("url_csvs/ncaa_womens_soccer_teamurls_", season, ".csv")
+urlfilename <- paste0("url_csvs/ncaa_mens_lacrosse_teamurls_", season, ".csv")
 
 for (i in urls){
   

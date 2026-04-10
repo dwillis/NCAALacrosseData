@@ -26,9 +26,8 @@ for (i in urls[[1]]){
     mutate_all(na_if,"") %>% 
     fill(c(date, result)) %>% 
     mutate_at(vars(5:26),  replace_na, '0') %>% 
-    mutate(date = mdy(date), home_away = case_when(grepl("@",opponent) ~ "Away", TRUE ~ "Home"), 
-           opponent = gsub("@ ","",opponent), 
-           WinLoss = case_when(grepl("L", result) ~ "Loss", grepl("W", result) ~ "Win", grepl("T", result) ~ "Draw"), 
+    mutate(date = mdy(date), home_away = case_when(grepl("@",opponent) ~ "Away", TRUE ~ "Home"), opponent = gsub("@ ","",opponent)) %>%
+    mutate(WinLoss = case_when(grepl("L", result) ~ "Loss", grepl("W", result) ~ "Win", grepl("T", result) ~ "Draw"), 
            result = gsub("L ", "", result), result = gsub("W ", "", result), result = gsub("T ", "", result)) %>% 
     separate(result, into=c("score", "overtime"), sep = " \\(") %>% 
     separate(score, into=c("home_score", "visitor_score")) %>% 
@@ -57,3 +56,4 @@ for (i in urls[[1]]){
 }
 
 write_csv(matchstatstibble, matchstatsfilename)
+

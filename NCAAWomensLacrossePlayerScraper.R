@@ -21,6 +21,8 @@ for (i in urls){
   
   playerstats <- playerstats[[1]] %>% filter(Player != "TEAM" & Player != "Totals" & Player != "Opponent Totals") %>% mutate(RosterName = Player) %>% separate(Player, into=c("LastName", "FirstName"), sep=",") %>% mutate(FullName = paste(FirstName, LastName, sep=" ")) %>% mutate(Team = schoolfull, Season=season) %>% clean_names() %>% select(season, team, jersey, full_name, roster_name, first_name, last_name, yr, pos, everything()) %>% mutate_at(vars(-season, -team, -jersey, -full_name, -roster_name, -first_name, -last_name, -yr, -pos, -goal_app), ~str_replace(., ",", "")) %>%  mutate_at(vars(-season, -team, -jersey, -full_name, -roster_name, -first_name, -last_name, -yr, -pos, -goal_app, -ggs, -goalie_min_plyd), as.numeric)
   
+  playerstats <- replace(playerstats, is.na(playerstats), 0) 
+  
   message <- paste0("Fetching ", schoolfull)
   
   print(message)
