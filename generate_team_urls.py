@@ -21,12 +21,12 @@ Examples:
     python generate_team_urls.py womens 2025
 """
 
+import asyncio
 import sys
 import os
-import time
 import re
 import pandas as pd
-from playwright.sync_api import sync_playwright
+from playwright.async_api import async_playwright
 
 
 def ensure_helpers():
@@ -62,34 +62,34 @@ def get_teams(sport, season):
     return teams
 
 
-def find_ctl_id(school_id):
+async def find_ctl_id(school_id):
     """Scrape game_sport_year_ctl_id from a team page."""
-    with sync_playwright() as p:
-        browser = p.chromium.launch(
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(
             headless=False,
             args=["--disable-blink-features=AutomationControlled"],
         )
-        context = browser.new_context(
+        context = await browser.new_context(
             user_agent=(
                 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
                 "AppleWebKit/537.36 (KHTML, like Gecko) "
                 "Chrome/120.0.0.0 Safari/537.36"
             )
         )
-        page = context.new_page()
+        page = await context.new_page()
         # Use the teams/{team_id} page which contains game_sport_year_ctl_id
         # We need the ncaa_stats_py team_id, not school_id, for this URL
         # Instead, use a known working URL pattern with the school_id
         # and a recent ctl_id to find the current one
-        page.goto(
+        await page.goto(
             f"https://stats.ncaa.org/teams/{school_id}",
             timeout=30000,
         )
-        time.sleep(5)
+        await page.wait_for_timeout(5000)
 
-        html = page.content()
+        html = await page.content()
         ctl_ids = set(re.findall(r"game_sport_year_ctl_id=(\d+)", html))
-        browser.close()
+        await browser.close()
 
     if not ctl_ids:
         return None
@@ -125,7 +125,7 @@ def main():
     # Use first team's ncaa_stats_py team_id to find the ctl_id
     first_team_id = int(teams.iloc[0]["team_id"])
     print(f"Finding game_sport_year_ctl_id from team page {first_team_id}...")
-    ctl_id = find_ctl_id(first_team_id)
+    ctl_id = asyncio.run(find_ctl_id(first_team_id))
 
     if not ctl_id:
         print("Could not find game_sport_year_ctl_id!")
