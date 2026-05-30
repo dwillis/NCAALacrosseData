@@ -82,3 +82,7 @@ Where `org_id` is the NCAA team ID and `ctl_id` is the sport-and-season code (un
 ## Contributing
 
 Pull requests welcome. See the Issues tab for ideas.
+
+## Authors
+
+[Derek Willis](https://github.com/dwillis)
