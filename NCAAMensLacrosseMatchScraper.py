@@ -18,8 +18,8 @@ variant of the URL and merged back onto the offense/defense rows.
 Usage:
     python NCAAMensLacrosseMatchScraper.py [season] [limit]
 """
+import argparse
 import re
-import sys
 import time
 from urllib.parse import parse_qs, urlparse
 
@@ -278,8 +278,25 @@ def process_team(page, url: str) -> pd.DataFrame | None:
 
 
 def main() -> None:
-    season = sys.argv[1] if len(sys.argv) > 1 else "2025"
-    limit = int(sys.argv[2]) if len(sys.argv) > 2 else None
+    parser = argparse.ArgumentParser(
+        description="Scrape men's NCAA lacrosse match stats."
+    )
+    parser.add_argument(
+        "season",
+        nargs="?",
+        default="2026",
+        help="Season year to scrape (default: 2026)",
+    )
+    parser.add_argument(
+        "limit",
+        nargs="?",
+        type=int,
+        default=None,
+        help="Maximum number of teams to process (default: all)",
+    )
+    args = parser.parse_args()
+    season = args.season
+    limit = args.limit
     urls_file = f"url_csvs/ncaa_mens_lacrosse_teamurls_{season}.csv"
     output_file = f"data/ncaa_mens_lacrosse_matchstats_{season}.csv"
 
